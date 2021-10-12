@@ -1,3 +1,12 @@
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-09-28      •FE: 2021-09-30    •SC: N     •SS: 506   ÖVP: 34   SPÖ: 22   FPÖ: 15   NEOS: 9                 GRÜNE: 10                        MFG: 5   KPÖ: 4   •O: 1
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-08-30      •FE: 2021-09-01    •SC: N     •SS: 500   ÖVP: 35   SPÖ: 22   FPÖ: 19   NEOS: 11                GRÜNE: 10                                          •O: 3
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-08-24      •FE: 2021-08-26    •SC: N     •SS: 500   ÖVP: 34   SPÖ: 21   FPÖ: 19   NEOS: 12                GRÜNE: 10                                          •O: 4
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-08-17      •FE: 2021-08-19    •SC: N     •SS: 504   ÖVP: 34   SPÖ: 21   FPÖ: 19   NEOS: 11                GRÜNE: 11                                          •O: 4
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-08-10      •FE: 2021-08-12    •SC: N     •SS: 506   ÖVP: 34   SPÖ: 21   FPÖ: 18   NEOS: 12                GRÜNE: 10                                          •O: 5
+•PF: Market                           •C: Der Standard                 •FS: 2021-08-06      •FE: 2021-08-11    •SC: N     •SS: 805   ÖVP: 31   SPÖ: 25   FPÖ: 18   NEOS: 11                GRÜNE: 13                                          •O: 2
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-08-03      •FE: 2021-08-05    •SC: N     •SS: 500   ÖVP: 35   SPÖ: 21   FPÖ: 17   NEOS: 12                GRÜNE: 11                                          •O: 4
+•PF: Unique Research                  •C: profil                       •FS: 2021-08-02      •FE: 2021-08-05    •SC: N     •SS: 800   ÖVP: 35   SPÖ: 21   FPÖ: 19   NEOS: 11                GRÜNE: 12                                          •O: 2
+•PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-07-27      •FE: 2021-07-29    •SC: N     •SS: 504   ÖVP: 35   SPÖ: 20   FPÖ: 17   NEOS: 12                GRÜNE: 12                                          •O: 4
 •PF: IFDD                             •C: PULS 24                      •FS: 2021-07-15      •FE: 2021-07-21    •SC: N     •SS: 800   ÖVP: 35   SPÖ: 22   FPÖ: 19   NEOS: 12                GRÜNE: 11                        •O: 1
 •PF: Research Affairs                 •C: ÖSTERREICH                   •FS: 2021-07-20      •FE: 2021-07-22    •SC: N     •SS: 504   ÖVP: 35   SPÖ: 20   FPÖ: 18   NEOS: 11                GRÜNE: 12                        •O: 4
 •PF: Research Affairs                 •C: PULS                         •FS: 2021-07-13      •FE: 2021-07-15    •SC: N     •SS: 1000  ÖVP: 35   SPÖ: 20   FPÖ: 18   NEOS: 12                GRÜNE: 11                        •O: 4
@@ -263,11 +272,13 @@
 •PF: Peter Hajek                      •C: ATV                          •FS: 2017-12-18      •FE: 2017-12-21    •SC: N     •SS: 700   ÖVP: 31   SPÖ: 28   FPÖ: 26   NEOS: 6    JETZT: 2     GRÜNE: 5                         •O: 2
 •PF: Market                           •C: Der Standard                 •FS: 2017-12-18      •FE: 2017-12-20    •SC: N     •SS: 800   ÖVP: 33   SPÖ: 27   FPÖ: 26   NEOS: 6    JETZT: 2     GRÜNE: 4                         •O: 2
 
-HC:    •A: HC    •DE: Team HC Strache – Allianz für Österreich •EN: Team HC Strache – Alliance for Austria
-FPÖ:   •A: FPÖ   •DE: Freiheitliche Partei Österreichs         •EN: Freedom Party of Austria
-GILT:  •A: G!LT  •DE: Meine Stimme Gilt!                       •EN: My Vote Counts!
-GRÜNE: •A: GRÜNE •DE: Die Grünen – Die Grüne Alternative       •EN: The Greens – The Green Alternative
-JETZT: •A: JETZT •DE: JETZT – Liste Pilz                       •EN: NOW – List Pilz
-NEOS:  •A: NEOS  •DE: NEOS – Das Neue Österreich               •EN: NEOS – The New Austria
-ÖVP:   •A: ÖVP   •DE: Österreichische Volkspartei              •EN: Austrian People's Party
-SPÖ:   •A: SPÖ   •DE: Sozialdemokratische Partei Österreichs   •EN: Social Democratic Party of Austria
+HC:    •A: HC    •DE: Team HC Strache – Allianz für Österreich           •EN: Team HC Strache – Alliance for Austria
+FPÖ:   •A: FPÖ   •DE: Freiheitliche Partei Österreichs                   •EN: Freedom Party of Austria
+GILT:  •A: G!LT  •DE: Meine Stimme Gilt!                                 •EN: My Vote Counts!
+GRÜNE: •A: GRÜNE •DE: Die Grünen – Die Grüne Alternative                 •EN: The Greens – The Green Alternative
+JETZT: •A: JETZT •DE: JETZT – Liste Pilz                                 •EN: NOW – List Pilz
+KPÖ:   •A: KPÖ   •DE: MFG – Österreich Menschen – Freiheit – Grundrechte •EN: MFG – Austria People – Freedom – Fundamental Rights
+MFG:   •A: MFG   •DE: Kommunistische Partei Österreichs                  •EN: Communist Party of Austria
+NEOS:  •A: NEOS  •DE: NEOS – Das Neue Österreich                         •EN: NEOS – The New Austria
+ÖVP:   •A: ÖVP   •DE: Österreichische Volkspartei                        •EN: Austrian People's Party
+SPÖ:   •A: SPÖ   •DE: Sozialdemokratische Partei Österreichs             •EN: Social Democratic Party of Austria
