@@ -12,7 +12,7 @@
 •PF: PIPOS              •C: Klan Kosova           •FS: 2021-01-11 •FE: 2021-01-14 •SC: N •A: SQ •SS: 3000           LVV: 41.6  LDK: 16.3  PDK: 20.1 AAK: 7.5         NISMA: 1.5                   AKR: 0.7          •O: 4.0 •N: 8.3         
 •PF: PIPOS              •C: Klan Kosova           •FS: 2021-01-01 •FE: 2021-01-05 •SC: N •A: SQ •SS: 1050           LVV: 41.4  LDK: 15.7  PDK: 20.8 AAK: 8.6         NISMA: 2.0                                     •O: 5.3 •N: 6.5         
 •PF: UBO Consulting     •C: Klan Kosova           •FS: 2020-12-14 •FE: 2020-12-21 •SC: N        •SS: 1070           LVV: 46.2  LDK: 14.9  PDK: 16.0 AAK: 7.0 СЛ: 2.5 NISMA: 3.5            A: 0.5 AKR: 2.5 PSD: 0.3 •O: 1.0 •N: 5.4
-•PF: SYRI                                         •FS: 2019-09-26 •FE: 2020-09-26 •SC: N •A: SQ                     LVV: 24    LDK: 29    PDK: 21   AAK: 13          NISMA: 7            
+•PF: SYRI                                         •FS: 2019-09-26 •FE: 2020-09-26 •SC: N •A: SQ                     LVV: 24    LDK: 29    PDK: 21   AAK+PSD: 13      NISMA+AKR+PD: 7            
 
 A:     •A: A            •EN: The Alternative                   •SQ: Alternativa
 AAK:   •A: AAK          •EN: Alliance for the Future of Kosovo •SQ: Aleanca për Ardhmërinë e Kosovës
@@ -21,6 +21,7 @@ GUXO:  •A: Guxo!        •EN: Dare!                             •SQ: Guxo!
 LDK:   •A: LDK          •EN: Democratic League of Kosovo       •SQ: Lidhja Demokratike e Kosovës
 LVV:   •A: LVV          •EN: Self-determination Movement       •SQ: Lëvizja Vetëvendosje
 NISMA: •A: NISMA        •EN: Social Democratic Initiative      •SQ: Nisma Socialdemokrate
+PD:    •A: PD           •EN: Justice Party                     •SQ: Albanian: Partia e Drejtësisë
 PDK:   •A: PDK          •EN: Democratic Party of Kosovo        •SQ: Partia Demokratike e Kosovës
 PSD:   •A: PSD          •EN: Social Democratic Party of Kosovo •SQ: Partia Socialdemokrate e Kosovës
 СЛ:    •A: СЛ    •R: SL •EN: Serb List                                                               •SR: Српска листа
