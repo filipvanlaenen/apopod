@@ -29,7 +29,7 @@
 •PF: Spinter tyrimai  •C: Delfi          •FS: 2022-01-17 •FE: 2022-01-29 •SC: N •SS: 1010          TSLKD: 16.9  LVŽS: 11.2            LSDP: 14.8  LRLS: 9.6                          DP: 8.7                              LP: 7.9  LT: 5.8  DSVL: 11.9        
 •PF: Spinter tyrimai  •C: Delfi          •FS: 2021-12-13 •FE: 2021-12-25 •SC: N •SS: 1012          TSLKD: 17.0  LVŽS: 10.6            LSDP: 17.0  LRLS: 11.3                         DP: 6.6                              LP: 7.4  LT: 5.7  DSVL: 11.3        
 •PF: Vilmorus         •C: Lietuvos rytas •FS: 2021-12-10 •FE: 2021-12-18 •SC: N •SS: 1000          TSLKD: 17.5  LVŽS: 13.7            LSDP: 32.0  LRLS: 10.9 LLRAKŠS: 1.2            DP: 9.9                    LRP: 5.5  LP: 3.8                           
-•PF: Norstat          •C: Delfi          •FS: 2021-12-10 •FE: 2021-12-18 •SC: N •SS: 1002          TSLKD: 24.6  LVŽS: 8.9             LSDP: 17.8  LRLS: 9.8  LLRAKŠS: 2.4 LCP: 0.9   DP: 7.5                              LP: 4.6  LT: 4.9  DSVL: 10.5        
+•PF: Norstat          •C: Delfi          •FS: 2021-12-10 •FE: 2021-12-18 •SC: N •SS: 1002          TSLKD: 24.6  LVŽS: 8.9             LSDP: 17.8  LRLS: 9.8  LLRAKŠS: 2.4 LCP: 0.9   DP: 7.5   LŽP: 0.9                   LP: 4.6  LT: 4.9  DSVL: 10.5 NS: 1.7
 •PF: Baltijos tyrimai •C: ELTA           •FS: 2021-11-16 •FE: 2021-12-02 •SC: N •SS: 1009          TSLKD: 15.5  LVŽS: 14.7            LSDP: 23.8  LRLS: 12.1 LLRAKŠS: 3.9 LCP: 2.6   DP: 8.8                    LRP: 1.6  LP: 4.4  LT: 10.8                 
 •PF: Spinter tyrimai  •C: Delfi          •FS: 2021-11-11 •FE: 2021-11-28 •SC: N •SS: 1015          TSLKD: 16.5  LVŽS: 13.4            LSDP: 19.4  LRLS: 9.0                          DP: 9.0                    LRP: 3.1  LP: 3.0  LT: 5.0                  
 •PF: Vilmorus         •C: Lietuvos rytas •FS: 2021-11-18 •FE: 2021-11-27 •SC: N •SS: 1000          TSLKD: 19.3  LVŽS: 17.6            LSDP: 27.3  LRLS: 9.4  LLRAKŠS: 3.2            DP: 8.7                    LRP: 4.5  LP: 4.7                           
@@ -144,5 +144,6 @@ LSDP:    •A: LSDP     •EN: Social Democratic Party of Lithuania             
 LT:      •A: LT       •EN: Freedom and Justice                                                  •LT: Laisvė ir Teisingumas
 LVŽS:    •A: LVŽS     •EN: Lithuanian Farmers and Greens Union                                  •LT: Lietuvos valstiečių ir žaliųjų sąjunga
 LŽP:     •A: LŽP      •EN: Lithuanian Green Party                                               •LT: Lietuvos Žaliųjų Partija
+NS:      •A: NS       •EN: National Alliance                                                    •LT: Nacionalinis Susivienijimas
 TSLKD:   •A: TS-LKD   •EN: Homeland Union – Lithuanian Christian Democrats                      •LT: Tėvynės sąjunga – Lietuvos krikščionys demokratai
 TT:      •A: TT       •EN: Order and Justice                                                    •LT: Tvarka ir teisingumas
