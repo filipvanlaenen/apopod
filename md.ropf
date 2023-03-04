@@ -19,11 +19,14 @@
 •PF: iData                                •FS: 2021-05-19      •FE: 2021-05-28    •SC: N     •SS: 1227 PAS: 39.1 BCS: 33.4 ȘOR: 10.1 PN: 4.9 PPDA: 3.5  PDA: 0.6 AUR: 4.8
 •PF: ASDM                                 •FS: 2021-05-14      •FE: 2021-05-22    •SC: N     •SS: 1185 PAS: 37.0 BCS: 35.8 ȘOR: 6.6  PN: 4.4 PPDA: 3.3  PDA: 1.2 AUR: 0.8 PSDE: 2.5
 
-AUR:  •A: AUR  •EN: Alliance for the Union of Romanians        •RO: Alianța pentru Unirea Românilor
-BCS:  •A: BCS  •EN: Bloc of Communists and Socialists          •RO: Blocul Comuniștilor și Socialiștilor •RU: Блок коммунистов и социалистов
-PAS:  •A: PAS  •EN: Party of Action and Solidarity             •RO: Partidul Acțiune și Solidaritate
-PDA:  •A: PDA  •EN: Democracy at Home Party                    •RO: Partidul Democrația Acasă
-PN:   •A: PN   •EN: Our Party                                  •RO: Partidul Nostru
-PPDA: •A: PPDA •EN: Dignity and Truth Platform Political Party •RO: Partidul Politic „Platforma Demnitate și Adevăr”
-PSDE: •A: PSDE •EN: European Social Democratic Party           •RO: Partidul Social Democrat European
-ȘOR:  •A: ȘOR  •EN: ȘOR Party                                  •RO: Partidul „ȘOR”
+AUR:  •A: AUR  •EN: Alliance for the Union of Romanians               •RO: Alianța pentru Unirea Românilor
+BCS:  •A: BCS  •EN: Bloc of Communists and Socialists                 •RO: Blocul Comuniștilor și Socialiștilor             •RU: Блок коммунистов и социалистов
+MAN:  •A: MAN  •EN: National Alternative Movement                     •RO: Mișcarea Alternativa Națională
+PAS:  •A: PAS  •EN: Party of Action and Solidarity                    •RO: Partidul Acțiune și Solidaritate
+PDA:  •A: PDA  •EN: Democracy at Home Party                           •RO: Partidul Democrația Acasă
+PDCM: •A: PDCM •EN: Party of Development and Consolidation of Moldova •RO: Partidul Dezvoltării și Consolidării Moldovei
+PN:   •A: PN   •EN: Our Party                                         •RO: Partidul Nostru
+PPDA: •A: PPDA •EN: Dignity and Truth Platform Political Party        •RO: Partidul Politic „Platforma Demnitate și Adevăr”
+PSDE: •A: PSDE •EN: European Social Democratic Party                  •RO: Partidul Social Democrat European
+PUN:  •A: PUN  •EN: National Unity Party                              •RO: Partidul Unității Naționale
+ȘOR:  •A: ȘOR  •EN: ȘOR Party                                         •RO: Partidul „ȘOR”
