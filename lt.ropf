@@ -140,20 +140,20 @@
 •PF: Spinter tyrimai  •C: Delfi          •FS: 2016-12-12 •FE: 2016-12-20 •SC: N •SS: 1007          TSLKD: 16.7  LVŽS: 42.8  TT: 6.0   LSDP: 12.4  LRLS: 7.9  LLRAKŠS: 5.0            DP: 2.5                                                           •O: 6.7
 •PF: Spinter tyrimai  •C: Delfi          •FS: 2016-11-18 •FE: 2016-11-25 •SC: N                    TSLKD: 16.5  LVŽS: 36.2  TT: 7.0   LSDP: 14.0  LRLS: 12.4 LLRAKŠS: 5.3                                                                              •O: 8.6
 
-DP:      •A: DP       •EN: Labour Party                                                         •LT: Darbo partija
-DSVL:    •A: DSVL     •EN: Union of Democrats “For Lithuania”                                   •LT: Demokratų sąjunga „Vardan Lietuvos“
-JL:      •A: JL       •EN: Young Lithuania                                                      •LT: Jaunoji Lietuva
-KS:      •A: KS       •EN: Christian Union                                                      •LT: Krikščionių sąjunga
-LCP:     •A: LCP      •EN: People and Justice Union (centrists, nationalists)                   •LT: Tautos ir teisingumo sąjunga (centristai, tautininkai)
-LLRAKŠS: •A: LLRA-KŠS •EN: Electoral Action of Poles in Lithuania – Christian Families Alliance •LT: Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga •PL: Akcja Wyborcza Polaków na Litwie – Związek Chrześcijańskich Rodzin
-LP:      •A: LP       •EN: Freedom Party                                                        •LT: Laisvės partija
-LRLS:    •A: LRLS     •EN: Liberals’ Movement                                                   •LT: Liberalų sąjūdis
-LRP:     •A: LRP      •EN: Lithuanian Regions Party                                             •LT: Lietuvos regionų partija
-LS:      •A: LS       •EN: Lithuanian List                                                      •LT: Politinė partija „Lietuvos sąrašas“
-LSDP:    •A: LSDP     •EN: Social Democratic Party of Lithuania                                 •LT: Lietuvos socialdemokratų partija
-LT:      •A: LT       •EN: Freedom and Justice                                                  •LT: Laisvė ir Teisingumas
-LVŽS:    •A: LVŽS     •EN: Lithuanian Farmers and Greens Union                                  •LT: Lietuvos valstiečių ir žaliųjų sąjunga
-LŽP:     •A: LŽP      •EN: Lithuanian Green Party                                               •LT: Lietuvos Žaliųjų Partija
-NS:      •A: NS       •EN: National Alliance                                                    •LT: Nacionalinis Susivienijimas
-TSLKD:   •A: TS-LKD   •EN: Homeland Union – Lithuanian Christian Democrats                      •LT: Tėvynės sąjunga – Lietuvos krikščionys demokratai
-TT:      •A: TT       •EN: Order and Justice                                                    •LT: Tvarka ir teisingumas
+DP:      LT007 •A: DP       •EN: Labour Party                                                         •LT: Darbo partija
+DSVL:    LT014 •A: DSVL     •EN: Union of Democrats “For Lithuania”                                   •LT: Demokratų sąjunga „Vardan Lietuvos“
+JL:      LT016 •A: JL       •EN: Young Lithuania                                                      •LT: Jaunoji Lietuva
+KS:      LT017 •A: KS       •EN: Christian Union                                                      •LT: Krikščionių sąjunga
+LCP:     LT008 •A: LCP      •EN: People and Justice Union (centrists, nationalists)                   •LT: Tautos ir teisingumo sąjunga (centristai, tautininkai)
+LLRAKŠS: LT006 •A: LLRA-KŠS •EN: Electoral Action of Poles in Lithuania – Christian Families Alliance •LT: Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga •PL: Akcja Wyborcza Polaków na Litwie – Związek Chrześcijańskich Rodzin
+LP:      LT012 •A: LP       •EN: Freedom Party                                                        •LT: Laisvės partija
+LRLS:    LT004 •A: LRLS     •EN: Liberals’ Movement                                                   •LT: Liberalų sąjūdis
+LRP:     LT011 •A: LRP      •EN: Lithuanian Regions Party                                             •LT: Lietuvos regionų partija
+LS:      LT010 •A: LS       •EN: Lithuanian List                                                      •LT: Politinė partija „Lietuvos sąrašas“
+LSDP:    LT003 •A: LSDP     •EN: Social Democratic Party of Lithuania                                 •LT: Lietuvos socialdemokratų partija
+LT:      LT013 •A: LT       •EN: Freedom and Justice                                                  •LT: Laisvė ir Teisingumas
+LVŽS:    LT001 •A: LVŽS     •EN: Lithuanian Farmers and Greens Union                                  •LT: Lietuvos valstiečių ir žaliųjų sąjunga
+LŽP:     LT009 •A: LŽP      •EN: Lithuanian Green Party                                               •LT: Lietuvos Žaliųjų Partija
+NS:      LT015 •A: NS       •EN: National Alliance                                                    •LT: Nacionalinis Susivienijimas
+TSLKD:   LT002 •A: TS-LKD   •EN: Homeland Union – Lithuanian Christian Democrats                      •LT: Tėvynės sąjunga – Lietuvos krikščionys demokratai
+TT:      LT005 •A: TT       •EN: Order and Justice                                                    •LT: Tvarka ir teisingumas
