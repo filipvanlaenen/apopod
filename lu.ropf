@@ -9,16 +9,16 @@
 •PF: TNS Ilres •C: Luxemburger Wort •C: RTL •FS: 2017-12-01 •FE: 2017-12-01 •SC: N •SS: 1807 CSV: 36.7 LSAP: 20.6 DP: 10.0 DG: 10.7 ADR: 7.9  DL: 7.7 PPLU: 3.0  PID: 1.1 KPL: 2.2        
 •PF: Ifop      •C: Tageblatt                •FS: 2017-10-09 •FE: 2017-10-19 •SC: N •SS: 827  CSV: 39   LSAP: 15   DP: 13   DG: 13   ADR: 8    DL: 6   PPLU: 3    PID: 1   KPL: 1                                         •O: 1
 
-ADR:   •A: ADR   •DE: Alternative Demokratische Reformpartei    •EN: Alternative Democratic Reform Party •FR: Parti réformiste d'alternative démocratique •LB: Alternativ Demokratesch Reformpartei
-CSV:   •A: CSV   •DE: Christlich Soziale Volkspartei            •EN: Christian Social People’s Party     •FR: Parti populaire chrétien-social             •LB: Chrëschtlech Sozial Vollekspartei
-DEM:   •A: DEM                                                  •EN: Democracy                                                                            •LB: Demokratie
-DG:    •A: DG    •DE: Die Grünen                                •EN: The Greens                          •FR: Les Verts                                   •LB: Déi Gréng
-DK:    •A: DK                                                   •EN: The Conservatives                                                                    •LB: Déi Konservativ
-DL:    •A: DL    •DE: Die Linken                                •EN: The Left                            •FR: La Gauche                                   •LB: Déi Lénk
-DP:    •A: DP    •DE: Demokratische Partei                      •EN: Democratic Party                    •FR: Parti démocratique                          •LB: Demokratesch Partei
-FOKUS: •A: FOKUS                                                •EN: Focus                                                                                •LB: Fokus
-KPL:   •A: KPL   •DE: Kommunistische Partei Luxemburgs          •EN: Communist Party of Luxembourg       •FR: Parti Communiste Luxembourgeois             •LB: Kommunistesch Partei vu Lëtzebuerg
-LSAP:  •A: LSAP  •DE: Luxemburger Sozialistische Arbeiterpartei •EN: Luxembourg Socialist Workers’ Party •FR: Parti ouvrier socialiste luxembourgeois     •LB: Lëtzebuerger Sozialistesch Aarbechterpartei
-PID:   •A: PID   •DE: Partei für Integrale Demokratie           •EN: Party for Full Democracy            •FR: Parti pour la democratie integrale          •LB: Partei fir Integral Demokratie
-PPLU:  •A: PPLU  •DE: Piratenpartei Luxemburg                   •EN: Pirate Party Luxembourg             •FR: Parti pirate du Luxembourg                  •LB: Piratepartei Lëtzebuerg
-VOLT:  •A: VOLT  •DE: Volt Luxemburg                            •EN: Volt Luxembourg                     •FR: Volt Luxembourg                             •LB: Volt Lëtzebuerg
+ADR:   LU005 •A: ADR   •DE: Alternative Demokratische Reformpartei    •EN: Alternative Democratic Reform Party •FR: Parti réformiste d'alternative démocratique •LB: Alternativ Demokratesch Reformpartei
+CSV:   LU001 •A: CSV   •DE: Christlich Soziale Volkspartei            •EN: Christian Social People’s Party     •FR: Parti populaire chrétien-social             •LB: Chrëschtlech Sozial Vollekspartei
+DEM:   LU011 •A: DEM                                                  •EN: Democracy                                                                            •LB: Demokratie
+DG:    LU003 •A: DG    •DE: Die Grünen                                •EN: The Greens                          •FR: Les Verts                                   •LB: Déi Gréng
+DK:    LU010 •A: DK                                                   •EN: The Conservatives                                                                    •LB: Déi Konservativ
+DL:    LU006 •A: DL    •DE: Die Linken                                •EN: The Left                            •FR: La Gauche                                   •LB: Déi Lénk
+DP:    LU004 •A: DP    •DE: Demokratische Partei                      •EN: Democratic Party                    •FR: Parti démocratique                          •LB: Demokratesch Partei
+FOKUS: LU013 •A: FOKUS                                                •EN: Focus                                                                                •LB: Fokus
+KPL:   LU008 •A: KPL   •DE: Kommunistische Partei Luxemburgs          •EN: Communist Party of Luxembourg       •FR: Parti Communiste Luxembourgeois             •LB: Kommunistesch Partei vu Lëtzebuerg
+LSAP:  LU002 •A: LSAP  •DE: Luxemburger Sozialistische Arbeiterpartei •EN: Luxembourg Socialist Workers’ Party •FR: Parti ouvrier socialiste luxembourgeois     •LB: Lëtzebuerger Sozialistesch Aarbechterpartei
+PID:   LU009 •A: PID   •DE: Partei für Integrale Demokratie           •EN: Party for Full Democracy            •FR: Parti pour la democratie integrale          •LB: Partei fir Integral Demokratie
+PPLU:  LU007 •A: PPLU  •DE: Piratenpartei Luxemburg                   •EN: Pirate Party Luxembourg             •FR: Parti pirate du Luxembourg                  •LB: Piratepartei Lëtzebuerg
+VOLT:  LU012 •A: VOLT  •DE: Volt Luxemburg                            •EN: Volt Luxembourg                     •FR: Volt Luxembourg                             •LB: Volt Lëtzebuerg
