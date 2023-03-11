@@ -106,22 +106,22 @@
 •PF: SKDS               •C: Latvijas Televīzija •FS: 2018-11-03      •FE: 2018-11-15    •SC: N    •SS: 833         •EX: 32.0                 S: 18.2 PCL: 9.8  K: 10.2 AP: 6.7  NA: 5.9  ZZS: 6.4  JV: 4.7  AS: 2.6  LKS: 1.6 P: 1.8                                                                          •O: 0.1
 •PF: SKDS               •C: Latvijas Televīzija •FS: 2018-10-13      •FE: 2018-10-23    •SC: N    •SS: 900         •EX: 24.6                 S: 19.2 PCL: 11.5 K: 10.1 AP: 8.9  NA: 8.4  ZZS: 5.4  JV: 4.4  AS: 4.2  LKS: 1.4 P: 1.7                                                                          •O: 0.2
 
-AP:  •A: AP!     •EN: Development/For!                  •LV: Attīstībai/Par!
-AS:  •A: AS      •EN: United List                       •LV: Apvienotais saraksts
-JV:  •A: JV      •EN: New Unity                         •LV: Jaunā Vienotība
-K:   •A: K       •EN: The Conservatives                 •LV: Konservatīvie
-KP:  •A: Par!    •EN: Movement For!                     •LV: Kustība Par!
-KUK: •A: KuK     •EN: For Each and Every One            •LV: Katram un katrai
-LA:  •A: LA      •EN: For Latvia’s Development          •LV: Latvijas attīstībai
-LKS: •A: РСЛ/LKS •EN: Latvian Russian Union             •LV: Latvijas Krievu savienība            •RU: Русский союз Латвии
-LPV: •A: LPV     •EN: Latvia First                      •LV: Latvija pirmajā vietā
-NA:  •A: NA      •EN: National Alliance                 •LV: Nacionālā apvienība
-NST: •A: NST     •EN: National Alliance Justice         •LV: Nacionālā Savienība Taisnīgums
-PCL: •A: PCL     •EN: For a Humane Latvia               •LV: Par cilvēcīgu Latviju
-P:   •A: P       •EN: The Progressives                  •LV: Progresīvie
-R:   •A: R       •EN: Republic                          •LV: Republika
-S:   •A: S       •EN: Social Democratic Party “Harmony” •LV: Sociāldemokrātiskā partija „Saskaņa“ •RU: Социал-демократическая партия «Согласие»
-SV:  •A: SV      •EN: Sovereign Power                   •LV: Suverēnā vara
-SX:  •A: S!      •EN: For Stability!                    •LV: Stabilitātei!
-TKL: •A: TKL     •EN: People’s Servants for Latvia      •LV: Tautas kalpi Latvijai
-ZZS: •A: ZZS     •EN: Union of Greens and Farmers       •LV: Zaļo un Zemnieku savienība
+AP:  LV004 •A: AP!     •EN: Development/For!                  •LV: Attīstībai/Par!
+AS:  LV008 •A: AS      •EN: United List                       •LV: Apvienotais saraksts
+JV:  LV007 •A: JV      •EN: New Unity                         •LV: Jaunā Vienotība
+K:   LV003 •A: K       •EN: The Conservatives                 •LV: Konservatīvie
+KP:  LV018 •A: Par!    •EN: Movement For!                     •LV: Kustība Par!
+KUK: LV012 •A: KuK     •EN: For Each and Every One            •LV: Katram un katrai
+LA:  LV019 •A: LA      •EN: For Latvia’s Development          •LV: Latvijas attīstībai
+LKS: LV009 •A: РСЛ/LKS •EN: Latvian Russian Union             •LV: Latvijas Krievu savienība            •RU: Русский союз Латвии
+LPV: LV013 •A: LPV     •EN: Latvia First                      •LV: Latvija pirmajā vietā
+NA:  LV005 •A: NA      •EN: National Alliance                 •LV: Nacionālā apvienība
+NST: LV016 •A: NST     •EN: National Alliance Justice         •LV: Nacionālā Savienība Taisnīgums
+PCL: LV002 •A: PCL     •EN: For a Humane Latvia               •LV: Par cilvēcīgu Latviju
+P:   LV010 •A: P       •EN: The Progressives                  •LV: Progresīvie
+R:   LV014 •A: R       •EN: Republic                          •LV: Republika
+S:   LV001 •A: S       •EN: Social Democratic Party “Harmony” •LV: Sociāldemokrātiskā partija „Saskaņa“ •RU: Социал-демократическая партия «Согласие»
+SV:  LV017 •A: SV      •EN: Sovereign Power                   •LV: Suverēnā vara
+SX:  LV015 •A: S!      •EN: For Stability!                    •LV: Stabilitātei!
+TKL: LV011 •A: TKL     •EN: People’s Servants for Latvia      •LV: Tautas kalpi Latvijai
+ZZS: LV006 •A: ZZS     •EN: Union of Greens and Farmers       •LV: Zaļo un Zemnieku savienība
