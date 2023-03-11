@@ -14,15 +14,15 @@
 •PF: CRES                                •FS: 2011-02-28 •FE: 2011-03-12 •SC: N •SS: 786 •EX: 60.4 DA: 51.1          PS: 42.4 VDA: 2.9                                                                               •O: 3.5
 •PF: CRES                                •FS: 2010-09-27 •FE: 2010-10-13 •SC: N •SS: 426 •EX: 60.4 DA: 51.1          PS: 42.4 VDA: 2.9                                                                               •O: 3.5
 
-AE:    •A: AE    •CA: Andorra Endavant
-AS:    •A: AS    •CA: Andorra Sobirana            •EN: Sovereign Andorra
-CC:    •A: CC    •CA: Ciutadans Compromesos       •EN: Committed Citizens 
-DA:    •A: DA    •CA: Demòcrates per Andorra      •EN: Democrats for Andorra
-LA:    •A: L’A   •CA: Liberals d’Andorra          •EN: Liberals of Andorra
-PODEM: •A: Podem •CA: Podem
-PS:    •A: PS    •CA: Partit Socialdemòcrata      •EN: Social Democratic Party
-SDP:   •A: SDP   •CA: Socialdemocràcia i Progrés  •EN: Social Democracy and Progress
-TV:    •A: TV    •CA: Tercera Via                 •EN: Third Way
-UL:    •A: UL    •CA: Unió Laurediana             •EN: Lauredian Union
-UPA:   •A: UPA   •CA: Units pel Progrés d’Andorra •EN: United for the Progress of Andorra
-VDA:   •A: Vd’A  •CA: Verds d’Andorra             •EN: Greens of Andorra
+AE:    AD012 •A: AE    •CA: Andorra Endavant
+AS:    AD009 •A: AS    •CA: Andorra Sobirana            •EN: Sovereign Andorra
+CC:    AD011 •A: CC    •CA: Ciutadans Compromesos       •EN: Committed Citizens 
+DA:    AD001 •A: DA    •CA: Demòcrates per Andorra      •EN: Democrats for Andorra
+LA:    AD005 •A: L’A   •CA: Liberals d’Andorra          •EN: Liberals of Andorra
+PODEM: AD006 •A: Podem •CA: Podem
+PS:    AD002 •A: PS    •CA: Partit Socialdemòcrata      •EN: Social Democratic Party
+SDP:   AD004 •A: SDP   •CA: Socialdemocràcia i Progrés  •EN: Social Democracy and Progress
+TV:    AD007 •A: TV    •CA: Tercera Via                 •EN: Third Way
+UL:    AD008 •A: UL    •CA: Unió Laurediana             •EN: Lauredian Union
+UPA:   AD010 •A: UPA   •CA: Units pel Progrés d’Andorra •EN: United for the Progress of Andorra
+VDA:   AD003 •A: Vd’A  •CA: Verds d’Andorra             •EN: Greens of Andorra
