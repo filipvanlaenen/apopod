@@ -1,3 +1,4 @@
+•PF: CRES                                •FS: 2023-02-21 •FE: 2023-03-08 •SC: N •SS: 810           DA+UPA+CC: 22.1 LA: 3.4                          SDP: 13.4                       AE: 7.0 CON: 6.1 ACC: 1.0 •O: 0.4 •N: 46.6
 •PF: CRES                                •FS: 2022-04-29 •FE: 2022-05-11 •SC: N •SS: 403 •EX: 36.2 DA: 52.1 LA: 11.3 PS: 22.6                       SDP: 1.6             TV: 4.7            AS: 0.8 UPA: 0.8 CC: 1.2 AE: 3.5
 •PF: CRES                                •FS: 2021-04-30 •FE: 2021-05-13 •SC: N •SS: 419 •EX: 30.1 DA: 61.8 LA: 9.6  PS: 19.5                       SDP: 1.4                     TV+UL: 5.5 AS: 0.3                  AE: 2.0
 •PF: CRES                                •FS: 2020-06-15 •FE: 2020-06-29 •SC: N •SS: 800 •EX: 31.0 DA: 56.2 LA: 8.0  PS: 23.9 VDA: 0.4              SDP: 2.2                     TV+UL: 7.6         UPA: 0.4 CC: 1.4
@@ -14,9 +15,11 @@
 •PF: CRES                                •FS: 2011-02-28 •FE: 2011-03-12 •SC: N •SS: 786 •EX: 60.4 DA: 51.1          PS: 42.4 VDA: 2.9                                                                               •O: 3.5
 •PF: CRES                                •FS: 2010-09-27 •FE: 2010-10-13 •SC: N •SS: 426 •EX: 60.4 DA: 51.1          PS: 42.4 VDA: 2.9                                                                               •O: 3.5
 
+ACC:   AD014 •A: Acció •CA: Acció per Andorra
 AE:    AD012 •A: AE    •CA: Andorra Endavant
 AS:    AD009 •A: AS    •CA: Andorra Sobirana            •EN: Sovereign Andorra
 CC:    AD011 •A: CC    •CA: Ciutadans Compromesos       •EN: Committed Citizens 
+CON:   AD013 •A: Concòrdia •CA: Concòrdia
 DA:    AD001 •A: DA    •CA: Demòcrates per Andorra      •EN: Democrats for Andorra
 LA:    AD005 •A: L’A   •CA: Liberals d’Andorra          •EN: Liberals of Andorra
 PODEM: AD006 •A: Podem •CA: Podem
