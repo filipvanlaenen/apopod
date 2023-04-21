@@ -1,12 +1,19 @@
 •PF: Åland Gallup •FS: 2023-02 •FE: 2023-02 •SC: N C: 18.0 MS: 8.1 OBS: 12.0 HI: 9.3 L: 23.1 ÅSD: 20.1 ÅF: 7.1 ÅD: 1.0 LBP: 1.2 
 •PF: Åland Gallup •FS: 2023-01 •FE: 2023-01 •SC: N C: 15.7 MS: 8.7 OBS: 11.3 HI: 8.6 L: 26.1 ÅSD: 20.8 ÅF: 4.3 ÅD: 3.0 LBP: 1.6 
+•PF: Åland Gallup •FS: 2022-12 •FE: 2022-12 •SC: N C: 16.9 MS: 10.8 OBS: 10.0 HI: 5.8 L: 26.9 ÅSD: 17.1 ÅF: 6.6 ÅD: 3.4 LBP: 2.6 
+•PF: Åland Gallup •FS: 2022-11 •FE: 2022-11 •SC: N C: 19.6 MS: 9.5 OBS: 7.9 HI: 8.6 L: 27.1 ÅSD: 17.3 ÅF: 4.1 ÅD: 3.6 LBP: 2.3 
+•PF: Åland Gallup •FS: 2022-10 •FE: 2022-10 •SC: N C: 20.0 MS: 12.0 OBS: 7.7 HI: 7.8 L: 20.7 ÅSD: 17.7 ÅF: 7.5 ÅD: 4.7 LBP: 1.8 
+•PF: Åland Gallup •FS: 2022-08 •FE: 2022-08 •SC: N C: 18.8 MS: 9.6 OBS: 9.6 HI: 10.8 L: 24.2 ÅSD: 17.8 ÅF: 5.1 ÅD: 2.4 LBP: 1.8 
+•PF: Åland Gallup •FS: 2022-06 •FE: 2022-06 •SC: N C: 19.7 MS: 11.6 OBS: 6.8 HI: 9.2 L: 21.7 ÅSD: 18.3 ÅF: 6.0 ÅD: 3.6 LBP: 3.0 
+•PF: Åland Gallup •FS: 2022-03 •FE: 2022-03 •SC: N C: 21.8 MS: 8.8 OBS: 6.2 HI: 7.4 L: 21.3 ÅSD: 15.6 ÅF: 5.0 ÅD: 2.7 LBP: 11.1
+•PF: Åland Gallup •FS: 2022-02 •FE: 2022-02 •SC: N C: 26.6 MS: 9.9 OBS: 6.9 HI: 4.7 L: 25.3 ÅSD: 19.1 ÅF: 5.4 ÅD: 2.0
 
-ÅD:  AX008 •A: ÅD
-ÅF:  AX005 •A: ÅF
-ÅSD: AX007 •A: ÅSD
-C:   AX001 •A: C
-HI:  AX004 •A: HI
-L:   AX002 •A: L
-LBP: AX009 •A: LBP
-MS:  AX003 •A: MS
-OBS: AX006 •A: ObS
+ÅD:  AX008 •A: ÅD  •EN: Ålandic Democracy            •SV: Åländsk Demokrati
+ÅF:  AX005 •A: ÅF  •EN: Future of Åland              •SV: Ålands Framtid
+ÅSD: AX007 •A: ÅSD •EN: Åland Social Democrats       •SV: Ålands Socialdemokrater
+C:   AX001 •A: C   •EN: Åland Centre                 •SV: Åländska Centern
+HI:  AX004 •A: HI  •EN: Sustainable Initiative       •SV: Hållbart initiativ
+L:   AX002 •A: L   •EN: Liberals for Åland           •SV: Liberalerna på Åland
+LBP: AX009 •A: LBP                                   •SV: Runar Karlsson
+MS:  AX003 •A: MS  •EN: Moderate Coalition for Åland •SV: Moderat Samling för Åland
+OBS: AX006 •A: ObS •EN: Non-aligned Coalition        •SV: Obunden Samling
