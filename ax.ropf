@@ -7,13 +7,24 @@
 •PF: Åland Gallup •FS: 2022-06 •FE: 2022-06 •SC: N C: 19.7 MS: 11.6 OBS: 6.8 HI: 9.2 L: 21.7 ÅSD: 18.3 ÅF: 6.0 ÅD: 3.6 LBP: 3.0 
 •PF: Åland Gallup •FS: 2022-03 •FE: 2022-03 •SC: N C: 21.8 MS: 8.8 OBS: 6.2 HI: 7.4 L: 21.3 ÅSD: 15.6 ÅF: 5.0 ÅD: 2.7 LBP: 11.1
 •PF: Åland Gallup •FS: 2022-02 •FE: 2022-02 •SC: N C: 26.6 MS: 9.9 OBS: 6.9 HI: 4.7 L: 25.3 ÅSD: 19.1 ÅF: 5.4 ÅD: 2.0
+•PF: Åland Gallup •FS: 2021-12 •FE: 2021-12 •SC: N C: 21.0 MS: 11.3 OBS: 12.3 HI: 9.0 L: 19.4 ÅSD: 13.8 ÅF: 6.4 ÅD: 6.8
+•PF: Åland Gallup •FS: 2021-10 •FE: 2021-10 •SC: N C: 23.7 MS: 8.8 OBS: 10.8 HI: 7.8 L: 23.0 ÅSD: 15.3 ÅF: 7.4 ÅD: 3.3
+•PF: Åland Gallup •FS: 2021-08 •FE: 2021-08 •SC: N C: 22.5 MS: 10.0 OBS: 8.5 HI: 4.8 L: 22.9 ÅSD: 17.8 ÅF: 7.2 ÅD: 6.3
+
+•C: Ålandstidningen                                       •PD: 2007-10-13 •SC: N           •U: S  C: 7 L: 7 MS: 6 ÅSD: 4 ÅF: 3 OBS: 2 ÅD: 1
+•C: Tidningen Åland                                       •PD: 2007-10-13 •SC: N •SS: 301         C: 27.9 L: 22.6 ÅSD: 12.6 MÅ: 11.4 OBS: 14.2 ÅF: 10.3 HUT: 1.0
+•PF: Ålands statistik- och utredningsbyrå •FS: 2006-09    •FE: 2006-11    •SC: N •SS: 1140        C: 19.9 L: 24.0 ÅSD: 18.0 MÅ: 14.2 OBS: 6.5 ÅF: 13.6 ÅFG: 1.3
+
 
 ÅD:  AX008 •A: ÅD  •EN: Ålandic Democracy            •SV: Åländsk Demokrati
 ÅF:  AX005 •A: ÅF  •EN: Future of Åland              •SV: Ålands Framtid
+ÅFG: AX010 •A: Åfg •EN: Åland Progress Group         •SV: Ålands Framstegsgrupp
 ÅSD: AX007 •A: ÅSD •EN: Åland Social Democrats       •SV: Ålands Socialdemokrater
 C:   AX001 •A: C   •EN: Åland Centre                 •SV: Åländska Centern
 HI:  AX004 •A: HI  •EN: Sustainable Initiative       •SV: Hållbart initiativ
+HUT: AX012 •A: HUT •EN: Hut Group                    •SV: Hutgruppen
 L:   AX002 •A: L   •EN: Liberals for Åland           •SV: Liberalerna på Åland
 LBP: AX009 •A: LBP                                   •SV: Runar Karlsson
+MÅ:  AX011 •A: MÅ  •EN: Moderates of Åland           •SV: Moderaterna på Åland
 MS:  AX003 •A: MS  •EN: Moderate Coalition for Åland •SV: Moderat Samling för Åland
 OBS: AX006 •A: ObS •EN: Non-aligned Coalition        •SV: Obunden Samling
