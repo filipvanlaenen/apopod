@@ -1,17 +1,27 @@
+•PF: Faktor Plus •C: Blic                   •PD: 2022-12-12 •SC: N СНС: 46.8 ССП: 7.0 НС: 2.8 ДС: 1.8 ПСГ: 1.0 СПС+ЈС: 10.9 НАДА: 4.5 НДБГД: 3.7 ЗЗС: 1.6 ДВЕРИ: 3.0 ССЗ: 3.9 СРЦЕ: 2.0 СДС: 1.8 ДЈБ: 1.0 СРС: 1.0
+•PF: НСПМ  •C: ФНД         •FS: 2022-09 •FE: 2022-10 •PD: 2022-11-01 •SC: N •SS: 1050 СНС: 42.5 ССП: 4.6 НС: 2.5 ДС: 1.5          СПС+ЈС: 9.8 НДСС: 5.5 НДБГД: 1.2 ЗЗС: 3.4 ДВЕРИ: 3.9 ССЗ: 3.9 СРЦЕ: 4.5 СРС: 2.2 СДС: 1.5  •O: 7.9
+•PF: Faktor Plus •C: Blic                   •PD: 2022-10-25 •SC: N СНС: 46.3 ССП: 6.8 НС: 2.8 ДС: 2.2 ПСГ: 1.2 СПС+ЈС: 10.8 НАДА: 5.7 НДБГД: 4.3 ЗЗС: 2.5 ДВЕРИ: 3.4 ССЗ: 4.0 СДС: 1.5 СРС: 1.5 ДЈБ: 1.3 •O: 4.6
 •PF: НСПМ     •C: Nedeljnik •FS: 2022-06-22 •FE: 2022-07-05 •SC: N •SS: 1000 СНС: 42.6 СПС+ЈС: 9.4        НДСС: 6.1 СРЦЕ: 5.9 ССП: 5.3 ЗЗС: 4.8              ДВЕРИ: 3.1 ССЗ: 3.8 СДС: 2.0 ДС: 1.7 НС: 1.5 ПСГ: 1.4
-•PF: Demostat               •FS: 2022-06-13 •FE: 2022-07-22 •SC: N •SS: 1203 СНС: 48               СПС: 9 НДСС: 6             ССП: 10           ЗЗС+НДБГД: 4 ДВЕРИ: 4   ССЗ: 3            ДС: 3
+•PF: Demostat               •FS: 2022-06-13 •FE: 2022-06-22 •SC: N •SS: 1203 СНС: 48               СПС: 9 НДСС: 6             ССП: 10           ЗЗС+НДБГД: 4 ДВЕРИ: 4   ССЗ: 3            ДС: 3
 
 ДВЕРИ: RS005 •A: Двери •R: Dveri •EN: Serbian Movement “Dveri”       •SR: Српски покрет Двери
+ДЈБ: RS017 •A: ДЈБ •R: DJB •EN: Enough is Enough •SR: Доста је било
 ДС:    RS009 •A: ДС    •R: DS    •EN: Democratic Party               •SR: Демократска странка
 ЗЗС:   RS006 •A: ЗЗС   •R: ZZS   •EN: Together for Serbia            •SR: Заједно за Србију
 ЈС:    RS014 •A: ЈС    •R: JS    •EN: United Serbia                  •SR: Јединствена Србија
+НАДА: RS015 •A: НАДА  •R: NADA •EN: National Democratic Alternative •SR: Национално демократска алтернатива
 НДБГД: RS007 •A: НДБГД •R: NDBGD •EN: Do not let Belgrade drown      •SR: Не давимо Београд 
 НДСС:  RS004 •A: НДСС  •R: NDSS  •EN: New Democratic Party of Serbia •SR: Нова демократска странка Србије
 НС:    RS012 •A: НС    •R: NS    •EN: People’s Party                 •SR: Народна странка
+ПОКС: RS018 •A: ПОКС •R: POKS •EN: Movement for the Restoration of the Kingdom of Serbia •SR: Покрет обнове Краљевине Србије
 ПСГ:   RS013 •A: ПСГ   •R: PSG   •EN: Movement of Free Citizens      •SR: Покрет слободних грађана
 СДС:   RS011 •A: СДС   •R: SDS   •EN: Social Democratic Party        •SR: Социјалдемократска странка
 СНС:   RS001 •A: СНС   •R: SNS   •EN: Serbian Progressive Party      •SR: Српска напредна странка
 СПС:   RS003 •A: СПС   •R: SPS   •EN: Socialist Party of Serbia      •SR: Социјалистичка партија Србије
 СРЦЕ:  RS010 •A: СРЦЕ  •R: SRCE  •EN: Serbia Centre                  •SR: Србија центар
+СРС: RS016 •A: СРС •R: SRS •EN: Serbian Radical Party •SR: Српска радикална странка
 ССЗ:   RS008 •A: ССЗ   •R: SSZ   •EN: Serbian Party Oathkeepers      •SR: Српска странка Заветници
 ССП:   RS002 •A: ССП   •R: SSP   •EN: Party of Freedom and Justice   •SR: Странка Слободе и правде
+
+‡ Named alliances:
+‡ НАДА = НДСС + ПОКС
