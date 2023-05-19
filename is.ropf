@@ -163,12 +163,12 @@
 •PF: Gallup                                                  •FS: 2017-11-08      •FE: 2017-11-30    •SC: N     •SS: 3991        •EX: 42.2                 D: 24.0 V: 16.1 S: 16.7 M: 6.8  B: 10.4 P: 10.4 F: 6.4 C: 7.1          •O: 2.1
 •PF: MMR                                                     •FS: 2017-11-14      •FE: 2017-11-17    •SC: N     •SS: 944                                  D: 24.4 V: 13.0 S: 16.0 M: 10.5 B: 9.5  P: 9.9  F: 8.4 C: 6.5          •O: 1.8
 
-D: IS001 •A: D
-S: IS002 •A: S
-V: IS003 •A: V
-M: IS004 •A: M
-P: IS005 •A: P
-B: IS006 •A: B
-F: IS007 •A: F
-C: IS008 •A: C
-J: IS009 •A: J
+B: IS006 •A: B •EN: Progressive Party          •IS: Framsóknarflokkurinn
+C: IS008 •A: C •EN: Liberal Reform Party       •IS: Viðreisn
+D: IS001 •A: D •EN: Independence Party         •IS: Sjálfstæðisflokkurinn
+F: IS007 •A: F •EN: People’s Party             •IS: Flokkur fólksins
+J: IS009 •A: J •EN: Icelandic Socialist Party  •IS: Sósíalistaflokkur Íslands
+M: IS004 •A: M •EN: Centre Party               •IS: Miðflokkurinn
+P: IS005 •A: P •EN: Pirate Party               •IS: Píratar
+S: IS002 •A: S •EN: Social Democratic Alliance •IS: Samfylkingin - jafnaðarflokkur Íslands
+V: IS003 •A: V •EN: Left-Green Movement        •IS: Vinstrihreyfingin – grænt framboð
