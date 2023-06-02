@@ -74,7 +74,7 @@
 •PF: Ipsos           •C: Dagbladet                                                                 •PD: 2022-08-26    •SC: N                                              R: 7.4  SV: 7.4  MDG: 3.5 AP: 21.6 SP: 5.7  V: 4.2 KRF: 3.8 H: 27.2 FRP: 15.1 •O: 4.1
 •PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-08-16      •FE: 2022-08-22    •SC: N     •SS: 1000                                 R: 5.8  SV: 8.7  MDG: 3.8 AP: 20.2 SP: 6.9  V: 3.8 KRF: 4.9 H: 28.9 FRP: 13.4 •O: 3.5
 •PF: Respons Analyse •C: VG                                                   •FS: 2022-08-10      •FE: 2022-08-15    •SC: N     •SS: 1000                                 R: 7.5  SV: 9.5  MDG: 3.8 AP: 19.9 SP: 6.6  V: 4.1 KRF: 3.9 H: 28.9 FRP: 12.5 •O: 3.5
-•PF: Norstat         •C: NRK •C: Aftenposten                                  •FS: 2022-08-09      •FE: 2022-08-14    •SC: N     •SS: 960                                  R: 5.8  SV: 8.9  MDG: 3.7 AP: 19.4 SP: 5.9  V: 4.6 KRF: 3.8 H: 30.0 FRP: 14.4 •O: 3.5
+•PF: Norstat         •C: NRK •C: Aftenposten                                  •FS: 2022-08-09      •FE: 2022-08-14    •SC: N     •SS: 960                                  R: 5.8  SV: 8.9  MDG: 3.7 AP: 19.4 SP: 5.9  V: 4.6 KRF: 3.8 H: 30.0 FRP: 14.4 K: 0.4 LIB: 0.4 INP: 1.4 FP: 0.4 HP: 0.2 ND: 0.6 •O: 0.1
 •PF: Opinion Perduco •C: Dagsavisen •C: FriFagbevegelse •C: Avisens Nyhetsbyrå   •FS: 2022-08-02      •FE: 2022-08-08    •SC: N     •SS: 971         •EX: 30.0                 R: 5.1  SV: 8.4  MDG: 3.1 AP: 19.3 SP: 6.0  V: 5.0 KRF: 3.2 H: 29.1 FRP: 14.8 •O: 5.9
 •PF: Kantar TNS      •C: TV2                                                  •FS: 2022-08-01      •FE: 2022-08-05    •SC: N     •SS: 981         •EX: 24.9                 R: 7.0  SV: 9.9  MDG: 3.6 AP: 20.4 SP: 6.8  V: 4.9 KRF: 3.3 H: 27.2 FRP: 13.2 •O: 3.7
 •PF: Norfakta        •C: Nationen •C: Klassekampen                            •FS: 2022-08-02      •FE: 2022-08-03    •SC: N     •SS: 1005        •EX: 21.0                 R: 6.4  SV: 8.5  MDG: 4.1 AP: 22.2 SP: 7.2  V: 3.7 KRF: 2.9 H: 28.7 FRP: 13.3 •O: 3.0
@@ -82,7 +82,7 @@
 •PF: Kantar TNS      •C: TV2                                                  •FS: 2022-06-24      •FE: 2022-06-30    •SC: N     •SS: 976         •EX: 21.0                 R: 6.9  SV: 8.3  MDG: 3.0 AP: 21.4 SP: 6.7  V: 4.4 KRF: 3.1 H: 29.5 FRP: 13.1 •O: 3.9
 •PF: Ipsos           •C: Dagbladet                                            •FS: 2022-06-27      •FE: 2022-06-29    •SC: N                                              R: 6.3  SV: 9.0  MDG: 3.5 AP: 23.1 SP: 4.7  V: 4.0 KRF: 3.6 H: 26.8 FRP: 14.8 •O: 4.2
 •PF: Norstat         •C: Vårt Land                                            •FS: 2022-06-13      •FE: 2022-06-20    •SC: N     •SS: 951                                  R: 5.3  SV: 8.5  MDG: 3.8 AP: 20.5 SP: 7.3  V: 3.5 KRF: 2.6 H: 29.1 FRP: 15.8 •O: 3.6
-•PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-06-07      •FE: 2022-06-13    •SC: N     •SS: 1000                                 R: 5.7  SV: 9.5  MDG: 4.3 AP: 22.2 SP: 7.0  V: 4.6 KRF: 3.5 H: 24.6 FRP: 14.6 •O: 3.9
+•PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-06-07      •FE: 2022-06-13    •SC: N     •SS: 1000                                 R: 5.7  SV: 9.5  MDG: 4.3 AP: 22.2 SP: 7.0  V: 4.6 KRF: 3.5 H: 24.6 FRP: 14.6 PP: 0.9 K: 0.2 INP: 0.5 FP: 0.7 ND: 0.9 •O: 0.7
 •PF: Respons Analyse •C: VG                                                   •FS: 2022-06-04      •FE: 2022-06-09    •SC: N     •SS: 1000                                 R: 6.8  SV: 9.0  MDG: 4.0 AP: 20.2 SP: 7.4  V: 4.9 KRF: 3.9 H: 26.8 FRP: 14.0 •O: 3.0
 •PF: Norfakta        •C: Nationen •C: Klassekampen                            •FS: 2022-06-07      •FE: 2022-06-08    •SC: N     •SS: 1001                                 R: 5.6  SV: 8.3  MDG: 3.0 AP: 23.0 SP: 6.9  V: 5.3 KRF: 3.8 H: 27.8 FRP: 13.1 •O: 3.2
 •PF: Opinion Perduco •C: Dagsavisen •C: FriFagbevegelse •C: Avisens Nyhetsbyrå   •FS: 2022-05-31      •FE: 2022-06-05    •SC: N     •SS: 965                                  R: 5.4  SV: 9.3  MDG: 2.9 AP: 19.7 SP: 9.2  V: 4.2 KRF: 2.8 H: 28.0 FRP: 14.1 •O: 4.5
@@ -98,16 +98,16 @@
 •PF: Norstat         •C: NRK •C: Aftenposten                                  •FS: 2022-04-26      •FE: 2022-05-02    •SC: N     •SS: 963         •EX: 23.0                 R: 6.7  SV: 7.6  MDG: 3.3 AP: 24.8 SP: 6.6  V: 5.0 KRF: 3.0 H: 26.5 FRP: 13.0 •O: 3.6
 •PF: Ipsos           •C: Dagbladet                                            •FS: 2022-04-25      •FE: 2022-04-27    •SC: N     •SS: 936                                  R: 5.9  SV: 8.6  MDG: 3.9 AP: 23.8 SP: 9.4  V: 5.5 KRF: 3.4 H: 26.2 FRP: 10.6 •O: 2.7
 •PF: Norstat         •C: Vårt Land                                            •FS: 2022-04-19      •FE: 2022-04-25    •SC: N     •SS: 952                                  R: 6.6  SV: 9.6  MDG: 3.2 AP: 20.9 SP: 5.5  V: 4.3 KRF: 3.1 H: 28.3 FRP: 14.3 •O: 4.2
-•PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-04-05      •FE: 2022-04-10    •SC: N     •SS: 1000                                 R: 5.7  SV: 6.0  MDG: 3.9 AP: 24.5 SP: 8.6  V: 5.7 KRF: 3.2 H: 27.6 FRP: 11.2 •O: 3.6
+•PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-04-05      •FE: 2022-04-10    •SC: N     •SS: 1000                                 R: 5.7  SV: 6.0  MDG: 3.9 AP: 24.5 SP: 8.6  V: 5.7 KRF: 3.2 H: 27.6 FRP: 11.2 PP: 0.2 K: 0.2 LIB: 0.6 INP: 1.0 ND: 1.4 •O: 0.2
 •PF: Opinion Perduco •C: Dagsavisen •C: FriFagbevegelse •C: Avisens Nyhetsbyrå   •FS: 2022-04-06      •FE: 2022-04-06    •SC: N                                              R: 6.4  SV: 7.1  MDG: 3.2 AP: 25.8 SP: 7.1  V: 5.6 KRF: 3.4 H: 25.6 FRP: 12.7 •O: 3.2
 •PF: Norfakta        •C: Nationen •C: Klassekampen                            •FS: 2022-04-05      •FE: 2022-04-06    •SC: N     •SS: 1001        •EX: 21.0                 R: 7.2  SV: 8.7  MDG: 3.3 AP: 23.8 SP: 6.1  V: 4.4 KRF: 2.5 H: 29.6 FRP: 11.3 •O: 3.1
-•PF: Respons Analyse •C: VG                                                   •FS: 2022-04-04      •FE: 2022-04-06    •SC: N     •SS: 1003                                 R: 6.2  SV: 7.8  MDG: 2.9 AP: 23.1 SP: 8.0  V: 3.7 KRF: 4.0 H: 27.6 FRP: 13.3 •O: 3.4
-•PF: Kantar TNS      •C: TV2                                                  •FS: 2022-03-28      •FE: 2022-04-01    •SC: N     •SS: 982                                  R: 5.0  SV: 8.3  MDG: 3.4 AP: 23.2 SP: 6.6  V: 4.3 KRF: 3.3 H: 27.7 FRP: 13.9 •O: 4.4
+•PF: Respons Analyse •C: VG                                                   •FS: 2022-04-04      •FE: 2022-04-06    •SC: N     •SS: 1003                                 R: 6.2  SV: 7.8  MDG: 2.9 AP: 23.1 SP: 8.0  V: 3.7 KRF: 4.0 H: 27.6 FRP: 13.3 PP: 0.7 K: 0.2 LIB: 0.4 INP: 0.4 ND: 1.5 •O: 0.2
+•PF: Kantar TNS      •C: TV2                                                  •FS: 2022-03-28      •FE: 2022-04-01    •SC: N     •SS: 982                                  R: 5.0  SV: 8.3  MDG: 3.4 AP: 23.2 SP: 6.6  V: 4.3 KRF: 3.3 H: 27.7 FRP: 13.9 ND: 1.8 •O: 2.6
 •PF: Norstat         •C: NRK •C: Aftenposten                                  •FS: 2022-03-22      •FE: 2022-03-28    •SC: N     •SS: 945                                  R: 6.9  SV: 7.8  MDG: 4.2 AP: 20.9 SP: 8.5  V: 4.1 KRF: 4.6 H: 27.3 FRP: 12.5 •O: 3.2
-•PF: Ipsos           •C: Dagbladet                                            •FS: 2022-03-21      •FE: 2022-03-23    •SC: N     •SS: 938         •EX: 21.0                 R: 6.6  SV: 7.1  MDG: 2.6 AP: 24.0 SP: 7.6  V: 4.3 KRF: 3.1 H: 26.4 FRP: 13.2 •O: 5.1
+•PF: Ipsos           •C: Dagbladet                                            •FS: 2022-03-21      •FE: 2022-03-23    •SC: N     •SS: 938         •EX: 21.0                 R: 6.6  SV: 7.1  MDG: 2.6 AP: 24.0 SP: 7.6  V: 4.3 KRF: 3.1 H: 26.4 FRP: 13.2 ND: 2.6 KP: 0.5 HP: 0.4 PP: 0.4 INP: 0.3 K: 0.3 •O: 0.6
 •PF: Norstat         •C: Vårt Land                                            •FS: 2022-03-15      •FE: 2022-03-20    •SC: N     •SS: 958                                  R: 8.5  SV: 5.9  MDG: 4.2 AP: 22.6 SP: 6.6  V: 3.9 KRF: 3.3 H: 28.6 FRP: 11.2 •O: 5.2
 •PF: Respons Analyse •C: VG                                                   •FS: 2022-03-08      •FE: 2022-03-14    •SC: N     •SS: 1000                                 R: 6.5  SV: 7.4  MDG: 4.2 AP: 23.0 SP: 8.0  V: 4.9 KRF: 3.6 H: 25.5 FRP: 13.3 •O: 3.6
-•PF: Sentio          •C: Nettavisen                                           •FS: 2022-03-08      •FE: 2022-03-14    •SC: N     •SS: 1000        •EX: 25.0                 R: 7.2  SV: 8.7  MDG: 2.9 AP: 22.5 SP: 9.2  V: 4.9 KRF: 2.5 H: 27.5 FRP: 10.4 •O: 4.1
+•PF: Sentio          •C: Nettavisen                                           •FS: 2022-03-08      •FE: 2022-03-14    •SC: N     •SS: 1000        •EX: 25.0                 R: 7.2  SV: 8.7  MDG: 2.9 AP: 22.5 SP: 9.2  V: 4.9 KRF: 2.5 H: 27.5 FRP: 10.4 ND: 2.0 PP: 0.8 INP: 0.5 K: 0.5 •O: 0.3
 •PF: Opinion Perduco •C: Dagsavisen •C: FriFagbevegelse •C: Avisens Nyhetsbyrå   •FS: 2022-03-02      •FE: 2022-03-07    •SC: N     •SS: 965         •EX: 28.0                 R: 8.0  SV: 6.5  MDG: 4.4 AP: 23.6 SP: 7.5  V: 4.3 KRF: 3.8 H: 26.9 FRP: 11.6 •O: 3.4
 •PF: Norfakta        •C: Nationen •C: Klassekampen                            •FS: 2022-03-01      •FE: 2022-03-02    •SC: N     •SS: 1007        •EX: 20.0                 R: 7.3  SV: 8.7  MDG: 4.3 AP: 21.8 SP: 9.7  V: 5.1 KRF: 3.1 H: 25.8 FRP: 11.1 •O: 3.1
 •PF: Norstat         •C: NRK •C: Aftenposten                                  •FS: 2022-02-22      •FE: 2022-02-28    •SC: N     •SS: 956         •EX: 23.0                 R: 8.9  SV: 7.9  MDG: 3.4 AP: 22.6 SP: 9.1  V: 4.3 KRF: 4.2 H: 24.9 FRP: 10.9 •O: 4.0
@@ -115,7 +115,7 @@
 •PF: Kantar TNS      •C: TV2                                                  •FS: 2022-02-22      •FE: 2022-02-28    •SC: N     •SS: 1303                                 R: 7.8  SV: 9.5  MDG: 3.6 AP: 21.7 SP: 8.4  V: 5.1 KRF: 3.9 H: 26.4 FRP: 10.0 •O: 3.6
 •PF: Norstat         •C: Vårt Land                                            •FS: 2022-02-15      •FE: 2022-02-20    •SC: N     •SS: 952                                  R: 10.5 SV: 8.3  MDG: 3.0 AP: 22.8 SP: 7.5  V: 4.6 KRF: 2.4 H: 25.4 FRP: 11.3 •O: 4.3
 •PF: Respons Analyse •C: VG                                                   •FS: 2022-02-09      •FE: 2022-02-14    •SC: N     •SS: 1000                                 R: 9.4  SV: 8.9  MDG: 3.3 AP: 22.0 SP: 8.2  V: 3.5 KRF: 3.0 H: 25.3 FRP: 12.5 •O: 3.9
-•PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-02-08      •FE: 2022-02-12    •SC: N                     •EX: 0.1                 R: 8.1  SV: 10.6 MDG: 3.3 AP: 21.9 SP: 7.9  V: 4.9 KRF: 3.1 H: 24.9 FRP: 11.4 •O: 3.8
+•PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2022-02-08      •FE: 2022-02-12    •SC: N                     •EX: 0.1                 R: 8.1  SV: 10.6 MDG: 3.3 AP: 21.9 SP: 7.9  V: 4.9 KRF: 3.1 H: 24.9 FRP: 11.4 ND: 1.4 LIB: 0.7 INP: 0.5 K: 0.5 •O: 0.7
 •PF: Opinion Perduco •C: Dagsavisen •C: FriFagbevegelse •C: Avisens Nyhetsbyrå   •FS: 2022-02-01      •FE: 2022-02-07    •SC: N     •SS: 968         •EX: 28.0                 R: 10.3 SV: 8.2  MDG: 3.3 AP: 21.9 SP: 9.5  V: 4.4 KRF: 3.6 H: 25.8 FRP: 9.8  •O: 3.1
 •PF: Norfakta        •C: Nationen •C: Klassekampen                            •FS: 2022-02-01      •FE: 2022-02-02    •SC: N     •SS: 1000        •EX: 18.0                 R: 8.4  SV: 8.5  MDG: 2.6 AP: 23.4 SP: 7.2  V: 5.0 KRF: 3.7 H: 25.8 FRP: 12.2 •O: 3.3
 •PF: Norstat         •C: NRK •C: Aftenposten                                  •FS: 2022-01-25      •FE: 2022-01-31    •SC: N     •SS: 953                                  R: 8.3  SV: 10.4 MDG: 3.3 AP: 20.0 SP: 8.7  V: 3.8 KRF: 3.6 H: 26.2 FRP: 12.2 •O: 3.5
@@ -140,7 +140,7 @@
 •PF: Ipsos           •C: Dagbladet                                            •FS: 2021-11-22      •FE: 2021-11-24    •SC: N     •SS: 941                                  R: 5.4  SV: 9.3  MDG: 4.2 AP: 24.0 SP: 13.4 V: 4.5 KRF: 2.5 H: 22.3 FRP: 11.3 •O: 3.1
 •PF: Norstat         •C: Vårt Land                                            •FS: 2021-11-16      •FE: 2021-11-22    •SC: N     •SS: 964                                  R: 6.5  SV: 9.9  MDG: 3.4 AP: 24.3 SP: 11.6 V: 4.4 KRF: 3.4 H: 20.5 FRP: 13.0 •O: 3.1
 •PF: Sentio          •C: Nettavisen •C: Amedia                                •FS: 2021-11-09      •FE: 2021-11-14    •SC: N     •SS: 1000                                 R: 5.1  SV: 8.5  MDG: 4.1 AP: 27.3 SP: 11.4 V: 5.0 KRF: 3.9 H: 20.7 FRP: 11.1 •O: 2.9
-•PF: Respons Analyse •C: VG                                                   •FS: 2021-11-10      •FE: 2021-11-15    •SC: N     •SS: 1001                                 R: 4.8  SV: 8.5  MDG: 4.1 AP: 25.5 SP: 13.1 V: 5.2 KRF: 2.8 H: 21.7 FRP: 11.0 •O: 3.3
+•PF: Respons Analyse •C: VG                                                   •FS: 2021-11-10      •FE: 2021-11-15    •SC: N     •SS: 1001                                 R: 4.8  SV: 8.5  MDG: 4.1 AP: 25.5 SP: 13.1 V: 5.2 KRF: 2.8 H: 21.7 FRP: 11.0 ND: 0.9 INP: 0.6 LIB: 0.4 PP: 0.4 K: 0.2 HP: 0.1 KP: 0.1 •O: 0.6
 •PF: Opinion Perduco •C: Dagsavisen •C: FriFagbevegelse •C: Avisens Nyhetsbyrå   •FS: 2021-11-02      •FE: 2021-11-08    •SC: N     •SS: 962                                  R: 5.3  SV: 8.8  MDG: 3.0 AP: 26.0 SP: 13.3 V: 4.8 KRF: 3.6 H: 20.9 FRP: 12.0 •O: 2.2
 •PF: Norfakta        •C: Nationen •C: Klassekampen                            •FS: 2021-11-02      •FE: 2021-11-03    •SC: N                                              R: 4.6  SV: 8.2  MDG: 4.1 AP: 27.9 SP: 12.7 V: 4.7 KRF: 3.3 H: 21.7 FRP: 10.0 •O: 2.8
 •PF: Kantar TNS      •C: TV2                                                  •FS: 2021-10-27      •FE: 2021-11-02    •SC: N                                              R: 5.3  SV: 8.6  MDG: 3.7 AP: 26.8 SP: 12.0 V: 4.3 KRF: 3.2 H: 21.4 FRP: 11.5 •O: 3.2
@@ -544,15 +544,18 @@
 •PF: Sentio                                                                   •FS: 2017-09-12      •FE: 2017-09-18    •SC: N     •SS: 1000        •EX: 19.9                 R: 2.4  SV: 6.4  MDG: 3.3 AP: 26.2 SP: 11.4 V: 3.9 KRF: 3.9 H: 26.8 FRP: 14.7 •O: 0.9
 
 AP:  NO002 •A: Ap
-FP:        •A: FP  •EN: People’s Party FNB          •NO: Folkets parti FNB
-FRP: NO003 •A: FrP
+FP:  NO017 •A: FP  •EN: People’s Party FNB          •NO: Folkets parti FNB
+FRP: NO003 •A: Frp
 H:   NO001 •A: H   •EN: Conservative Party          •NB: Høyre             •NN: Høgre             •SE: Olgešbellodat
-INP:       •A: INP •EN: Industry and Business Party •NO: Industri- og Næringspartiet
-K:         •A: K   •EN: Conservative                •NB: Konservativt      •NN: Konservativt
+HP:  NO016 •A: Hp                                   •NO: Helsepartiet
+INP: NO011 •A: INP •EN: Industry and Business Party •NO: Industri- og Næringspartiet
+K:   NO014 •A: K   •EN: Conservative                •NB: Konservativt      •NN: Konservativt
+KP:  NO015 •A: Kp  •EN: Coastal Party               •NO: Kystpartiet
 KRF: NO007 •A: KrF
-ND:        •A: ND  •EN: Norway Democrats            •NB: Norgesdemokratene •NN: Noregsdemokratane
-MDG: NO008 •A: MDG
-PP:                •EN: Pensioners’ Party           •NO: Pensjonistpartiet
+LIB: NO012 •A: Lib •EN: Capitalist Party            •NB: Liberalistene     •NN: Liberalistane
+ND:  NO010 •A: ND  •EN: Norway Democrats            •NB: Norgesdemokratene •NN: Noregsdemokratane
+MDG: NO008 •A: MdG
+PP:  NO013 •A: Pp  •EN: Pensioners’ Party           •NO: Pensjonistpartiet
 R:   NO009 •A: R   •EN: Red Party                   •NB: Rødt              •NN: Raudt             •SE: Ruoksat
 SP:  NO004 •A: Sp
 SV:  NO005 •A: SV
