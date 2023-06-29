@@ -1,3 +1,6 @@
+•PF: IPIS             •FS: 2023-05-23 •FE: 2023-05-26 •SC: N •SS: 1112 СДСМ: 24.6              BESA: 4.4 ВМРО: 38.2 BDI: 12.4 ASH: 5.0 ЛЕВ: 6.3  ДИМИ: 5.7 •O: 0.8
+•PF: НДИ              •FS: 2023-04-13 •FE: 2023-04-14 •SC: N •SS: 1003 СДСМ: 25.6              BESA: 6.6 ВМРО: 39.6 BDI: 11.4 ASH: 6.3 ЛЕВ: 5.3  ДИМИ: 3.1 •O: 2.1
+•PF: IPIS             •FS: 2023-03    •FE: 2023-03    •SC: N •SS: 1114 СДСМ+BDI: 30.1          BESA: 8.5 ВМРО: 39.2           ASH: 4.9 ЛЕВ: 8.1  ДИМИ: 9.2
 •PF: ИДСЦС           •FS: 2023-02-22 •FE: 2023-03-09 •SC: N •SS: 1002 СДСМ: 27                BESA: 2   ВМРО: 38   BDI: 18   ASH: 7   ЛЕВ: 9
 •PF: МКД.мк          •FS: 2023-02-06 •FE: 2023-02-16 •SC: N •SS: 1200 СДСМ: 22.3 ДОМ+ЛДП: 0.2 BESA: 4.1 ВМРО: 39.2 BDI: 14.7 ASH: 6.7 ЛЕВ: 8.1 •O: 3.4
 •PF: ИРИ                              •PD: 2022-12-19 •SC: N •SS: 1200 СДСМ: 16.3 BESA: 7.0 ВМРО: 33.3 BDI: 13.3 ASH: 7.8 ЛЕВ: 12.3 •O: 8.8
@@ -16,6 +19,7 @@ ASH:  MK004 •A: ASH                       •EN: The Alliance for the Albanian
 BESA: MK006 •A: BESA                      •EN: Besa Movement                                                                                   •MK: Движење Беса                                                                                              •SQ: Lëvizja Besa
 PDSH: MK008 •A: PDSH                      •EN: Democratic Party of Albanians                                                                   •MK: Демократска партија на Албанците                                                                          •SQ: Partia Demokratike Shqiptare
 ВМРО: MK001 •A: ВМРО–ДПМНЕ •R: VMRO–DPMNE •EN: Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity •MK: Внатрешна македонска револуционерна организација – Демократска партија за македонско национално единство
+ДИМИ: MK011 •A: ДИМИ       •R: DIMI                                                                                                            •MK: Максим Димитриевски
 ДОМ:  MK009 •A: ДОМ        •R: DOM        •EN: Democratic Renewal of Macedonia                                                                 •MK: Демократска обнова на Македонија
 BDI:  MK003 •A: BDI                       •EN: Democratic Union for Integration                                                                •MK: Демократска унија за интеграција                                                                          •SQ: Bashkimi Demokratik për Integrim
 ЛДП:  MK010 •A: ЛДП        •R: LDP        •EN: Liberal Democratic Party                                                                        •MK: Либерално-Демократска Партија
