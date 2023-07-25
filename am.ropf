@@ -1,19 +1,26 @@
-•PF: Caucasus Research Resource Center  •C: International Republican Institute •FS: 2021-04-08 •FE: 2021-05-04 •SS: 1502         IKD: 26   RPA: 1   PAP: 1    BA: 1   FD: 1 REP: 1   NDP: 1   ARF: 1 
-•PF: Gallup                                                                    •FS: 2021-04-23 •FE: 2021-04-27 •SS: 1003 AA: 8.1 IKD: 27.2 RPA: 1.8 PAP: 3.7  BA: 1.8                NDP: 1.1 ARF: 1.1
-•PF: Gallup                                                                    •FS: 2021-03-26 •FE: 2021-03-29 •SS: 801  AA: 5.9 IKD: 31.7 RPA: 2.4 PAP: 4.4  BA: 2.7       REP: 0.4 NDP: 0.5 ARF: 2.1
-•PF: Gallup                                                                    •FS: 2021-02-15 •FE: 2021-02-17                   IKD: 33.1 RPA: 2.2 PAP: 4.4  BA: 2.6       REP: 0.7 NDP: 0.4 ARF: 2.2
-•PF: Breavis                            •C: International Republican Institute •FS: 2021-02-08 •FE: 2021-02-16 •SS: 1510         IKD: 33   RPA: 1   PAP: 3    BA: 1                  NDP: 1   ARF: 1 
-•PF: Gallup                                                                    •FS: 2020-06-10 •FE: 2020-06-27 •SS: 1002         IKD: 55   RPA: 1.4 PAP: 6    BA: 5                  NDP: 0.1 ARF: 1.8
-•PF: Gallup                                                                    •FS: 2019-11-09 •FE: 2019-12-01 •SS: 1517         IKD: 61.3 RPA: 1.5 PAP: 14.2 BA: 3.9                ST: 1.1  ARF: 2.5 
-•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2019-09-20 •FE: 2019-10-13 •SS: 1200         IKD: 55   RPA: 4   PAP: 19   BA: 6   FD: 1 REP: 1            ARF: 3 
-•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2019-05-06 •FE: 2019-05-31 •SS: 1200         IKD: 59   RPA: 5   PAP: 12   BA: 4                  ST: 1    ARF: 4 
-•PF: Gallup                                                                    •FS: 2019-04-30 •FE: 2019-05-09 •SS: 1108         IKD: 60   RPA: 1.6 PAP: 11.9 BA: 4.6                ST: 1.21 ARF: 1.6 
+•PF: Breavis                            •C: International Republican Institute •FS: 2023-01-23 •FE: 2023-03-04 •SS: 1513 •EX: 62 IKD: 55 AA: 11 PAP: 8 PVP: 5 RPA: 3 REP: 3 ANC: 3 NDP: 3 CDRP: 3 ARF: 3
+•PF: Gallup                                                                    •FS: 2021-06-11 •FE: 2021-06-18           AA: 28.7 IKD: 25.2 IHHA: 10.8 PAP: 5.4  BA: 5.2       REP: 2.6 NDP: 0.7          •N: 12.0
+•PF: Armenian Election Study                                                   •FS: 2021-05-31 •FE: 2021-06-16 •SS: 800  AA: 12   IKD: 24   IHHA: 1    PAP: 2                  REP: 2   NDP: 2            •N: 54
+•PF: Gallup                                                                    •FS: 2021-06-06 •FE: 2021-06-10 •SS: 1103 AA: 24.1 IKD: 23.8 IHHA: 7.4  PAP: 3.7  BA: 3.1       REP: 2.3 NDP: 0.8          •N: 27.4
+•PF: Gallup                                                                    •FS: 2021-05-31 •FE: 2021-06-04 •SS: 1100 AA: 20.6 IKD: 22.4 IHHA: 3.9  PAP: 4.2  BA: 2.9       REP: 2.1 NDP: 1.5          •N: 37.6
+•PF: Gallup                                                                    •FS: 2021-05-25 •FE: 2021-05-28 •SS: 1102 AA: 17.5 IKD: 22.9 IHHA: 2.7  PAP: 3.8  BA: 2.3       REP: 2.8 NDP: 1.7          •N: 41.2
+•PF: Gallup                                                                    •FS: 2021-05-18 •FE: 2021-05-21           AA: 14.3 IKD: 24.8 IHHA: 3.1  PAP: 4.1  BA: 2.0       REP: 2.5 NDP: 1
+•PF: Caucasus Research Resource Center  •C: International Republican Institute •FS: 2021-04-08 •FE: 2021-05-04 •SS: 1502          IKD: 26   RPA: 1     PAP: 1    BA: 1   FD: 1 REP: 1   NDP: 1   ARF: 1   •N: 69
+•PF: Gallup                                                                    •FS: 2021-04-23 •FE: 2021-04-27 •SS: 1003 AA: 8.1  IKD: 27.2 RPA: 1.8   PAP: 3.7  BA: 1.8                NDP: 1.1 ARF: 1.1 •N: 33.5
+•PF: Gallup                                                                    •FS: 2021-03-26 •FE: 2021-03-29 •SS: 801  AA: 5.9  IKD: 31.7 RPA: 2.4   PAP: 4.4  BA: 2.7       REP: 0.4 NDP: 0.5 ARF: 2.1 •N: 44.6
+•PF: Gallup                                                                    •FS: 2021-02-15 •FE: 2021-02-17                    IKD: 33.1 RPA: 2.2   PAP: 4.4  BA: 2.6       REP: 0.7 NDP: 0.4 ARF: 2.2 •N: 27.2
+•PF: Breavis                            •C: International Republican Institute •FS: 2021-02-08 •FE: 2021-02-16 •SS: 1510          IKD: 33   RPA: 1     PAP: 3    BA: 1                  NDP: 1   ARF: 1   •N: 56
+•PF: Gallup                                                                    •FS: 2020-06-10 •FE: 2020-06-27 •SS: 1002          IKD: 55   RPA: 1.4   PAP: 6    BA: 5                  NDP: 0.1 ARF: 1.8 •N: 28
+•PF: Gallup                                                                    •FS: 2019-11-09 •FE: 2019-12-01 •SS: 1517          IKD: 61.3 RPA: 1.5   PAP: 14.2 BA: 3.9                ST: 1.1  ARF: 2.5 
+•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2019-09-20 •FE: 2019-10-13 •SS: 1200          IKD: 55   RPA: 4     PAP: 19   BA: 6   FD: 1 REP: 1            ARF: 3   •N: 11
+•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2019-05-06 •FE: 2019-05-31 •SS: 1200          IKD: 59   RPA: 5     PAP: 12   BA: 4                  ST: 1    ARF: 4   •N: 15
+•PF: Gallup                                                                    •FS: 2019-04-30 •FE: 2019-05-09 •SS: 1108          IKD: 60   RPA: 1.6   PAP: 11.9 BA: 4.6                ST: 1.21 ARF: 1.6
 •PF: Gallup                                                                    •FS: 2018-12-01 •FE: 2018-12-04 •SS: 1100 IKD: 69.4 BA: 3.8 RPA: 1.3 PAP: 5.7 ARF: 1.2 ST: 1.4
 •PF: Gallup                                                                    •FS: 2018-11-17 •FE: 2018-11-21           IKD: 68.3 BA: 1.2 RPA: 1.5 PAP: 6.7 ARF: 1   ST: 0.9
-•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2018-10-09 •FE: 2018-10-29 •SS: 1200 IKD: 67    BA: 10  RPA: 2   PAP: 9   ARF: 2 ST: 3   HERITAGE: <1
-•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2018-05-04 •FE: 2018-08-15 •SS: 1200 YELQ: 66 RPA: 4   PAP: 13  ARF: 2   HERITAGE: 1  
+•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2018-10-09 •FE: 2018-10-29 •SS: 1200 IKD: 67    BA: 10  RPA: 2   PAP: 9   ARF: 2 ST: 3   HERITAGE: <1 •N: 5
+•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2018-05-04 •FE: 2018-08-15 •SS: 1200 YELQ: 66 RPA: 4   PAP: 13  ARF: 2   HERITAGE: 1  •N: 11
 •PF: Gallup                                                                    •FS: 2018-05-04 •FE: 2018-05-09           YELQ: 75 RPA: 3.8 PAP: 3.2 ARF: 1.9 HERITAGE: 0.4
-•PF: Gallup •PF: Baltijos tyrimai                                              •FS: 2017-03-18 •FE: 2017-03-27 •SS: 1005 RPA: 30   TA: 29   YELQ: 9   ARF: 7   FD: 3   ROL: 5   ANC: 4   ORO: 4   HKK: 3  
+•PF: Gallup •PF: Baltijos tyrimai                                              •FS: 2017-03-18 •FE: 2017-03-27 •SS: 1005 RPA: 30   TA: 29   YELQ: 9   ARF: 7   FD: 3   ROL: 5   ANC: 4   ORO: 4   HKK: 3   •N: 4
 •PF: Gallup                                                                    •FS: 2017-03-12 •FE: 2017-03-19           RPA: 29.4 TA: 28.2 YELQ: 6.1 ARF: 4.8 FD: 4.4 ROL: 3.4 ANC: 2.9 ORO: 2.5 HKK: 1.2
 •PF: Gallup                                                                    •FS: 2017-02-23 •FE: 2017-03-02 •SS: 1146 RPA: 22.8 TA: 26.4 YELQ: 4.3 ARF: 3.9 FD: 3.4 ROL: 2.7 ANC: 2.6 ORO: 1.8 HKK: 1.0
 •PF: Հետք                                                                                     •PD: 2012-05-05           RPA: 10   PAP: 11   ROL: 2   ARF: 25  HERITAGE: 11  ANC: 28  •O: 9   •N: 4
@@ -26,26 +33,30 @@
 •PF: “500 Voices” Social Research Group                                        •FS: 2012-02-14 •FE: 2012-02-14           RPA: 9    PAP: 36            ARF: 12  HERITAGE: 5   ANC: 27          •N: 11
 •PF: Research Center of Political Developments                                 •FS: 2012-02-06 •FE: 2012-02-06 •SS: 1200 RPA: 34   PAP: 21   ROL: 2   ARF: 3   HERITAGE: 7   ANC: 13          •N: 20
 
-AA:       AM017 •A: ՀԴ            •R: HD            •EN: Armenia Alliance                  •HY: Հայաստան դաշինք
-ANC:      AM003 •A: ՀԱԿ           •R: HAK           •EN: Armenian National Congress        •HY: Հայ Ազգային Կոնգրես
-ARF:      AM005 •A: ՀՅԴ           •R: AJD           •EN: Armenian Revolutionary Federation •HY: Հայ Յեղափոխական Դաշնակցութիւն
-BA:       AM013 •A: ԼՀ            •R: LH            •EN: Bright Armenia                    •HY: Լուսավոր Հայաստան
-FD:       AM009 •A: ԱԴ            •R: AD            •EN: Free Democrats                    •HY: Ազատ դեմոկրատներ
-HERITAGE: AM004 •A: Ժառանգություն •R: Zhaṙangut’yun •EN: Heritage                          •HY: Ժառանգություն                         •RU: Наследие
-HKK:      AM011 •A: ՀԿԿ           •R: HKK           •EN: Armenian Communist Party          •HY: Հայաստանի կոմունիստական կուսակցություն
-IKD:      AM012 •A: ԻՔԴ           •R: IKD           •EN: My Step Alliance                  •HY: Իմ Քայլը դաշինք
-NDP:      AM016 •A: ԱԺԲ           •R: AZhB          •EN: National Democratic Pole          •HY: Ազգային ժողովրդավարական բեւեռ
-ORO:      AM010 •A: ՕՐՕ           •R: ORO           •EN: ORO Alliance                      •HY: ՕՐՕ դաշինք
-PAP:      AM002 •A: ԲՀԿ           •R: BHK           •EN: Prosperous Armenia Party          •HY: Բարգավաճ Հայաստան կուսակցություն
-REP:      AM015 •A: ՀԿ            •R: HK            •EN: Republic Party                    •HY: Հանրապետություն կուսակցություն
-ROL:      AM006 •A: ՕԵԿ           •R: OEK           •EN: Rule of Law                       •HY: Օրինաց երկիր
-RPA:      AM001 •A: ՀՀԿ           •R: HHK           •EN: Republican Party of Armenia       •HY: Հայաստանի Հանրապետական Կուսակցություն
-ST:       AM014 •A: ՍԾ            •R: ST            •EN: Sasna Tsrer Pan-Armenian Party    •HY: Սասնա Ծռեր համահայկական կուսակցություն
-TA:       AM007 •A: ԾԴ            •R: TD            •EN: Tsarukyan Alliance                •HY: «Ծառուկյան» դաշինք
-YELQ:     AM008 •A: ԵԼՔ           •R: YeLQ          •EN: Way Out Alliance                  •HY: «Ելք» դաշինք
+AA:       AM017 •A: ՀԴ            •R: HD            •EN: Armenia Alliance                   •HY: Հայաստան դաշինք
+ANC:      AM003 •A: ՀԱԿ           •R: HAK           •EN: Armenian National Congress         •HY: Հայ Ազգային Կոնգրես
+ARF:      AM005 •A: ՀՅԴ           •R: AJD           •EN: Armenian Revolutionary Federation  •HY: Հայ Յեղափոխական Դաշնակցութիւն
+BA:       AM013 •A: ԼՀ            •R: LH            •EN: Bright Armenia                     •HY: Լուսավոր Հայաստան
+CDRP:     AM020 •A: ՀՔԴՇ          •R: HQDŠ          •EN: Christian-Democratic Rebirth Party •HY: Հայաստանի Քրիստոնեա Դեմոկրատական Շարժում
+FD:       AM009 •A: ԱԴ            •R: AD            •EN: Free Democrats                     •HY: Ազատ դեմոկրատներ
+HERITAGE: AM004 •A: Ժառանգություն •R: Žaṙangut’yun  •EN: Heritage                           •HY: Ժառանգություն                         •RU: Наследие
+HKK:      AM011 •A: ՀԿԿ           •R: HKK           •EN: Armenian Communist Party           •HY: Հայաստանի կոմունիստական կուսակցություն
+IHHA:     AM018 •A: ՊՈԴ           •R: PUD           •EN: I Have Honor Alliance              •HY: Պատիվ ունեմ դաշինք
+IKD:      AM012 •A: ԻՔԴ           •R: IKD           •EN: My Step Alliance                   •HY: Իմ Քայլը դաշինք
+NDP:      AM016 •A: ԱԺԲ           •R: AŽB           •EN: National Democratic Pole           •HY: Ազգային ժողովրդավարական բեւեռ
+ORO:      AM010 •A: ՕՐՕ           •R: ORO           •EN: ORO Alliance                       •HY: ՕՐՕ դաշինք
+PAP:      AM002 •A: ԲՀԿ           •R: BHK           •EN: Prosperous Armenia Party           •HY: Բարգավաճ Հայաստան կուսակցություն
+PVP:      AM019 •A: ՀՁԿ           •R: HDK           •EN: Public Voice Party                 •HY: Հանրային ձայն կուսակցություն
+REP:      AM015 •A: ՀԿ            •R: HK            •EN: Republic Party                     •HY: Հանրապետություն կուսակցություն
+ROL:      AM006 •A: ՕԵԿ           •R: OEK           •EN: Rule of Law                        •HY: Օրինաց երկիր
+RPA:      AM001 •A: ՀՀԿ           •R: HHK           •EN: Republican Party of Armenia        •HY: Հայաստանի Հանրապետական Կուսակցություն
+ST:       AM014 •A: ՍԾ            •R: ST            •EN: Sasna Tsrer Pan-Armenian Party     •HY: Սասնա Ծռեր համահայկական կուսակցություն
+TA:       AM007 •A: ԾԴ            •R: TD            •EN: Tsarukyan Alliance                 •HY: «Ծառուկյան» դաշինք
+YELQ:     AM008 •A: ԵԼՔ           •R: YeLQ          •EN: Way Out Alliance                   •HY: «Ելք» դաշինք
 
 ‡ Named alliances:
 ‡ AA = ARF (+ Reborn Armenia + One Armenia Party)
+‡ IHHA = RPA + Homeland Party
 ‡ IKD = Civil Contract + Mission Party + various independent representatives of civil society
 ‡ NDP = ST + National Progress Party of Armenia + several independent politicians
 ‡ ORO = Unity + HERITAGE
