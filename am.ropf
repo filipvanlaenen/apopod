@@ -1,3 +1,8 @@
+•PF: Gallup                                                                    •FS: 2018-12-01 •FE: 2018-12-04 •SS: 1100 IKD: 69.4 BA: 3.8 RPA: 1.3 PAP: 5.7 ARF: 1.2 ST: 1.4
+•PF: Gallup                                                                    •FS: 2018-11-17 •FE: 2018-11-21           IKD: 68.3 BA: 1.2 RPA: 1.5 PAP: 6.7 ARF: 1   ST: 0.9
+•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2018-10-09 •FE: 2018-10-29 •SS: 1200 IKD: 67    BA: 10  RPA: 2   PAP: 9   ARF: 2 ST: 3   HERITAGE: <1
+•PF: Gallup •PF: Baltijos tyrimai       •C: International Republican Institute •FS: 2018-05-04 •FE: 2018-08-15 •SS: 1200 YELQ: 66 RPA: 4   PAP: 13  ARF: 2   HERITAGE: 1  
+•PF: Gallup                                                                    •FS: 2018-05-04 •FE: 2018-05-09           YELQ: 75 RPA: 3.8 PAP: 3.2 ARF: 1.9 HERITAGE: 0.4
 •PF: Gallup •PF: Baltijos tyrimai                                              •FS: 2017-03-18 •FE: 2017-03-27 •SS: 1005 RPA: 30   TA: 29   YELQ: 9   ARF: 7   FD: 3   ROL: 5   ANC: 4   ORO: 4   HKK: 3  
 •PF: Gallup                                                                    •FS: 2017-03-12 •FE: 2017-03-19           RPA: 29.4 TA: 28.2 YELQ: 6.1 ARF: 4.8 FD: 4.4 ROL: 3.4 ANC: 2.9 ORO: 2.5 HKK: 1.2
 •PF: Gallup                                                                    •FS: 2017-02-23 •FE: 2017-03-02 •SS: 1146 RPA: 22.8 TA: 26.4 YELQ: 4.3 ARF: 3.9 FD: 3.4 ROL: 2.7 ANC: 2.6 ORO: 1.8 HKK: 1.0
@@ -13,17 +18,21 @@
 
 ANC:      AM003 •A: ՀԱԿ           •R: HAK           •EN: Armenian National Congress        •HY: Հայ Ազգային Կոնգրես
 ARF:      AM005 •A: ՀՅԴ           •R: AJD           •EN: Armenian Revolutionary Federation •HY: Հայ Յեղափոխական Դաշնակցութիւն
+BA:       AM013 •A: ԼՀ            •R: LH            •EN: Bright Armenia                    •HY: Լուսավոր Հայաստան
 FD:       AM009 •A: ԱԴ            •R: AD            •EN: Free Democrats                    •HY: Ազատ դեմոկրատներ
 HERITAGE: AM004 •A: Ժառանգություն •R: Zhaṙangut’yun •EN: Heritage                          •HY: Ժառանգություն                         •RU: Наследие
 HKK:      AM011 •A: ՀԿԿ           •R: HKK           •EN: Armenian Communist Party          •HY: Հայաստանի կոմունիստական կուսակցություն
+IKD:      AM012 •A: ԻՔԴ           •R: IKD           •EN: My Step Alliance                  •HY: Իմ Քայլը դաշինք
 ORO:      AM010 •A: ՕՐՕ           •R: ORO           •EN: ORO Alliance                      •HY: ՕՐՕ դաշինք
 PAP:      AM002 •A: ԲՀԿ           •R: BHK           •EN: Prosperous Armenia Party          •HY: Բարգավաճ Հայաստան կուսակցություն
 ROL:      AM006 •A: ՕԵԿ           •R: OEK           •EN: Rule of Law                       •HY: Օրինաց երկիր
 RPA:      AM001 •A: ՀՀԿ           •R: HHK           •EN: Republican Party of Armenia       •HY: Հայաստանի Հանրապետական Կուսակցություն
+ST:       AM014 •A: ՍԾ            •R: ST            •EN: Sasna Tsrer Pan-Armenian Party    •HY: Սասնա Ծռեր համահայկական կուսակցություն
 TA:       AM007 •A: ԾԴ            •R: TD            •EN: Tsarukyan Alliance                •HY: «Ծառուկյան» դաշինք
 YELQ:     AM008 •A: ԵԼՔ           •R: YeLQ          •EN: Way Out Alliance                  •HY: «Ելք» դաշինք
 
 ‡ Named alliances:
+‡ IKD = Civil Contract + Mission Party + various independent representatives of civil society
 ‡ ORO = Unity + HERITAGE
 ‡ TA = PAP + Alliance Party + Mission Party
 ‡ YELQ = Civil Contract + Bright Armenia + Hanrapetutyun Party.
