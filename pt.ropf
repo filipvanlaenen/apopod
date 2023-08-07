@@ -148,7 +148,7 @@
 •PF: Intercampus  •C: Correio da Manhã •C: Negócios                                 •FS: 2019-11-20      •FE: 2019-11-26    •SC: N    •SS: 604                                  PSD: 24.9 PS: 34.9 BE: 10.8 CDSPP: 2.9    CDU: 8.1  PAN: 4.8 L: 2.7 IL: 2.9         CH: 4.8  •O: 3.2
 •PF: Eurosondagem                                                                   •FS: 2019-11-17      •FE: 2019-11-21    •SC: N    •SS: 1011                                 PSD: 27.1 PS: 36.9 BE: 10.1 CDSPP: 4.0    CDU: 6.9  PAN: 3.3                                  •O: 11.7
 •PF: Aximage                                                                        •FS: 2019-11-08      •FE: 2019-11-11    •SC: N    •SS: 639                                  PSD: 27.1 PS: 37.4 BE: 10.4 CDSPP: 4.0    CDU: 6.2  PAN: 3.2 L: 0.9 IL: 1.3         CH: 3.0  •O: 6.5
-•PF: Intercampus  •C: Correio da Manhã •C: Negócios                                 •FS: 2019-10-22      •FE: 2019-10-28    •SC: N    •SS: 604                                  PSD: 25.8 PS: 37.1 BE: 11.1 CDSPP: 4.6    CDU: 7.2  PAN: 5.5 L: 2.8 IL: 0.8         CH: 2.6         
+•PF: Intercampus  •C: Correio da Manhã •C: Negócios                                 •FS: 2019-10-22      •FE: 2019-10-28    •SC: N    •SS: 604                                  PSD: 25.8 PS: 37.1 BE: 11.1 CDSPP: 4.6    CDU: 7.2  PAN: 5.5 L: 2.8 IL: 0.8         CH: 2.6
 •PF: Pitagórica   •C: Jornal de Notícias                                            •FS: 2019-09-30      •FE: 2019-10-03    •SC: N    •SS: 600                                  PSD: 27.8 PS: 37.2 BE: 9.2  CDSPP: 4.6    CDU: 6.6  PAN: 4.8 L: 0.9 IL: 0.9 A: 1.1 CH: 1.8  •O: 5.3
 •PF: Pitagórica   •C: Jornal de Notícias                                            •FS: 2019-09-29      •FE: 2019-10-02    •SC: N    •SS: 600                                  PSD: 28.8 PS: 37.3 BE: 9.2  CDSPP: 3.9    CDU: 6.6  PAN: 4.4 L: 0.9 IL: 0.9 A: 1.5 CH: 1.5  •O: 5.0
 •PF: Aximage      •C: Jornal Económico                                              •FS: 2019-09-26      •FE: 2019-10-02    •SC: N    •SS: 2171                                 PSD: 26.8 PS: 36.5 BE: 10.7 CDSPP: 4.9    CDU: 6.6  PAN: 3.8 L: 1.3 IL: 1.1         CH: 1.3  •O: 7.0
@@ -226,13 +226,16 @@
 •PF: Eurosondagem •C: Expresso •C: SIC Notícias                                     •FS: 2018-01-14      •FE: 2018-01-17    •SC: N    •SS: 1018                                 PSD: 26.9 PS: 41.3 BE: 8.5  CDSPP: 7.0    CDU: 6.9  PAN: 1.8                                  •O: 7.6
 •PF: Aximage      •C: Correio da Manhã                                              •FS: 2018-01-06      •FE: 2018-01-09    •SC: N    •SS: 600                                  PSD: 26.2 PS: 40.2 BE: 9.2  CDSPP: 6.2    CDU: 6.8                                           •O: 11.4
 
-A: PT007     •A: A
-BE: PT003    •A: BE
-CDSPP: PT005 •A: CDS–PP
-CDU: PT004   •A: CDU
-CH: PT010    •A: CH
-IL: PT009    •A: IL
-L: PT008     •A: L
-PAN: PT006   •A: PAN
-PS: PT001    •A: PS
-PSD: PT002   •A: PSD
+A: PT007     •A: A      •EN: Alliance                           •PT: Aliança
+BE: PT003    •A: BE     •EN: Left Bloc                          •PT: Bloco de Esquerda
+CDSPP: PT005 •A: CDS–PP •EN: CDS – People’s Party               •PT: CDS – Partido Popular
+CDU: PT004   •A: CDU    •EN: CDU – Unitary Democratic Coalition •PT: CDU – Coligação Democrática Unitária
+CH: PT010    •A: CH     •EN: ENOUGH!                            •PT: CHEGA!
+IL: PT009    •A: IL     •EN: Liberal Initiative                 •PT: Iniciativa Liberal
+L: PT008     •A: L      •EN: FREE                               •PT: LIVRE
+PAN: PT006   •A: PAN    •EN: People-Animals-Nature              •PT: Pessoas-Animais-Natureza
+PS: PT001    •A: PS     •EN: Socialist Party                    •PT: Partido Socialista
+PSD: PT002   •A: PSD    •EN: Social Democratic Party            •PT: Partido Social Democrata
+
+‡ Named alliances:
+‡ CDU = PCP + PEV
