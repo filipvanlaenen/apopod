@@ -713,19 +713,54 @@
 •PF: Herald-DigiPoll •FS: 2005-09-09 •FE: 2005-09-14 •SC: N LAB: 44.6 NAT: 37.4 GRN: 4.6 NZF: 4.5 UNF: 2.6 TPM: 2.3 ACT: 1.3
 •PF: One News Colmar Brunton •FS: 2005-09-12 •FE: 2005-09-14 •SC: N NAT: 44 LAB: 38 NZF: 6 GRN: 5 UNF: 2.5 ACT: 1.9 TPM: 1.7
 •PF: Fairfax Media–Nielsen •FS: 2005-09-13 •FE: 2005-09-13 •SC: N NAT: 43 LAB: 37 NZF: 7 GRN: 6 UNF: 3 ACT: 1 TPM: 1
+•PF: TV3/CM Research poll •FS: 2000-02-28 •FE: 2000-02-28 •SC: N LAB: 51 NAT: 30 ALL: 5 ACT: 4 GRN: 4 NZF: 3
+•PF: One News Colmar Brunton •FS: 2000-02-28 •FE: 2000-02-28 •SC: N LAB: 50 NAT: 31 ACT: 5 ALL: 4.3 GRN: 4.3 NZF: 2.1
+•PF: TV3/CM Research poll •FS: 2000-04-18 •FE: 2000-04-18 •SC: N LAB: 53 NAT: 28 GRN: 5 ACT: 4 ALL: 3 NZF: 1
+•PF: TV3/CM Research poll •FS: 2000-06-26 •FE: 2000-06-26 •SC: N LAB: 46 NAT: 34 GRN: 5 ALL: 4 ACT: 4 NZF: 2
+•PF: Herald-DigiPoll •FS: 2000-06-30 •FE: 2000-06-30 •SC: N LAB: 43 NAT: 32 ACT: 10 ALL: 8 NZF: 6 GRN: 3
+•PF: TV3/CM Research poll •FS: 2000-08-22 •FE: 2000-08-22 •SC: N LAB: 47 NAT: 36 GRN: 5 ACT: 4 ALL: 3 NZF: 2
+•PF: NBR-Compaq •FS: 2000-09-07 •FE: 2000-09-10 •SC: N NAT: 41 LAB: 36 GRN: 7 ALL: 6 ACT: 4
+•PF: TV3/CM Research poll •FS: 2000-10-31 •FE: 2000-10-31 •SC: N LAB: 44 NAT: 39 ALL: 5 GRN: 4 ACT: 3 NZF: 2
+•PF: TV3/CM Research poll •FS: 2001-02-20 •FE: 2001-02-20 •SC: N LAB: 49 NAT: 34 GRN: 4.7 ALL: 4.5 ACT: 3.6 NZF: 1.5
+•PF: TV3-NFO •FS: 2001-04-09 •FE: 2001-04-09 •SC: N LAB: 50 NAT: 32 GRN: 5 ACT: 4.2 ALL: 3.7 NZF: 2 UNF: 0.5
+•PF: NBR-Compaq •FS: 2001-05-05 •FE: 2001-05-05 •SC: N LAB: 43 NAT: 32 GRN: 6.5 ACT: 6 ALL: 5
+•PF: One News Colmar Brunton •FS: 2001-05-14 •FE: 2001-05-14 •SC: N LAB: 44 NAT: 41 GRN: 6 ALL: 2
+•PF: TV3-NFO •FS: 2001-06-11 •FE: 2001-06-11 •SC: N LAB: 49 NAT: 31 GRN: 7 ALL: 3.5 NZF: 3.3 ACT: 2
+•PF: One News Colmar Brunton •FS: 2001-10-09 •FE: 2001-10-12 •SC: N LAB: 46 NAT: 39 GRN: 5 NZF: 3.5 ACT: 3.1 ALL: 2
+•PF: NBR-Compaq •FS: 2001-10-19 •FE: 2001-10-19 •SC: N LAB: 43 NAT: 33 GRN: 8 ACT: 5.2 ALL: 3.8 NZF: 3.6
+•PF: One News Colmar Brunton •FS: 2001-11-12 •FE: 2001-11-12 •SC: N LAB: 44 NAT: 40 GRN: 5 ALL: 4 ACT: 3 NZF: 2
+•PF: TV3/CM Research poll •FS: 2001-12-17 •FE: 2001-12-17 •SC: N LAB: 45 NAT: 35 GRN: 6 ALL: 3 ACT: 3 NZF: 3
+•PF: TV3/CM Research poll •FS: 2002-02-27 •FE: 2002-02-27 •SC: N LAB: 54 NAT: 30 GRN: 6 ACT: 3 ALL: 2.2 NZF: 2.2
+•PF: NBR HP-Invent •FS: 2002-06-07 •FE: 2002-06-07 •SC: N LAB: 53 NAT: 29 GRN: 7.2 ACT: 4.5 NZF: 3.3 PROG: 1.3 ALL: 0.5
+•PF: TV3-NFO •FS: 2002-06-10 •FE: 2002-06-10 •SC: N LAB: 56 NAT: 24 GRN: 9 ACT: 3.9 NZF: 3.1 ALL: 1.2 UNF: <0.5 PROG: <0.5
+•PF: Herald-DigiPoll •FS: 2002-06-10 •FE: 2002-06-10 •SC: N LAB: 49.9 NAT: 31.2 GRN: 7.7 ACT: 4.7 NZF: 2.5 PROG: 0.7 ALL: 0.1 UNF: 0.1
+•PF: One News Colmar Brunton •FS: 2002-06-17 •FE: 2002-06-17 •SC: N LAB: 53 NAT: 27 GRN: 9 ACT: 4 NZF: 3 PROG: 2 ALL: 0.5
+•PF: Herald-DigiPoll •FS: 2002-06-26 •FE: 2002-06-26 •SC: N LAB: 52.1 NAT: 25.7 GRN: 8.3 ACT: 4.4 NZF: 3.8 PROG: 2 ALL: 0.5
+•PF: Herald-DigiPoll •FS: 2002-07-03 •FE: 2002-07-03 •SC: N LAB: 51.2 NAT: 24.6 GRN: 9.6 ACT: 5.7 NZF: 4.4 PROG: 1.4 ALL: 0.4 UNF: 0.1
+•PF: TV3-NFO •FS: 2002-07-05 •FE: 2002-07-05 •SC: N LAB: 51 NAT: 24 GRN: 10.8 NZF: 5.7 ACT: 5 ALL: 1.1 PROG: 1.1
+•PF: Herald-DigiPoll •FS: 2002-07-11 •FE: 2002-07-11 •SC: N LAB: 48 NAT: 24.5 GRN: 10.1 NZF: 6.4 ACT: 5.8 PROG: 1.5 UNF: 0.7 ALL: 0.4
+•PF: TV3-NFO •FS: 2002-07-11 •FE: 2002-07-11 •SC: N LAB: 48 NAT: 24 GRN: 7.9 NZF: 7.9 ACT: 6.3 ALL: 1.2 UNF: 0.9 PROG: 0.8
+•PF: One News Colmar Brunton •FS: 2002-07-15 •FE: 2002-07-15 •SC: N LAB: 46 NAT: 27 GRN: 9 ACT: 8 NZF: 6 ALL: 1 PROG: 1
+•PF: Herald-DigiPoll •FS: 2002-07-17 •FE: 2002-07-17 •SC: N LAB: 46.7 NAT: 23.1 GRN: 11.3 NZF: 8.3 ACT: 5.5 PROG: 1.3 UNF: 1.1 ALL: 0.4
+•PF: TV3-NFO •FS: 2002-07-18 •FE: 2002-07-18 •SC: N LAB: 46 NAT: 25 GRN: 9 NZF: 8 ACT: 6 ALL: 1.4 UNF: 0.7 PROG: 0.7
+•PF: Herald-DigiPoll •FS: 2002-07-22 •FE: 2002-07-22 •SC: N LAB: 40.8 NAT: 23.6 NZF: 10.2 ACT: 8.1 GRN: 6.9 UNF: 6.6 PROG: 1.3 ALL: 0.4
+•PF: One News Colmar Brunton •FS: 2002-07-25 •FE: 2002-07-25 •SC: N LAB: 44 NAT: 21 NZF: 10 GRN: 8 ACT: 7 UNF: 4 ALL: 1 PROG: 0.5
+•PF: TV3-NFO •FS: 2002-07-25 •FE: 2002-07-25 •SC: N LAB: 43 NAT: 21 GRN: 9 ACT: 8 NZF: 8 UNF: 3.9 ALL: 1.4 PROG: 1.2
+•PF: Herald-DigiPoll •FS: 2002-07-26 •FE: 2002-07-26 •SC: N LAB: 38.8 NAT: 23.2 NZF: 9.6 GRN: 9 ACT: 8.9 UNF: 5.4 PROG: 1.4 ALL: 1.3
 
 LAB: NZ001 •A: LAB      •EN: New Zealand Labour Party            •MI: Rōpū Reipa o Aotearoa
 NAT: NZ002 •A: NAT      •EN: New Zealand National Party          •MI: Rōpū Nāhinara o Aotearoa
-NZF: NZ003 •A: NZ First •EN: New Zealand First                   •MI: Aotearoa Tuatahi
-UNF: NZ004 •A: UNF      •EN: United Future New Zealand
+ALL: NZ003 •A: Alliance      •EN: Alliance
+ACT: NZ004 •A: ACT      •EN: ACT New Zealand                     •MI: Rōpū ACT
 GRN: NZ005 •A: GRN      •EN: Green Party of Aotearoa New Zealand •MI: Rōpū Kākāriki o Aotearoa, Niu Tireni
-ACT: NZ006 •A: ACT      •EN: ACT New Zealand                     •MI: Rōpū ACT
-TPM: NZ007 •A: TPM                                               •MI: Te Pāti Māori
-DEST: NZ008 •A: Destiny      •EN: Destiny New Zealand
-PROG: NZ009 •A: Prog      •EN: Jim Anderton’s Progressive Party
-MNA: NZ010 •A: MANA     •EN: Mana Movement
-CON: NZ011 •A: CON      •EN: New Conservative
-INT: NZ012 •A: INT •EN: INT Party
-TOP: NZ013 •A: TOP      •EN: The Opportunities Party
-ANZ: NZ014 •A: ANZ      •EN: Advance New Zealand Party
-NCP: NZ015 •A: NCP      •EN: New Conservative
+NZF: NZ006 •A: NZ First •EN: New Zealand First                   •MI: Aotearoa Tuatahi
+UNF: NZ007 •A: UNF      •EN: United Future New Zealand
+PROG: NZ008 •A: Prog      •EN: Jim Anderton’s Progressive Party
+TPM: NZ009 •A: TPM                                               •MI: Te Pāti Māori
+DEST: NZ010 •A: Destiny      •EN: Destiny New Zealand
+MNA: NZ011 •A: MANA     •EN: Mana Movement
+CON: NZ012 •A: CON      •EN: New Conservative
+INT: NZ013 •A: INT •EN: INT Party
+TOP: NZ014 •A: TOP      •EN: The Opportunities Party
+ANZ: NZ015 •A: ANZ      •EN: Advance New Zealand Party
+NCP: NZ016 •A: NCP      •EN: New Conservative
