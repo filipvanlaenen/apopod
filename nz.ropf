@@ -171,7 +171,7 @@
 •PF: One News–Colmar Brunton •FS: 2015-08-29 •FE: 2015-09-02 •SC: N NAT: 47 LAB: 32 GRN: 12 NZF: 7 TPM: 1.2 MNA: 0.2 ACT: 0.1 CON: 0.1
 •PF: Roy Morgan Research •FS: 2015-08-31 •FE: 2015-09-13 •SC: N NAT: 44.5 LAB: 31 GRN: 15 NZF: 5.5 TPM: 1.5 CON: 1 ACT: 0.5 UNF: 0.5 MNA: 0.5
 •PF: 3 News–Reid Research •FS: 2015-09-08 •FE: 2015-09-16 •SC: N NAT: 47.3 LAB: 33 GRN: 10 NZF: 7.9 ACT: 0.6 TPM: 0.5 CON: 0.5
-•PF: Roy Morgan Research •FS: 2015-09-31 •FE: 2015-10-11 •SC: N NAT: 50 LAB: 29 GRN: 11.5 NZF: 6.5 TPM: 0.5 ACT: 0.5 CON: 0.5 MNA: 0.5
+•PF: Roy Morgan Research •FS: 2015-09-30 •FE: 2015-10-11 •SC: N NAT: 50 LAB: 29 GRN: 11.5 NZF: 6.5 TPM: 0.5 ACT: 0.5 CON: 0.5 MNA: 0.5
 •PF: One News–Colmar Brunton •FS: 2015-10-10 •FE: 2015-10-14 •SC: N NAT: 47 LAB: 31 GRN: 12 NZF: 9 TPM: 0.8 CON: 0.4 ACT: 0.2
 •PF: Roy Morgan Research •FS: 2015-10-26 •FE: 2015-11-08 •SC: N NAT: 49 LAB: 29.5 GRN: 12 NZF: 6 TPM: 2 ACT: 0.5 CON: 0.5 MNA: 0.5
 •PF: 3 News–Reid Research •FS: 2015-11-09 •FE: 2015-11-17 •SC: N NAT: 46.7 LAB: 32.3 GRN: 10.2 NZF: 7.5 TPM: 1.3 ACT: 0.8 CON: 0.7 MNA: 0.2
@@ -226,16 +226,153 @@
 •PF: One News–Colmar Brunton •FS: 2017-09-09 •FE: 2017-09-13 •SC: N LAB: 44 NAT: 40 GRN: 7 NZF: 6 TOP: 1.6 TPM: 0.9 ACT: 0.6
 •PF: Newshub Reid Research •FS: 2017-09-13 •FE: 2017-09-20 •SC: N NAT: 45.8 LAB: 37.3 GRN: 7.1 NZF: 7.1 TOP: 0.9 ACT: 0.6 CON: 0.6 TPM: 0.4 MNA: 0.1
 •PF: One News–Colmar Brunton •FS: 2017-09-15 •FE: 2017-09-19 •SC: N NAT: 46 LAB: 37 GRN: 8 NZF: 4.9 TOP: 2.3 TPM: 0.5 ACT: 0.3
+•PF: Roy Morgan Research •FS: 2012-01-03 •FE: 2012-01-15 •SC: N NAT: 47 LAB: 27.5 GRN: 14.5 NZF: 5 TPM: 1.5 MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-01-16 •FE: 2012-01-29 •SC: N NAT: 46 LAB: 30.5 GRN: 13 NZF: 5.5 TPM: 2 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-01-30 •FE: 2012-02-12 •SC: N NAT: 45.5 LAB: 31 GRN: 11.5 NZF: 6 TPM: 1.5 MNA: 1 ACT: 1 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2012-02-19 •FE: 2012-02-19 •SC: N NAT: 46.5 LAB: 29.4 GRN: 13.3 NZF: 5.0 CON: 1.4 TPM: 1.3 MNA: 1.3 ACT: 0.2
+•PF: Roy Morgan Research •FS: 2012-02-13 •FE: 2012-02-26 •SC: N NAT: 45.5 LAB: 31.5 GRN: 13 NZF: 5 TPM: 1.5 MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-02-27 •FE: 2012-03-11 •SC: N NAT: 48.5 LAB: 30 GRN: 12.5 NZF: 5 TPM: 1 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: One News Colmar Brunton •FS: 2012-03-24 •FE: 2012-03-28 •SC: N NAT: 51 LAB: 29 GRN: 11 NZF: 3.1 CON: 1.4 MNA: 1 TPM: 0.9 ACT: 0.5 UNF: 0.2
+•PF: Roy Morgan Research •FS: 2012-03-12 •FE: 2012-04-01 •SC: N NAT: 44 LAB: 30.5 GRN: 17 NZF: 5 TPM: 1.5 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-04-02 •FE: 2012-04-15 •SC: N NAT: 49.5 LAB: 26.5 GRN: 12.5 NZF: 6.5 TPM: 1.5 MNA: 1 UNF: 1
+•PF: 3 News Reid Research •FS: 2012-04-22 •FE: 2012-04-22 •SC: N NAT: 49.8 LAB: 29.4 GRN: 14.1 NZF: 2.3 TPM: 1.6 CON: 1.1 MNA: 0.9 ACT: 0.2
+•PF: Herald-DigiPoll •FS: 2012-04-19 •FE: 2012-04-29 •SC: N NAT: 48.1 LAB: 34.8 GRN: 9.2 NZF: 4.9 TPM: 1.7 UNF: 0.7 MNA: 0.1 CON: 0.1 ACT: 0.0
+•PF: Roy Morgan Research •FS: 2012-04-16 •FE: 2012-04-29 •SC: N NAT: 47 LAB: 28.5 GRN: 15 NZF: 5 TPM: 1.5 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-04-30 •FE: 2012-05-13 •SC: N NAT: 44.5 LAB: 30 GRN: 15 NZF: 5.5 TPM: 1 UNF: 1 MNA: 0.5
+•PF: Roy Morgan Research •FS: 2012-05-14 •FE: 2012-05-27 •SC: N NAT: 44 LAB: 30.5 GRN: 13.5 NZF: 5 TPM: 2 MNA: 1 ACT: 1 UNF: 0.5
+•PF: One News Colmar Brunton •FS: 2012-06-26 •FE: 2012-06-30 •SC: N NAT: 47 LAB: 33 GRN: 13 NZF: 2.2 CON: 1.4 TPM: 1.3 MNA: 1 ACT: 0.7 UNF: 0
+•PF: Roy Morgan Research •FS: 2012-05-28 •FE: 2012-06-07 •SC: N NAT: 46 LAB: 31 GRN: 12.5 NZF: 5.5 TPM: 1.5 MNA: 1 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2012-06-10 •FE: 2012-06-10 •SC: N NAT: 45.8 LAB: 33.2 GRN: 14.4 NZF: 2.8 TPM: 1.4 CON: 1.1 ACT: 0.5 MNA: 0.3
+•PF: Roy Morgan Research •FS: 2012-06-08 •FE: 2012-06-24 •SC: N NAT: 47.5 LAB: 32 GRN: 12 NZF: 4 TPM: 1.5 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Herald-DigiPoll •FS: 2012-06-18 •FE: 2012-06-25 •SC: N NAT: 47.5 LAB: 34.0 GRN: 9.1 NZF: 4.4 MNA: 1.7 TPM: 1.3 ACT: 0.5 UNF: 0.5 CON: 0.5
+•PF: Roy Morgan Research •FS: 2012-06-25 •FE: 2012-07-08 •SC: N NAT: 45.5 LAB: 32.5 GRN: 13 NZF: 4.5 TPM: 1 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-07-09 •FE: 2012-07-22 •SC: N NAT: 47.5 LAB: 30 GRN: 11 NZF: 5.5 CON: 3 TPM: 1 ACT: 1 MNA: 0.5 UNF: 0.5
+•PF: Fairfax Media Ipsos •FS: 2012-07-19 •FE: 2012-07-23 •SC: N NAT: 44.9 LAB: 32.6 GRN: 11.9 NZF: 3.6 TPM: 2.7 MNA: 1.2 CON: 0.7 ACT: 0.6 UNF: 0.1
+•PF: One News Colmar Brunton •FS: 2012-07-28 •FE: 2012-08-01 •SC: N NAT: 48 LAB: 32 GRN: 12 NZF: 2.5 TPM: 2.3 CON: 0.9 ACT: 0.5 MNA: 0.4 UNF: 0.1
+•PF: 3 News Reid Research •FS: 2012-08-05 •FE: 2012-08-05 •SC: N NAT: 50.6 LAB: 30.8 GRN: 11.2 NZF: 3.0 CON: 1.7 TPM: 1.6 MNA: 0.2 ACT: 0.1
+•PF: Roy Morgan Research •FS: 2012-07-23 •FE: 2012-08-05 •SC: N NAT: 44 LAB: 32 GRN: 14 NZF: 4 TPM: 2 CON: 1.5 MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-08-13 •FE: 2012-08-26 •SC: N NAT: 44.5 LAB: 32 GRN: 14.5 NZF: 5 TPM: 2.5 ACT: 1 CON: 0.5
+•PF: Herald-DigiPoll •FS: 2012-08-20 •FE: 2012-08-31 •SC: N NAT: 47.9 LAB: 32.0 GRN: 10.7 NZF: 5.5 TPM: 1.5 CON: 1.4 MNA: 0.3 UNF: 0.3 ACT: 0.2
+•PF: Roy Morgan Research •FS: 2012-08-27 •FE: 2012-09-09 •SC: N NAT: 46.5 LAB: 31 GRN: 12.5 NZF: 4.5 TPM: 2.5 MNA: 1 CON: 1 ACT: 0.5
+•PF: One News Colmar Brunton •FS: 2012-09-15 •FE: 2012-09-19 •SC: N NAT: 45 LAB: 34 GRN: 12 TPM: 2.9 CON: 2 NZF: 1.8 ACT: 0.9 MNA: 0.6 UNF: 0.1
+•PF: Roy Morgan Research •FS: 2012-09-10 •FE: 2012-09-23 •SC: N NAT: 43.5 LAB: 33 GRN: 11.5 NZF: 5 TPM: 2.5 CON: 2 MNA: 1.5 ACT: 0.5
+•PF: Roy Morgan Research •FS: 2012-09-24 •FE: 2012-10-07 •SC: N NAT: 41.5 LAB: 33.5 GRN: 13.5 NZF: 6.5 CON: 2 TPM: 1.5 ACT: 0.5 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2012-10-14 •FE: 2012-10-14 •SC: N NAT: 48.8 LAB: 33.0 GRN: 10.6 NZF: 3.2 CON: 2.0 TPM: 1.5 MNA: 0.1 ACT: 0.1
+•PF: Roy Morgan Research •FS: 2012-10-08 •FE: 2012-10-24 •SC: N NAT: 43.5 LAB: 29 GRN: 13 NZF: 7.5 TPM: 3.5 CON: 2 MNA: 0.5 ACT: 0.5
+•PF: One News Colmar Brunton •FS: 2012-10-27 •FE: 2012-10-31 •SC: N NAT: 45 LAB: 32 GRN: 12 NZF: 4.9 TPM: 2.2 MNA: 1 CON: 1 ACT: 0.6 UNF: 0.2
+•PF: Roy Morgan Research •FS: 2012-10-29 •FE: 2012-11-11 •SC: N NAT: 45.5 LAB: 32.5 GRN: 10.5 NZF: 5 TPM: 2 CON: 1.5 MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2012-11-12 •FE: 2012-11-25 •SC: N NAT: 45 LAB: 31.5 GRN: 13.5 NZF: 6.5 CON: 1.5 TPM: 1 ACT: 0.5 UNF: 0.5
+•PF: One News Colmar Brunton •FS: 2012-11-24 •FE: 2012-11-28 •SC: N NAT: 44 LAB: 35 GRN: 13 NZF: 3.6 CON: 1.3 TPM: 0.7 ACT: 0.6 UNF: 0.5 MNA: 0.3
+•PF: 3 News Reid Research •FS: 2012-12-02 •FE: 2012-12-02 •SC: N NAT: 47.0 LAB: 34.6 GRN: 12.9 NZF: 2.0 TPM: 1.2 CON: 0.7 ACT: 0.2 MNA: 0.1
+•PF: Fairfax Media Ipsos •FS: 2012-11-28 •FE: 2012-12-03 •SC: N NAT: 46.2 LAB: 34.4 GRN: 10.5 NZF: 3.8 CON: 1.4 TPM: 1.3 MNA: 0.6 UNF: 0.2 ACT: 0.0
+•PF: Roy Morgan Research •FS: 2012-11-26 •FE: 2012-12-09 •SC: N NAT: 45.5 LAB: 33.5 GRN: 11 NZF: 5 TPM: 1.5 MNA: 1 ACT: 1 CON: 1
+•PF: Roy Morgan Research •FS: 2013-01-02 •FE: 2013-01-14 •SC: N NAT: 46 LAB: 31.5 GRN: 12 NZF: 5 TPM: 2 CON: 1.5 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-01-14 •FE: 2013-01-27 •SC: N NAT: 46 LAB: 31.5 GRN: 13.5 NZF: 5.5 TPM: 1.5 MNA: 0.5 ACT: 0.5 CON: 0.5
+•PF: Roy Morgan Research •FS: 2013-01-27 •FE: 2013-02-10 •SC: N NAT: 44 LAB: 34.5 GRN: 13.5 NZF: 4 CON: 2 TPM: 0.5 MNA: 0.5 ACT: 0.5 UNF: 0
+•PF: One News Colmar Brunton •FS: 2013-02-09 •FE: 2013-02-13 •SC: N NAT: 49 LAB: 33 GRN: 11 NZF: 3.9 TPM: 1 CON: 0.9 MNA: 0.5 UNF: 0.2 ACT: 0.1
+•PF: Fairfax Media Ipsos •FS: 2013-02-10 •FE: 2013-02-14 •SC: N NAT: 44.9 LAB: 36.3 GRN: 10.7 NZF: 2.8 CON: 1.6 MNA: 1.4 TPM: 1.3 ACT: 0.4 UNF: 0.1
+•PF: 3 News Reid Research •FS: 2013-02-24 •FE: 2013-02-24 •SC: N NAT: 51.4 LAB: 32.6 GRN: 10.8 NZF: 3.4 CON: 0.9 TPM: 0.4 ACT: 0.1 MNA: 0
+•PF: Roy Morgan Research •FS: 2013-02-11 •FE: 2013-02-24 •SC: N NAT: 47.5 LAB: 30.5 GRN: 12.5 NZF: 3 TPM: 2.5 CON: 2 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-02-25 •FE: 2013-03-10 •SC: N NAT: 43.5 LAB: 32.5 GRN: 13.5 NZF: 5 TPM: 2 CON: 2 ACT: 0.5 UNF: 0.5 MNA: 0
+•PF: Herald-DigiPoll •FS: 2013-03-11 •FE: 2013-03-17 •SC: N NAT: 48.5 LAB: 36.4 GRN: 9.0 NZF: 2.5 CON: 1.3 TPM: 1.1 MNA: 0.5 ACT: 0.1
+•PF: Roy Morgan Research •FS: 2013-03-11 •FE: 2013-03-24 •SC: N NAT: 44 LAB: 34.5 GRN: 13 NZF: 3 TPM: 2.5 UNF: 1 CON: 1 MNA: 0.5 ACT: 0.5
+•PF: Roy Morgan Research •FS: 2013-04-01 •FE: 2013-04-14 •SC: N NAT: 40.5 LAB: 35.5 GRN: 13.5 NZF: 5 TPM: 2 CON: 1.5 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2013-04-13 •FE: 2013-04-18 •SC: N NAT: 49.4 LAB: 30.2 GRN: 11.5 NZF: 3.8 CON: 2.0 TPM: 1.0 MNA: 1.0 ACT: 0.5
+•PF: One News Colmar Brunton •FS: 2013-04-14 •FE: 2013-04-18 •SC: N NAT: 43 LAB: 36 GRN: 13 NZF: 3.0 CON: 1.7 TPM: 1.3 UNF: 1.0 MNA: 0.1 ACT: 0.1
+•PF: Roy Morgan Research •FS: 2013-04-15 •FE: 2013-04-28 •SC: N NAT: 46.5 LAB: 31.5 GRN: 11 NZF: 4.5 CON: 2 TPM: 1.5 MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-04-29 •FE: 2013-05-12 •SC: N NAT: 44 LAB: 32 GRN: 12 NZF: 5 TPM: 2 ACT: 1.5 CON: 1.5 MNA: 1 UNF: 0.5
+•PF: One News Colmar Brunton •FS: 2013-05-18 •FE: 2013-05-22 •SC: N NAT: 49 LAB: 33 GRN: 9 NZF: 3.6 CON: 1.7 TPM: 1.3 MNA: 1.2 UNF: 0.7 ACT: 0.3
+•PF: 3 News Reid Research •FS: 2013-05-17 •FE: 2013-05-23 •SC: N NAT: 47.1 LAB: 33.1 GRN: 12.0 NZF: 2.2 TPM: 2.2 CON: 1.5 MNA: 0.5 ACT: 0.2
+•PF: Fairfax Media Ipsos •FS: 2013-05-19 •FE: 2013-05-23 •SC: N NAT: 49.1 LAB: 31.9 GRN: 11.2 NZF: 3.2 TPM: 1.6 CON: 1.6 UNF: 0.3 MNA: 0.1 ACT: 0.1
+•PF: Roy Morgan Research •FS: 2013-05-13 •FE: 2013-05-26 •SC: N NAT: 41 LAB: 35 GRN: 12 NZF: 4.5 CON: 2.5 TPM: 2 MNA: 0.5 ACT: 0.5
+•PF: Roy Morgan Research •FS: 2013-06-03 •FE: 2013-06-16 •SC: N NAT: 44 LAB: 33 GRN: 11.5 NZF: 6 TPM: 2 CON: 2 MNA: 1 ACT: 0.5 UNF: 0
+•PF: Herald-DigiPoll •FS: 2013-06-12 •FE: 2013-06-23 •SC: N NAT: 48.8 LAB: 30.9 GRN: 10.5 NZF: 5.1 TPM: 1.8 CON: 1.5 MNA: 0.5 UNF: 0.3 ACT: 0.2
+•PF: Roy Morgan Research •FS: 2013-06-17 •FE: 2013-06-30 •SC: N NAT: 46.5 LAB: 31.5 GRN: 13 NZF: 3.5 CON: 2 TPM: 1.5 MNA: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-07-01 •FE: 2013-07-14 •SC: N NAT: 47 LAB: 31 GRN: 11.5 NZF: 4.5 TPM: 2 MNA: 1.5 CON: 1.5 ACT: 0.5
+•PF: 3 News Reid Research •FS: 2013-07-09 •FE: 2013-07-14 •SC: N NAT: 49.5 LAB: 31.0 GRN: 12.0 NZF: 3.9 TPM: 1.6 CON: 1.1 MNA: 0.2 ACT: 0.2
+•PF: Roy Morgan Research •FS: 2013-07-15 •FE: 2013-07-28 •SC: N NAT: 51 LAB: 29 GRN: 10 NZF: 4 TPM: 1.5 CON: 1.5 MNA: 1 ACT: 1 UNF: 0
+•PF: One News Colmar Brunton •FS: 2013-07-27 •FE: 2013-07-31 •SC: N NAT: 46 LAB: 33 GRN: 14 NZF: 3.3 TPM: 1.6 ACT: 0.7 CON: 0.6 MNA: 0.2 UNF: 0.2
+•PF: Roy Morgan Research •FS: 2013-07-29 •FE: 2013-08-11 •SC: N NAT: 44 LAB: 34 GRN: 14 NZF: 3 TPM: 2 CON: 1 MNA: 0.5 ACT: 0.5
+•PF: Fairfax Media Ipsos •FS: 2013-08-10 •FE: 2013-08-15 •SC: N NAT: 48.3 LAB: 31.6 GRN: 12.3 NZF: 2.8 CON: 1.4 TPM: 1.0 MNA: 0.5 ACT: 0.2
+•PF: Roy Morgan Research •FS: 2013-08-12 •FE: 2013-08-25 •SC: N NAT: 44 LAB: 31.5 GRN: 14 NZF: 5.5 TPM: 2 CON: 1 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-08-26 •FE: 2013-09-08 •SC: N NAT: 41 LAB: 32.5 GRN: 15 NZF: 6.5 CON: 1.5 TPM: 1 ACT: 1 MNA: 0.5 UNF: 0.5
+•PF: One News Colmar Brunton •FS: 2013-09-14 •FE: 2013-09-18 •SC: N NAT: 47 LAB: 34 GRN: 12 NZF: 3.6 TPM: 1.3 CON: 0.8 UNF: 0.3 ACT: 0.2 MNA: 0
+•PF: Herald-DigiPoll •FS: 2013-09-17 •FE: 2013-09-23 •SC: N NAT: 43.7 LAB: 37.7 GRN: 11.3 NZF: 4.4 CON: 1.0 TPM: 0.8 MNA: 0.7 ACT: 0.1 UNF: 0
+•PF: Roy Morgan Research •FS: 2013-09-16 •FE: 2013-09-29 •SC: N NAT: 42 LAB: 37 GRN: 11.5 NZF: 4.5 CON: 2 TPM: 1 MNA: 0.5 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-09-30 •FE: 2013-10-13 •SC: N NAT: 41.5 LAB: 37 GRN: 12.5 NZF: 5 TPM: 1.5 MNA: 0.5 ACT: 0.5 CON: 0.5
+•PF: Fairfax Media Ipsos •FS: 2013-10-19 •FE: 2013-10-23 •SC: N NAT: 50.2 LAB: 33.6 GRN: 10.7 NZF: 2.3 TPM: 0.7 MNA: 0.7 CON: 0.7 ACT: 0.1 UNF: 0.1
+•PF: One News Colmar Brunton •FS: 2013-10-19 •FE: 2013-10-23 •SC: N NAT: 45 LAB: 34 GRN: 13 NZF: 3.9 CON: 1.6 TPM: 1.4 ACT: 0.5 MNA: 0.3 UNF: 0.1
+•PF: Roy Morgan Research •FS: 2013-10-14 •FE: 2013-10-27 •SC: N NAT: 42 LAB: 35.5 GRN: 11 NZF: 4.5 CON: 2.5 TPM: 1.5 ACT: 1 MNA: 0.5 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2013-11-03 •FE: 2013-11-07 •SC: N NAT: 46.3 LAB: 32.2 GRN: 10.4 NZF: 4.2 CON: 2.8 MNA: 1.3 TPM: 1.2 ACT: 0.8 UNF: 0.1
+•PF: Roy Morgan Research •FS: 2013-10-28 •FE: 2013-11-10 •SC: N NAT: 45.5 LAB: 32 GRN: 12.5 NZF: 5 CON: 1.5 TPM: 1 MNA: 1 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-11-11 •FE: 2013-11-24 •SC: N NAT: 44.5 LAB: 34 GRN: 11 NZF: 3.5 CON: 2 TPM: 1 MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: Roy Morgan Research •FS: 2013-11-25 •FE: 2013-12-08 •SC: N NAT: 45 LAB: 30.5 GRN: 14.5 NZF: 5 CON: 2 TPM: 1.5 MNA: 1
+•PF: Herald-DigiPoll •FS: 2013-12-09 •FE: 2013-12-17 •SC: N NAT: 46.8 LAB: 35.4 GRN: 10.8 NZF: 3.9 TPM: 1.3 MNA: 0.9 CON: 0.7 ACT: 0 UNF: 0
+•PF: Roy Morgan Research •FS: 2014-01-06 •FE: 2014-01-19 •SC: N NAT: 43.5 LAB: 33.5 GRN: 12.5 NZF: 4 CON: 2.5 TPM: 2 MNA: 0.5 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2014-02-02 •FE: 2014-02-02 •SC: N NAT: 44.5 LAB: 33.5 GRN: 12.4 NZF: 5.7 CON: 2.1 TPM: 1.0 MNA: 0.3 ACT: 0.0 UNF: 0.0
+•PF: Roy Morgan Research •FS: 2014-01-20 •FE: 2014-02-02 •SC: N NAT: 47 LAB: 33 GRN: 11 NZF: 4.5 TPM: 1.5 CON: 1.5 MNA: 1 INT: 0.5
+•PF: Fairfax Media Ipsos •FS: 2014-02-08 •FE: 2014-02-10 •SC: N NAT: 49.4 LAB: 31.8 GRN: 10.0 NZF: 3.6 CON: 2.1 TPM: 1.1 ACT: 0.5 MNA: 0.3 UNF: 0.1
+•PF: Roy Morgan Research •FS: 2014-02-03 •FE: 2014-02-16 •SC: N NAT: 48 LAB: 30 GRN: 12 NZF: 5.5 MNA: 1 ACT: 1 CON: 1 TPM: 0.5 UNF: 0.5 INT: 0.5
+•PF: One News Colmar Brunton •FS: 2014-02-15 •FE: 2014-02-19 •SC: N NAT: 51 LAB: 34 GRN: 8 NZF: 3.1 CON: 1.3 TPM: 0.9 ACT: 0.4 UNF: 0.3 MNA: 0.0
+•PF: Roy Morgan Research •FS: 2014-02-17 •FE: 2014-03-02 •SC: N NAT: 48.5 LAB: 30.5 GRN: 10.5 NZF: 4.5 CON: 2.5 TPM: 1.5 ACT: 1 MNA: 0.5 UNF: 0.5
+•PF: Herald-DigiPoll •FS: 2014-03-06 •FE: 2014-03-16 •SC: N NAT: 50.8 LAB: 29.5 GRN: 13.1 NZF: 3.6 CON: 1.3 ACT: 0.8 TPM: 0.2 MNA: 0.1 UNF: 0
+•PF: Roy Morgan Research •FS: 2014-03-03 •FE: 2014-03-16 •SC: N NAT: 45.5 LAB: 31.5 GRN: 14 NZF: 3.5 TPM: 2 CON: 1.5 ACT: 0.5 UNF: 0.5
+•PF: One News Colmar Brunton •FS: 2014-03-22 •FE: 2014-03-26 •SC: N NAT: 47 LAB: 31 GRN: 11 NZF: 7 CON: 2.3 TPM: 0.7 ACT: 0.3 UNF: 0.1 MNA: 0
+•PF: 3 News Reid Research •FS: 2014-03-30 •FE: 2014-03-30 •SC: N NAT: 45.9 LAB: 31.2 GRN: 11.2 NZF: 4.9 CON: 1.9 TPM: 1.5 MNA: 1.1 ACT: 1.1 INT: 0.4 UNF: 0.1
+•PF: Roy Morgan Research •FS: 2014-03-17 •FE: 2014-03-30 •SC: N NAT: 43 LAB: 32 GRN: 13 NZF: 5.5 CON: 2.5 TPM: 1.5 MNA: 0.5 ACT: 0.5 UNF: 0.5 INT: 0.5
+•PF: Roy Morgan Research •FS: 2014-03-31 •FE: 2014-04-14 •SC: N NAT: 48.5 LAB: 28.5 GRN: 11.5 NZF: 5.5 CON: 2 TPM: 1 MNA: 1 INT: 1 ACT: 0.5 UNF: 0
+•PF: Roy Morgan Research •FS: 2014-04-21 •FE: 2014-05-04 •SC: N NAT: 42.5 LAB: 31 GRN: 14.5 NZF: 6 INT: 1.5 TPM: 1 MNA: 1 ACT: 0.5 UNF: 0.5 CON: 0.5
+•PF: Fairfax Media Ipsos •FS: 2014-05-10 •FE: 2014-05-12 •SC: N NAT: 47.6 LAB: 29.5 GRN: 12.7 NZF: 3.7 TPM: 1.9 CON: 1.6 ACT: 0.9 MNA: 0.5 UNF: 0.1
+•PF: Roy Morgan Research •FS: 2014-05-05 •FE: 2014-05-18 •SC: N NAT: 45.5 LAB: 30.5 GRN: 13.5 NZF: 6 TPM: 1 MNA: 1 CON: 1 ACT: 0.5 INT: 0.5
+•PF: One News Colmar Brunton •FS: 2014-05-17 •FE: 2014-05-21 •SC: N NAT: 51 LAB: 30 GRN: 11 NZF: 4.8 TPM: 1 ACT: 1 CON: 1 INT: 1 MNA: 0 UNF: 0
+•PF: 3 News Reid Research •FS: 2014-05-25 •FE: 2014-05-25 •SC: N NAT: 50.3 LAB: 29.5 GRN: 10.2 NZF: 5.6 CON: 2.3 TPM: 0.6 INT: 0.6 ACT: 0.5 MNA: 0.2 UNF: 0.0
+•PF: Roy Morgan Research •FS: 2014-05-19 •FE: 2014-06-01 •SC: N NAT: 52.3 LAB: 29 GRN: 9 NZF: 4.5 TPM: 1.5 ACT: 1 CON: 1 MNA: 0.5 INT: 0.5
+•PF: Roy Morgan Research •FS: 2014-06-02 •FE: 2014-06-15 •SC: N NAT: 49.5 LAB: 28 GRN: 12 NZF: 4 INT+MNA: 2.5 CON: 1.5 TPM: 1 ACT: 0.5 UNF: 0.0
+•PF: Herald-DigiPoll •FS: 2014-06-06 •FE: 2014-06-16 •SC: N NAT: 50.4 LAB: 30.5 GRN: 10.7 NZF: 3.6 CON: 1.5 INT+MNA: 1.4 TPM: 0.8 ACT: 0.7 UNF: 0.1
+•PF: Fairfax Media Ipsos •FS: 2014-06-14 •FE: 2014-06-17 •SC: N NAT: 55.6 LAB: 23.2 GRN: 11.9 NZF: 3.2 INT+MNA: 2.1 CON: 0.9 TPM: 0.7 ACT: 0.7 UNF: 0.0
+•PF: 3 News Reid Research •FS: 2014-06-19 •FE: 2014-06-25 •SC: N NAT: 49.7 LAB: 27.3 GRN: 12.7 NZF: 3.6 CON: 2.8 INT+MNA: 1.8 TPM: 1.5 ACT: 0.4 UNF: 0.0
+•PF: One News Colmar Brunton •FS: 2014-06-21 •FE: 2014-06-25 •SC: N NAT: 50 LAB: 29 GRN: 12 NZF: 3.8 INT+MNA: 2 TPM: 1.2 CON: 1 ACT: 0.7 UNF: 0
+•PF: Roy Morgan Research •FS: 2014-06-16 •FE: 2014-06-29 •SC: N NAT: 48 LAB: 28 GRN: 12 NZF: 5.5 INT+MNA: 2.5 TPM: 1.5 ACT: 1 CON: 1 UNF: 0
+•PF: Roy Morgan Research •FS: 2014-06-30 •FE: 2014-07-13 •SC: N NAT: 51 LAB: 23.5 GRN: 15 NZF: 6 INT+MNA: 1.5 TPM: 1 CON: 1 ACT: 0.5 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2014-07-08 •FE: 2014-07-16 •SC: N NAT: 49.4 LAB: 26.7 GRN: 12.4 NZF: 4.3 CON: 2.7 INT+MNA: 2.3 TPM: 1.1 UNF: 0.2 ACT: 0.1
+•PF: Fairfax Media Ipsos •FS: 2014-07-17 •FE: 2014-07-17 •SC: N NAT: 54.8 LAB: 24.9 GRN: 12.4 NZF: 2.6 CON: 1.3 INT+MNA: 1.2 TPM: 0.9 UNF: 0.2 ACT: 0.1
+•PF: Herald-DigiPoll •FS: 2014-07-10 •FE: 2014-07-17 •SC: N NAT: 54.9 LAB: 26.5 GRN: 9.9 NZF: 4.6 INT+MNA: 2.2 CON: 1.5 TPM: 0.5 ACT: 0 UNF: 0
+•PF: One News Colmar Brunton •FS: 2014-07-19 •FE: 2014-07-23 •SC: N NAT: 52 LAB: 28 GRN: 10 NZF: 4.4 INT+MNA: 2 CON: 1.7 ACT: 0.8 TPM: 0.6 UNF: 0.2
+•PF: Roy Morgan Research •FS: 2014-07-14 •FE: 2014-07-27 •SC: N NAT: 46 LAB: 30 GRN: 12 NZF: 5 INT+MNA: 2.5 TPM: 1.5 CON: 1 ACT: 0.5 UNF: 0.5
+•PF: Fairfax Media Ipsos •FS: 2014-08-09 •FE: 2014-08-13 •SC: N NAT: 55.1 LAB: 22.5 GRN: 11.3 NZF: 3.4 CON: 3.4 INT+MNA: 2.1 TPM: 1.0 ACT: 0.2 UNF: 0.0
+•PF: One News Colmar Brunton •FS: 2014-08-09 •FE: 2014-08-13 •SC: N NAT: 50 LAB: 26 GRN: 11 NZF: 5 INT+MNA: 3.9 CON: 2.4 TPM: 0.9 ACT: 0.6 UNF: 0
+•PF: 3 News Reid Research •FS: 2014-08-05 •FE: 2014-08-13 •SC: N NAT: 47.5 LAB: 29.0 GRN: 13.0 NZF: 4.6 CON: 2.5 INT+MNA: 2.0 TPM: 0.8 ACT: 0.3 UNF: 0.2
+•PF: Roy Morgan Research •FS: 2014-08-04 •FE: 2014-08-17 •SC: N NAT: 48 LAB: 27.5 GRN: 11.5 NZF: 6.5 INT+MNA: 2.5 TPM: 1 CON: 1 ACT: 0.5 UNF: 0.5
+•PF: Herald-DigiPoll •FS: 2014-08-14 •FE: 2014-08-20 •SC: N NAT: 50 LAB: 25.2 GRN: 13.7 NZF: 4.3 CON: 2.6 INT+MNA: 2.1 TPM: 0.7 ACT: 0.6 UNF: 0.4
+•PF: 3 News Reid Research •FS: 2014-08-19 •FE: 2014-08-25 •SC: N NAT: 45.0 LAB: 26.4 GRN: 13.5 NZF: 6.3 CON: 4.6 INT+MNA: 2.1 TPM: 0.7 UNF: 0.4 ACT: 0.3
+•PF: Herald-DigiPoll •FS: 2014-08-21 •FE: 2014-08-27 •SC: N NAT: 50.7 LAB: 24.1 GRN: 11.4 NZF: 5 INT+MNA: 3.4 CON: 3.3 TPM: 1 ACT: 0.3 UNF: 0.2
+•PF: Fairfax Media Ipsos •FS: 2014-08-23 •FE: 2014-08-27 •SC: N NAT: 50.8 LAB: 26.1 GRN: 11.8 NZF: 4.0 CON: 2.7 INT+MNA: 2.2 TPM: 0.7 ACT: 0.7 UNF: 0.1
+•PF: One News Colmar Brunton •FS: 2014-08-23 •FE: 2014-08-27 •SC: N NAT: 48 LAB: 28 GRN: 12 NZF: 6 CON: 3.2 INT+MNA: 1.6 TPM: 0.6 ACT: 0.4 UNF: 0
+•PF: Roy Morgan Research •FS: 2014-08-18 •FE: 2014-08-31 •SC: N NAT: 45 LAB: 26 GRN: 16 NZF: 6 CON: 3.5 ACT: 1 INT+MNA: 1 TPM: 0.5 UNF: 0
+•PF: 3 News Reid Research •FS: 2014-08-26 •FE: 2014-09-01 •SC: N NAT: 46.4 LAB: 25.9 GRN: 12.6 NZF: 5.8 CON: 4.2 TPM: 2.0 INT+MNA: 1.7 ACT: 0.6 UNF: 0.1
+•PF: Herald-DigiPoll •FS: 2014-08-28 •FE: 2014-09-03 •SC: N NAT: 50.1 LAB: 23.8 GRN: 11.4 NZF: 6 CON: 3.8 INT+MNA: 3.5 TPM: 0.4 ACT: 0.4 UNF: 0.3
+•PF: Fairfax Media Ipsos •FS: 2014-08-30 •FE: 2014-09-03 •SC: N NAT: 54.2 LAB: 24.3 GRN: 12.9 NZF: 3.6 CON: 2.4 INT+MNA: 1.3 TPM: 0.3 ACT: 0.2 UNF: 0.1
+•PF: One News Colmar Brunton •FS: 2014-08-30 •FE: 2014-09-03 •SC: N NAT: 50 LAB: 26 GRN: 11 NZF: 7 CON: 2.9 INT+MNA: 2.4 TPM: 0.2 ACT: 0.1 UNF: 0.1
+•PF: 3 News Reid Research •FS: 2014-09-02 •FE: 2014-09-08 •SC: N NAT: 46.7 LAB: 26.1 GRN: 13.0 NZF: 5.9 CON: 4.7 INT+MNA: 1.7 TPM: 1.3 ACT: 0.3 UNF: 0.1
+•PF: Herald-DigiPoll •FS: 2014-09-04 •FE: 2014-09-10 •SC: N NAT: 48.6 LAB: 24.6 GRN: 11.5 NZF: 8.1 CON: 3.8 INT+MNA: 2.3 TPM: 0.7 ACT: 0.3 UNF: 0
+•PF: One News Colmar Brunton •FS: 2014-09-06 •FE: 2014-09-10 •SC: N NAT: 46 LAB: 25 GRN: 14 NZF: 7 CON: 4 INT+MNA: 1.4 ACT: 1.2 TPM: 0.8 UNF: 0.2
+•PF: Fairfax Media Ipsos •FS: 2014-09-06 •FE: 2014-09-10 •SC: N NAT: 52.8 LAB: 22.4 GRN: 13.0 NZF: 4.4 CON: 3.6 INT+MNA: 1.4 TPM: 1.0 ACT: 0.7 UNF: 0.0
+•PF: Roy Morgan Research •FS: 2014-09-01 •FE: 2014-09-14 •SC: N NAT: 46.5 LAB: 24 GRN: 13.5 NZF: 8 CON: 3.5 TPM: 1.5 INT+MNA: 1 ACT: 0.5 UNF: 0.5
+•PF: 3 News Reid Research •FS: 2014-09-09 •FE: 2014-09-15 •SC: N NAT: 44.5 LAB: 25.6 GRN: 14.4 NZF: 7.1 CON: 4.9 INT+MNA: 2.0 TPM: 1.1 ACT: 0.1 UNF: 0.1
+•PF: Herald-DigiPoll •FS: 2014-09-11 •FE: 2014-09-17 •SC: N NAT: 48.2 LAB: 25.9 GRN: 11.1 NZF: 8.4 CON: 3.3 TPM: 1.1 INT+MNA: 1.0 ACT: 0.5 UNF: 0.2
+•PF: One News Colmar Brunton •FS: 2014-09-13 •FE: 2014-09-17 •SC: N NAT: 45 LAB: 25 GRN: 12 NZF: 8 CON: 4.4 INT+MNA: 1.8 TPM: 1.6 ACT: 0.6 UNF: 0
+•PF: Fairfax Media Ipsos •FS: 2014-09-13 •FE: 2014-09-17 •SC: N NAT: 47.7 LAB: 26.1 GRN: 12.0 NZF: 6.6 CON: 4.5 TPM: 0.9 INT+MNA: 0.9 ACT: 0.3 UNF: 0.0
 
 NAT: NZ001 •A: NAT      •EN: New Zealand National Party          •MI: Rōpū Nāhinara o Aotearoa
 LAB: NZ002 •A: LAB      •EN: New Zealand Labour Party            •MI: Rōpū Reipa o Aotearoa
 GRN: NZ003 •A: GRN      •EN: Green Party of Aotearoa New Zealand •MI: Rōpū Kākāriki o Aotearoa, Niu Tireni
 NZF: NZ004 •A: NZ First •EN: New Zealand First                   •MI: Aotearoa Tuatahi
-CON: NZ005 •A: CON      •EN: New Conservative
-TPM: NZ006 •A: TPM                                               •MI: Te Pāti Māori
-MNA: NZ007 •A: MANA     •EN: Mana Movement
-ACT: NZ008 •A: ACT      •EN: ACT New Zealand                     •MI: Rōpū ACT
-UNF: NZ009 •A: UNF      •EN: United Future New Zealand
-TOP: NZ010 •A: TOP      •EN: The Opportunities Party
-ANZ: NZ011 •A: ANZ      •EN: Advance New Zealand Party
-NCP: NZ012 •A: NCP      •EN: New Conservative
+TPM: NZ005 •A: TPM                                               •MI: Te Pāti Māori
+MNA: NZ006 •A: MANA     •EN: Mana Movement
+ACT: NZ007 •A: ACT      •EN: ACT New Zealand                     •MI: Rōpū ACT
+UNF: NZ008 •A: UNF      •EN: United Future New Zealand
+CON: NZ009 •A: CON      •EN: New Conservative
+INT: NZ010 •A: INT •EN: INT Party
+TOP: NZ011 •A: TOP      •EN: The Opportunities Party
+ANZ: NZ012 •A: ANZ      •EN: Advance New Zealand Party
+NCP: NZ013 •A: NCP      •EN: New Conservative
