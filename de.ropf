@@ -3260,12 +3260,12 @@
 •PF: Kantar                                                                       •FS: 2009-10-07 •FE: 2009-10-07 •SC: N                     CSU+CDU: 33 SPD: 21 FDP: 15 LINKE: 14 GRÜNE: 11                               •O: 6
 •PF: FGW                                                                          •FS: 2009-10-02 •FE: 2009-10-02 •SC: N                     CSU+CDU: 35 SPD: 22 FDP: 14 LINKE: 13 GRÜNE: 11                               •O: 5
 
-AFD:     DE008 •A: AfD
-CDU:     DE001 •A: CDU
-CSU:     DE002 •A: CSU
-FDP:     DE004 •A: FDP
-FW:      DE009 •A: FW
-GRÜNE:   DE006 •A: Grüne
-LINKE:   DE005 •A: Linke
-PIRATEN: DE007 •A: Piraten
-SPD:     DE003 •A: SPD
+AFD:     DE008 •A: AfD     •DE: Alternative für Deutschland                 •EN: Alternative for Germany
+CDU:     DE001 •A: CDU     •DE: Christlich Demokratische Union Deutschlands •EN: Christian Democratic Union of Germany
+CSU:     DE002 •A: CSU     •DE: Christlich-Soziale Union in Bayern          •EN: Christian Social Union in Bavaria
+FDP:     DE004 •A: FDP     •DE: Freie Demokratische Partei                  •EN: Free Democratic Party
+FW:      DE009 •A: FW      •DE: Freie Wähler                                •EN: Free Voters
+GRÜNE:   DE006 •A: Grüne   •DE: Bündnis 90/Die Grünen                       •EN: Alliance 90/The Greens
+LINKE:   DE005 •A: Linke   •DE: Die Linke                                   •EN: The Left
+PIRATEN: DE007 •A: Piraten •DE: Piratenpartei Deutschland                   •EN: Pirate Party Germany
+SPD:     DE003 •A: SPD     •DE: Sozialdemokratische Partei Deutschlands     •EN: Social Democratic Party of Germany
