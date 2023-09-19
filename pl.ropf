@@ -15,7 +15,7 @@
 •PF: Mands                                   •C: Wiadomości TVP                           •FS: 2023-08-29 •FE: 2023-08-31 •SC: N •SS: 750             ZP: 38.1 KO: 32.1 KONFEDERACJA: 10.7 LEWICA: 11.8 TD: 7.3
 •PF: Social Changes                          •C: wPolityce.pl                             •FS: 2023-08-25 •FE: 2023-08-28 •SC: N •SS: 1040            ZP: 40 KO: 32 KONFEDERACJA: 12 LEWICA: 8 TD: 6 K15: 1 POROZUMIENIE: 0
 •PF: IBRiS                                   •C: Rzeczpospolita                           •FS: 2023-08-25 •FE: 2023-08-26 •SC: N •SS: 1100            ZP: 36.2 KO: 29.5 KONFEDERACJA: 13.4 TD: 10.8 LEWICA: 10.1
-•PF: Instytut Badań Pollster                 •C: SE.pl                                    •FS: 2023-08-23 •FE: 2023-08-24 •SC: N •SS: 1038            ZP: 35.6 KO: 30.4 KONFEDERACJA: 10.4 TD: 10.7 LEWICA: 8.9 BS: 0.9 T!DPL: 0.7
+•PF: Instytut Badań Pollster                 •C: SE.pl                                    •FS: 2023-08-23 •FE: 2023-08-24 •SC: N •SS: 1038            ZP: 35.6 KO: 30.4 KONFEDERACJA: 10.4 TD: 10.7 LEWICA: 8.9 BS: 0.9 TDPL: 0.7
 •PF: Kantar Public                                                                        •FS: 2023-08-18 •FE: 2023-08-23 •SC: N •SS: 983             ZP: 43 KO: 34 KONFEDERACJA:79 LEWICA: 9 TD: 7
 •PF: Social Changes                          •C: wPolityce.pl                             •FS: 2023-08-18 •FE: 2023-08-21 •SC: N •SS: 1062            ZP: 39 KO: 29 KONFEDERACJA: 12 LEWICA: 8 TD: 8 K15: 1 POROZUMIENIE: 1
 •PF: IBRiS                                   •C: Wydarzenia                               •FS: 2023-08-18 •FE: 2023-08-21 •SC: N •SS: 1000            ZP: 35.4 KO: 33.4 KONFEDERACJA: 12.9 TD: 9.8 LEWICA: 8.4
@@ -949,5 +949,6 @@ POROZUMIENIE: PL018 •A: Porozumienie •EN: Agreement                         
 PSL:          PL004 •A: PSL          •EN: Polish People’s Party                  •PL: Polskie Stronnictwo Ludowe
 SLD:          PL003 •A: SLD          •EN: Democratic Left Alliance               •PL: Sojusz Lewicy Demokratycznej
 TD:           PL020 •A: TD           •EN: Third Way                              •PL: Trzecia Droga
+TDPL:         PL021 •A: T!DPL        •EN: Yes! For Poland                        •PL: Tak! Dla Polski
 WIOSNA:       PL009 •A: Wiosna       •EN: Spring                                 •PL: Wiosna
 ZP:           PL011 •A: ZP           •EN: United Right                           •PL: Zjednoczona Prawica
