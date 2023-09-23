@@ -1,3 +1,5 @@
+•PF: iData                                •FS: 2023-08-31      •FE: 2023-09-07    •SC: N     •SS: 1021 PAS: 49.4 BCS: 25.7           PN: 3.4 PPDA: 1.8  PSDE: 1.0                             PDCM: 5.6 MAN: 3.0 •O: 6.2
+•C: IPP •PF: CBS-Axa                      •FS: 2023-08-09      •FE: 2023-08-23    •SC: N     •SS: 1215 PAS: 42.6 BCS: 30.1 ȘOR: 15.2 PN: 1.9 PPDA: 2.7  PSDE: 2.1                             PDCM: 1.8 MAN: 1.1 •O: 2.6
 •PF: IPRE & CBS-Axa                       •FS: 2023-06-13      •FE: 2023-06-28    •SC: N     •SS: 1120 PAS: 44.0 BCS: 25.7 ȘOR: 15.5 PN: 4.5 PPDA: 1.7  PSDE: 1.6           AUR: 0.5          PDCM: 1.1 MAN: 1.3 •O: 4.2
 •PF: Intellect Group                      •FS: 2023-06-15      •FE: 2023-06-19    •SC: N     •SS: 1056 PAS: 38.1 BCS: 25.6 ȘOR: 22.6 PN: 4.7                                                  PDCM: 3.4 MAN: 4.8 •O: 0.8
 •PF: Watchdog & CBS-Axa                   •FS: 2023-06-10      •FE: 2023-06-19    •SC: N     •SS: 1121 PAS: 44.3 BCS: 21.5 ȘOR: 13.6 PN: 4.1 PPDA: 1.9  PSDE: 1.5                             PDCM: 4.0 MAN: 3.7 •O: 5.4
@@ -13,10 +15,10 @@
 •PF: iData                                •FS: 2022-12-15      •FE: 2022-12-26    •SC: N     •SS: 1006 PAS: 35.2 BCS: 34.3 ȘOR: 16.5 PN: 0.5 PPDA: 3.3  PSDE: 0.7  PDA: 0.4 AUR: 0.4          PDCM: 1.7 MAN: 5.6 •O: 2.9
 •PF: Intellect Group                      •FS: 2022-12-01      •FE: 2022-12-20    •SC: N     •SS: 1209 PAS: 41.5 BCS: 25.7 ȘOR: 24.1 PN: 3.9                                                            MAN: 4.4 •O: 0.4
 •PF: IMAS                                 •FS: 2022-11-10      •FE: 2022-11-29    •SC: N     •SS: 1100 PAS: 34.8 BCS: 33.7 ȘOR: 16.9 PN: 3.1 PPDA: 1.4  PSDE: 1.1  PDA: 1.5 AUR: 0.3 PUN: 0.3 PDCM: 2.6 MAN: 3.1 •O: 1.2
-•PF: IDIS, ISPRI and CBS-Research         •FS: 2022-11-16      •FE: 2022-11-23    •SC: N     •SS: 1015 PAS: 36.5 BCS: 35.7 ȘOR: 13.3 PN: 3.3 PPDA: 3.3  PSDE: 2.2                    PUN: 0.4           MAN: 2.2 •O: 3.1
+•PF: IDIS, ISPRI and CBS Research         •FS: 2022-11-16      •FE: 2022-11-23    •SC: N     •SS: 1015 PAS: 36.5 BCS: 35.7 ȘOR: 13.3 PN: 3.3 PPDA: 3.3  PSDE: 2.2                    PUN: 0.4           MAN: 2.2 •O: 3.1
 •PF: IRI                                  •FS: 2022-10-01      •FE: 2022-11-15    •SC: N     •SS: 1233 PAS: 36.4 BCS: 30.3 ȘOR: 15.2 PN: 3.0 PPDA: 1.5  PSDE: 1.5  PDA: 1.5                             MAN: 4.5 •O: 6.1
 •PF: CBS-Research       •C: IPP           •FS: 2022-10-29      •FE: 2022-11-10    •SC: N     •SS: 1134 PAS: 40.6 BCS: 33.8 ȘOR: 16.7         PPDA: 1.8  PSDE: 1.8                    PUN: 0.7 PDCM: 0.7 MAN: 1.0 •O: 3.0
-•PF: IDIS, ISPRI and CBS-Research         •FS: 2022-09-29      •FE: 2022-10-11    •SC: N     •SS: 1066 PAS: 38.7 BCS: 36.9 ȘOR: 12.8 PN: 2.3 PPDA: 2.8  PSDE: 1.4                             PDCM: 1.0 MAN: 1.0 •O: 3.2
+•PF: IDIS, ISPRI and CBS Research         •FS: 2022-09-29      •FE: 2022-10-11    •SC: N     •SS: 1066 PAS: 38.7 BCS: 36.9 ȘOR: 12.8 PN: 2.3 PPDA: 2.8  PSDE: 1.4                             PDCM: 1.0 MAN: 1.0 •O: 3.2
 •PF: iData                                •FS: 2022-10-04      •FE: 2022-10-10    •SC: N     •SS: 1020 PAS: 31.5 BCS: 28.9 ȘOR: 27.2 PN: 1.1 PPDA: 5.1                                        PDCM: 1.1 MAN: 2.1 •O: 3.2
 •PF: Intellect Group                      •FS: 2022-04-16      •FE: 2022-09-25    •SC: N     •SS: 1088 PAS: 33.4 BCS: 43.9 ȘOR: 16.3                                                                             •O: 6.4
 •PF: iData                                •FS: 2022-09-03      •FE: 2022-09-12    •SC: N     •SS: 1012 PAS: 29.7 BCS: 31.9 ȘOR: 25.6 PN: 1.2 PPDA: 4.4                                        PDCM: 1.8 MAN: 3.5 •O: 1.8
