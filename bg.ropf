@@ -183,30 +183,30 @@
 •PF: Тренд                         •C: 24 часа     •FS: 2017-02-02 •FE: 2017-02-09 •SC: N •SS: 1002 •EX: 39.0 ГЕРБ: 29.7 БСПЗБ: 28.7 ОП: 9.9 ДПС: 9.0 ВОЛЯ: 6.5 РБ: 3.4 ДА: 2.3 АБВ: 2.0 ДСБ: 2.0                                                     •O: 6.5
 •PF: Тренд                                         •FS: 2017-01-10 •FE: 2017-01-17 •SC: N •SS: 1002           ГЕРБ: 32.2 БСПЗБ: 29.3 ОП: 10.4 ДПС: 7.8 ВОЛЯ: 5.9 РБ: 3.7 ДСБ: 1.2 АБВ: 1.0 ДА: 0.7                                                    •O: 7.8
 
-АБВ:        HU008 •A: АБВ        •R: ABV         •BG: Алтернатива за българско възраждане         •EN: Alternative for Bulgarian Revival
-АТАКА:      HU013 •A: Атака      •R: Ataka       •BG: Атака                                       •EN: Attack
-БВ:         HU021 •A: БВ         •R: BV          •BG: Български възход                            •EN: Bulgarian Rise
-БП:         HU019 •A: БП         •R: BP          •BG: Българските патриоти                        •EN: The Bulgarian Patriots
-БСПЗБ:      HU002 •A: БСПзБ      •R: BSPzB       •BG: БСП за България                             •EN: BSP for Bulgaria
-ВМРО:       HU012 •A: ВМРО       •R: VMRO        •BG: ВМРО – Българско Национално Движение        •EN: VMRO – Bulgarian National Movement
-ВОЛЯ:       HU005 •A: Воля       •R: Volya       •BG: Движение Воля                               •EN: Volya Movement
-ВЪЗРАЖДАНЕ: HU011 •A: Възраждане •R: Vazrazhdane •BG: Възраждане                                  •EN: Revival
-ГЕРБ:       HU001 •A: ГЕРБ       •R: GERB        •BG: Граждани за европейско развитие на България •EN: Citizens for European Development of Bulgaria
-ГЕРБСДС:    HU017 •A: ГЕРБ-СДС   •R: GERB—SDS    •BG: ГЕРБ-СДС                                    •EN: GERB—SDS
-ДА:         HU009 •A: Да!        •R: Da!         •BG: Да, България!                               •EN: Yes, Bulgaria!
-ДБ:         HU010 •A: ДБ         •R: DB          •BG: Демократична България                       •EN: Democratic Bulgaria
-ДПС:        HU004 •A: ДПС        •R: DPS         •BG: Движение за права и свободи                 •EN: Movement for Rights and Freedoms
-ДСБ:        HU007 •A: ДСБ        •R: DSB         •BG: Демократи за силна България                 •EN: Democrats for a Strong Bulgaria
-ИБГНИ:      HU016 •A: ИБГ-НИ     •R: IBG-NI      •BG: Изправи се.БГ! Ние идваме!                  •EN: Stand Up.BG! We are coming!
-ИТН:        HU015 •A: ИТН        •R: ITN         •BG: Има такъв народ                             •EN: There Is Such a People
-ЛЕВИЦАТА:   HU024 •A: Левицата!  •R: Levitsata!  •BG: Левицата!                                   •EN: The Left!
-НДСВ:       HU022 •A: НДСВ       •R: NDSV        •BG: Национално движение за стабилност и възход  •EN: National Movement for Stability and Progress
-НФСБ:       HU014 •A: НФСБ       •R: NFSB        •BG: Национален фронт за спасение на България    •EN: National Front for the Salvation of Bulgaria
-ОП:         HU003 •A: ОП         •R: OP          •BG: Обединени Патриоти                          •EN: United Patriots
-ПП:         HU020 •A: ПП         •R: PP          •BG: Продължаваме промяната                      •EN: We Continue the Change
-ППДБ:       HU023 •A: ПП–ДБ      •R: PP–DB       •BG: ПП–ДБ                                       •EN: PP–DB
-РБ:         HU006 •A: РБ         •R: RB          •BG: Реформаторски блок                          •EN: Reformist Bloc
-РЗБ:        HU018 •A: РзБ        •R: RzB         •BG: Републиканци за България                    •EN: Republicans for Bulgaria
+АБВ:        BG008 •A: АБВ        •R: ABV         •BG: Алтернатива за българско възраждане         •EN: Alternative for Bulgarian Revival
+АТАКА:      BG013 •A: Атака      •R: Ataka       •BG: Атака                                       •EN: Attack
+БВ:         BG021 •A: БВ         •R: BV          •BG: Български възход                            •EN: Bulgarian Rise
+БП:         BG019 •A: БП         •R: BP          •BG: Българските патриоти                        •EN: The Bulgarian Patriots
+БСПЗБ:      BG002 •A: БСПзБ      •R: BSPzB       •BG: БСП за България                             •EN: BSP for Bulgaria
+ВМРО:       BG012 •A: ВМРО       •R: VMRO        •BG: ВМРО – Българско Национално Движение        •EN: VMRO – Bulgarian National Movement
+ВОЛЯ:       BG005 •A: Воля       •R: Volya       •BG: Движение Воля                               •EN: Volya Movement
+ВЪЗРАЖДАНЕ: BG011 •A: Възраждане •R: Vazrazhdane •BG: Възраждане                                  •EN: Revival
+ГЕРБ:       BG001 •A: ГЕРБ       •R: GERB        •BG: Граждани за европейско развитие на България •EN: Citizens for European Development of Bulgaria
+ГЕРБСДС:    BG017 •A: ГЕРБ-СДС   •R: GERB—SDS    •BG: ГЕРБ-СДС                                    •EN: GERB—SDS
+ДА:         BG009 •A: Да!        •R: Da!         •BG: Да, България!                               •EN: Yes, Bulgaria!
+ДБ:         BG010 •A: ДБ         •R: DB          •BG: Демократична България                       •EN: Democratic Bulgaria
+ДПС:        BG004 •A: ДПС        •R: DPS         •BG: Движение за права и свободи                 •EN: Movement for Rights and Freedoms
+ДСБ:        BG007 •A: ДСБ        •R: DSB         •BG: Демократи за силна България                 •EN: Democrats for a Strong Bulgaria
+ИБГНИ:      BG016 •A: ИБГ-НИ     •R: IBG-NI      •BG: Изправи се.БГ! Ние идваме!                  •EN: Stand Up.BG! We are coming!
+ИТН:        BG015 •A: ИТН        •R: ITN         •BG: Има такъв народ                             •EN: There Is Such a People
+ЛЕВИЦАТА:   BG024 •A: Левицата!  •R: Levitsata!  •BG: Левицата!                                   •EN: The Left!
+НДСВ:       BG022 •A: НДСВ       •R: NDSV        •BG: Национално движение за стабилност и възход  •EN: National Movement for Stability and Progress
+НФСБ:       BG014 •A: НФСБ       •R: NFSB        •BG: Национален фронт за спасение на България    •EN: National Front for the Salvation of Bulgaria
+ОП:         BG003 •A: ОП         •R: OP          •BG: Обединени Патриоти                          •EN: United Patriots
+ПП:         BG020 •A: ПП         •R: PP          •BG: Продължаваме промяната                      •EN: We Continue the Change
+ППДБ:       BG023 •A: ПП–ДБ      •R: PP–DB       •BG: ПП–ДБ                                       •EN: PP–DB
+РБ:         BG006 •A: РБ         •R: RB          •BG: Реформаторски блок                          •EN: Reformist Bloc
+РЗБ:        BG018 •A: РзБ        •R: RzB         •BG: Републиканци за България                    •EN: Republicans for Bulgaria
 
 ‡ Named alliances:
 ‡ БСПзБ = БСП + …
