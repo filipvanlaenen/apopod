@@ -1,4 +1,4 @@
-•PF: Edison Research                  •C: Formula TV    •FS: 2023-09-07 •FE: 2023-09-24 •SC: N •SS: 1500           GD: 37 VP: 22 FORGEO: 10 GI: 4 LELO: 4 SLP: 4 CI: 2 APG: 1 EG: 1                         •O: 15
+•PF: Edison Research                  •C: Formula TV    •FS: 2023-09-07 •FE: 2023-09-24 •SC: N •SS: 1500           GD: 37 UNM: 22 FORGEO: 10 GI: 4 LELO: 4 SLP: 4 CI: 2 APG: 1 EG: 1                        •O: 15
 •PF: Edison Research                  •C: Formula TV    •FS: 2023-05-25 •FE: 2023-06-14 •SC: N •SS: 1500           GD: 37 UNM: 25 FORGEO: 6 SLP: 5 LELO: 4 GI: 3 SB: 3 CI: 2 APG: 1 EG: 1                   •O: 13
 •PF: GORBI                            •C: Imedi TV      •FS: 2023-04-22 •FE: 2023-05-07 •SC: N •SS: 1212           GD: 53 UNM: 19 LELO: 4 SLP: 3 APG: 2 CI: 2 EG: 2 FORGEO: 2 SB: 2 GI: 1                   •O: 10
 •PF: Institute of Polling & Marketing •C: IRI           •FS: 2023-03-04 •FE: 2023-03-23 •SC: N •SS: 1500 •EX: 43.0 GD: 33 UNM: 25 FORGEO: 5 CI: 4 GI: 4 LELO: 4 SB: 4 SLP: 4 APG: 2 EG: 2                   •O: 13
@@ -31,4 +31,3 @@ LELO:   GE005 •A: Lelo
 SB:     GE010 •A: SB
 SLP:    GE004 •A: SLP
 UNM:    GE002 •A: UNM
-VP:     GE013 •A: VP     •EN: Victory Platform
