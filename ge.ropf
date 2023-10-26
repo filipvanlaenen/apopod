@@ -1,11 +1,13 @@
-•PF: Edison Research                  •C: Formula TV    •FS: 2023-09-07 •FE: 2023-09-24 •SC: N •SS: 1500           GD: 37 UNM: 22 FORGEO: 10 GIRCHI: 4 LELO: 4 SLP: 4 CI: 2 APG: 1 EG: 1                         •O: 15
-•PF: Edison Research                  •C: Formula TV    •FS: 2023-05-25 •FE: 2023-06-14 •SC: N •SS: 1500           GD: 37 UNM: 25 FORGEO: 6 SLP: 5 LELO: 4 GIRCHI: 3 SB: 3 CI: 2 APG: 1 EG: 1                    •O: 13
-•PF: GORBI                            •C: Imedi TV      •FS: 2023-04-22 •FE: 2023-05-07 •SC: N •SS: 1212           GD: 53 UNM: 19 LELO: 4 SLP: 3 APG: 2 CI: 2 EG: 2 FORGEO: 2 SB: 2 GIRCHI: 1                    •O: 10
-•PF: Institute of Polling & Marketing •C: IRI           •FS: 2023-03-04 •FE: 2023-03-23 •SC: N •SS: 1500 •EX: 43.0 GD: 33 UNM: 25 FORGEO: 5 CI: 4 GIRCHI: 4 LELO: 4 SB: 4 SLP: 4 APG: 2 EG: 2                    •O: 13
-•PF: GORBI                            •C: Imedi TV      •FS: 2022-11-17 •FE: 2022-11-29 •SC: N •SS: 2024           GD: 52 UNM: 23 APG: 3 EG: 3 LELO: 3 SB: 3 CI: 2 GIRCHI: 2 FORGEO: 1 SLP: 1                    •O: 4
-•PF: Institute of Polling & Marketing •C: IRI           •FS: 2022-09-13 •FE: 2022-10-02 •SC: N •SS: 1500 •EX: 29.0 GD: 35 UNM: 17 FORGEO: 4 APG: 3 GIRCHI: 3 SB: 3 SLP: 3 CI: 1 LELO: 1                          •O: 7
+•PF: Edison Research                  •C: Formula TV    •FS: 2023-09-07 •FE: 2023-09-24 •SC: N •SS: 1500           GD: 37 VP: 22 FORGEO: 10 GIRCHI: 4 LELO: 4 SLP: 4 CI: 2 APG: 1 EG: 1 GIRCHIMF+DROA: 4 FTP: 4 CMAI: 3 PP: 3 •O: <1
+•PF: Edison Research                  •C: Formula TV    •FS: 2023-05-25 •FE: 2023-06-14 •SC: N •SS: 1500           GD: 37 UNM: 25 FORGEO: 6 SLP: 5 LELO: 4 GIRCHI: 3 SB: 3 CI: 2 APG: 1 EG: 1 GIRCHIMF: 4 DROA: 2 FTP: 3 CMAI: 2 PP: 2
+•PF: GORBI                            •C: Imedi TV      •FS: 2023-04-22 •FE: 2023-05-07 •SC: N •SS: 1212           GD: 53 UNM: 19 LELO: 4 SLP: 3 APG: 2 CI: 2 EG: 2 FORGEO: 2 SB: 2 GIRCHI: 1 GIRCHIMF: 3        •O: 7
+•PF: CRRC Georgia                     •C: NDI           •FS: 2023-03-17 •FE: 2023-03-23 •SC: N •SS: 1032           GD: 20 UNM: 5                                                                                 •O: 6 •N: 69
+•PF: Institute of Polling & Marketing •C: IRI           •FS: 2023-03-04 •FE: 2023-03-23 •SC: N •SS: 1500 •EX: 43.0 GD: 33 UNM: 25 FORGEO: 5 CI: 4 GIRCHI: 4 LELO: 4 SB: 4 SLP: 4 APG: <2 EG: 2 GIRCHIMF: 5 DROA: 2 FTP: 4 CMAI: 2 PP: <2 •O: <2
+•PF: CRRC Georgia                     •C: NDI           •FS: 2022-12-03 •FE: 2022-12-20 •SC: N •SS: 2519           GD: 25 UNM: 6 LELO: 1 SB: 1 APG: 1 GIRCHI: 1 CI: 1 SLP: 2 FORGEO: 2 GIRCHIMF: 2 DROA: 1 FTP: 1 CMAI: 1 •N: 56
+•PF: GORBI                            •C: Imedi TV      •FS: 2022-11-17 •FE: 2022-11-29 •SC: N •SS: 2024           GD: 52 UNM: 23 APG: 3 EG: 3 LELO: 3 SB: 3 CI: 2 GIRCHI: 2 FORGEO: 1 SLP: 1 GIRCHIMF: 3        •O: 4
+•PF: Institute of Polling & Marketing •C: IRI           •FS: 2022-09-13 •FE: 2022-10-02 •SC: N •SS: 1500 •EX: 29.0 GD: 35 UNM: 17 FORGEO: 4 GIRCHIMF: 4 APG: 3 DROA: 3 FTP: 3 GIRCHI: 3 SB: 3 SLP: 3 CI: 1 CMAI: 1 LELO: 1 •O: 3
 •PF: CRRC Georgia                     •C: NDI           •FS: 2022-07-14 •FE: 2022-08-25 •SC: N •SS: 2104 •EX: 46.0 GD: 52 UNM: 20 FORGEO: 6 SB: 6                                                                •O: 17
-•PF: Institute of Polling & Marketing •C: IRI           •FS: 2022-03-04 •FE: 2022-03-24 •SC: N •SS: 1486 •EX: 30.0 GD: 44 UNM: 23 FORGEO: 6 DROA: 3 FTP: 3 LELO: 3 SB: 3 SLP: 3 APG: 1 CI: 1 CMAI: 1 GIRCHIMF: 1
+•PF: Institute of Polling & Marketing •C: IRI           •FS: 2022-03-04 •FE: 2022-03-24 •SC: N •SS: 1486 •EX: 30.0 GD: 44 UNM: 23 FORGEO: 6 DROA: 3 FTP: 3 LELO: 3 SB: 3 SLP: 3 APG: 1 CI: 1 CMAI: 1 GIRCHIMF: 1 •O: 3
 •PF: CRRC Georgia                                       •FS: 2022-03-07 •FE: 2022-03-10 •SC: N •SS: 1092 •EX: 59.0 GD: 54 UNM: 24 LELO: 7 APG: 5                                                                 •O: 10
 •PF: Institute of Polling & Marketing •C: IRI           •FS: 2021-02-02 •FE: 2021-02-26 •SC: N •SS: 1500 •EX: 30.0 GD: 50 UNM: 26 EG: 4 SB: 4 APG: 3 CI: 3 GIRCHI: 3 SLP: 3 LELO: 1
 •PF: Ipsos                            •C: Mtavari Arkhi •FS: 2020-10-17 •FE: 2020-10-27 •SC: N •SS: 2000           GD: 40 UNM: 33 EG: 7 SB: 7 LELO: 4 APG: 2 GIRCHI: 2 SLP: 2 CI: 1 DM: 1
@@ -32,6 +34,11 @@ GD:       GE001 •A: GD        •EN: Georgian Dream – Democratic Georgia •
 GIRCHI:   GE008 •A: Girchi    •EN: Girchi                              •KA: გირჩი
 GIRCHIMF: GE015 •A: Girchi-MF •EN: Girchi — More Freedom               •KA: გირჩი — მეტი თავისუფლება
 LELO:     GE005 •A: Lelo
+PP:       GE017 •A: PP        •EN: People’s Power                      •KA: ხალხის ძალა
 SB:       GE010 •A: SB        •EN: Strategy Builder                    •KA: სტრატეგია აღმაშენებელი
 SLP:      GE004 •A: SLP
 UNM:      GE002 •A: UNM
+VP:       GE018 •A: VP        •EN: Victory Platform
+
+‡ Named alliances:
+‡ VP = UNM + SB
