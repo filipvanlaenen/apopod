@@ -1,3 +1,4 @@
+•PF: OpinionWay–Tilder                     •C: Les Echos                                            •FS: 2023-11-15 •FE: 2023-11-16 •SC: E                      RN: 28 ENSEMBLE: 19 PS: 9 LR: 8 LÉ: 8 LFI: 7 REC: 7 CON+PRG: 3 PCF: 3 DLF: 2 LO: 2                                                           •O: 3
 •PF: Ipsos              •PFP: Sopra Steria •C: La Tribune Dimanche                                  •FS: 2023-11-09 •FE: 2023-11-10 •SC: E •SS: 1412            RN: 29 ENSEMBLE: 21 LÉ: 10.25 PS: 10.25 LFI: 8.5 LR: 6.25 REC: 6 DLF: 2 LO: 2 PCF: 2                                                         •O: 2.75
 •PF: Ifop–Fiducial                         •C: Le Figaro •C: Sud Radio                              •FS: 2023-10-12 •FE: 2023-10-13 •SC: E •SS: 1515            RN: 28 ENSEMBLE: 20 LFI: 9 PS: 9 LÉ: 8.5 LR: 8.25 REC: 5.5 PCF: 5 DLF: 2.25 LO: 1
 •PF: Ifop–Fiducial                         •C: JDD                                                  •FS: 2023-08-30 •FE: 2023-08-31 •SC: E •SS: 1126            RN: 25 ENSEMBLE: 21 LFI: 10 PS: 9 LR: 8 LÉ: 8 REC: 6.5 PCF: 5 DLF: 3 LO: 1                                                                   •O: 3.5
@@ -141,6 +142,7 @@
 •PF: Ifop                                  •C: Le Figaro                                            •FS: 2017-11-29 •FE: 2017-12-01 •SC: E •SS: 1007            ENSEMBLE: 26 RN: 17 LFI: 14 LR: 12 PS: 8 DLF: 6 LÉ: 4 AGIR+UDI: 3.5 LP: 2 PCF: 2 UPR: 1.5 NPA: 1                                             •O: 3
 
 AGIR:     FR009 •A: Agir     •EN: Act, the Constructive Right         •FR: Agir, la droite constructive
+CON:      FR020 •A: CON                                               •FR: La Convention
 DLF:      FR006 •A: DLF      •EN: France Arise                        •FR: Debout la France
 ENSEMBLE: FR001 •A: Ensemble •EN: Together!                           •FR: Ensemble !
 GJ:       FR017 •A: GJ       •EN: Yellow Vests Protests               •FR: Mouvement des gilets jaunes
@@ -152,6 +154,7 @@ LR:       FR004 •A: LR       •EN: The Republicans                     •FR:
 LÉ:       FR007 •A: LÉ       •EN: The Ecologists                      •FR: Les Écologistes
 NPA:      FR013 •A: NPA      •EN: New Anticapitalist Party            •FR: Nouveau Parti anticapitaliste
 PCF:      FR010 •A: PCF      •EN: French Communist Party              •FR: Parti communiste français
+PRG:      FR019 •A: PRG      •EN: Radical Party of the Left           •FR: Parti radical de gauche
 PS:       FR005 •A: PS       •EN: Socialist Party                     •FR: Parti socialiste
 REC:      FR018 •A: REC      •EN: Reconquest!                         •FR: Reconquête!
 RES:      FR015 •A: RES                                               •FR: Résistons!
