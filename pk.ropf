@@ -1,3 +1,9 @@
+•PF: IPOR             •C: IRI                     •FS: 2021-12-22 •FE: 2022-01-09                 •SC: N •SS: 3769 •EX: 11 PTI: 31 PMLN: 33 PPP: 17 MMA: 3 TLP: 3 •O: 12
+•PF: IPOR             •C: IRI                     •FS: 2020-10-27 •FE: 2020-11-11                 •SC: N •SS: 2003 •EX: 32 PTI: 36 PMLN: 38 PPP: 13 MMA: 4 TLP: 3 •O: 6
+•PF: IPOR             •C: IRI                     •FS: 2020-08-03 •FE: 2020-08-13                 •SC: N •SS: 2024 •EX: 26 PTI: 33 PMLN: 38 PPP: 15 MMA: 3 TLP: 3 •O: 8
+•PF: IPOR             •C: IRI                     •FS: 2020-06-19 •FE: 2020-06-30                 •SC: N •SS: 1702         PTI: 24 PMLN: 27 PPP: 11 MMA: 3 TLP: 2 •O: 33
+•PF: Gallup Pakistan                                              •FE: 2019-06-24                 •SC: N •SS: ≈1400        PTI: 31 PMLN: 28 PPP: 15 MMA: 5        •O: 21
+•PF: IPOR             •C: IRI                     •FS: 2018-11-01 •FE: 2018-11-22                 •SC: N •SS: 3991 •EX: 22 PTI: 43 PMLN: 27 PPP: 15 MMA: 1 TLP: 1 •O: 12
 •PF: SDPI             •C: Herald                                  •FE: 2018-07-12                 •SC: N •SS: 6004 PTI: 29 PMLN: 25 PPP: 20 MMA: 3 ANP: 1         •O: 20
 •PF: IPOR             •C: GSP                                     •FE: 2018-07-04                 •SC: N •SS: 3735 PMLN: 32 PTI: 29 PPP: 13 MMA: 3 MQMP: 2 ANP: 1 •O: 20
 •PF: Gallup Pakistan  •C: Jang Geo News                           •FE: 2018-06-06                 •SC: N •SS: 3000 PMLN: 26 PTI: 25 PPP: 16 MMA: 2 ANP: 1         •O: 30
@@ -18,3 +24,4 @@ MQMP: PK004 •A: MQM-P  •EN: Muttahida Qaumi Movement (Pakistan)             
 PMLN: PK003 •A: PML(N) •EN: Pakistan Muslim League (Nawaz)                                                   •UR: پاکستان مسلم لیگ (ن)
 PPP:  PK002 •A: PPP    •EN: Pakistan People’s Party                                 •SD: پاڪستان پيپلز پارٽي •UR: پاکستان پیپلز پارٹی
 PTI:  PK001 •A: PTI    •EN: Pakistan Tehreek-e-Insaf                                                         •UR: پاکستان تحريکِ انصاف
+TLP: PK007 •A: TLP •EN: Tehreek-e-Labbaik Pakistan •UR: تحریکِ لبیک پاکستان
