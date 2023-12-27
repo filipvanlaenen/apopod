@@ -1,16 +1,16 @@
-•PF: SDPI •C: Herald                                              •FE: 2018-07-12       •SC: N •SS: 6004 PMLN: 25 PTI: 29 PPP: 20         MMA: 3 ANP: 1 •O: 20
-•PF: IPOR             •C: GSP                                     •FE: 2018-07-04       •SC: N •SS: 3735 PMLN: 32 PTI: 29 PPP: 13 MQMP: 2 MMA: 3 ANP: 1 •O: 20
-•PF: Gallup Pakistan  •C: Jang Geo News                           •FE: 2018-06-06       •SC: N •SS: 3000 PMLN: 26 PTI: 25 PPP: 16         MMA: 2 ANP: 1 •O: 30
-•PF: Pulse Consultant •C: Jang Geo News        •FS: 2018-05-13    •FE: 2018-05-28       •SC: N •SS: 3163 PMLN: 27 PTI: 30 PPP: 17 MQMP: 1 MMA: 4 ANP: 1 •O: 20
-•PF: Gallup Pakistan                                              •FE: 2018-05          •SC: N •SS: 3000 PMLN: 38 PTI: 25 PPP: 15                       •O: 22
-•PF: Gallup Pakistan  •C: The Wall Street Journal                 •FE: 2018-03          •SC: N •SS: 2000 PMLN: 36 PTI: 24 PPP: 17                       •O: 23
-•PF: Gallup Pakistan  •C: Jang Geo News •FS: 2017-10-10 •FE: 2017-11-01                 •SC: N •SS: 3000 PMLN: 34 PTI: 26 PPP: 15 MQMP: 2 MMA: 2 ANP: 2 •O: 19
-•PF: Pulse Consultant •C: Jang Geo News •FS: 2017-10-08 •FE: 2017-10-25                 •SC: N •SS: 3243 PMLN: 36 PTI: 23 PPP: 15 MQMP: 2 MMA: 1 ANP: 1 •O: 22
-•PF: IPOR •C: GSP    •FE: 2017-09 •PD: 2017-10-24 •SC: N •SS: 4540 PMLN: 38 PTI: 27 PPP: 17 MQMP: 3 MMA: 1 ANP: 1 •O: 14
-•PF: Gallup Pakistan •FE: 2017-04-24 •SC: N •SS: 1400 PMLN: 36 PTI: 25 PPP: 16 MQMP: 2 MMA: 3 ANP: 2 •O: 16
-&                                                     PMLN: 38 PTI: 22 PPP: 17 MQMP: 2 MMA: 2 ANP: 2 •O: 14
-•PF: SDPI            •FE: 2015-08-27 •SC: N •SS: 3014 PMLN: 27 PTI: 33 PPP: 14 MQMP: 1 MMA: 2 ANP: 1 •O: 20
-•PF: SDPI •C: Herald •FE: 2014-07-17 •SC: N •SS: 1354 PTI: 33 PPP: 19 PMLN: 17 MQMP: 5 ANP: 3 MMA: 3 •O: 18
+•PF: SDPI             •C: Herald                                  •FE: 2018-07-12                 •SC: N •SS: 6004 PTI: 29 PMLN: 25 PPP: 20 MMA: 3 ANP: 1         •O: 20
+•PF: IPOR             •C: GSP                                     •FE: 2018-07-04                 •SC: N •SS: 3735 PMLN: 32 PTI: 29 PPP: 13 MMA: 3 MQMP: 2 ANP: 1 •O: 20
+•PF: Gallup Pakistan  •C: Jang Geo News                           •FE: 2018-06-06                 •SC: N •SS: 3000 PMLN: 26 PTI: 25 PPP: 16 MMA: 2 ANP: 1         •O: 30
+•PF: Gallup Pakistan                                              •FE: 2018-05                    •SC: N •SS: 3000 PMLN: 38 PTI: 25 PPP: 15                       •O: 22
+•PF: Pulse Consultant •C: Jang Geo News           •FS: 2018-05-13 •FE: 2018-05-28                 •SC: N •SS: 3163 PTI: 30 PMLN: 27 PPP: 17 MMA: 4 ANP: 1 MQMP: 1 •O: 20
+•PF: Gallup Pakistan  •C: The Wall Street Journal                 •FE: 2018-03                    •SC: N •SS: 2000 PMLN: 36 PTI: 24 PPP: 17                       •O: 23
+•PF: Gallup Pakistan  •C: Jang Geo News           •FS: 2017-10-10 •FE: 2017-11-01                 •SC: N •SS: 3000 PMLN: 34 PTI: 26 PPP: 15 ANP: 2 MMA: 2 MQMP: 2 •O: 19
+•PF: Pulse Consultant •C: Jang Geo News           •FS: 2017-10-08 •FE: 2017-10-25                 •SC: N •SS: 3243 PMLN: 36 PTI: 23 PPP: 15 MQMP: 2 ANP: 1 MMA: 1 •O: 22
+•PF: IPOR             •C: GSP                                     •FE: 2017-09    •PD: 2017-10-24 •SC: N •SS: 4540 PMLN: 38 PTI: 27 PPP: 17 MQMP: 3 ANP: 1 MMA: 1 •O: 14
+•PF: Gallup Pakistan                                              •FE: 2017-04-24                 •SC: N •SS: 1400 PMLN: 36 PTI: 25 PPP: 16 MMA: 3 ANP: 2 MQMP: 2 •O: 16
+&                                                                                                                  PMLN: 38 PTI: 22 PPP: 17 ANP: 2 MMA: 2 MQMP: 2 •O: 14
+•PF: SDPI                                                         •FE: 2015-08-27                 •SC: N •SS: 3014 PTI: 33 PMLN: 27 PPP: 14 MMA: 2 ANP: 1 MQMP: 1 •O: 20
+•PF: SDPI             •C: Herald                                  •FE: 2014-07-17                 •SC: N •SS: 1354 PTI: 33 PPP: 19 PMLN: 17 MQMP: 5 ANP: 3 MMA: 3 •O: 18
 
 ANP:  PK006 •A: ANP    •EN: Awami National Party                •PS: اولسي ملي ګوند                          •UR: عوامی نيشنل پارٹی
 MMA:  PK005 •A: MMA    •EN: Muttahida Majlis–e–Amal                                                          •UR: متحدہ مجلسِ عمل
