@@ -1,5 +1,14 @@
-•PF: Verian          •C: Helsingin Sanomat   •FS: 2023-12-20 •FE: 2023-12-21 •SC: P1 •SS: 1398  •EX: 12.0    AALT: 4  ANDE: 7  ESSA: 2  HAAV: 22  HALL: 13  HARK: 1  REHN: 9   STUB: 24  URPI: 5    •O: 0 •N: 12
-•PF: Taloustutkimus  •C: Yleisradio          •FS: 2023-11-27 •FE: 2023-12-07 •SC: P1 •SS: 2046  •EX: 9.9     AALT: 4  ANDE: 5  ESSA: 2  HAAV: 23  HALL: 10  HARK: 2  REHN: 12  STUB: 31  URPI: 7    •O: 2
+•PF: Verian          •C: Helsingin Sanomat     •FS: 2023-12-20 •FE: 2023-12-21 •SC: P1 •SS: 1398  •EX: 12.0    AALT: 4    ANDE: 7    ESSA: 2    HAAV: 22    HALL: 13    HARK: 1    REHN: 9     STUB: 24    URPI: 5      •O: 0    •N: 12
+•PF: Kantar TNS Agri •C: Maaseudun Tulevaisuus •FS: 2023-12-15 •FE: 2023-12-20 •SC: P1 •SS: 1047  •EX: 14.0    AALT: 3    ANDE: 6    ESSA: 2    HAAV: 23    HALL: 12    HARK: 1    REHN: 10    STUB: 23    URPI: 6      •O: 0    •N: 14
+•PF: Tietoykkönen    •C: Uutissuomalainen      •FS: 2023-12-05 •FE: 2023-12-13 •SC: P1 •SS: 1000  •EX: 13.0    AALT: 4    ANDE: 8    ESSA: 1    HAAV: 22    HALL: 11    HARK: 1    REHN: 9     STUB: 23    URPI: 6      •O: 2    •N: 13
+•PF: Taloustutkimus  •C: Yleisradio            •FS: 2023-11-27 •FE: 2023-12-07 •SC: P1 •SS: 2046  •EX: 9.9     AALT: 4    ANDE: 5    ESSA: 2    HAAV: 23    HALL: 10    HARK: 2    REHN: 12    STUB: 31    URPI: 7      •O: 2
+•PF: Tietoykkönen    •C: Uutissuomalainen      •FS: 2023-11-14 •FE: 2023-11-23 •SC: P1 •SS: 1000  •EX: 17.0    AALT: 5    ANDE: 6    ESSA: 1    HAAV: 24    HALL: 10    HARK: 1    REHN: 9     STUB: 21    URPI: 4      •O: 2    •N: 17
+•PF: Verian          •C: Helsingin Sanomat     •FS: 2023-11-20 •FE: 2023-11-21 •SC: P1 •SS: 1196  •EX: 11.0    AALT: 5    ANDE: 7    ESSA: 2    HAAV: 20    HALL: 10    HARK: 1    REHN: 10    STUB: 24    URPI: 7      •O: 2    •N: 11
+•PF: Kantar TNS Agri •C: Maaseudun Tulevaisuus •FS: 2023-11-05 •FE: 2023-11-10 •SC: P1 •SS: 1024  •EX: 13.0    AALT: 6.6  ANDE: 6.6  ESSA: 0.9  HAAV: 25.8  HALL: 9.7   HARK: 0.7  REHN: 11.2  STUB: 18.2  URPI: 4.5    •O: 2.8  •N: 13.0
+•PF: Taloustutkimus  •C: Yleisradio            •FS: 2023-10-30 •FE: 2023-11-09 •SC: P1 •SS: 1549  •EX: 9.9     AALT: 9    ANDE: 7    ESSA: 2    HAAV: 26    HALL: 8     HARK: 2    REHN: 14    STUB: 28    URPI: 4      •O: 2
+•PF: Kantar Public   •C: Helsingin Sanomat     •FS: 2023-10-06 •FE: 2023-10-12 •SC: P1 •SS: 1017  •EX: 13.0    AALT: 8    ANDE: 6    ESSA: 2    HAAV: 28    HALL: 9     HARK: 0    REHN: 10    STUB: 17    URPI: 3      •O: 3    •N: 13
+•PF: Taloustutkimus  •C: Yleisradio            •FS: 2023-10-04 •FE: 2023-10-09 •SC: P1 •SS: 1516  •EX: 9.8     AALT: 10   ANDE: 7    ESSA: 2    HAAV: 29    HALL: 8     HARK: 2    REHN: 14    STUB: 22    URPI: 3      •O: 2
+•PF: Taloustutkimus  •C: Yleisradio            •FS: 2023-09-08 •FE: 2023-09-11 •SC: P1 •SS: 1507  •EX: 9.8     AALT: 10   ANDE: 7    ESSA: 2    HAAV: 29    HALL: 8     HARK: 2    REHN: 14    STUB: 22    URPI: 3      •O: 2
 
 STUB: FI901 •A: STUB •FI: Alexander Stubb
 HAAV: FI902 •A: HAAV •FI: Pekka Haavisto
