@@ -1,3 +1,5 @@
+•PF: Yöneylem                         •FS: 2023-11-06 •FE: 2023-11-08 •SC: N •SS: 2400   AKP: 32.9 CHP: 24.3 İYİ: 7.4 YSGP: 9.3 MHP: 10.0 TİP: 4.0 YRP: 4.1 ZP: 3.0
+•PF: ASAL                             •FS: 2023-10-05 •FE: 2023-10-10 •SC: N •SS: 2600   AKP: 34.5 CHP: 20.2 İYİ: 8.0 YSGP: 9.8 MHP: 12.1 TİP: 3.0 MP: 1.1 YRP: 3.6 ZP: 2.7
 •PF: ORC                              •FS: 2023-04-29 •FE: 2023-05-01 •SC: N •SS: 3950   AKP: 33.2 CHP: 28.0 İYİ: 15.5 YSGP: 9.6 MHP: 5.7 TİP: 2.0 MP: 1.9 YRP: 1.3                                   •O: 2.8
 •PF: Yöneylem                         •FS: 2023-04-27 •FE: 2023-04-30 •SC: N •SS: 2594   AKP: 35.2 CHP: 30.7 İYİ: 9.8 YSGP: 9.3 MHP: 6.3 TİP: 3.6 YRP: 1.6 MP: 1.5 ZP: 1.4                            •O: 0.6
 •PF: Aksoy                            •FS: 2023-04-26 •FE: 2023-04-28 •SC: N •SS: 1537   AKP: 34.7 CHP: 32.1 YSGP: 9.6 İYİ: 9.0 MHP: 6.8 TİP: 1.9                                                     •O: 5.9
@@ -465,6 +467,6 @@ MP:   TR010 •A: MP   •EN: Homeland Party                                    
 SP:   TR006 •A: SP   •EN: Felicity Party                                                          •TR: Saadet Partisi
 TİP:  TR011 •A: TİP  •EN: Workers’ Party of Turkey                                                •TR: Türkiye İşçi Partisi
 YRP:  TR009 •A: YRP  •EN: New Welfare Party                                                       •TR: Yeniden Refah Partisi
-YSGP: TR013 •A: YSGP •EN: Party of the Greens and the Left Future                                 •TR: Yeşiller ve Sol Gelecek Partisi
+YSGP: TR013 •A: HEDEP •EN: Peoples’ Equality and Democracy Party  •KU:       Partiya Wekhevî û Demokrasiya Gelan                        •TR:  Halkların Eşitlik ve Demokrasi Partisi
 ZP:   TR012 •A: ZP   •EN: Victory Party                                                           •TR: Zafer Partisi
 İYİ:  TR005 •A: İYİ  •EN: Good Party                                                              •TR: İyi Parti
