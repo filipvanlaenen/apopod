@@ -1,3 +1,5 @@
+•PF: MetroPOLL                        •FS: 2023-12-08 •FE: 2023-12-13 •SC: N •SS: 2870   •EX: 28.9 AKP: 38.3 CHP: 28.1 MHP: 7.0 HEDEP: 10.8 İYİ: 8.2 YRP: 2.0 TİP: 1.5 ZP: 1.8 MP: 0.6 SP: 0.8
+•PF: Yöneylem                         •FS: 2023-12-01 •FE: 2023-12-02 •SC: N •SS: 2402   •EX: 18.4 AKP: 32.8 CHP: 26.0 MHP: 10.6 HEDEP: 9.5 İYİ: 5.5 YRP: 4.3 TİP: 2.5 ZP: 4.5
 •PF: AREA                             •FS: 2023-11-30 •FE: 2023-12-02 •SC: N •SS: 3012   •EX: 25.4 AKP: 34.2 CHP: 26.1 MHP: 10.2 HEDEP: 9.5 İYİ: 7.2 ZP: 4.6 TİP: 3.1 YRP: 2.7 DEVA: 1.2
 •PF: PİAR                             •FS: 2023-11-14 •FE: 2023-11-17 •SC: N •SS: 2584             AKP: 32.0 CHP: 27.2 MHP: 15.3 HEDEP: 8.1 İYİ: 5.0 YRP: 4.9 ZP: 2.6 TİP: 2.2
 •PF: Yöneylem                         •FS: 2023-11-06 •FE: 2023-11-08 •SC: N •SS: 2400             AKP: 32.9 CHP: 24.3 MHP: 10.0 HEDEP: 9.3 İYİ: 7.4 YRP: 4.1 TİP: 4.0 ZP: 3.0
@@ -464,7 +466,7 @@ CHP:   TR002 •A: CHP   •EN: Republican People’s Party                     
 DEVA:  TR007 •A: DEVA  •EN: Democracy and Progress Party                                                   •TR: Demokrasi ve Atılım Partisi
 GP:    TR008 •A: GP    •EN: Future Party                                                                   •TR: Gelecek Partisi
 HDP:   TR004 •A: HDP   •EN: Peoples’ Democratic Party             •KU: Partiya Demokratîk a Gelan          •TR: Halkların Demokratik Partisi
-HEDEP: TR013 •A: HEDEP •EN: Peoples’ Equality and Democracy Party •KU: Partiya Wekhevî û Demokrasiya Gelan •TR: Halkların Eşitlik ve Demokrasi Partisi
+HEDEP: TR013 •A: DEM   •EN: Peoples’ Equality and Democracy Party •KU: Partiya Wekhevî û Demokrasiya Gelan •TR: Halkların Eşitlik ve Demokrasi Partisi
 MHP:   TR003 •A: MHP   •EN: Nationalist Movement Party                                                     •TR: Milliyetçi Hareket Partisi
 MP:    TR010 •A: MP    •EN: Homeland Party                                                                 •TR: Memleket Partisi
 SP:    TR006 •A: SP    •EN: Felicity Party                                                                 •TR: Saadet Partisi
