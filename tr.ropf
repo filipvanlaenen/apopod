@@ -1,20 +1,20 @@
-•PF: MetroPOLL                        •FS: 2023-12-08 •FE: 2023-12-13 •SC: N •SS: 2870   •EX: 28.9 AKP: 38.3 CHP: 28.1 MHP: 7.0 HEDEP: 10.8 İYİ: 8.2 YRP: 2.0 TİP: 1.5 ZP: 1.8 MP: 0.6 SP: 0.8
-•PF: Yöneylem                         •FS: 2023-12-01 •FE: 2023-12-02 •SC: N •SS: 2402   •EX: 18.4 AKP: 32.8 CHP: 26.0 MHP: 10.6 HEDEP: 9.5 İYİ: 5.5 YRP: 4.3 TİP: 2.5 ZP: 4.5
-•PF: AREA                             •FS: 2023-11-30 •FE: 2023-12-02 •SC: N •SS: 3012   •EX: 25.4 AKP: 34.2 CHP: 26.1 MHP: 10.2 HEDEP: 9.5 İYİ: 7.2 ZP: 4.6 TİP: 3.1 YRP: 2.7 DEVA: 1.2
-•PF: PİAR                             •FS: 2023-11-14 •FE: 2023-11-17 •SC: N •SS: 2584             AKP: 32.0 CHP: 27.2 MHP: 15.3 HEDEP: 8.1 İYİ: 5.0 YRP: 4.9 ZP: 2.6 TİP: 2.2
-•PF: Yöneylem                         •FS: 2023-11-06 •FE: 2023-11-08 •SC: N •SS: 2400             AKP: 32.9 CHP: 24.3 MHP: 10.0 HEDEP: 9.3 İYİ: 7.4 YRP: 4.1 TİP: 4.0 ZP: 3.0
-•PF: ASAL                             •FS: 2023-10-05 •FE: 2023-10-10 •SC: N •SS: 2600             AKP: 34.5 CHP: 20.2 MHP: 12.1 HEDEP: 9.8 İYİ: 8.0 YRP: 3.6 TİP: 3.0 ZP: 2.7 MP: 1.1
-•PF: ORC                              •FS: 2023-04-29 •FE: 2023-05-01 •SC: N •SS: 3950             AKP: 33.2 CHP: 28.0 İYİ: 15.5 HEDEP: 9.6 MHP: 5.7 TİP: 2.0 MP: 1.9 YRP: 1.3                                  •O: 2.8
-•PF: Yöneylem                         •FS: 2023-04-27 •FE: 2023-04-30 •SC: N •SS: 2594             AKP: 35.2 CHP: 30.7 İYİ: 9.8 HEDEP: 9.3 MHP: 6.3 TİP: 3.6 YRP: 1.6 MP: 1.5 ZP: 1.4                           •O: 0.6
-•PF: Aksoy                            •FS: 2023-04-26 •FE: 2023-04-28 •SC: N •SS: 1537             AKP: 34.7 CHP: 32.1 HEDEP: 9.6 İYİ: 9.0 MHP: 6.8 TİP: 1.9                                                    •O: 5.9
-•PF: S. Politik                       •FS: 2023-04-24 •FE: 2023-04-28 •SC: N •SS: 1569             AKP: 32.3 CHP: 28.7 HEDEP: 11.7 İYİ: 11.3 MHP: 6.1 DEVA: 3.4 ZP: 2.0 MP: 1.4 GP: 1.1 TİP: 1.1 SP: 0.9        •O: 0.3
-•PF: TEAM                             •FS: 2023-04-23 •FE: 2023-04-26 •SC: N •SS: 3054             AKP: 35.9 CHP: 27.6 İYİ: 11.5 HEDEP: 11.2 MHP: 7.5 MP: 3.0 TİP: 1.2 YRP: 1.1 ZP: 0.2                         •O: 0.9
-•PF: Artıbir                          •FS: 2023-04-17 •FE: 2023-04-24 •SC: N •SS: 1500             AKP: 32.3 CHP: 31.4 HEDEP: 11.9 İYİ: 10.2 MHP: 6.4 MP: 3.1 YRP: 2.2 TİP: 1.3 ZP: 0.3                         •O: 0.9
-•PF: Bulgu                            •FS: 2023-04-15 •FE: 2023-04-24 •SC: N •SS: 2400             AKP: 34.3 CHP: 33.0 HEDEP: 8.7 İYİ: 8.3 MHP: 5.3 MP: 4.0 TİP: 2.3 YRP: 1.5 SP: 0.7 ZP: 0.4 GP: 0.1           •O: 1.2
-•PF: ORC                              •FS: 2023-04-19 •FE: 2023-04-22 •SC: N •SS: 3920             AKP: 32.8 CHP: 28.6 İYİ: 15.1 HEDEP: 9.3 MHP: 6.3 MP: 2.7 TİP: 1.4 YRP: 1.2 ZP: 0.9                          •O: 1.7
-•PF: AREA                             •FS: 2023-04-12 •FE: 2023-04-20 •SC: N •SS: 10277            AKP: 36.5 CHP: 30.1 HEDEP: 10.7 MHP: 8.4 İYİ: 8.3 MP: 1.6 TİP: 1.5 YRP: 1.1                                  •O: 3.5
-•PF: Yöneylem                         •FS: 2023-04-14 •FE: 2023-04-16 •SC: N •SS: 2422             AKP: 35.8 CHP: 30.4 HEDEP: 10.3 İYİ: 9.2 MHP: 7.4 MP: 2.6 TİP: 2.2 YRP: 0.5                                  •O: 1.6
-•PF: MAK                              •FS: 2023-04-10 •FE: 2023-04-16 •SC: N •SS: 5750             AKP: 35.8 CHP: 29.1 İYİ: 11.7 HEDEP: 9.5 MHP: 7.2 TİP: 1.4 YRP: 1.4 MP: 1.2 ZP: 0.8                          •O: 1.9
+•PF: MetroPOLL                        •FS: 2023-12-08 •FE: 2023-12-13 •SC: N •SS: 2870   •EX: 28.9 AKP: 38.3 CHP: 28.1 DEM: 10.8 İYİ: 8.2 MHP: 7.0 YRP: 2.0 ZP: 1.8 TİP: 1.5 SP: 0.8 MP: 0.6
+•PF: Yöneylem                         •FS: 2023-12-01 •FE: 2023-12-02 •SC: N •SS: 2402   •EX: 18.4 AKP: 32.8 CHP: 26.0 MHP: 10.6 DEM: 9.5 İYİ: 5.5 ZP: 4.5 YRP: 4.3 TİP: 2.5
+•PF: AREA                             •FS: 2023-11-30 •FE: 2023-12-02 •SC: N •SS: 3012   •EX: 25.4 AKP: 34.2 CHP: 26.1 MHP: 10.2 DEM: 9.5 İYİ: 7.2 ZP: 4.6 TİP: 3.1 YRP: 2.7 DEVA: 1.2
+•PF: PİAR                             •FS: 2023-11-14 •FE: 2023-11-17 •SC: N •SS: 2584             AKP: 32.0 CHP: 27.2 MHP: 15.3 DEM: 8.1 İYİ: 5.0 YRP: 4.9 ZP: 2.6 TİP: 2.2
+•PF: Yöneylem                         •FS: 2023-11-06 •FE: 2023-11-08 •SC: N •SS: 2400             AKP: 32.9 CHP: 24.3 MHP: 10.0 DEM: 9.3 İYİ: 7.4 YRP: 4.1 TİP: 4.0 ZP: 3.0
+•PF: ASAL                             •FS: 2023-10-05 •FE: 2023-10-10 •SC: N •SS: 2600             AKP: 34.5 CHP: 20.2 MHP: 12.1 DEM: 9.8 İYİ: 8.0 YRP: 3.6 TİP: 3.0 ZP: 2.7 MP: 1.1
+•PF: ORC                              •FS: 2023-04-29 •FE: 2023-05-01 •SC: N •SS: 3950             AKP: 33.2 CHP: 28.0 İYİ: 15.5 DEM: 9.6 MHP: 5.7 TİP: 2.0 MP: 1.9 YRP: 1.3                                    •O: 2.8
+•PF: Yöneylem                         •FS: 2023-04-27 •FE: 2023-04-30 •SC: N •SS: 2594             AKP: 35.2 CHP: 30.7 İYİ: 9.8 DEM: 9.3 MHP: 6.3 TİP: 3.6 YRP: 1.6 MP: 1.5 ZP: 1.4                             •O: 0.6
+•PF: Aksoy                            •FS: 2023-04-26 •FE: 2023-04-28 •SC: N •SS: 1537             AKP: 34.7 CHP: 32.1 DEM: 9.6 İYİ: 9.0 MHP: 6.8 TİP: 1.9                                                      •O: 5.9
+•PF: S. Politik                       •FS: 2023-04-24 •FE: 2023-04-28 •SC: N •SS: 1569             AKP: 32.3 CHP: 28.7 DEM: 11.7 İYİ: 11.3 MHP: 6.1 DEVA: 3.4 ZP: 2.0 MP: 1.4 GP: 1.1 TİP: 1.1 SP: 0.9          •O: 0.3
+•PF: TEAM                             •FS: 2023-04-23 •FE: 2023-04-26 •SC: N •SS: 3054             AKP: 35.9 CHP: 27.6 İYİ: 11.5 DEM: 11.2 MHP: 7.5 MP: 3.0 TİP: 1.2 YRP: 1.1 ZP: 0.2                           •O: 0.9
+•PF: Artıbir                          •FS: 2023-04-17 •FE: 2023-04-24 •SC: N •SS: 1500             AKP: 32.3 CHP: 31.4 DEM: 11.9 İYİ: 10.2 MHP: 6.4 MP: 3.1 YRP: 2.2 TİP: 1.3 ZP: 0.3                           •O: 0.9
+•PF: Bulgu                            •FS: 2023-04-15 •FE: 2023-04-24 •SC: N •SS: 2400             AKP: 34.3 CHP: 33.0 DEM: 8.7 İYİ: 8.3 MHP: 5.3 MP: 4.0 TİP: 2.3 YRP: 1.5 SP: 0.7 ZP: 0.4 GP: 0.1             •O: 1.2
+•PF: ORC                              •FS: 2023-04-19 •FE: 2023-04-22 •SC: N •SS: 3920             AKP: 32.8 CHP: 28.6 İYİ: 15.1 DEM: 9.3 MHP: 6.3 MP: 2.7 TİP: 1.4 YRP: 1.2 ZP: 0.9                            •O: 1.7
+•PF: AREA                             •FS: 2023-04-12 •FE: 2023-04-20 •SC: N •SS: 10277            AKP: 36.5 CHP: 30.1 DEM: 10.7 MHP: 8.4 İYİ: 8.3 MP: 1.6 TİP: 1.5 YRP: 1.1                                    •O: 3.5
+•PF: Yöneylem                         •FS: 2023-04-14 •FE: 2023-04-16 •SC: N •SS: 2422             AKP: 35.8 CHP: 30.4 DEM: 10.3 İYİ: 9.2 MHP: 7.4 MP: 2.6 TİP: 2.2 YRP: 0.5                                    •O: 1.6
+•PF: MAK                              •FS: 2023-04-10 •FE: 2023-04-16 •SC: N •SS: 5750             AKP: 35.8 CHP: 29.1 İYİ: 11.7 DEM: 9.5 MHP: 7.2 TİP: 1.4 YRP: 1.4 MP: 1.2 ZP: 0.8                            •O: 1.9
 •PF: SONAR                            •FS: 2023-04-10 •FE: 2023-04-16 •SC: N •SS: 4541             AKP: 38.2 CHP: 24.2 İYİ: 13.4 HDP: 10.1 MHP: 7.1 MP: 4.1                                                     •O: 2.9
 •PF: Aksoy                            •FS: 2023-04-10 •FE: 2023-04-16 •SC: N •SS: 1067             AKP: 31.1 CHP: 30.6 İYİ: 11.4 HDP: 10.5 MHP: 7.5 TİP: 2.5                                                    •O: 6.4
 •PF: ALF                              •FS: 2023-04-08 •FE: 2023-04-12 •SC: N •SS: 2340             AKP: 33.1 CHP: 30.2 İYİ: 13.2 HDP: 10.1 MHP: 6.6 MP: 4.3                                                     •O: 2.5
@@ -442,8 +442,8 @@
 •PF: Polimetre                        •FS: 2019-10-01 •FE: 2019-10-07 •SC: N                       AKP: 37.3 CHP: 25.9 HDP: 13.1 İYİ: 11.5 MHP: 9.9 SP: 1.5                                                     •O: 0.8
 •PF: AR-G                             •FS: 2019-09-01 •FE: 2019-09-30 •SC: N                       AKP: 37.8 CHP: 28.4 MHP: 11.1 HDP: 9.2 İYİ: 7.7 SP: 1.2                                                      •O: 4.6
 •PF: MetroPOLL                        •FS: 2019-09-01 •FE: 2019-09-30 •SC: N                       AKP: 40.2 CHP: 24.5 HDP: 12.0 MHP: 10.7 İYİ: 10.5 SP: 1.6                                                    •O: 0.5
-•PF: Saros                            •FS: 2019-09-01 •FE: 2019-09-21 •SC: N                       AKP: 38.6 CHP: 24.7 HDP: 13.5 İYİ: 10.8 MHP: 10.5                                                            •O: 1.9
 •PF: Saros                            •FS: 2019-09-01 •FE: 2019-09-21 •SC: N                       AKP: 32.5 CHP: 25.2 HDP: 13.4 İYİ: 10.5 MHP: 9.1 DEVA: 4.4 GP: 4.2                                           •O: 0.7
+•PF: Saros                            •FS: 2019-09-01 •FE: 2019-09-21 •SC: N                       AKP: 38.6 CHP: 24.7 HDP: 13.5 İYİ: 10.8 MHP: 10.5                                                            •O: 1.9
 •PF: ORC                              •FS: 2019-09-01 •FE: 2019-09-11 •SC: N                       AKP: 35.7 CHP: 30.9 MHP: 16.6 HDP: 9.4 İYİ: 4.5 SP: 2.0                                                      •O: 0.9
 •PF: Optimar                          •FS: 2019-09-05 •FE: 2019-09-10 •SC: N •SS: 1708             AKP: 40.5 CHP: 26.7 MHP: 10.8 HDP: 9.3 İYİ: 9.0 SP: 2.0                                                      •O: 1.7
 •PF: ADA                              •FS: 2019-08-19 •FE: 2019-08-30 •SC: N •SS: 1721             AKP: 37.5 CHP: 22.8 MHP: 9.5 HDP: 9.0 İYİ: 7.0 SP: 0.9                                                       •O: 13.3
@@ -461,16 +461,16 @@
 •PF: MAK                              •FS: 2018-07-14 •FE: 2018-07-19 •SC: N •SS: 2990             AKP: 45.5 CHP: 22.9 HDP: 10.9 MHP: 10.9 İYİ: 7.6 SP: 1.1                                                     •O: 1.1
 •PF: ORC                              •FS: 2018-07-01 •FE: 2018-07-11 •SC: N                       AKP: 44.7 CHP: 24.7 MHP: 12.3 HDP: 8.9 İYİ: 8.3                                                              •O: 1.1
 
-AKP:   TR001 •A: AKP   •EN: Justice and Development Party                                                  •TR: Adalet ve Kalkınma Partisi
-CHP:   TR002 •A: CHP   •EN: Republican People’s Party                                                      •TR: Cumhuriyet Halk Partisi
-DEVA:  TR007 •A: DEVA  •EN: Democracy and Progress Party                                                   •TR: Demokrasi ve Atılım Partisi
-GP:    TR008 •A: GP    •EN: Future Party                                                                   •TR: Gelecek Partisi
-HDP:   TR004 •A: HDP   •EN: Peoples’ Democratic Party             •KU: Partiya Demokratîk a Gelan          •TR: Halkların Demokratik Partisi
-HEDEP: TR013 •A: DEM   •EN: Peoples’ Equality and Democracy Party •KU: Partiya Wekhevî û Demokrasiya Gelan •TR: Halkların Eşitlik ve Demokrasi Partisi
-MHP:   TR003 •A: MHP   •EN: Nationalist Movement Party                                                     •TR: Milliyetçi Hareket Partisi
-MP:    TR010 •A: MP    •EN: Homeland Party                                                                 •TR: Memleket Partisi
-SP:    TR006 •A: SP    •EN: Felicity Party                                                                 •TR: Saadet Partisi
-TİP:   TR011 •A: TİP   •EN: Workers’ Party of Turkey                                                       •TR: Türkiye İşçi Partisi
-YRP:   TR009 •A: YRP   •EN: New Welfare Party                                                              •TR: Yeniden Refah Partisi
-ZP:    TR012 •A: ZP    •EN: Victory Party                                                                  •TR: Zafer Partisi
-İYİ:   TR005 •A: İYİ   •EN: Good Party                                                                     •TR: İyi Parti
+AKP:  TR001 •A: AKP  •EN: Justice and Development Party                                                  •TR: Adalet ve Kalkınma Partisi
+CHP:  TR002 •A: CHP  •EN: Republican People’s Party                                                      •TR: Cumhuriyet Halk Partisi
+DEM:  TR013 •A: DEM  •EN: Peoples’ Equality and Democracy Party •KU: Partiya Wekhevî û Demokrasiya Gelan •TR: Halkların Eşitlik ve Demokrasi Partisi
+DEVA: TR007 •A: DEVA •EN: Democracy and Progress Party                                                   •TR: Demokrasi ve Atılım Partisi
+GP:   TR008 •A: GP   •EN: Future Party                                                                   •TR: Gelecek Partisi
+HDP:  TR004 •A: HDP  •EN: Peoples’ Democratic Party             •KU: Partiya Demokratîk a Gelan          •TR: Halkların Demokratik Partisi
+MHP:  TR003 •A: MHP  •EN: Nationalist Movement Party                                                     •TR: Milliyetçi Hareket Partisi
+MP:   TR010 •A: MP   •EN: Homeland Party                                                                 •TR: Memleket Partisi
+SP:   TR006 •A: SP   •EN: Felicity Party                                                                 •TR: Saadet Partisi
+TİP:  TR011 •A: TİP  •EN: Workers’ Party of Turkey                                                       •TR: Türkiye İşçi Partisi
+YRP:  TR009 •A: YRP  •EN: New Welfare Party                                                              •TR: Yeniden Refah Partisi
+ZP:   TR012 •A: ZP   •EN: Victory Party                                                                  •TR: Zafer Partisi
+İYİ:  TR005 •A: İYİ  •EN: Good Party                                                                     •TR: İyi Parti
