@@ -1,6 +1,8 @@
-•PF: Aximage      •C: Diário de Notícias •C: Jornal de Notícias •C: TSF Rádio Notícias •FS: 2023-12-18 •FE: 2023-12-23 •SC: N •SS: 805            PS: 34.1 PSD: 24.8 CDSPP: 1.2 CH: 16.3 IL: 4.1 BE:  6.3 CDU: 2.7 PAN: 3.7 L: 1.8       •O: 5.0
-•PF: Intercampus  •C: CMTV •C: Correio da Manhã •C: Negócios                           •FS: 2023-12-18 •FE: 2023-12-21 •SC: N •SS: 611            PS: 29.3 PSD: 26.0 CDSPP: 1.8 CH: 13.4 IL: 7.6 BE: 10.1 CDU: 2.7 PAN: 3.5 L: 3.3       •O: 2.3
-•PF: Consulmark2  •C: Euronews •C: Sol                                                 •FS: 2023-12-17 •FE: 2023-12-20 •SC: N •SS: 803            PSD: 27.5 PS: 26.5 CH: 15.2 BE: 7.7 IL: 5.8 CDU: 2.8 CDSPP: 1.7 L: 2.3 PAN: 0.8        •O: 9.7
+•PF: Consulmark2  •C: Euronews •C: Sol                                                 •FS: 2024-01-11 •FE: 2024-01-17 •SC: N •SS: 801            AD: 28.1 PS: 26.7 CH: 17.5 BE: 7.2 IL: 6.3 CDU: 3.3 L: 2.1 PAN: 1.2                    •O: 7.5
+•PF: Aximage      •C: Diário de Notícias •C: Jornal de Notícias •C: TSF Rádio Notícias •FS: 2023-12-18 •FE: 2023-12-23 •SC: N •SS: 805            PS: 34.1 PSD: 24.8 CH: 16.3 BE: 6.3 IL: 4.1 PAN: 3.7 CDU: 2.7 L: 1.8 CDSPP: 1.2        •O: 5.0
+•PF: Intercampus  •C: CMTV •C: Correio da Manhã •C: Negócios                           •FS: 2023-12-18 •FE: 2023-12-21 •SC: N •SS: 611            PS: 29.3 PSD: 26.0 CH: 13.4 BE: 10.1 IL: 7.6 PAN: 3.5 L: 3.3 CDU: 2.7 CDSPP: 1.8       •O: 2.3
+•PF: Consulmark2  •C: Euronews •C: Sol                                                 •FS: 2023-12-17 •FE: 2023-12-20 •SC: N •SS: 803            PSD: 27.5 PS: 26.5 CH: 15.2 BE: 7.7 IL: 5.8 CDU: 2.8 L: 2.3 CDSPP: 1.7 PAN: 0.8        •O: 9.7
+&                                                                                                                                                 AD: 37.6 PS: 24.1 CH: 12.0 BE: 9.1 IL: 4.9 CDU: 3.3 L: 2.8 PAN: 1.1                    •O: 5.0
 •PF: Consulmark2  •C: Euronews •C: Sol                                                 •FS: 2023-11-30 •FE: 2023-12-06 •SC: N •SS: 575            PSD: 30.0 PS: 26.0 CH: 17.2 IL: 6.7 BE: 4.4 CDSPP: 2.3 L: 2.3 CDU: 2.1 PAN: 1.4        •O: 7.6
 •PF: CESOP–UCP    •C: Antena 1 •C: Público •C: RTP                                     •FS: 2023-11-15 •FE: 2023-11-24 •SC: N •SS: 1102           PSD: 29 PS: 28 CH: 16 IL: 9 BE: 6 CDU: 3 CDSPP: 2 L: 2 PAN: 2                          •O: 3
 •PF: Aximage      •C: Diário de Notícias •C: Jornal de Notícias •C: TSF Rádio Notícias •FS: 2023-11-18 •FE: 2023-11-23 •SC: N •SS: 802            PS: 32.9 PSD: 26.7 CH: 16.2 BE: 6.9 IL: 5.0 CDU: 3.2 PAN: 2.9 L: 2.0 CDSPP: 1.5        •O: 2.7
@@ -243,6 +245,7 @@
 •PF: Aximage      •C: Correio da Manhã                                                 •FS: 2018-01-06 •FE: 2018-01-09 •SC: N •SS: 600            PS: 40.2 PSD: 26.2 BE: 9.2 CDU: 6.8 CDSPP: 6.2                                         •O: 11.4
 
 A:     PT007 •A: A      •EN: Alliance                           •PT: Aliança
+AD:    PT011 •A: AD     •EN: Democratic Alliance                •PT: Aliança Democrática
 BE:    PT003 •A: BE     •EN: Left Bloc                          •PT: Bloco de Esquerda
 CDSPP: PT005 •A: CDS–PP •EN: CDS – People’s Party               •PT: CDS – Partido Popular
 CDU:   PT004 •A: CDU    •EN: CDU – Unitary Democratic Coalition •PT: CDU – Coligação Democrática Unitária
@@ -255,3 +258,4 @@ PSD:   PT002 •A: PSD    •EN: Social Democratic Party            •PT: Parti
 
 ‡ Named alliances:
 ‡ CDU = PCP + PEV
+‡ AD = PSD + CDS–PP
