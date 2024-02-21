@@ -650,10 +650,10 @@
 &                                                                 •SC: N2           LP+NP: 56 ALP: 44
 •PF: Essential                    •FS: 2013-05-02 •FE: 2013-05-05 •SC: N            LP+NP: 48 ALP: 33 GRN: 9        •O: 10
 &                                                                 •SC: N2           LP+NP: 56 ALP: 44
-•PF: ReachTEL                     •FS: 2013-05-02 •FE: 2013-05-02 •SC: N            LP+NP: 49.8 ALP: 31.3 GRN: 10.2 •O: 8.8
-&                                                                 •SC: N2           LP+NP: 57 ALP: 43
 •PF: ReachTEL                     •FS: 2013-05-02 •FE: 2013-05-02 •SC: N            LP+NP: 48.5 ALP: 29.3 GRN: 10.2 •O: 11.9
 &                                                                 •SC: N2           LP+NP: 58 ALP: 42
+•PF: ReachTEL                     •FS: 2013-05-02 •FE: 2013-05-02 •SC: N            LP+NP: 49.8 ALP: 31.3 GRN: 10.2 •O: 8.8
+&                                                                 •SC: N2           LP+NP: 57 ALP: 43
 •PF: Morgan                       •FS: 2013-04-26 •FE: 2013-04-28 •SC: N            LP+NP: 48 ALP: 30.5 GRN: 11     •O: 10.5
 &                                                                 •SC: N2           LP+NP: 56.5 ALP: 43.5
 •PF: Essential                    •FS: 2013-04-25 •FE: 2013-04-28 •SC: N            LP+NP: 48 ALP: 34 GRN: 9        •O: 9
