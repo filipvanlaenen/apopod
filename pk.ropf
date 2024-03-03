@@ -1,4 +1,4 @@
-•PF: Pattan-Coalition 38                                          •FE: 2024-01-30                 •SC: N •SS: 2114 •EX: 7 PTI: 42 PMLN: 17 PPP: 18 TLP: 2 JUI-F: 3 GDA: 1 •O:15
+•PF: Pattan-Coalition 38                                          •FE: 2024-01-30                 •SC: N •SS: 2114 •EX: 7 PTI: 42 PMLN: 17 PPP: 18 TLP: 2 JUIF: 3 GDA: 1 •O:15
 •PF: Gallup Pakistan                              •FS: 2023-06-10 •FE: 2023-06-30                 •SC: N •SS: 3500 •EX: 13 PTI: 48 PMLN: 23 PPP: 14 MMA: 2 TLP: 5 •O: 8
 •PF: Iris Communications                                          •FE: 2023-04-05                 •SC: N •SS: 3000 •EX: 12 PTI: 45 PMLN: 22 PPP: 13 MMA: 2 TLP: 6 •O: 13
 •PF: IPOR             •C: IRI                     •FS: 2022-05-24 •FE: 2022-06-03                 •SC: N •SS: 2003 •EX: 25 PTI: 39 PMLN: 33 PPP: 12 MMA: 7 TLP: 4 •O: 5
@@ -31,3 +31,5 @@ PMLN: PK003 •A: PML(N) •EN: Pakistan Muslim League (Nawaz)                  
 PPP:  PK002 •A: PPP    •EN: Pakistan People’s Party                                 •SD: پاڪستان پيپلز پارٽي •UR: پاکستان پیپلز پارٹی
 PTI:  PK001 •A: PTI    •EN: Pakistan Tehreek-e-Insaf                                                         •UR: پاکستان تحريکِ انصاف
 TLP: PK007 •A: TLP •EN: Tehreek-e-Labbaik Pakistan •UR: تحریکِ لبیک پاکستان
+JUIF: PK008 •A: JUI(F) •EN: Jamiat Ulema-e-Islam Pakistan (Fazl) •UR: جمیعت علماءِ اسلام
+GDA: PK009 •A: GDA •EN: Grand Democratic Alliance •UR: گرانڈ جمہوری اتحاد
