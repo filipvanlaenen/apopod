@@ -1,4 +1,8 @@
+•PF: INSCOP              •C: News.ro                  •FS: 2024-02-22 •FE: 2024-02-29 •SC: E •SS: 1100  CNR: 43.7 AUR: 20.6 ADU: 13.7 SOSRO: 6.4 RMDSZ: 3.9 PRO: 3.7 AER: 3.4 REPER: 0.9                                     •O: 3.7
+•PF: INSOMAR                                          •FS: 2024-02    •FE: 2024-02    •SC: E •SS: 1030  CNR: 40.8 AUR: 30.5 ADU: 11.5 RMDSZ: 4.5 BSR: 4.2 SOSRO: 2 PRO: 1.7 PUSL: 1.5                                        •O: 3.3
+•PF: Sociopol                                         •FS: 2024-02    •FE: 2024-02    •SC: E            CNR: 42 AUR: 28 ADU: 15 RMDSZ: 5 SOSRO: 3 PER: 2 PRO: 2 PUSL: 1 REPER: 1                                             •O: 1
 •PF: CURS                                             •FS: 2024-02-03 •FE: 2024-02-14 •SC: E •SS: 1067  PSD: 31 AUR: 20 PNL: 20 ADU: 13 RMDSZ: 4 SOSRO: 4 PRO: 2 PUSL: 2                                                     •O: 4
+•PF: INSOMAR                                          •FS: 2024-01    •FE: 2024-01    •SC: E •SS: 1050  PSD: 25 AUR: 22 PNL: 21 USR: 9 BSR: 3 RMDSZ: 3 SOSRO: 3 PMP: 2 PRO: 1                                                •O: 6
 •PF: Sociopol                                         •FS: 2024-01    •FE: 2024-01    •SC: E            PSD: 29 AUR: 23 PNL: 17 ADU: 13 RMDSZ: 5 SOSRO: 3 PER: 2 PRO: 2 PUSL: 1 REPER: 1
 •PF: CURS                                             •FS: 2024-01-15 •FE: 2024-01-27 •SC: E •SS: 1082  PSD: 30 AUR: 21 PNL: 19 ADU: 14 RMDSZ: 5 SOSRO: 4 PUSL: 3
 •PF: INSCOP              •C: News.ro                  •FS: 2024-01-16 •FE: 2024-01-24 •SC: E •SS: 1100  PSD: 29.5 PNL: 18.8 AUR: 18.4 ADU: 12.9 SOSRO: 6.5 RMDSZ: 4.8 AER: 3.4 PRO: 3.0 REPER: 0.5
@@ -184,6 +188,8 @@ AER:     RO020 •A: AER      •EN: AER for Romania Alliance                   
 ALDE:    RO004 •A: ALDE     •EN: Alliance of Liberals and Democrats                                                    •RO: Alianța Liberalilor și Democraților
 APP:     RO014 •A: APP      •EN: Alliance for the Homeland                                                             •RO: Alianța pentru Patrie
 AUR:     RO010 •A: AUR      •EN: Alliance for the Union of Romanians                                                   •RO: Alianța pentru Unirea Românilor
+BSR:     RO022 •A: BSR      •EN: Romanian Sovereigntist Bloc                                                           •RO: Blocul Suveranist Român
+CNR:     RO021 •A: CNR      •EN: National Coalition for Romania                                                        •RO: Coaliția Națională pentru România
 FD:      RO015 •A: FD       •EN: Force of the Right                                                                    •RO: Forța Dreptei
 PER:     RO013 •A: PER      •EN: Romanian Ecologist Party                                                              •RO: Partidul Ecologist Român
 PLUS:    RO007 •A: PLUS     •EN: Party of Liberty, Unity and Solidarity                                                •RO: Partidul Libertate, Unitate și Solidaritate
@@ -204,3 +210,5 @@ USRPLUS: RO009 •A: USR PLUS •EN: USR PLUS                                   
 ‡ USRPLUS = USR16 + PLUS
 ‡ ADU = USR+PMP+FD
 ‡ AER = PV+PER
+‡ CNR = PNL+PSD
+‡ BSR = A number of small parties
