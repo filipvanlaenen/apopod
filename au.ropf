@@ -1,154 +1,151 @@
-•PF: Freshwater Strategy •FS: 2023-12-15 •FE: 2023-12-17 •SC: N •SS: 1109     LP+NP: 39 ALP: 31 GRN: 13 •O: 16 
-& •SC: N2  ALP: 50 LP+NP: 50
-•PF: Roy Morgan •FS: 2023-12-11 •FE: 2023-12-17 •SC: N •SS: 1109     LP+NP: 38 ALP: 32 GRN: 11.5 ONP: 4.5 •O: 14 
-& •SC: N2  ALP: 50 LP+NP: 50
-•PF: Newspoll •FS: 2023-12-11 •FE: 2023-12-15 •SC: N •SS: 1219     LP+NP: 36 ALP: 33 GRN: 13 ONP: 7 •O: 11 
-& •SC: N2  ALP: 52 LP+NP: 48
-•PF: Essential •FS: 2023-12-06 •FE: 2023-12-11 •SC: N •SS: 1102     LP+NP: 34 ALP: 31 GRN: 13 ONP: 6 •N: 5 UAP: 2 •O: 9 
-& •SC: N2  ALP: 49 LP+NP: 46
-•PF: RedBridge Group •FS: 2023-12-06 •FE: 2023-12-11 •SC: N •SS: 2010     LP+NP: 35 ALP: 33 GRN: 13 •O: 19 
-& •SC: N2  ALP: 52.8 LP+NP: 47.2
-•PF: YouGov •FS: 2023-12-01 •FE: 2023-12-05 •SC: N •SS: 1555     LP+NP: 36 ALP: 29 GRN: 15 ONP: 7 •O: 13 
-& •SC: N2  ALP: 51 LP+NP: 49
-•PF: Resolve Strategic •FS: 2023-12-03 •FE: 2023-12-03 •SC: N •SS: 1605     ALP: 35 LP+NP: 34 GRN: 12 ONP: 5 UAP: 1 •O: 12 
-& •SC: N2  ALP: 55 LP+NP: 45
-•PF: Roy Morgan •FS: 2023-12-03 •FE: 2023-12-03 •SC: N •SS: 1730     LP+NP: 37.5 ALP: 32.5 GRN: 12.5 ONP: 5 •O: 12.5 
-& •SC: N2  ALP: 51 LP+NP: 49
-•PF: Essential •FS: 2023-11-22 •FE: 2023-11-26 •SC: N •SS: 1151     LP+NP: 34 ALP: 31 GRN: 13 ONP: 7 •N: 6 UAP: 1 •O: 8 
-& •SC: N2  ALP: 48 LP+NP: 47
-•PF: Roy Morgan •FS: 2023-11-20 •FE: 2023-11-26 •SC: N •SS: 1379     LP+NP: 35 ALP: 32 GRN: 13.5 ONP: 5 •O: 14.5 
-& •SC: N2  ALP: 52.5 LP+NP: 47.5
-•PF: Newspoll •FS: 2023-11-20 •FE: 2023-11-24 •SC: N •SS: 1216     LP+NP: 38 ALP: 31 GRN: 13 ONP: 6 •O: 12 
-& •SC: N2  ALP: 50 LP+NP: 50
-•PF: Roy Morgan •FS: 2023-11-13 •FE: 2023-11-19 •SC: N •SS: 1401     LP+NP: 37.5 ALP: 29.5 GRN: 13.5 ONP: 6.5 •O: 13 
-& •SC: N2  LP+NP: 50.5 ALP: 49.5
-•PF: YouGov •FS: 2023-11-10 •FE: 2023-11-14 •SC: N •SS: 1582     LP+NP: 36 ALP: 31 GRN: 13 ONP: 7 •O: 13 
-& •SC: N2  ALP: 51 LP+NP: 49
-•PF: Essential •FS: 2023-11-08 •FE: 2023-11-12 •SC: N •SS: 1150     LP+NP: 34 ALP: 32 GRN: 12 ONP: 7 •N: 5 UAP: 2 •O: 8 
-& •SC: N2  ALP: 49 LP+NP: 47
-•PF: Roy Morgan •FS: 2023-11-06 •FE: 2023-11-12 •SC: N •SS: 1397     LP+NP: 36.5 ALP: 30 GRN: 13 ONP: 6 •O: 14.5 
-& •SC: N2  ALP: 50 LP+NP: 50
-•PF: Resolve Strategic •FS: 2023-11-01 •FE: 2023-11-05 •SC: N •SS: 1602     ALP: 35 LP+NP: 30 GRN: 13 ONP: 7 UAP: 2 •O: 13 
-& •SC: N2  ALP: 57 LP+NP: 43
-•PF: Newspoll •FS: 2023-11-03 •FE: 2023-11-03 •SC: N •SS: 1220     LP+NP: 37 ALP: 35 GRN: 12 ONP: 6 •O: 10 
-& •SC: N2  ALP: 52 LP+NP: 48
-•PF: RedBridge Group •FS: 2023-11-02 •FE: 2023-11-02 •SC: N •SS: 1205     LP+NP: 35 ALP: 34 GRN: 14 •O: 17 
-& •SC: N2  ALP: 53.5 LP+NP: 46.5
-•PF: Essential •FS: 2023-10-25 •FE: 2023-10-29 •SC: N •SS: 1149     LP+NP: 34 ALP: 32 GRN: 10 ONP: 7 •N: 6 UAP: 3 •O: 9 
-& •SC: N2  ALP: 48 LP+NP: 46
-•PF: Roy Morgan •FS: 2023-10-23 •FE: 2023-10-29 •SC: N •SS: 1375     LP+NP: 35 ALP: 32.5 GRN: 15 •O: 17.5 
-& •SC: N2  ALP: 53 LP+NP: 47
-•PF: Roy Morgan •FS: 2023-10-16 •FE: 2023-10-22 •SC: N •SS: 1383     LP+NP: 36 ALP: 32 GRN: 14 ONP: 4.5 •O: 13.5 
-& •SC: N2  LP+NP: 50.5 ALP: 49.5
-•PF: Newspoll •FS: 2023-10-04 •FE: 2023-10-12 •SC: N •SS: 2638     ALP: 36 LP+NP: 35 GRN: 12 ONP: 6 •O: 11 
-& •SC: N2  ALP: 54 LP+NP: 46
-•PF: YouGov •FS: 2023-10-06 •FE: 2023-10-10 •SC: N •SS: 1519     LP+NP: 36 ALP: 33 GRN: 14 ONP: 6 •O: 11 
-& •SC: N2  ALP: 53 LP+NP: 47
-•PF: Newspoll •FS: 2023-10-03 •FE: 2023-10-06 •SC: N •SS: 1225     LP+NP: 36 ALP: 34 GRN: 12 ONP: 5 •O: 13 
-& •SC: N2  ALP: 53 LP+NP: 47
-•PF: Resolve Strategic •FS: 2023-10-04 •FE: 2023-10-04 •SC: N •SS: 4728     ALP: 37 LP+NP: 31 GRN: 12 ONP: 7 UAP: 2 •O: 11 
-& •SC: N2  ALP: 57 LP+NP: 43
-•PF: Essential •FS: 2023-10-01 •FE: 2023-10-01 •SC: N •SS: 1125     ALP: 33 LP+NP: 32 GRN: 14 ONP: 6 •N: 5 UAP: 2 •O: 7 
-& •SC: N2  ALP: 50 LP+NP: 45
-•PF: YouGov •FS: 2023-09-25 •FE: 2023-09-29 •SC: N •SS: 1563     LP+NP: 35 ALP: 33 GRN: 13 •O: 19 
-& •SC: N2  ALP: 53 LP+NP: 47
-•PF: Freshwater Strategy •FS: 2023-09-22 •FE: 2023-09-24 •SC: N •SS: 1003     LP+NP: 37 ALP: 33 GRN: 13 •O: 17 
-& •SC: N2  ALP: 51 LP+NP: 49
-•PF: Newspoll •FS: 2023-09-18 •FE: 2023-09-22 •SC: N •SS: 1239     LP+NP: 36 ALP: 36 GRN: 11 ONP: 6 •O: 11 
-& •SC: N2  ALP: 54 LP+NP: 46
-•PF: Essential •FS: 2023-09-13 •FE: 2023-09-17 •SC: N •SS: 1135     LP+NP: 32 ALP: 31 GRN: 13 ONP: 8 •N: 6 UAP: 2 •O: 8 
-& •SC: N2  ALP: 49 LP+NP: 45
-•PF: Roy Morgan •FS: 2023-09-04 •FE: 2023-09-10 •SC: N •SS: 1382     LP+NP: 37 ALP: 32 GRN: 13.5 •O: 17.5 
-& •SC: N2  ALP: 52.5 LP+NP: 47.5
-•PF: Resolve Strategic •FS: 2023-09-06 •FE: 2023-09-09 •SC: N •SS: 1604     ALP: 36 LP+NP: 34 GRN: 12 ONP: 5 UAP: 2 •O: 11 
-& •SC: N2  ALP: 55.5 LP+NP: 44.5
-•PF: RedBridge Group •FS: 2023-09-04 •FE: 2023-09-04 •SC: N •SS: 1001     ALP: 37 LP+NP: 36 GRN: 13 •O: 14 
-& •SC: N2  ALP: 54.1 LP+NP: 45.9
-•PF: Essential •FS: 2023-09-03 •FE: 2023-09-03 •SC: N •SS: 1151     LP+NP: 32 ALP: 31 GRN: 15 ONP: 7 •N: 6 UAP: 2 •O: 7 
-& •SC: N2  ALP: 51 LP+NP: 43
-•PF: Roy Morgan •FS: 2023-09-03 •FE: 2023-09-03 •SC: N •SS: 1404     LP+NP: 37.5 ALP: 33.5 GRN: 13 •O: 16 
-& •SC: N2  ALP: 53 LP+NP: 47
-•PF: Newspoll •FS: 2023-09-01 •FE: 2023-09-01 •SC: N •SS: 1200     LP+NP: 37 ALP: 35 GRN: 13 ONP: 7 •O: 8 
-& •SC: N2  ALP: 53 LP+NP: 47
-•PF: Essential •FS: 2023-08-16 •FE: 2023-08-20 •SC: N •SS: 1151     LP+NP: 33 ALP: 33 GRN: 14 •N: 6 ONP: 5 UAP: 3 •O: 7 
-& •SC: N2  ALP: 51 LP+NP: 43
-•PF: RedBridge Group •FS: 2023-08-10 •FE: 2023-08-14 •SC: N •SS: 1010     ALP: 38 LP+NP: 32 GRN: 10 •O: 21 
-& •SC: N2  ALP: 55.6 LP+NP: 44.4
-•PF: Resolve Strategic •FS: 2023-08-09 •FE: 2023-08-13 •SC: N •SS: 1603     ALP: 37 LP+NP: 33 GRN: 11 ONP: 5 UAP: 2 •O: 12 
-& •SC: N2  ALP: 56 LP+NP: 44
-•PF: Essential •FS: 2023-08-02 •FE: 2023-08-06 •SC: N •SS: 1150     ALP: 33 LP+NP: 30 GRN: 12 ONP: 8 •N: 6 UAP: 2 •O: 8 
-& •SC: N2  ALP: 52 LP+NP: 42
-•PF: Essential •FS: 2023-07-19 •FE: 2023-07-23 •SC: N •SS: 1150     LP+NP: 32 ALP: 31 GRN: 14 ONP: 7 •N: 6 UAP: 1 •O: 9 
-& •SC: N2  ALP: 50 LP+NP: 45
-•PF: Resolve Strategic •FS: 2023-07-12 •FE: 2023-07-15 •SC: N •SS: 1610     ALP: 39 LP+NP: 30 GRN: 11 ONP: 6 UAP: 1 •O: 11 
-& •SC: N2  ALP: 59 LP+NP: 41
-•PF: Newspoll •FS: 2023-07-12 •FE: 2023-07-15 •SC: N •SS: 1570     ALP: 36 LP+NP: 34 GRN: 12 ONP: 7 •O: 11 
-& •SC: N2  ALP: 55 LP+NP: 45
-•PF: Essential •FS: 2023-07-05 •FE: 2023-07-09 •SC: N •SS: 2248     LP+NP: 32 ALP: 32 GRN: 14 ONP: 8 •N: 5 UAP: 1 •O: 8 
-& •SC: N2  ALP: 51 LP+NP: 44
-•PF: Essential •FS: 2023-06-21 •FE: 2023-06-25 •SC: N •SS: 1148     ALP: 32 LP+NP: 30 GRN: 14 ONP: 7 •N: 6 UAP: 2 •O: 11 
-& •SC: N2  ALP: 52 LP+NP: 42
-•PF: Newspoll •FS: 2023-06-16 •FE: 2023-06-24 •SC: N •SS: 2303     ALP: 38 LP+NP: 35 GRN: 11 ONP: 6 •O: 10 
-& •SC: N2  ALP: 54 LP+NP: 46
-•PF: Essential •FS: 2023-06-07 •FE: 2023-06-11 •SC: N •SS: 1123     LP+NP: 32 ALP: 32 GRN: 16 ONP: 5 •N: 5 UAP: 1 •O: 9 
-& •SC: N2  ALP: 52 LP+NP: 42
-•PF: Resolve Strategic •FS: 2023-06-06 •FE: 2023-06-11 •SC: N •SS: 1606   ALP: 40   LP+NP: 30 GRN: 12 ONP: 6 UAP: 2 •O: 10 
-& •SC: N2  ALP: 60 LP+NP: 40
-•PF: Newspoll •FS: 2023-05-31 •FE: 2023-06-03 •SC: N •SS: 1549     ALP: 38 LP+NP: 34 GRN: 12 ONP: 6 •O: 10 
-& •SC: N2  ALP: 55 LP+NP: 45
-•PF: Essential •FS: 2023-05-24 •FE: 2023-05-28 •SC: N •SS: 1138     ALP: 34 LP+NP: 31 GRN: 15 ONP: 6 •N: 5 UAP: 2 •O: 7 
-& •SC: N2  ALP: 52 LP+NP: 43
-•PF: Freshwater Strategy •FS: 2023-05-15 •FE: 2023-05-17 •SC: N •SS: 1005     LP+NP: 37 ALP: 34 GRN: 12 •O: 17 
-& •SC: N2  ALP: 52 LP+NP: 48
-•PF: Essential •FS: 2023-05-10 •FE: 2023-05-14 •SC: N •SS: 1080     ALP: 35 LP+NP: 31 GRN: 14 ONP: 5 •N: 5 UAP: 1 •O: 8 
-& •SC: N2  ALP: 53 LP+NP: 42
-•PF: Newspoll •FS: 2023-05-11 •FE: 2023-05-13 •SC: N •SS: 1516     ALP: 38 LP+NP: 34 GRN: 11 ONP: 7 •O: 10 
-& •SC: N2  ALP: 55 LP+NP: 45
-•PF: Resolve Strategic •FS: 2023-05-10 •FE: 2023-05-13 •SC: N •SS: 1610   ALP: 42   LP+NP: 30 GRN: 12 ONP: 5 UAP: 2 •N: 2 •O: 8 
-& •SC: N2  ALP: 61 LP+NP: 39
-•PF: Essential •FS: 2023-04-26 •FE: 2023-04-30 •SC: N •SS: 1130     ALP: 33 LP+NP: 32 GRN: 14 ONP: 5 •N: 5 UAP: 2 •O: 8 
-& •SC: N2  ALP: 53 LP+NP: 41
-•PF: Newspoll •FS: 2023-04-19 •FE: 2023-04-22 •SC: N •SS: 1514     ALP: 38 LP+NP: 33 GRN: 11 ONP: 7 •O: 11 
-& •SC: N2  ALP: 56 LP+NP: 44
-•PF: Essential •FS: 2023-04-12 •FE: 2023-04-16 •SC: N •SS: 1136     ALP: 34 LP+NP: 31 GRN: 14 ONP: 6 •N: 4 UAP: 3 •O: 9 
-& •SC: N2  ALP: 52 LP+NP: 43
-•PF: Resolve Strategic •FS: 2023-04-12 •FE: 2023-04-16 •SC: N •SS: 1609   ALP: 42   LP+NP: 28 GRN: 12 ONP: 6 UAP: 1 •O: 11 
-& •SC: N2  ALP: 61.5 LP+NP: 38.5
-•PF: Essential •FS: 2023-03-29 •FE: 2023-04-02 •SC: N •SS: 1133     ALP: 33 LP+NP: 30 GRN: 14 ONP: 6 •N: 5 UAP: 2 •O: 10 
-& •SC: N2  ALP: 53 LP+NP: 42
-•PF: Newspoll •FS: 2023-03-29 •FE: 2023-04-01 •SC: N •SS: 1500     ALP: 38 LP+NP: 33 GRN: 10 ONP: 8 •O: 11 
-& •SC: N2  ALP: 55 LP+NP: 45
-•PF: Essential •FS: 2023-03-15 •FE: 2023-03-20 •SC: N •SS: 1124     ALP: 34 LP+NP: 31 GRN: 14 ONP: 5 •N: 5 UAP: 2 •O: 9 
-& •SC: N2  ALP: 52 LP+NP: 43
-•PF: Resolve Strategic •FS: 2023-03-12 •FE: 2023-03-16 •SC: N •SS: 1600     ALP: 39 LP+NP: 30 GRN: 13 ONP: 5 UAP: 1 •O: 11 
-& •SC: N2  ALP: 60 LP+NP: 40
-•PF: Essential •FS: 2023-03-01 •FE: 2023-03-05 •SC: N •SS: 1141     LP+NP: 32 ALP: 32 GRN: 12 ONP: 7 •N: 7 UAP: 2 •O: 10 
-& •SC: N2  ALP: 49 LP+NP: 44
-•PF: Roy Morgan •FS: 2023-02-27 •FE: 2023-03-05 •SC: N     ALP: 38 LP+NP: 33.5 GRN: 11.5 •O: 17 
-& •SC: N2  ALP: 54.5 LP+NP: 45.5
-•PF: Newspoll •FS: 2023-03-01 •FE: 2023-03-04 •SC: N •SS: 1530     ALP: 37 LP+NP: 35 GRN: 10 ONP: 7 •O: 11 
-& •SC: N2  ALP: 54 LP+NP: 46
-•PF: Roy Morgan •FS: 2023-02-20 •FE: 2023-02-26 •SC: N     ALP: 37 LP+NP: 34.5 GRN: 13.5 •O: 15 
-& •SC: N2  ALP: 56.5 LP+NP: 43.5
-•PF: Essential •FS: 2023-02-15 •FE: 2023-02-19 •SC: N •SS: 1044     ALP: 33 LP+NP: 30 GRN: 14 •N: 8 ONP: 6 UAP: 3 •O: 8 
-& •SC: N2  ALP: 51 LP+NP: 42
-•PF: Resolve Strategic •FS: 2023-02-15 •FE: 2023-02-19 •SC: N •SS: 1604     ALP: 40 LP+NP: 31 GRN: 10 ONP: 5 UAP: 1 •O: 11 
-& •SC: N2  ALP: 57.9 LP+NP: 42.1
-•PF: Roy Morgan •FS: 2023-02-13 •FE: 2023-02-19 •SC: N     ALP: 37 LP+NP: 33 GRN: 13 •O: 17 
-& •SC: N2  ALP: 58.5 LP+NP: 41.5
-•PF: Essential •FS: 2023-02-01 •FE: 2023-02-06 •SC: N •SS: 1000     ALP: 33 LP+NP: 30 GRN: 17 ONP: 6 •N: 5 UAP: 1 •O: 15 
-& •SC: N2  ALP: 55 LP+NP: 40
-•PF: Newspoll •FS: 2023-02-01 •FE: 2023-02-04 •SC: N •SS: 1512     ALP: 38 LP+NP: 34 GRN: 11 ONP: 6 UAP: 1 •O: 10 
-& •SC: N2  ALP: 55 LP+NP: 45
-•PF: Roy Morgan •FS: 2023-01-23 •FE: 2023-01-29 •SC: N     ALP: 37.5 LP+NP: 33.5 GRN: 11.5 •O: 17.5 
-& •SC: N2  ALP: 57 LP+NP: 43
-•PF: Essential •FS: 2023-01-18 •FE: 2023-01-22 •SC: N •SS: 1050     ALP: 34 LP+NP: 31 GRN: 14 ONP: 8 •N: 5 UAP: 1 •O: 7 
-& •SC: N2  ALP: 53 LP+NP: 42
-•PF: Resolve Strategic •FS: 2023-01-17 •FE: 2023-01-22 •SC: N •SS: 1606   ALP: 42   LP+NP: 29 GRN: 11 ONP: 6 UAP: 2 •O: 11 
-& •SC: N2  ALP: 60 LP+NP: 40
-
-
-
+•PF: Freshwater Strategy                    •FS: 2023-12-15 •FE: 2023-12-17 •SC: N  •SS: 1109  LP+NP: 39 ALP: 31 GRN: 13                          •O: 16
+&                                                                           •SC: N2            ALP: 50 LP+NP: 50
+•PF: Roy Morgan                             •FS: 2023-12-11 •FE: 2023-12-17 •SC: N  •SS: 1109  LP+NP: 38 ALP: 32 GRN: 11.5 ONP: 4.5               •O: 14
+&                                                                           •SC: N2            ALP: 50 LP+NP: 50
+•PF: Newspoll                               •FS: 2023-12-11 •FE: 2023-12-15 •SC: N  •SS: 1219  LP+NP: 36 ALP: 33 GRN: 13 ONP: 7                   •O: 11
+&                                                                           •SC: N2            ALP: 52 LP+NP: 48
+•PF: RedBridge Group                        •FS: 2023-12-06 •FE: 2023-12-11 •SC: N  •SS: 2010  LP+NP: 35 ALP: 33 GRN: 13                          •O: 19
+&                                                                           •SC: N2            ALP: 52.8 LP+NP: 47.2
+•PF: Essential                              •FS: 2023-12-06 •FE: 2023-12-11 •SC: N  •SS: 1102  LP+NP: 34 ALP: 31 GRN: 13 ONP: 6 UAP: 2            •O: 9    •N: 5
+&                                                                           •SC: N2            ALP: 49 LP+NP: 46
+•PF: YouGov                                 •FS: 2023-12-01 •FE: 2023-12-05 •SC: N  •SS: 1555  LP+NP: 36 ALP: 29 GRN: 15 ONP: 7                   •O: 13
+&                                                                           •SC: N2            ALP: 51 LP+NP: 49
+•PF: Roy Morgan                             •FS: 2023-12-03 •FE: 2023-12-03 •SC: N  •SS: 1730  LP+NP: 37.5 ALP: 32.5 GRN: 12.5 ONP: 5             •O: 12.5
+&                                                                           •SC: N2            ALP: 51 LP+NP: 49
+•PF: Resolve Strategic                      •FS: 2023-12-03 •FE: 2023-12-03 •SC: N  •SS: 1605  ALP: 35 LP+NP: 34 GRN: 12 ONP: 5 UAP: 1            •O: 12
+&                                                                           •SC: N2            ALP: 55 LP+NP: 45
+•PF: Essential                              •FS: 2023-11-22 •FE: 2023-11-26 •SC: N  •SS: 1151  LP+NP: 34 ALP: 31 GRN: 13 ONP: 7 UAP: 1            •O: 8    •N: 6
+&                                                                           •SC: N2            ALP: 48 LP+NP: 47
+•PF: Roy Morgan                             •FS: 2023-11-20 •FE: 2023-11-26 •SC: N  •SS: 1379  LP+NP: 35 ALP: 32 GRN: 13.5 ONP: 5                 •O: 14.5
+&                                                                           •SC: N2            ALP: 52.5 LP+NP: 47.5
+•PF: Newspoll                               •FS: 2023-11-20 •FE: 2023-11-24 •SC: N  •SS: 1216  LP+NP: 38 ALP: 31 GRN: 13 ONP: 6                   •O: 12
+&                                                                           •SC: N2            ALP: 50 LP+NP: 50
+•PF: Roy Morgan                             •FS: 2023-11-13 •FE: 2023-11-19 •SC: N  •SS: 1401  LP+NP: 37.5 ALP: 29.5 GRN: 13.5 ONP: 6.5           •O: 13
+&                                                                           •SC: N2            LP+NP: 50.5 ALP: 49.5
+•PF: YouGov                                 •FS: 2023-11-10 •FE: 2023-11-14 •SC: N  •SS: 1582  LP+NP: 36 ALP: 31 GRN: 13 ONP: 7                   •O: 13
+&                                                                           •SC: N2            ALP: 51 LP+NP: 49
+•PF: Essential                              •FS: 2023-11-08 •FE: 2023-11-12 •SC: N  •SS: 1150  LP+NP: 34 ALP: 32 GRN: 12 ONP: 7 UAP: 2            •O: 8    •N: 5
+&                                                                           •SC: N2            ALP: 49 LP+NP: 47
+•PF: Roy Morgan                             •FS: 2023-11-06 •FE: 2023-11-12 •SC: N  •SS: 1397  LP+NP: 36.5 ALP: 30 GRN: 13 ONP: 6                 •O: 14.5
+&                                                                           •SC: N2            ALP: 50 LP+NP: 50
+•PF: Resolve Strategic                      •FS: 2023-11-01 •FE: 2023-11-05 •SC: N  •SS: 1602  ALP: 35 LP+NP: 30 GRN: 13 ONP: 7 UAP: 2            •O: 13
+&                                                                           •SC: N2            ALP: 57 LP+NP: 43
+•PF: Newspoll                               •FS: 2023-11-03 •FE: 2023-11-03 •SC: N  •SS: 1220  LP+NP: 37 ALP: 35 GRN: 12 ONP: 6                   •O: 10
+&                                                                           •SC: N2            ALP: 52 LP+NP: 48
+•PF: RedBridge Group                        •FS: 2023-11-02 •FE: 2023-11-02 •SC: N  •SS: 1205  LP+NP: 35 ALP: 34 GRN: 14                          •O: 17
+&                                                                           •SC: N2            ALP: 53.5 LP+NP: 46.5
+•PF: Essential                              •FS: 2023-10-25 •FE: 2023-10-29 •SC: N  •SS: 1149  LP+NP: 34 ALP: 32 GRN: 10 ONP: 7 UAP: 3            •O: 9    •N: 6
+&                                                                           •SC: N2            ALP: 48 LP+NP: 46
+•PF: Roy Morgan                             •FS: 2023-10-23 •FE: 2023-10-29 •SC: N  •SS: 1375  LP+NP: 35 ALP: 32.5 GRN: 15                        •O: 17.5
+&                                                                           •SC: N2            ALP: 53 LP+NP: 47
+•PF: Roy Morgan                             •FS: 2023-10-16 •FE: 2023-10-22 •SC: N  •SS: 1383  LP+NP: 36 ALP: 32 GRN: 14 ONP: 4.5                 •O: 13.5
+&                                                                           •SC: N2            LP+NP: 50.5 ALP: 49.5
+•PF: Newspoll                               •FS: 2023-10-04 •FE: 2023-10-12 •SC: N  •SS: 2638  ALP: 36 LP+NP: 35 GRN: 12 ONP: 6                   •O: 11
+&                                                                           •SC: N2            ALP: 54 LP+NP: 46
+•PF: YouGov                                 •FS: 2023-10-06 •FE: 2023-10-10 •SC: N  •SS: 1519  LP+NP: 36 ALP: 33 GRN: 14 ONP: 6                   •O: 11
+&                                                                           •SC: N2            ALP: 53 LP+NP: 47
+•PF: Newspoll                               •FS: 2023-10-03 •FE: 2023-10-06 •SC: N  •SS: 1225  LP+NP: 36 ALP: 34 GRN: 12 ONP: 5                   •O: 13
+&                                                                           •SC: N2            ALP: 53 LP+NP: 47
+•PF: Resolve Strategic                      •FS: 2023-10-04 •FE: 2023-10-04 •SC: N  •SS: 4728  ALP: 37 LP+NP: 31 GRN: 12 ONP: 7 UAP: 2            •O: 11
+&                                                                           •SC: N2            ALP: 57 LP+NP: 43
+•PF: Essential                              •FS: 2023-10-01 •FE: 2023-10-01 •SC: N  •SS: 1125  ALP: 33 LP+NP: 32 GRN: 14 ONP: 6 UAP: 2            •O: 7    •N: 5
+&                                                                           •SC: N2            ALP: 50 LP+NP: 45
+•PF: YouGov                                 •FS: 2023-09-25 •FE: 2023-09-29 •SC: N  •SS: 1563  LP+NP: 35 ALP: 33 GRN: 13                          •O: 19
+&                                                                           •SC: N2            ALP: 53 LP+NP: 47
+•PF: Freshwater Strategy                    •FS: 2023-09-22 •FE: 2023-09-24 •SC: N  •SS: 1003  LP+NP: 37 ALP: 33 GRN: 13                          •O: 17
+&                                                                           •SC: N2            ALP: 51 LP+NP: 49
+•PF: Newspoll                               •FS: 2023-09-18 •FE: 2023-09-22 •SC: N  •SS: 1239  ALP: 36 LP+NP: 36 GRN: 11 ONP: 6                   •O: 11
+&                                                                           •SC: N2            ALP: 54 LP+NP: 46
+•PF: Essential                              •FS: 2023-09-13 •FE: 2023-09-17 •SC: N  •SS: 1135  LP+NP: 32 ALP: 31 GRN: 13 ONP: 8 UAP: 2            •O: 8    •N: 6
+&                                                                           •SC: N2            ALP: 49 LP+NP: 45
+•PF: Roy Morgan                             •FS: 2023-09-04 •FE: 2023-09-10 •SC: N  •SS: 1382  LP+NP: 37 ALP: 32 GRN: 13.5                        •O: 17.5
+&                                                                           •SC: N2            ALP: 52.5 LP+NP: 47.5
+•PF: Resolve Strategic                      •FS: 2023-09-06 •FE: 2023-09-09 •SC: N  •SS: 1604  ALP: 36 LP+NP: 34 GRN: 12 ONP: 5 UAP: 2            •O: 11
+&                                                                           •SC: N2            ALP: 55.5 LP+NP: 44.5
+•PF: RedBridge Group                        •FS: 2023-09-04 •FE: 2023-09-04 •SC: N  •SS: 1001  ALP: 37 LP+NP: 36 GRN: 13                          •O: 14
+&                                                                           •SC: N2            ALP: 54.1 LP+NP: 45.9
+•PF: Roy Morgan                             •FS: 2023-09-03 •FE: 2023-09-03 •SC: N  •SS: 1404  LP+NP: 37.5 ALP: 33.5 GRN: 13                      •O: 16
+&                                                                           •SC: N2            ALP: 53 LP+NP: 47
+•PF: Essential                              •FS: 2023-09-03 •FE: 2023-09-03 •SC: N  •SS: 1151  LP+NP: 32 ALP: 31 GRN: 15 ONP: 7 UAP: 2            •O: 7    •N: 6
+&                                                                           •SC: N2            ALP: 51 LP+NP: 43
+•PF: Newspoll                               •FS: 2023-09-01 •FE: 2023-09-01 •SC: N  •SS: 1200  LP+NP: 37 ALP: 35 GRN: 13 ONP: 7                   •O: 8
+&                                                                           •SC: N2            ALP: 53 LP+NP: 47
+•PF: Essential                              •FS: 2023-08-16 •FE: 2023-08-20 •SC: N  •SS: 1151  ALP: 33 LP+NP: 33 GRN: 14 ONP: 5 UAP: 3            •O: 7    •N: 6
+&                                                                           •SC: N2            ALP: 51 LP+NP: 43
+•PF: RedBridge Group                        •FS: 2023-08-10 •FE: 2023-08-14 •SC: N  •SS: 1010  ALP: 38 LP+NP: 32 GRN: 10                          •O: 21
+&                                                                           •SC: N2            ALP: 55.6 LP+NP: 44.4
+•PF: Resolve Strategic                      •FS: 2023-08-09 •FE: 2023-08-13 •SC: N  •SS: 1603  ALP: 37 LP+NP: 33 GRN: 11 ONP: 5 UAP: 2            •O: 12
+&                                                                           •SC: N2            ALP: 56 LP+NP: 44
+•PF: Essential                              •FS: 2023-08-02 •FE: 2023-08-06 •SC: N  •SS: 1150  ALP: 33 LP+NP: 30 GRN: 12 ONP: 8 UAP: 2            •O: 8    •N: 6
+&                                                                           •SC: N2            ALP: 52 LP+NP: 42
+•PF: Essential                              •FS: 2023-07-19 •FE: 2023-07-23 •SC: N  •SS: 1150  LP+NP: 32 ALP: 31 GRN: 14 ONP: 7 UAP: 1            •O: 9    •N: 6
+&                                                                           •SC: N2            ALP: 50 LP+NP: 45
+•PF: Resolve Strategic                      •FS: 2023-07-12 •FE: 2023-07-15 •SC: N  •SS: 1610  ALP: 39 LP+NP: 30 GRN: 11 ONP: 6 UAP: 1            •O: 11
+&                                                                           •SC: N2            ALP: 59 LP+NP: 41
+•PF: Newspoll                               •FS: 2023-07-12 •FE: 2023-07-15 •SC: N  •SS: 1570  ALP: 36 LP+NP: 34 GRN: 12 ONP: 7                   •O: 11
+&                                                                           •SC: N2            ALP: 55 LP+NP: 45
+•PF: Essential                              •FS: 2023-07-05 •FE: 2023-07-09 •SC: N  •SS: 2248  ALP: 32 LP+NP: 32 GRN: 14 ONP: 8 UAP: 1            •O: 8    •N: 5
+&                                                                           •SC: N2            ALP: 51 LP+NP: 44
+•PF: Essential                              •FS: 2023-06-21 •FE: 2023-06-25 •SC: N  •SS: 1148  ALP: 32 LP+NP: 30 GRN: 14 ONP: 7 UAP: 2            •O: 11   •N: 6
+&                                                                           •SC: N2            ALP: 52 LP+NP: 42
+•PF: Newspoll                               •FS: 2023-06-16 •FE: 2023-06-24 •SC: N  •SS: 2303  ALP: 38 LP+NP: 35 GRN: 11 ONP: 6                   •O: 10
+&                                                                           •SC: N2            ALP: 54 LP+NP: 46
+•PF: Essential                              •FS: 2023-06-07 •FE: 2023-06-11 •SC: N  •SS: 1123  ALP: 32 LP+NP: 32 GRN: 16 ONP: 5 UAP: 1            •O: 9    •N: 5
+&                                                                           •SC: N2            ALP: 52 LP+NP: 42
+•PF: Resolve Strategic                      •FS: 2023-06-06 •FE: 2023-06-11 •SC: N  •SS: 1606  ALP: 40 LP+NP: 30 GRN: 12 ONP: 6 UAP: 2            •O: 10
+&                                                                           •SC: N2            ALP: 60 LP+NP: 40
+•PF: Newspoll                               •FS: 2023-05-31 •FE: 2023-06-03 •SC: N  •SS: 1549  ALP: 38 LP+NP: 34 GRN: 12 ONP: 6                   •O: 10
+&                                                                           •SC: N2            ALP: 55 LP+NP: 45
+•PF: Essential                              •FS: 2023-05-24 •FE: 2023-05-28 •SC: N  •SS: 1138  ALP: 34 LP+NP: 31 GRN: 15 ONP: 6 UAP: 2            •O: 7    •N: 5
+&                                                                           •SC: N2            ALP: 52 LP+NP: 43
+•PF: Freshwater Strategy                    •FS: 2023-05-15 •FE: 2023-05-17 •SC: N  •SS: 1005  LP+NP: 37 ALP: 34 GRN: 12                          •O: 17
+&                                                                           •SC: N2            ALP: 52 LP+NP: 48
+•PF: Essential                              •FS: 2023-05-10 •FE: 2023-05-14 •SC: N  •SS: 1080  ALP: 35 LP+NP: 31 GRN: 14 ONP: 5 UAP: 1            •O: 8    •N: 5
+&                                                                           •SC: N2            ALP: 53 LP+NP: 42
+•PF: Newspoll                               •FS: 2023-05-11 •FE: 2023-05-13 •SC: N  •SS: 1516  ALP: 38 LP+NP: 34 GRN: 11 ONP: 7                   •O: 10
+&                                                                           •SC: N2            ALP: 55 LP+NP: 45
+•PF: Resolve Strategic                      •FS: 2023-05-10 •FE: 2023-05-13 •SC: N  •SS: 1610  ALP: 42 LP+NP: 30 GRN: 12 ONP: 5 UAP: 2            •O: 8    •N: 2
+&                                                                           •SC: N2            ALP: 61 LP+NP: 39
+•PF: Essential                              •FS: 2023-04-26 •FE: 2023-04-30 •SC: N  •SS: 1130  ALP: 33 LP+NP: 32 GRN: 14 ONP: 5 UAP: 2            •O: 8    •N: 5
+&                                                                           •SC: N2            ALP: 53 LP+NP: 41
+•PF: Newspoll                               •FS: 2023-04-19 •FE: 2023-04-22 •SC: N  •SS: 1514  ALP: 38 LP+NP: 33 GRN: 11 ONP: 7                   •O: 11
+&                                                                           •SC: N2            ALP: 56 LP+NP: 44
+•PF: Resolve Strategic                      •FS: 2023-04-12 •FE: 2023-04-16 •SC: N  •SS: 1609  ALP: 42 LP+NP: 28 GRN: 12 ONP: 6 UAP: 1            •O: 11
+&                                                                           •SC: N2            ALP: 61.5 LP+NP: 38.5
+•PF: Essential                              •FS: 2023-04-12 •FE: 2023-04-16 •SC: N  •SS: 1136  ALP: 34 LP+NP: 31 GRN: 14 ONP: 6 UAP: 3            •O: 9    •N: 4
+&                                                                           •SC: N2            ALP: 52 LP+NP: 43
+•PF: Essential                              •FS: 2023-03-29 •FE: 2023-04-02 •SC: N  •SS: 1133  ALP: 33 LP+NP: 30 GRN: 14 ONP: 6 UAP: 2            •O: 10   •N: 5
+&                                                                           •SC: N2            ALP: 53 LP+NP: 42
+•PF: Newspoll                               •FS: 2023-03-29 •FE: 2023-04-01 •SC: N  •SS: 1500  ALP: 38 LP+NP: 33 GRN: 10 ONP: 8                   •O: 11
+&                                                                           •SC: N2            ALP: 55 LP+NP: 45
+•PF: Essential                              •FS: 2023-03-15 •FE: 2023-03-20 •SC: N  •SS: 1124  ALP: 34 LP+NP: 31 GRN: 14 ONP: 5 UAP: 2            •O: 9    •N: 5
+&                                                                           •SC: N2            ALP: 52 LP+NP: 43
+•PF: Resolve Strategic                      •FS: 2023-03-12 •FE: 2023-03-16 •SC: N  •SS: 1600  ALP: 39 LP+NP: 30 GRN: 13 ONP: 5 UAP: 1            •O: 11
+&                                                                           •SC: N2            ALP: 60 LP+NP: 40
+•PF: Essential                              •FS: 2023-03-01 •FE: 2023-03-05 •SC: N  •SS: 1141  ALP: 32 LP+NP: 32 GRN: 12 ONP: 7 UAP: 2            •O: 10   •N: 7
+&                                                                           •SC: N2            ALP: 49 LP+NP: 44
+•PF: Roy Morgan                             •FS: 2023-02-27 •FE: 2023-03-05 •SC: N             ALP: 38 LP+NP: 33.5 GRN: 11.5                      •O: 17
+&                                                                           •SC: N2            ALP: 54.5 LP+NP: 45.5
+•PF: Newspoll                               •FS: 2023-03-01 •FE: 2023-03-04 •SC: N  •SS: 1530  ALP: 37 LP+NP: 35 GRN: 10 ONP: 7                   •O: 11
+&                                                                           •SC: N2            ALP: 54 LP+NP: 46
+•PF: Roy Morgan                             •FS: 2023-02-20 •FE: 2023-02-26 •SC: N             ALP: 37 LP+NP: 34.5 GRN: 13.5                      •O: 15
+&                                                                           •SC: N2            ALP: 56.5 LP+NP: 43.5
+•PF: Resolve Strategic                      •FS: 2023-02-15 •FE: 2023-02-19 •SC: N  •SS: 1604  ALP: 40 LP+NP: 31 GRN: 10 ONP: 5 UAP: 1            •O: 11
+&                                                                           •SC: N2            ALP: 57.9 LP+NP: 42.1
+•PF: Essential                              •FS: 2023-02-15 •FE: 2023-02-19 •SC: N  •SS: 1044  ALP: 33 LP+NP: 30 GRN: 14 ONP: 6 UAP: 3            •O: 8    •N: 8
+&                                                                           •SC: N2            ALP: 51 LP+NP: 42
+•PF: Roy Morgan                             •FS: 2023-02-13 •FE: 2023-02-19 •SC: N             ALP: 37 LP+NP: 33 GRN: 13                          •O: 17
+&                                                                           •SC: N2            ALP: 58.5 LP+NP: 41.5
+•PF: Essential                              •FS: 2023-02-01 •FE: 2023-02-06 •SC: N  •SS: 1000  ALP: 33 LP+NP: 30 GRN: 17 ONP: 6 UAP: 1            •O: 8    •N: 5
+&                                                                           •SC: N2            ALP: 55 LP+NP: 40
+•PF: Newspoll                               •FS: 2023-02-01 •FE: 2023-02-04 •SC: N  •SS: 1512  ALP: 38 LP+NP: 34 GRN: 11 ONP: 6 UAP: 1            •O: 10
+&                                                                           •SC: N2            ALP: 55 LP+NP: 45
+•PF: Roy Morgan                             •FS: 2023-01-23 •FE: 2023-01-29 •SC: N             ALP: 37.5 LP+NP: 33.5 GRN: 11.5                    •O: 17.5
+&                                                                           •SC: N2            ALP: 57 LP+NP: 43
+•PF: Essential                              •FS: 2023-01-18 •FE: 2023-01-22 •SC: N  •SS: 1050  ALP: 34 LP+NP: 31 GRN: 14 ONP: 8 UAP: 1            •O: 7    •N: 5
+&                                                                           •SC: N2            ALP: 53 LP+NP: 42
+•PF: Resolve Strategic                      •FS: 2023-01-17 •FE: 2023-01-22 •SC: N  •SS: 1606  ALP: 42 LP+NP: 29 GRN: 11 ONP: 6 UAP: 2            •O: 11
+&                                                                           •SC: N2            ALP: 60 LP+NP: 40
 •PF: Freshwater Strategy                    •FS: 2022-12-16 •FE: 2022-12-18 •SC: N  •SS: 1209  ALP: 37 LP+NP: 37 GRN: 12 ONP: 4 UAP: 1            •O: 9
 &                                                                           •SC: N2            ALP: 54 LP+NP: 46
 •PF: Essential                              •FS: 2022-12-07 •FE: 2022-12-11 •SC: N  •SS: 1042  ALP: 35 LP+NP: 30 GRN: 13 ONP: 6 UAP: 3            •O: 8    •N: 5
@@ -1512,10 +1509,10 @@
 &                                                                           •SC: N2            LP+NP: 56 ALP: 44
 •PF: Essential                              •FS: 2013-05-02 •FE: 2013-05-05 •SC: N             LP+NP: 48 ALP: 33 GRN: 9                           •O: 10
 &                                                                           •SC: N2            LP+NP: 56 ALP: 44
-•PF: ReachTEL                               •FS: 2013-05-02 •FE: 2013-05-02 •SC: N             LP+NP: 48.5 ALP: 29.3 GRN: 10.2                    •O: 11.9
-&                                                                           •SC: N2            LP+NP: 58 ALP: 42
 •PF: ReachTEL                               •FS: 2013-05-02 •FE: 2013-05-02 •SC: N             LP+NP: 49.8 ALP: 31.3 GRN: 10.2                    •O: 8.8
 &                                                                           •SC: N2            LP+NP: 57 ALP: 43
+•PF: ReachTEL                               •FS: 2013-05-02 •FE: 2013-05-02 •SC: N             LP+NP: 48.5 ALP: 29.3 GRN: 10.2                    •O: 11.9
+&                                                                           •SC: N2            LP+NP: 58 ALP: 42
 •PF: Morgan                                 •FS: 2013-04-26 •FE: 2013-04-28 •SC: N             LP+NP: 48 ALP: 30.5 GRN: 11                        •O: 10.5
 &                                                                           •SC: N2            LP+NP: 56.5 ALP: 43.5
 •PF: Essential                              •FS: 2013-04-25 •FE: 2013-04-28 •SC: N             LP+NP: 48 ALP: 34 GRN: 9                           •O: 9
