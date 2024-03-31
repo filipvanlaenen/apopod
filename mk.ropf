@@ -1,3 +1,4 @@
+•PF: IPIS                                                                •PD: 2024-02-20 •SC: N •SS: 1212           BDI: 11.5 СДСМ: 21.8 BESA+A+LD: 8.6 ASH: 4.1 ВМРОДПМНЕ: 38.6 ЛЕВИЦА: 6.0 ДИМИ: 5.0 •O: 2.4
 •PF: IPDV                                •FS: 2023-11-05 •FE: 2023-11-09                 •SC: N •SS: 1050 •EX: 45.3 ВМРОДПМНЕ: 35.6 СДСМ: 23.0 BDI: 9.7 ASH: 8.2 ЛЕВИЦА: 5.9 BESA: 4.4 LD: 3.3 A: 1.6
 •PF: IPIS                                •FS: 2023-10-25 •FE: 2023-10-27 •PD: 2023-10-29 •SC: N •SS: 1055           ВМРОДПМНЕ: 39.2 СДСМ: 21.8 BDI: 10.8 ЛЕВИЦА: 6.8 ДИМИ: 5.6 BESA: 4.4 ASH: 3.9 A: 3.5 LD: 1.9
 •PF: Kantar TNS Brima                    •FS: 2023-06-01 •FE: 2023-06-21                 •SC: N •SS: 1211           ВМРОДПМНЕ: 35.7 СДСМ: 24.9 BDI: 10.8 BESA: 8.8 ASH: 5.9 ЛЕВИЦА: 4.6 PDSH: 2.4 A: 0.7 ЛДП: 0.5 ДОМ: 0.2
@@ -24,7 +25,7 @@ BESA:      MK006 •A: BESA                      •EN: Besa Movement           
 LD:        MK012 •A: LD                        •EN: Democratic Movement                                                                             •MK: Демократско движење                                                                                      •SQ: Lëvizja Demokratike
 PDSH:      MK008 •A: PDSH                      •EN: Democratic Party of Albanians                                                                   •MK: Демократска партија на Албанците                                                                         •SQ: Partia Demokratike Shqiptare
 ВМРОДПМНЕ: MK001 •A: ВМРО–ДПМНЕ •R: VMRO–DPMNE •EN: Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity •MK: Внатрешна македонска револуционерна организација – Демократска партија за македонско национално единство
-ДИМИ:      MK011 •A: ДИМИ       •R: DIMI                                                                                                            •MK: Максим Димитриевски
+ДИМИ:      MK011 •A: ЗНАМ       •R: ZNAM •EN: For Our Macedonia          •MK: За наша Македонија
 ДОМ:       MK009 •A: ДОМ        •R: DOM        •EN: Democratic Renewal of Macedonia                                                                 •MK: Демократска обнова на Македонија
 ЛДП:       MK010 •A: ЛДП        •R: LDP        •EN: Liberal Democratic Party                                                                        •MK: Либерално-Демократска Партија
 ЛЕВИЦА:    MK005 •A: Левица     •R: Levica     •EN: The Left                                                                                        •MK: Левица
