@@ -1,3 +1,6 @@
+•PF: CeDem                                              •FS: 2024-03-05 •FE: 2024-03-19 •SC: N •SS: 1007 •EX: 25.9 PES: 26.3 DPS: 26.0 BS: 5.3 СНП: 2.2 SDP: 2.3 НСД: 11.3 DCG: 10.0 ДНП: 4.2 URA: 3.4 SD: 2.2
+•PF: CeDem                                              •FS: 2023-12-12 •FE: 2023-12-27 •SC: N •SS: 1003           PES: 24.3 DPS: 23.9 BS: 7.0 СНП: 3.0 SDP: 2.5 ASH: 2.8 FORCA: 0.2 НСД: 10.9 DCG: 10.0 ДНП: 5.7 URA: 3.9 SD: 1.8 УЦГ: 0.3 DEMOS: 0.1
+•PF: NSPM                                               •FS: 2023-11-22 •FE: 2023-12-02 •SC: N •SS: 1000 •EX: 31.0 PES: 28.0 DPS: 19.6 НСД+ДНП+РП: 16.5 BS: 6.0 ASH: 2.1 SDP: 2.2 DCG: 9.5 URA: 6.4 СНП: 2.1 УЦГ: 1.6 SD: 1.1
 •PF: CeDem                                              •FS: 2023-05    •FE: 2023-05    •SC: N                     PES: 29.1 DPS: 24.1 PZP+ДНП+НСД: 13.2 DCG: 11.1 BS: 5.1 URA: 4.4 SDP: 2.2 СНП: 2.1 ASH+FORCA: 1.9 SD: 1.9                                                                          •O: 5.2
 •PF: NSPM                                               •FS: 2023-05-19 •FE: 2023-05-28 •SC: N •SS: 1000           PES: 32.5 DPS+LP+SD+UDSH: 22.1 ДНП+НСД: 15.3 DCG+URA: 12.9 BS: 4.3 DEMOS+СНП: 2.4 ДП+ПРАВА: 2.2                                                                                    •O: 8.3
 •PF: Redfield & Wilton Strategies                       •FS: 2023-04-10 •FE: 2023-04-14 •SC: N •SS: 1108           PES: 44 DPS: 20 PZP+ДНП+НСД: 17 DCG: 6 URA: 6 BS: 1 SD: 1 SDP: 1 СНП: 1                                                                                                            •O: 3
@@ -64,6 +67,7 @@ URA:   ME009 •A: URA                                    •CNR: Građanski pok
 ПРАВА: ME012 •A: Права •R: Prava                                                                            •EN: True Montenegro                                                                   •SR: Права Црна Гора
 СНП:   ME004 •A: СНП   •R: SNP                                                                              •EN: Socialist People’s Party of Montenegro                                            •SR: Социјалистичка народна партија Црне Горе
 УЦГ:   ME013 •A: УЦГ   •R: UCG                                                                              •EN: United Montenegro                                                                 •SR: Уједињена Црна Гора
+РП: ME028 •A: РП •R: RP •EN: Workers’ Party or Labour Party •SR: Радничка партија
 
 ‡ Named alliances:
 ‡ CNB = URA + CIVIS/…
