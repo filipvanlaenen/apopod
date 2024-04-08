@@ -1,9 +1,13 @@
+•PF: Nézőpont Intézet                         •FS: 2024-04-02 •FE: 2024-04-04 •SC: E •SS: 1000           FIDESZ+KDNP: 47 MM: 4 DK+MSZP+P: 13 LMP: 1 JOBBIK: 1 MMM: 1 MH: 6 MKKP: 11 ANPM: 2 MRK: 2 MAGYAR: 13 •O: 2
+•PF: Republikon Intézet                       •FS: 2024-03-26 •FE: 2024-04-02 •SC: N •SS: 1000           FIDESZ+KDNP: 38 DK: 18   MM: 7   JOBBIK: 2   MSZP: 5   P: 2   LMP: 3   MMM: 0   MH: 8  MKKP: 7 ANPM: 1 MRK: 0 SD: 1  •O: 10
+&                                                                             •SC: N •SS: 1000           FIDESZ+KDNP: 34 DK: 16   MM: 4   JOBBIK: 2   MSZP: 4   P: 2   LMP: 3   MMM: 1   MH: 7  MKKP: 5 ANPM: 1 MRK: 0 MAGYAR: 15 SD: 1  •O: 4
 •PF: IDEA Intézet                             •FS: 2024-02-29 •FE: 2024-03-12 •SC: N •SS: 1500           FIDESZ+KDNP: 42 DK: 18   MM: 8   JOBBIK: 2   MSZP: 3   P: 2   LMP: 1            MH: 7  MKKP: 7 ANPM: 3        •O: 7
 •PF: Medián                                   •FS: 2024-03-06 •FE: 2024-03-09 •SC: N •SS: 1000           FIDESZ+KDNP: 46 DK: 12   MM: 8   JOBBIK: 3   MSZP: 1   P: 1   LMP: 1   MMM: 3   MH: 8  MKKP: 11 ANPM: 2 MRK: 3 •O: 1
 •PF: ZRI Závecz Research                      •FS: 2024-02-29 •FE: 2024-03-09 •SC: N •SS: 1000           FIDESZ+KDNP: 45 DK: 19   MM: 7   JOBBIK: 4   MSZP: 4   P: 2   LMP: 2   MMM: 0   MH: 10 MKKP: 4  ANPM: 1 MRK: 0 •O: 2
 •PF: Társadalomkutató                         •FS: 2024-03-04 •FE: 2024-03-06 •SC: N •SS: 1000           FIDESZ+KDNP: 48 DK: 9    MM: 8   JOBBIK: 4   MSZP: 0   P: 1   LMP: 1   MMM: 3   MH: 10 MKKP: 11 ANPM: 3 MRK: 2
 •PF: Ipsos •C: Euronews                       •FS: 2024-02-23 •FE: 2024-03-05 •SC: E •SS: 1025           FIDESZ+KDNP: 47.6 DK: 16.5 MM: 7.2 JOBBIK: 2.8                LMP: 2.6 MMM: 3.0 MH: 9.6 MKKP: 4.2               •O: 4.7
 •PF: Nézőpont Intézet                         •FS: 2024-02-26 •FE: 2024-02-28 •SC: E •SS: 1000           FIDESZ+KDNP: 47 DK: 14   MM: 7   JOBBIK: 2   MSZP: 2   P: 2   LMP: 2   MMM: 4   MH: 8  MKKP: 8  ANPM: 1 MRK: 4
+•PF: Republikon Intézet                       •FS: 2024-02-21 •FE: 2024-02-28 •SC: N •SS: 1000           FIDESZ+KDNP: 37 DK: 17   MM: 9   JOBBIK: 4   MSZP: 5   P: 3   LMP: 4   MMM: 0   MH: 9  MKKP: 8 ANPM: 1 MRK: 0 SD: 1  •O: 2
 •PF: 21 Kutatóközpont                         •FS: 2024-02-22 •FE: 2024-02-26 •SC: E •SS: 1200           FIDESZ+KDNP: 44 DK: 17 MM: 9  JOBBIK: 2 MSZP: 1 P: 1 LMP: 3 MMM: 5 MH: 5  MKKP: 6  ANPM: 3 MRK: 3
 •PF: IDEA Intézet                             •FS: 2024-01-31 •FE: 2024-02-09 •SC: N •SS: 1500           FIDESZ+KDNP: 44 DK: 20   MM: 7   JOBBIK: 1   MSZP: 3   P: 1   LMP: 2            MH: 9  MKKP: 6 ANPM: 3        •O: 4
 •PF: Republikon Intézet                       •FS: 2024-01-15 •FE: 2024-01-20 •SC: N •SS: 1000           FIDESZ+KDNP: 43 DK: 19   MM: 7   JOBBIK: 3   MSZP: 5   P: 3   LMP: 4            MH: 9  MKKP: 8
@@ -337,6 +341,7 @@ FIDESZ: HU001 •A: Fidesz •EN: Fidesz – Hungarian Civic Alliance   •HU: F
 JOBBIK: HU003 •A: Jobbik •EN: Jobbik – Conservatives              •HU: Jobbik – Konzervatívok
 KDNP:   HU002 •A: KDNP   •EN: Christian Democratic People’s Party •HU: Kereszténydemokrata Néppárt
 LMP:    HU007 •A: LMP    •EN: LMP – Hungary’s Green Party         •HU: LMP – Magyarország Zöld Pártja
+MAGYAR: HU018 •A: Magyar •EN: Party of Péter Magyar
 MH:     HU012 •A: MH     •EN: Our Homeland Movement               •HU: Mi Hazánk Mozgalom
 MKKP:   HU011 •A: MKKP   •EN: Hungarian Two-Tailed Dog Party      •HU: Magyar Kétfarkú Kutya Párt
 MLP:    HU010 •A: MLP    •EN: Hungarian Liberal Party             •HU: Magyar Liberális Párt
@@ -344,6 +349,7 @@ MM:     HU008 •A: MM     •EN: Momentum Movement                   •HU: Mom
 MMM:    HU014 •A: MMM    •EN: Everybody’s Hungary Movement        •HU: Mindenki Magyarországa Mozgalom
 MSZP:   HU004 •A: MSZP   •EN: Hungarian Socialist Party           •HU: Magyar Szocialista Párt
 P:      HU005 •A: P      •EN: Dialogue – The Greens’ Party        •HU: Párbeszéd – A Zöldek Pártja
+SD:     HU017 •A: SD     •EN: Socialists and Democrats            •HU: Szocialisták és demokraták
 
 ‡ Named alliances:
 ‡ EM = MSZP + DK + LMP + PM + MM + …
