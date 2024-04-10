@@ -1,6 +1,6 @@
-•PF: Nézőpont Intézet                         •FS: 2024-04-02 •FE: 2024-04-04 •SC: E •SS: 1000           FIDESZ+KDNP: 47 MM: 4 DK+MSZP+P: 13 LMP: 1 JOBBIK: 1 MMM: 1 MH: 6 MKKP: 11 ANPM: 2 MRK: 2 MAGYAR: 13 •O: 2
+•PF: Nézőpont Intézet                         •FS: 2024-04-02 •FE: 2024-04-04 •SC: E •SS: 1000           FIDESZ+KDNP: 47 MM: 4 DK+MSZP+P: 13 LMP: 1 JOBBIK: 1 MMM: 1 MH: 6 MKKP: 11 ANPM: 2 MRK: 2 TISZA: 13 •O: 2
 •PF: Republikon Intézet                       •FS: 2024-03-26 •FE: 2024-04-02 •SC: N •SS: 1000           FIDESZ+KDNP: 38 DK: 18   MM: 7   JOBBIK: 2   MSZP: 5   P: 2   LMP: 3   MMM: 0   MH: 8  MKKP: 7 ANPM: 1 MRK: 0 SD: 1  •O: 10
-&                                                                             •SC: N •SS: 1000           FIDESZ+KDNP: 34 DK: 16   MM: 4   JOBBIK: 2   MSZP: 4   P: 2   LMP: 3   MMM: 1   MH: 7  MKKP: 5 ANPM: 1 MRK: 0 MAGYAR: 15 SD: 1  •O: 4
+&                                                                             •SC: N •SS: 1000           FIDESZ+KDNP: 34 DK: 16   MM: 4   JOBBIK: 2   MSZP: 4   P: 2   LMP: 3   MMM: 1   MH: 7  MKKP: 5 ANPM: 1 MRK: 0 TISZA: 15 SD: 1  •O: 4
 •PF: IDEA Intézet                             •FS: 2024-02-29 •FE: 2024-03-12 •SC: N •SS: 1500           FIDESZ+KDNP: 42 DK: 18   MM: 8   JOBBIK: 2   MSZP: 3   P: 2   LMP: 1            MH: 7  MKKP: 7 ANPM: 3        •O: 7
 •PF: Medián                                   •FS: 2024-03-06 •FE: 2024-03-09 •SC: N •SS: 1000           FIDESZ+KDNP: 46 DK: 12   MM: 8   JOBBIK: 3   MSZP: 1   P: 1   LMP: 1   MMM: 3   MH: 8  MKKP: 11 ANPM: 2 MRK: 3 •O: 1
 •PF: ZRI Závecz Research                      •FS: 2024-02-29 •FE: 2024-03-09 •SC: N •SS: 1000           FIDESZ+KDNP: 45 DK: 19   MM: 7   JOBBIK: 4   MSZP: 4   P: 2   LMP: 2   MMM: 0   MH: 10 MKKP: 4  ANPM: 1 MRK: 0 •O: 2
@@ -341,7 +341,7 @@ FIDESZ: HU001 •A: Fidesz •EN: Fidesz – Hungarian Civic Alliance   •HU: F
 JOBBIK: HU003 •A: Jobbik •EN: Jobbik – Conservatives              •HU: Jobbik – Konzervatívok
 KDNP:   HU002 •A: KDNP   •EN: Christian Democratic People’s Party •HU: Kereszténydemokrata Néppárt
 LMP:    HU007 •A: LMP    •EN: LMP – Hungary’s Green Party         •HU: LMP – Magyarország Zöld Pártja
-MAGYAR: HU018 •A: Magyar •EN: Party of Péter Magyar
+TISZA:  HU018 •A: TISZA  •EN: Respect and Freedom                 •HU: Tisztelet és Szabadság
 MH:     HU012 •A: MH     •EN: Our Homeland Movement               •HU: Mi Hazánk Mozgalom
 MKKP:   HU011 •A: MKKP   •EN: Hungarian Two-Tailed Dog Party      •HU: Magyar Kétfarkú Kutya Párt
 MLP:    HU010 •A: MLP    •EN: Hungarian Liberal Party             •HU: Magyar Liberális Párt
