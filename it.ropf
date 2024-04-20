@@ -1,3 +1,8 @@
+•PF: EMG                                                  •FS: 2024-04-05 •FE: 2024-04-05 •SC: E            FDI: 27.2 PD: 20.2 M5S: 16.7 LEGA: 7.8 FI: 9.0 AZ: 3.2 SUE: 6.2 AVS: 3.3 NM: 1.0 UP: 1.2                           •O: 4.2
+•PF: Euromedia                •C: Rai 1                   •FS: 2024-03-27 •FE: 2024-03-27 •SC: E •SS: 800   FDI: 27.5 PD: 19.3 M5S: 17.5 LEGA: 8.8 FI: 8.0 AZ: 4.0 SUE: 4.7 AVS: 3.5 NM: 0.7 UP: 2.0 LIB: 1.7                  •O: 2.3
+•PF: Noto Sondaggi            •C: Rai 1                   •FS: 2024-03-19 •FE: 2024-03-19 •SC: E            FDI: 28.0 PD: 19.0 M5S: 17.0 LEGA: 8.0 FI: 8.0 AVS: 3.5 AZ: 3.5 EU: 2.5 IV: 3.0 NM: 2.0                                   •O: 5.5
+•PF: Noto Sondaggi            •C: Rai 1                   •FS: 2024-03-07 •FE: 2024-03-07 •SC: E            FDI: 27.0 PD: 19.5 M5S: 16.5 LEGA: 8.0 FI: 7.5 AVS: 4.0 AZ: 3.5 EU: 3.5 IV: 3.0 NM: 2.0                                   •O: 5.5
+
 •PF: SWG                                                  •FS: 2024-04-02 •FE: 2024-04-02 •SC: N •SS: 1200  FDI: 26.7 PD: 20.1 M5S: 15.8 LEGA: 8.5 FI: 7.6 AVS: 4.1 AZ: 4.1 IV: 3.4 EU: 2.9 UP: 1.4 DSP: 1.3 NM: 1.0                  •O: 3.1
 •PF: Tecnè                    •C: RTI                     •FS: 2024-03-28 •FE: 2024-03-29 •SC: N •SS: 803   FDI: 27.5 PD: 20.5 M5S: 15.6 FI: 9.4 LEGA: 7.8 AVS: 4.0 AZ: 3.6 IV: 3.2 EU: 3.0                                           •O: 5.4
 •PF: Termometro Politico                                  •FS: 2024-03-27 •FE: 2024-03-28 •SC: N •SS: 4000  FDI: 27.5 PD: 19.5 M5S: 16.0 LEGA: 9.0 FI: 7.2 AZ: 3.8 AVS: 3.2 IV: 2.8 EU: 2.4 UP: 1.8 DSP: 1.7 NM: 1.2                  •O: 3.9
@@ -2041,7 +2046,11 @@ NM:       IT022 •A: NM       •EN: Us Moderates                       •IT: 
 PAP:      IT007 •A: PaP      •EN: Power to the People!               •IT: Potere al Popolo!
 PD:       IT003 •A: PD       •EN: Democratic Party                   •IT: Partito Democratico
 SI:       IT015 •A: SI       •EN: Italian Left                       •IT: Sinistra Italiana
-UP:       IT023 •A: UP       •EN: People’s Union                     •IT: Unione Popolare
+UP:       IT023 •A: PTD       •EN: Peace Land Dignity                     •IT: Pace Terra Dignità
+SUE: IT026 •A: SUE •EN: United States of Europe •IT: Stati Uniti d’Europa
+LIB: IT027 •A: Libertà •EN: Freedom •IT: Libertà
 
 ‡ Named alliances:
 ‡ LS and some others
+‡ SUE = EU + IV + …
+‡ Libertà = …
