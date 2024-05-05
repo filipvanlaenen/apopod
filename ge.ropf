@@ -1,3 +1,5 @@
+•PF: ISSA                             •C: Mtavari Arkhi •FS: 2024-04-01 •FE: 2023-04-10 •SC: N •SS: 1601           GD: 31.4 VP: VP: 9.6 AHALI: 9.1 FORGEORGIA: 3.3 LELO: 3.0 SLP: 1.7 EG: 1.4 CITIZENS: 1.4 DMUG: 1.3 FTP: 1.1 DROA+GIRCHIMF: 1.1 GIRCHI: 1.0 PP: 0.4 APG: 0.4            •O: 2.7 •N: 31.1
+•PF: GORBI                            •C: Imedi TV      •FS: 2024-03-11 •FE: 2023-03-18 •SC: N •SS: 1711           GD: 60.4 VP: 12.6 LELO: 4.7 EG: 4.5 FORGEORGIA: 3.7 DROA+GIRCHIMF: 3.0 AHALI: 1.6 GIRCHI: 1.4 APG: 0.9 CITIZENS: 0.6 SLP: 0.6             •O: 6.0
 •PF: Edison Research                  •C: Formula TV    •FS: 2023-12-01 •FE: 2023-12-22 •SC: N •SS: 1500           GD: 36.6 VP: 21.5 FORGEORGIA: 8.8 LELO: 6.7 DROA+GIRCHIMF: 5 SLP: 4.7 FTP: 3.7 CMAI: 3 GIRCHI: 2.9 PP: 2.5 APG: 1.7 CITIZENS: 1.7 EG: 0.7 •O: 0.5
 •PF: Edison Research                  •C: Formula TV    •FS: 2023-10-20 •FE: 2023-11-06 •SC: N •SS: 1000           GD: 37 VP: 21 FORGEORGIA: 9 LELO: 5 DROA+GIRCHIMF: 4 FTP: 4 GIRCHI: 4 SLP: 4 CMAI: 3 PP: 3 APG: 2 CITIZENS: 2 EG: 1                       •O: 1
 •PF: CRRC Georgia                     •C: NDI           •FS: 2023-10-12 •FE: 2023-11-04 •SC: N •SS: 2068           GD: 19 UNM: 4                                                                                                                             •O: 13  •N: 66
@@ -44,6 +46,7 @@ SB:         GE010 •A: SB          •EN: Strategy Builder                     
 SLP:        GE004 •A: SLP         •EN: Georgian Labour Party                •KA: საქართველოს ლეიბორისტული პარტია
 UNM:        GE002 •A: UNM         •EN: United National Movement             •KA: ერთიანი ნაციონალური მოძრაობა
 VP:         GE018 •A: VP          •EN: Victory Platform                     •KA: გამარჯვების პლატფორმის
+AHALI:      GE019 •A: Ahali       •EN: Ahali                                •KA: ახალი
 
 ‡ Named alliances:
 ‡ VP = UNM + SB
