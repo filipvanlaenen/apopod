@@ -1,5 +1,5 @@
-•PF: NMS                             •FS: 2024-04-18 •FE: 2024-04-24 •SC: E •SS: 1010 SMERSSD: 19.8 PS: 24.3 HLASSD: 12.0 KÚ+OĽANO+ZĽ: 4.4 KDH: 4.6 SAS: 7.0 SNS: 3.2 REP: 10.7 AS: 2.9 D: 4.4         ĽSNS: 0.7                                 •O: 5.8
-•PF: AKO            •C: TV JOJ       •FS: 2024-04-09 •FE: 2024-04-16 •SC: E •SS: 1000 SMERSSD: 15.2 PS: 27.2 HLASSD: 14.2 KÚ+OĽANO+ZĽ: 4.0 KDH: 6.7 SAS: 6.5 SNS: 4.1 REP: 7.5 AS: 5.0 D: 2.7         ĽSNS: 1.0                                 •O: 5.9
+•PF: NMS                             •FS: 2024-04-18 •FE: 2024-04-24 •SC: E •SS: 1010 SMERSSD: 19.8 PS: 24.3 HLASSD: 12.0 KÚ: 0.8 OĽANO+ZĽ: 3.6 KDH: 4.6 SAS: 7.0 SNS: 3.2 REP: 10.7 AS: 2.9 D: 4.4         ĽSNS: 0.7    ZR: 2.2                             •O: 3.6
+•PF: AKO            •C: TV JOJ       •FS: 2024-04-09 •FE: 2024-04-16 •SC: E •SS: 1000 SMERSSD: 15.2 PS: 27.2 HLASSD: 14.2 KÚ: 0.8 OĽANO+ZĽ: 3.2 KDH: 6.7 SAS: 6.5 SNS: 4.1 REP: 7.5 AS: 5.0 D: 2.7         ĽSNS: 1.0     ZR: 1.5                            •O: 4.4
 •PF: Focus          •C: TV Markíza   •FS: 2024-03-28 •FE: 2024-04-04 •SC: N •SS: 1015 SMERSSD: 21.6 PS: 20.1 HLASSD: 17.9 KÚ+OĽANO+ZĽ: 6.4 KDH: 6.3 SAS: 5.4 SNS: 5.1 REP: 4.6 AS: 5.0 D: 3.7 SR: 1.8 ĽSNS: 1.9                                 
 •PF: Ipsos          •C: Denník N     •FS: 2024-03-16 •FE: 2024-03-19 •SC: N •SS: 1009 SMERSSD: 21.6 PS: 20.2 HLASSD: 16.3 KÚ+OĽANO+ZĽ: 5.8 KDH: 6.2 SAS: 6.7 SNS: 4.1 REP: 5.0 AS: 4.6 D: 3.8 SR: 3.0                                           
 •PF: AKO            •C: TV JOJ       •FS: 2024-03-11 •FE: 2024-03-18 •SC: N •SS: 1000 SMERSSD: 22.1 PS: 21.0 HLASSD: 15.9 KÚ+OĽANO+ZĽ: 5.6 KDH: 8.1 SAS: 6.7 SNS: 5.1 REP: 3.9 AS: 4.6 D: 3.2 SR: 2.0 ĽSNS: 1.3                                 •O: 0.5
@@ -212,7 +212,7 @@ KÚ:      SK019 •A: KÚ       •EN: Christian Union                          
 MF:      SK017 •A: MF       •EN: Hungarian Forum                               •HU: Magyar Fórum  •SK: Maďarské fórum
 MH:      SK008 •A: M-H      •EN: Bridge 2023                                   •HU: Most–Híd 2023 •SK: Most–Híd 2023
 MODRÍ:   SK018 •A: MODRÍ    •EN: The Blues – European Slovakia                                    •SK: MODRÍ – Európske Slovensko
-OĽANO:   SK003 •A: OĽaNO    •EN: Ordinary People and Independent Personalities                    •SK: Obyčajní ľudia a nezávislé osobnosti
+OĽANO:   SK003 •A: SK    •EN: Slovakia                    •SK: Slovensko
 PS:      SK010 •A: PS       •EN: Progressive Slovakia                                             •SK: Progresívne Slovensko
 REP:     SK016 •A: REP      •EN: Republic                                                         •SK: Republika
 SAS:     SK002 •A: SaS      •EN: Freedom and Solidarity                                           •SK: Sloboda a solidarita
@@ -222,6 +222,7 @@ SR:      SK004 •A: SR       •EN: We Are Family                              
 V:       SK014 •A: V        •EN: Homeland                                                         •SK: Vlasť
 ZĽ:      SK012 •A: ZĽ       •EN: For the People                                                   •SK: ZA ĽUDÍ
 ĽSNS:    SK006 •A: ĽSNS     •EN: People’s Party Our Slovakia                                      •SK: Ľudová strana naše Slovensko
+ZR: SK020 •A: ZR •EN: Common Sense •SK: ZDRAVÝ ROZUM
 
 ‡ Named alliances:
 ‡ ALI = (MOSTHÍD +) SMK-MKP + Ö-S
