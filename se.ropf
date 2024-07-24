@@ -1,412 +1,418 @@
-•PF: Demoskop  •C: Svenska Dagbladet •FS: 2024-05-23 •FE: 2024-06-01 •SC: E •SS: 3222 S: 25.2 SD: 18.6 M: 18.0 V: 10.0 MP: 11.3 C: 5.7 KD: 5.5 L: 3.1   •O: 2.7
-•PF: Novus     •C: Göteborgs Posten  •FS: 2024-05-02 •FE: 2024-05-29 •SC: E •SS: 2325 S: 29.4 SD: 19.1 M: 15.5 V: 10.0 MP: 11.0 C: 4.7 KD: 3.8 L: 5.1 •O: 1.3
-•PF: Verian    •C: SVT               •FS: 2024-05-22 •FE: 2024-05-28 •SC: E •SS: 1000 S: 25.1 SD: 19.6 M: 17.2 V: 9.5 C: 4.9 MP: 10.6 KD: 5.4 L: 4.7   •O: 3.1
-•PF: Indikator •C: Sveriges Radio    •FS: 2024-04-27 •FE: 2024-05-26 •SC: N •SS: 2431 S: 33.1 SD: 22.5 M: 18.3 V: 8.3 MP: 5.5 C: 4.1 KD: 3.2 L: 3.1   •O: 1.9
-•PF: Demoskop  •C: Svenska Dagbladet •FS: 2024-05-11 •FE: 2024-05-20 •SC: E •SS: 2944 S: 27.5 SD: 19.9 M: 18.5 V: 8.7 MP: 9.8 C: 4.6 KD: 3.9 L: 2.8   •O: 4.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2024-05-07 •FE: 2024-05-19 •SC: E •SS: 1646 S: 29.6 SD: 17.8 M: 19.1 V: 7.6 C: 3.6 KD: 3.9 MP: 10.8 L: 4.7  •O: 2.9
-•PF: Demoskop  •C: Svenska Dagbladet •FS: 2024-04-19 •FE: 2024-05-14 •SC: N •SS: 2455 S: 35.1 SD: 21.0 M: 19.3 V: 7.9 MP: 5.0 C: 4.2 KD: 3.6 L: 2.3   •O: 2.6
-•PF: Verian    •C: SVT               •FS: 2024-04-22 •FE: 2024-05-05 •SC: N •SS: 3186 S: 34.3 SD: 20.2 M: 18.9 V: 7.8 C: 4.3 MP: 5.1 KD: 3.5 L: 3.6   •O: 2.3
-•PF: Demoskop  •C: Svenska Dagbladet •FS: 2024-04-24 •FE: 2024-05-07 •SC: E •SS: 3970 S: 28.5 SD: 19.9 M: 17.3 V: 8.7 MP: 9.2 C: 4.6 KD: 4.4 L: 3.2   •O: 4.2
-•PF: Verian    •C: SVT               •FS: 2024-04-25 •FE: 2024-04-30 •SC: E •SS: 1900 S: 29.7 SD: 17.2 M: 18.3 V: 8.8 C: 4.5 MP: 9.5 KD: 4.2 L: 3.7   •O: 4.2
-•PF: Novus                           •FS: 2024-04-01 •FE: 2024-04-28 •SC: E •SS: 2311 S: 31.1 SD: 18.8 M: 17.7 V: 8.5 MP: 10.3 C: 3.6 KD: 3.5 L: 3.8   •O: 2.6
-•PF: Indikator •C: Sveriges Radio    •FS: 2024-03-28 •FE: 2024-04-22 •SC: E •SS: 6943 S: 32.3 SD: 18.6 M: 19.0 V: 8.1 MP: 9.7 C: 4.6 KD: 2.3 L: 3.3   •O: 2.1
-•PF: Demoskop  •C: Aftonbladet       •FS: 2024-03-24 •FE: 2024-04-08 •SC: N •SS: 2433 S: 35.2 SD: 20.8 M: 20.2 V: 7.8 MP: 4.4 C: 4.0 KD: 3.2 L: 2.7   •O: 1.7
-•PF: Verian    •C: SVT               •FS: 2024-03-25 •FE: 2024-04-07 •SC: N •SS: 3172 S: 34.7 SD: 19.5 M: 20.5 V: 7.7 C: 4.2 MP: 4.5 KD: 3.7 L: 3.4   •O: 1.7
-•PF: Novus                           •FS: 2024-02-19 •FE: 2024-03-17 •SC: N •SS: 2230 S: 36.2 M: 19.5 SD: 19.1 V: 7.8 C: 4.6 MP: 4.6 KD: 3.8 L: 3.1   •O: 1.3
-•PF: Demoskop  •C: Svenska Dagbladet •FS: 2024-02-22 •FE: 2024-03-11 •SC: N •SS: 2413 S: 36.4 SD: 20.8 M: 19.9 V: 7.6 MP: 4.2 C: 3.3 KD: 3.2 L: 3.0
-•PF: Ipsos     •C: Euronews          •FS: 2024-02-23 •FE: 2024-03-05 •SC: E •SS: 1003 S: 30.4 SD: 17.5 M: 16.4 V: 9.6 MP: 8.3 C: 7.0 L: 4.7 KD: 4.5   •O: 1.5
-•PF: Verian    •C: SVT               •FS: 2024-02-19 •FE: 2024-03-03 •SC: N •SS: 3000 S: 33.8 SD: 20.7 M: 19.6 V: 8.4 C: 4.6 MP: 4.5 KD: 3.6 L: 2.9
-•PF: Novus                           •FS: 2024-02-19 •FE: 2024-03-03 •SC: E •SS: 1098 S: 32.4 SD: 20.5 M: 18.1 MP: 8.0 V: 7.3 C: 4.6 KD: 4.2 L: 3.3
-•PF: Indikator •C: Sveriges Radio    •FS: 2024-02-04 •FE: 2024-02-26 •SC: N •SS: 2413 S: 35.9 SD: 21.9 M: 18.8 V: 7.3 MP: 4.7 C: 3.8 KD: 3.2 L: 2.8
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2024-02-13 •FE: 2024-02-25 •SC: N           S: 35 SD: 21 M: 19 V: 8 C: 4 KD: 4 MP: 4 L: 3
-•PF: Novus     •C: Göteborgs Posten  •FS: 2024-01-22 •FE: 2024-02-18 •SC: N •SS: 2324 S: 35.4 SD: 20.5 M: 18.7 V: 8.9 C: 4.8 MP: 3.8 L: 3.3 KD: 3.2
-•PF: Demoskop  •C: Svenska Dagbladet •FS: 2024-01-27 •FE: 2024-02-11 •SC: N •SS: 2473 S: 36.6 SD: 21.1 M: 18.6 V: 6.6 MP: 4.2 C: 4.0 KD: 3.3 L: 2.8
-•PF: Verian    •C: SVT               •FS: 2024-01-22 •FE: 2024-02-04 •SC: N •SS: 3161 S: 35.7 SD: 21.4 M: 17.5 V: 7.8 MP: 4.5 C: 4.3 KD: 3.6 L: 3.4   •O: 1.8
-•PF: Indikator •C: Sveriges Radio    •FS: 2024-01-05 •FE: 2024-01-29 •SC: N •SS: 2479 S: 36.6 SD: 21.1 M: 17.3 V: 8.2 C: 4.5 MP: 4.5 KD: 3.2 L: 3.1   •O: 1.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2024-01-16 •FE: 2024-01-28 •SC: N •SS: 1646 S: 34 SD: 21 M: 18 V: 9 C: 5 KD: 4 MP: 4 L: 3                   •O: 2
-•PF: SKOP                            •FS: 2023-12-21 •FE: 2024-01-22 •SC: N •SS: 1014 S: 33.4 SD: 23.3 M: 18.6 V: 7.2 L: 5.0 C: 4.4 MP: 4.2 KD: 3.0   •O: 0.9
-•PF: Novus                           •FS: 2023-12-22 •FE: 2024-01-21 •SC: N •SS: 2999 S: 35.4 SD: 21.1 M: 18.5 V: 7.8 C: 5.1 MP: 4.4 KD: 3.6 L: 3.1   •O: 1.0
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-12-22 •FE: 2024-01-08 •SC: N •SS: 2476 S: 37.7 SD: 21.9 M: 18.3 V: 7.1 C: 4.2 MP: 4.2 KD: 3.5 L: 2.1   •O: 1.0
-•PF: Verian    •C: SVT               •FS: 2023-12-25 •FE: 2024-01-07 •SC: N •SS: 3176 S: 35.9 SD: 22.5 M: 17.2 V: 7.0 MP: 4.7 C: 4.0 KD: 3.8 L: 3.3   •O: 1.6
-•PF: Indikator •C: Sveriges Radio    •FS: 2023-12-07 •FE: 2024-01-02 •SC: N •SS: 2468 S: 37.0 SD: 23.0 M: 17.5 V: 7.2 MP: 5.2 C: 3.4 L: 2.7 KD: 2.6   •O: 1.4
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-12-05 •FE: 2023-12-17 •SC: N •SS: 1705 S: 35 SD: 24 M: 15 V: 9 C: 5 MP: 4 KD: 3 L: 3                   •O: 2
-•PF: Verian    •C: SVT               •FS: 2023-11-27 •FE: 2023-12-10 •SC: N •SS: 3179 S: 35.7 SD: 22.5 M: 17.0 V: 7.8 MP: 4.4 C: 4.3 KD: 3.6 L: 2.7   •O: 2.0
-•PF: Novus                           •FS: 2023-11-13 •FE: 2023-12-10 •SC: N •SS: 2413 S: 37.2 SD: 20.6 M: 18.6 V: 7.9 MP: 4.6 C: 3.9 KD: 3.2 L: 2.9   •O: 1.1
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-11-18 •FE: 2023-12-04 •SC: N •SS: 2495 S: 36.6 SD: 22.9 M: 17.2 V: 7.4 C: 4.0 MP: 3.9 KD: 3.7 L: 2.8   •O: 1.5
-•PF: Indikator •C: Sveriges Radio    •FS: 2023-11-03 •FE: 2023-11-27 •SC: N •SS: 2596 S: 38.3 SD: 22.6 M: 16.2 V: 7.3 MP: 4.3 C: 3.8 L: 3.2 KD: 2.7   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-11-13 •FE: 2023-11-26 •SC: N •SS: 1662 S: 36 SD: 21 M: 16 V: 8 MP: 5 C: 4 KD: 4 L: 3                   •O: 3
-•PF: Novus                           •FS: 2023-10-16 •FE: 2023-11-12 •SC: N •SS: 2755 S: 37.8 SD: 22.1 M: 17.4 V: 7.7 C: 4.2 MP: 4.2 KD: 2.8 L: 2.7   •O: 1.1
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-10-22 •FE: 2023-11-05 •SC: N •SS: 2506 S: 36.2 M: 18.9 SD: 18.9 V: 7.3 C: 4.7 KD: 3.7 MP: 3.7 L: 2.3   •O: 2.1
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-10-16 •FE: 2023-10-30 •SC: N •SS: 1366 S: 35 SD: 21 M: 19 V: 9 MP: 5 C: 4 KD: 3 L: 2                   •O: 2
-•PF: Verian    •C: SVT               •FS: 2023-10-16 •FE: 2023-10-29 •SC: N •SS: 3073 S: 37.6 SD: 21.2 M: 17.4 V: 7.3 MP: 4.7 C: 3.7 KD: 3.5 L: 3.0   •O: 1.6
-•PF: Indikator •C: Sveriges Radio    •FS: 2023-10-03 •FE: 2023-10-25 •SC: N •SS: 2315 S: 37.9 SD: 22.0 M: 16.1 V: 8.1 MP: 4.8 C: 4.1 KD: 2.9 L: 2.3   •O: 1.8
-•PF: SKOP                            •FS: 2023-10-09 •FE: 2023-10-22 •SC: N •SS: 1013 S: 35.2 SD: 20.6 M: 19.7 V: 7.0 C: 5.0 MP: 4.4 L: 3.7 KD: 3.2   •O: 1.4
-•PF: Novus     •C: Svenska Dagbladet •FS: 2023-09-18 •FE: 2023-10-15 •SC: N •SS: 2250 S: 37.8 SD: 20.7 M: 18.2 V: 7.4 C: 4.8 MP: 4.4 L: 2.7 KD: 2.6   •O: 1.4
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-09-23 •FE: 2023-10-07 •SC: N •SS: 2182 S: 36.5 SD: 19.6 M: 19.5 V: 7.2 C: 4.5 KD: 4.0 MP: 3.8 L: 2.4   •O: 2.5
-•PF: Sifo      •C: SVT               •FS: 2023-09-18 •FE: 2023-10-01 •SC: N •SS: 3074 S: 37.4 SD: 20.2 M: 17.4 V: 8.1 MP: 4.6 C: 4.0 KD: 3.6 L: 3.0   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-09-12 •FE: 2023-09-24 •SC: N •SS: 1648 S: 36 SD: 20 M: 17 V: 8 C: 5 MP: 5 L: 4 KD: 3                   •O: 2
-•PF: Indikator •C: Sveriges Radio    •FS: 2023-09-01 •FE: 2023-09-22 •SC: N •SS: 2265 S: 38.6 SD: 19.0 M: 18.4 V: 7.6 MP: 5.2 C: 4.0 L: 3.0 KD: 2.6   •O: 1.6
-•PF: Novus     •C: Svenska Dagbladet •FS: 2023-08-21 •FE: 2023-09-17 •SC: N •SS: 2907 S: 37.0 M: 19.1 SD: 18.2 V: 7.8 MP: 5.7 C: 3.9 KD: 3.7 L: 3.0   •O: 1.6
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-08-21 •FE: 2023-09-05 •SC: N •SS: 2462 S: 36.9 M: 20.8 SD: 19.0 V: 7.2 C: 4.3 KD: 3.7 MP: 3.1 L: 2.6   •O: 2.3
-•PF: Sifo      •C: SVT               •FS: 2023-08-22 •FE: 2023-09-04 •SC: N •SS: 3078 S: 37.6 SD: 19.7 M: 19.0 V: 7.6 MP: 4.3 C: 3.9 KD: 3.1 L: 3.0   •O: 1.8
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-08-15 •FE: 2023-08-27 •SC: N •SS: 1643 S: 36 M: 19 SD: 18 V: 7 C: 6 MP: 5 KD: 4 L: 3                   •O: 2
-•PF: Novus     •C: Svenska Dagbladet •FS: 2023-08-01 •FE: 2023-08-20 •SC: N •SS: 3391 S: 38.4 M: 19.0 SD: 17.3 V: 7.8 MP: 4.8 C: 4.6 KD: 3.6 L: 3.3   •O: 1.2
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-07-15 •FE: 2023-08-02 •SC: N •SS: 2471 S: 34.5 M: 20.7 SD: 19.6 V: 7.7 C: 5.0 KD: 4.4 L: 3.2 MP: 2.6   •O: 2.3
-•PF: Sifo      •C: SVT               •FS: 2023-07-17 •FE: 2023-07-30 •SC: N •SS: 3077 S: 38.0 M: 19.2 SD: 18.1 V: 7.6 MP: 4.8 C: 4.3 KD: 3.2 L: 3.2   •O: 1.7
-•PF: Novus     •C: Svenska Dagbladet •FS: 2023-06-26 •FE: 2023-07-16 •SC: N •SS: 2391 S: 37.0 M: 20.0 SD: 18.9 V: 7.2 C: 4.5 MP: 4.3 KD: 3.3 L: 2.8   •O: 2.0
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-06-13 •FE: 2023-06-25 •SC: N •SS: 2408 S: 34.1 M: 21.5 SD: 19.1 V: 8.7 C: 4.7 KD: 4.1 L: 3.0 MP: 2.8   •O: 2.0
-•PF: Novus     •C: Svenska Dagbladet •FS: 2023-05-29 •FE: 2023-06-21 •SC: N •SS: 3140 S: 36.6 M: 20.4 SD: 17.6 V: 7.8 C: 4.7 MP: 4.7 L: 3.6 KD: 3.3   •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-06-08 •FE: 2023-06-18 •SC: N •SS: 1500 S: 37 M: 19 SD: 17 V: 8 C: 5 KD: 4 L: 4 MP: 4                   •O: 2
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-05-25 •FE: 2023-06-07 •SC: N •SS: 2395 S: 34.5 M: 21.2 SD: 18.9 V: 8.1 C: 4.9 KD: 4.0 MP: 3.3 L: 3.2   •O: 1.9
-•PF: Sifo      •C: SVT               •FS: 2023-05-22 •FE: 2023-06-04 •SC: N •SS: 3078 S: 36.1 M: 20.2 SD: 19.2 V: 7.8 C: 4.4 MP: 4.1 KD: 3.6 L: 3.5   •O: 1.1
-•PF: SCB                             •FS: 2023-04-27 •FE: 2023-05-25 •SC: N •SS: 9261 S: 38.6 M: 19.1 SD: 18.0 V: 7.3 C: 4.2 MP: 4.1 KD: 3.7 L: 3.4   •O: 1.7
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-05-09 •FE: 2023-05-21 •SC: N •SS: 1676 S: 37 SD: 19 M: 18 V: 9 C: 5 KD: 4 MP: 4 L: 3                   •O: 3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2023-05-01 •FE: 2023-05-10 •SC: N •SS: 5385 S: 36.3 M: 20.0 SD: 18.3 V: 8.2 C: 4.3 MP: 4.3 KD: 4.0 L: 2.8   •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2023-04-13 •FE: 2023-04-30 •SC: N •SS: 3243 S: 38.4 M: 20.2 SD: 16.4 V: 7.5 MP: 4.7 C: 4.4 KD: 3.7 L: 3.2   •O: 1.5
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-04-14 •FE: 2023-04-24 •SC: N •SS: 2202 S: 35.3 M: 20.6 SD: 18.9 V: 8.0 C: 4.9 KD: 4.0 L: 3.3 MP: 3.1   •O: 1.9
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-04-11 •FE: 2023-04-23 •SC: N •SS: 1588 S: 36 M: 19 SD: 18 V: 9 C: 5 L: 4 MP: 4 KD: 3                   •O: 2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2023-04-03 •FE: 2023-04-13 •SC: N •SS: 3671 S: 36.9 M: 19.6 SD: 18.8 V: 7.1 MP: 4.5 C: 4.3 KD: 3.8 L: 3.3   •O: 1.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-03-24 •FE: 2023-04-03 •SC: N •SS: 2026 S: 35.3 M: 21.8 SD: 18.6 V: 7.9 C: 4.4 KD: 3.9 L: 3.5 MP: 2.9   •O: 1.4
-•PF: Novus     •C: SVT               •FS: 2023-02-27 •FE: 2023-04-02 •SC: N •SS: 3514 S: 37.6 M: 19.9 SD: 17.5 V: 7.7 C: 4.6 MP: 4.3 L: 3.6 KD: 3.5   •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-03-14 •FE: 2023-03-26 •SC: N •SS: 1692 S: 37 M: 19 SD: 18 V: 8 C: 5 MP: 5 KD: 4 L: 3                   •O: 1
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2023-03-06 •FE: 2023-03-16 •SC: N •SS: 5222 S: 37.0 M: 19.4 SD: 18.6 V: 7.8 KD: 4.3 MP: 3.9 C: 3.8 L: 3.5   •O: 1.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-02-24 •FE: 2023-03-06 •SC: N •SS: 2135 S: 34.3 M: 21.7 SD: 19.0 V: 8.2 C: 4.4 KD: 4.4 L: 3.5 MP: 2.8   •O: 1.7
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-02-14 •FE: 2023-02-26 •SC: N •SS: 1692 S: 36 M: 20 SD: 19 V: 8 C: 5 KD: 4 MP: 4 L: 3                   •O: 1
-•PF: Novus     •C: SVT               •FS: 2023-01-30 •FE: 2023-02-26 •SC: N •SS: 3370 S: 38.2 M: 20.2 SD: 17.3 V: 6.7 C: 4.9 MP: 4.4 KD: 3.6 L: 3.5   •O: 1.2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2023-02-06 •FE: 2023-02-16 •SC: N •SS: 6363 S: 36.5 M: 19.3 SD: 18.4 V: 7.5 C: 4.3 KD: 4.3 MP: 4.3 L: 3.5   •O: 1.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2023-01-27 •FE: 2023-02-06 •SC: N •SS: 2103 S: 34.0 M: 21.1 SD: 18.6 V: 7.9 C: 5.5 KD: 4.0 MP: 3.2 L: 3.1   •O: 2.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2023-01-17 •FE: 2023-01-29 •SC: N •SS: 1659 S: 37 M: 18 SD: 18 V: 8 C: 5 KD: 4 L: 4 MP: 4                   •O: 2
-•PF: Novus     •C: SVT               •FS: 2023-01-02 •FE: 2023-01-29 •SC: N •SS: 3539 S: 37.1 M: 19.7 SD: 16.9 V: 7.4 C: 5.0 MP: 5.0 KD: 4.3 L: 3.0   •O: 1.6
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2023-01-09 •FE: 2023-01-19 •SC: N •SS: 3941 S: 36.1 SD: 19.0 M: 18.4 V: 7.8 C: 5.2 MP: 4.4 KD: 4.1 L: 3.3   •O: 1.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-12-31 •FE: 2023-01-09 •SC: N •SS: 2181 S: 32.7 M: 20.8 SD: 19.8 V: 8.8 C: 6.0 KD: 4.2 L: 3.4 MP: 2.4   •O: 1.9
-•PF: Novus     •C: SVT               •FS: 2022-11-28 •FE: 2023-01-01 •SC: N •SS: 2923 S: 34.7 M: 19.6 SD: 18.4 V: 7.9 C: 5.4 KD: 4.3 MP: 4.3 L: 3.8   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-12-06 •FE: 2022-12-18 •SC: N •SS: 1601 S: 35 SD: 19 M: 18 V: 7 C: 6 KD: 5 MP: 5 L: 3                   •O: 2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-12-05 •FE: 2022-12-12 •SC: N •SS: 5378 S: 36.1 SD: 18.8 M: 18.2 V: 7.3 C: 5.9 MP: 4.4 KD: 4.3 L: 3.5   •O: 1.5
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-11-28 •FE: 2022-12-06 •SC: N •SS: 2176 S: 33.3 M: 20.5 SD: 17.6 V: 8.9 C: 6.1 KD: 4.8 L: 4.2 MP: 3.5   •O: 1.2
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-11-15 •FE: 2022-11-28 •SC: N •SS: 1631 S: 34 M: 19 SD: 19 V: 8 C: 6 MP: 5 KD: 4 L: 3                   •O: 2
-•PF: Novus     •C: SVT               •FS: 2022-10-31 •FE: 2022-11-27 •SC: N •SS: 3682 S: 34.2 M: 19.7 SD: 18.9 V: 7.5 C: 6.1 KD: 4.5 MP: 4.0 L: 3.6   •O: 1.5
-•PF: SCB                             •FS: 2022-10-27 •FE: 2022-11-24 •SC: N •SS: 9177 S: 34.6 M: 18.9 SD: 18.2 V: 7.6 C: 5.4 KD: 4.9 MP: 4.4 L: 4.1   •O: 1.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-11-07 •FE: 2022-11-17 •SC: N •SS: 4838 S: 33.4 M: 20.1 SD: 17.7 V: 8.2 C: 5.5 MP: 5.0 KD: 4.8 L: 3.6   •O: 1.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-10-23 •FE: 2022-11-01 •SC: N •SS: 2271 S: 31.2 M: 21.3 SD: 19.6 V: 8.8 C: 6.0 KD: 4.6 L: 4.0 MP: 3.2   •O: 1.3
-•PF: Novus     •C: SVT               •FS: 2022-10-03 •FE: 2022-10-30 •SC: N •SS: 3514 S: 32.2 M: 20.2 SD: 19.4 V: 7.6 C: 5.9 KD: 4.7 MP: 4.5 L: 4.0   •O: 1.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-10-11 •FE: 2022-10-23 •SC: N •SS: 1594 S: 31 M: 21 SD: 21 C: 7 V: 7 KD: 5 L: 4 MP: 4                   •O: 0
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-10-03 •FE: 2022-10-13 •SC: N •SS: 6054 S: 31.8 SD: 19.8 M: 19.6 V: 7.4 C: 5.8 KD: 5.0 L: 4.5 MP: 4.5   •O: 1.6
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-09-26 •FE: 2022-10-04 •SC: N •SS: 2190 S: 31.6 M: 20.8 SD: 19.3 V: 8.1 C: 5.8 KD: 4.7 L: 4.7 MP: 3.8   •O: 1.2
-•PF: Novus     •C: SVT               •FS: 2022-09-12 •FE: 2022-10-02 •SC: N •SS: 3072 S: 31.1 SD: 20.8 M: 19.6 V: 7.2 C: 5.7 MP: 5.0 KD: 4.9 L: 4.1   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-09-13 •FE: 2022-09-25 •SC: N •SS: 1668 S: 32 SD: 20 M: 19 C: 7 V: 7 KD: 5 L: 5 MP: 5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-09-06 •FE: 2022-09-09 •SC: N •SS: 1992 S: 28.8 SD: 21.0 M: 18.2 C: 8.0 V: 7.4 MP: 5.8 KD: 4.8 L: 4.2   •O: 1.8
-•PF: SKOP                            •FS: 2022-09-06 •FE: 2022-09-09 •SC: N •SS: 1919 S: 28.6 SD: 19.3 M: 16.3 V: 8.0 C: 7.6 MP: 7.4 KD: 6.0 L: 6.0   •O: 0.9
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-09-01 •FE: 2022-09-09 •SC: N •SS: 2321 S: 29.5 SD: 20.5 M: 18.7 C: 7.9 V: 6.9 KD: 5.3 MP: 5.3 L: 4.9   •O: 0.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-09-06 •FE: 2022-09-08 •SC: N •SS: 2358 S: 29.0 SD: 20.7 M: 16.2 V: 7.9 C: 6.6 MP: 6.4 KD: 6.1 L: 6.0   •O: 1.0
-•PF: Novus     •C: SVT               •FS: 2022-09-06 •FE: 2022-09-08 •SC: N •SS: 1500 S: 30.3 SD: 21.2 M: 17.1 V: 7.8 C: 7.1 KD: 5.9 L: 5.2 MP: 4.5   •O: 0.9
-•PF: SKOP                            •FS: 2022-09-05 •FE: 2022-09-08 •SC: N •SS: 1622 S: 28.0 SD: 19.4 M: 15.2 V: 8.0 MP: 7.9 C: 7.2 KD: 7.2 L: 6.3   •O: 0.7
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-09-05 •FE: 2022-09-07 •SC: N •SS: 2414 S: 29.5 SD: 20.2 M: 17.1 V: 7.4 C: 7.0 MP: 6.2 KD: 6.1 L: 5.8   •O: 0.9
-•PF: Novus     •C: SVT               •FS: 2022-09-05 •FE: 2022-09-07 •SC: N •SS: 1500 S: 29.0 SD: 21.0 M: 18.0 C: 7.5 V: 7.4 KD: 5.8 MP: 5.2 L: 5.1   •O: 1.8
-•PF: SKOP                            •FS: 2022-09-04 •FE: 2022-09-07 •SC: N •SS: 1387 S: 26.4 SD: 19.8 M: 16.2 V: 8.6 MP: 7.9 KD: 6.9 L: 6.8 C: 6.5   •O: 1.0
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-09-04 •FE: 2022-09-06 •SC: N •SS: 2230 S: 30.1 SD: 21.0 M: 17.0 C: 7.1 V: 7.0 KD: 6.2 MP: 5.8 L: 5.0   •O: 0.7
-•PF: Novus     •C: SVT               •FS: 2022-09-04 •FE: 2022-09-06 •SC: N •SS: 1500 S: 27.8 SD: 20.6 M: 17.3 C: 8.6 V: 8.0 KD: 5.9 MP: 5.7 L: 4.8   •O: 1.3
-•PF: SKOP                            •FS: 2022-09-03 •FE: 2022-09-06 •SC: N •SS: 1406 S: 27.9 SD: 19.7 M: 17.7 V: 7.7 MP: 7.5 C: 7.0 KD: 6.3 L: 5.4   •O: 0.9
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-09-01 •FE: 2022-09-06 •SC: N •SS: 1730 S: 28.4 SD: 20.4 M: 18.2 V: 8.4 C: 7.6 KD: 6.2 MP: 5.3 L: 4.2   •O: 1.3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-09-03 •FE: 2022-09-05 •SC: N •SS: 1999 S: 30.0 SD: 20.0 M: 18.6 C: 7.7 V: 6.9 MP: 5.7 KD: 5.5 L: 4.7   •O: 0.9
-•PF: Novus     •C: SVT               •FS: 2022-09-03 •FE: 2022-09-05 •SC: N •SS: 1500 S: 28.7 SD: 19.9 M: 17.9 C: 8.8 V: 7.5 KD: 6.1 MP: 5.6 L: 4.4   •O: 1.1
-•PF: SKOP                            •FS: 2022-09-02 •FE: 2022-09-05 •SC: N •SS: 1122 S: 27.7 SD: 18.6 M: 18.1 MP: 8.1 V: 7.7 C: 7.4 KD: 6.0 L: 5.5   •O: 1.1
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-09-02 •FE: 2022-09-04 •SC: N •SS: 1942 S: 29.4 SD: 19.6 M: 17.6 C: 8.2 V: 7.5 KD: 6.2 L: 5.1 MP: 5.1   •O: 1.4
-•PF: Novus     •C: SVT               •FS: 2022-09-02 •FE: 2022-09-04 •SC: N •SS: 1500 S: 28.9 SD: 20.0 M: 17.4 C: 8.8 V: 8.0 KD: 6.6 MP: 5.5 L: 4.2   •O: 0.6
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-08-31 •FE: 2022-09-04 •SC: N •SS: 2173 S: 29.2 SD: 20.5 M: 18.3 V: 8.3 C: 8.1 KD: 5.3 L: 5.3 MP: 4.3   •O: 0.7
-•PF: SKOP                            •FS: 2022-08-01 •FE: 2022-09-04 •SC: N •SS: 1154 S: 30.0 SD: 18.8 M: 17.6 MP: 7.8 C: 7.5 V: 7.2 KD: 5.9 L: 4.8   •O: 0.5
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-09-01 •FE: 2022-09-03 •SC: N •SS: 1835 S: 28.5 SD: 19.4 M: 18.1 V: 7.7 C: 7.6 KD: 6.2 L: 5.9 MP: 4.8   •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2022-09-01 •FE: 2022-09-03 •SC: N •SS: 1500 S: 29.8 SD: 19.8 M: 18.1 V: 8.2 C: 7.5 KD: 6.8 MP: 4.8 L: 4.3   •O: 0.7
-•PF: SKOP                            •FS: 2022-08-31 •FE: 2022-09-03 •SC: N •SS: 1161 S: 31.1 SD: 18.0 M: 16.6 C: 8.3 MP: 7.6 V: 7.3 KD: 5.4 L: 5.4   •O: 0.5
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-31 •FE: 2022-09-02 •SC: N •SS: 1889 S: 28.5 SD: 20.1 M: 17.3 C: 7.8 V: 7.4 KD: 6.6 L: 5.8 MP: 4.8   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2022-08-31 •FE: 2022-09-02 •SC: N •SS: 1500 S: 28.7 SD: 21.0 M: 17.6 V: 8.5 KD: 7.1 C: 7.0 MP: 5.9 L: 4.4   •O: 0.8
-•PF: SKOP                            •FS: 2022-08-30 •FE: 2022-09-02 •SC: N •SS: 1228 S: 30.9 SD: 18.4 M: 16.2 C: 8.1 V: 8.1 MP: 6.6 L: 5.5 KD: 5.1   •O: 0.7
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-30 •FE: 2022-09-01 •SC: N •SS: 1706 S: 29.0 SD: 20.0 M: 16.8 V: 7.6 C: 7.5 KD: 6.3 L: 6.2 MP: 4.9   •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2022-08-30 •FE: 2022-09-01 •SC: N •SS: 1500 S: 26.5 SD: 20.9 M: 18.7 V: 8.8 KD: 7.1 C: 6.7 MP: 5.4 L: 5.1   •O: 0.8
-•PF: SKOP                            •FS: 2022-08-29 •FE: 2022-09-01 •SC: N •SS: 1192 S: 30.4 SD: 18.4 M: 14.8 V: 8.8 C: 8.0 L: 7.4 MP: 5.7 KD: 5.6   •O: 0.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-29 •FE: 2022-08-31 •SC: N •SS: 1967 S: 29.7 SD: 20.6 M: 16.1 V: 8.0 C: 7.3 L: 6.2 KD: 5.7 MP: 4.8   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2022-08-29 •FE: 2022-08-31 •SC: N •SS: 1500 S: 26.6 SD: 20.0 M: 18.9 V: 8.4 KD: 7.2 C: 6.8 MP: 5.9 L: 5.3   •O: 0.9
-•PF: SKOP                            •FS: 2022-08-28 •FE: 2022-08-31 •SC: N •SS: 1180 S: 28.7 SD: 18.8 M: 16.0 C: 8.3 V: 8.1 L: 6.7 KD: 6.1 MP: 5.8   •O: 1.6
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-28 •FE: 2022-08-30 •SC: N •SS: 2002 S: 31.1 SD: 19.7 M: 15.9 V: 8.2 L: 6.8 C: 6.4 KD: 5.7 MP: 4.7   •O: 1.6
-•PF: Novus     •C: SVT               •FS: 2022-08-28 •FE: 2022-08-30 •SC: N •SS: 1500 S: 28.1 SD: 19.5 M: 18.3 C: 7.3 V: 7.3 KD: 6.6 MP: 5.9 L: 5.6   •O: 0.9
-•PF: SKOP                            •FS: 2022-08-27 •FE: 2022-08-30 •SC: N •SS: 1194 S: 27.6 SD: 19.6 M: 18.3 V: 7.2 L: 7.0 C: 6.7 KD: 6.6 MP: 5.9   •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-08-26 •FE: 2022-08-30 •SC: N •SS: 1279 S: 28.3 SD: 22.2 M: 16.8 V: 8.7 C: 6.1 KD: 6.1 MP: 5.7 L: 4.8   •O: 1.3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-27 •FE: 2022-08-29 •SC: N •SS: 2002 S: 30.4 SD: 20.9 M: 16.4 V: 7.9 C: 6.6 L: 6.4 KD: 5.3 MP: 5.2   •O: 1.1
-•PF: Novus     •C: SVT               •FS: 2022-08-27 •FE: 2022-08-29 •SC: N •SS: 1500 S: 29.8 SD: 20.9 M: 15.6 C: 7.7 V: 7.5 KD: 6.4 MP: 5.6 L: 5.2   •O: 1.3
-•PF: SKOP                            •FS: 2022-08-26 •FE: 2022-08-29 •SC: N •SS: 1071 S: 26.9 SD: 18.8 M: 18.2 V: 8.7 C: 7.2 KD: 6.6 L: 6.5 MP: 5.9   •O: 1.6
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-08-21 •FE: 2022-08-29 •SC: N •SS: 2216 S: 29.6 SD: 20.6 M: 18.0 V: 7.8 C: 7.5 KD: 5.4 MP: 5.3 L: 4.6   •O: 1.2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-26 •FE: 2022-08-28 •SC: N •SS: 1932 S: 30.9 SD: 19.4 M: 18.0 V: 7.7 C: 6.4 L: 5.8 MP: 5.3 KD: 5.0   •O: 1.5
-•PF: Novus     •C: SVT               •FS: 2022-08-26 •FE: 2022-08-28 •SC: N •SS: 1500 S: 30.3 SD: 20.6 M: 15.8 C: 8.0 V: 7.9 KD: 6.4 MP: 5.0 L: 4.5   •O: 1.5
-•PF: SKOP                            •FS: 2022-08-24 •FE: 2022-08-28 •SC: N •SS: 1349 S: 27.2 SD: 18.6 M: 18.5 V: 8.7 C: 8.2 KD: 6.7 L: 6.1 MP: 5.3   •O: 0.7
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-25 •FE: 2022-08-27 •SC: N •SS: 1932 S: 31.2 SD: 19.5 M: 18.1 V: 7.1 C: 6.1 KD: 5.8 L: 5.4 MP: 5.2   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2022-08-25 •FE: 2022-08-27 •SC: N •SS: 1500 S: 30.2 SD: 21.1 M: 16.2 V: 8.5 C: 7.4 KD: 5.9 L: 4.5 MP: 4.4   •O: 1.7
-•PF: SKOP                            •FS: 2022-08-23 •FE: 2022-08-27 •SC: N •SS: 1054 S: 28.5 M: 18.4 SD: 18.3 V: 8.6 C: 7.7 KD: 6.3 L: 6.3 MP: 5.2   •O: 0.6
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-24 •FE: 2022-08-26 •SC: N •SS: 1964 S: 31.8 SD: 19.4 M: 17.9 V: 6.8 KD: 5.9 C: 5.7 L: 5.4 MP: 5.3   •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2022-08-24 •FE: 2022-08-26 •SC: N •SS: 1500 S: 29.0 SD: 22.4 M: 17.4 V: 9.1 KD: 6.2 C: 5.4 L: 4.7 MP: 4.3   •O: 1.5
-•PF: SKOP                            •FS: 2022-08-22 •FE: 2022-08-26 •SC: N •SS: 1355 S: 27.9 M: 18.7 SD: 18.6 V: 9.4 C: 7.9 L: 5.7 MP: 5.5 KD: 5.3   •O: 1.1
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-23 •FE: 2022-08-25 •SC: N •SS: 2197 S: 31.2 SD: 19.8 M: 17.5 V: 7.3 C: 5.8 KD: 5.8 MP: 5.7 L: 5.2   •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2022-08-23 •FE: 2022-08-25 •SC: N •SS: 1500 S: 27.9 SD: 22.8 M: 17.7 V: 8.4 KD: 6.1 C: 5.6 L: 5.5 MP: 4.8   •O: 1.1
-•PF: SKOP                            •FS: 2022-08-21 •FE: 2022-08-25 •SC: N •SS: 1336 S: 28.5 SD: 18.6 M: 18.3 V: 9.3 C: 7.0 KD: 6.2 L: 6.1 MP: 4.9   •O: 1.2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-22 •FE: 2022-08-24 •SC: N •SS: 2461 S: 30.5 SD: 20.3 M: 18.3 V: 7.6 C: 5.7 KD: 5.6 MP: 5.3 L: 4.6   •O: 2.0
-•PF: Novus     •C: SVT               •FS: 2022-08-22 •FE: 2022-08-24 •SC: N •SS: 1500 S: 27.5 SD: 22.4 M: 17.9 V: 8.5 C: 6.5 L: 6.0 KD: 5.5 MP: 4.7   •O: 1.0
-•PF: SKOP                            •FS: 2022-08-20 •FE: 2022-08-24 •SC: N •SS: 1118 S: 28.0 SD: 18.8 M: 18.0 V: 9.6 KD: 6.3 L: 6.3 C: 6.1 MP: 5.5   •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-08-16 •FE: 2022-08-24 •SC: N •SS: 1630 S: 30.4 SD: 20.7 M: 16.6 V: 8.5 C: 6.9 KD: 5.5 MP: 5.0 L: 4.6   •O: 1.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-21 •FE: 2022-08-23 •SC: N •SS: 2194 S: 30.2 SD: 19.2 M: 18.6 V: 7.9 KD: 6.3 C: 6.0 L: 4.8 MP: 4.7   •O: 2.4
-•PF: Novus     •C: SVT               •FS: 2022-08-21 •FE: 2022-08-23 •SC: N •SS: 1500 S: 28.2 SD: 22.0 M: 17.5 V: 8.5 C: 6.9 L: 6.1 KD: 5.1 MP: 4.8   •O: 0.9
-•PF: SKOP                            •FS: 2022-08-19 •FE: 2022-08-23 •SC: N •SS: 1106 S: 28.9 M: 18.8 SD: 18.0 V: 8.1 L: 7.1 C: 6.6 MP: 5.8 KD: 4.9   •O: 1.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-20 •FE: 2022-08-22 •SC: N •SS: 2194 S: 30.2 SD: 19.0 M: 17.4 V: 7.2 KD: 6.7 C: 6.1 MP: 5.5 L: 5.4   •O: 2.5
-•PF: Novus     •C: SVT               •FS: 2022-08-20 •FE: 2022-08-22 •SC: N •SS: 1500 S: 28.5 SD: 21.4 M: 17.4 V: 9.5 C: 7.2 KD: 5.2 L: 4.9 MP: 4.9   •O: 1.0
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-19 •FE: 2022-08-21 •SC: N •SS: 1925 S: 31.2 SD: 18.1 M: 17.7 V: 8.1 KD: 6.2 C: 5.8 L: 5.8 MP: 5.4   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2022-08-19 •FE: 2022-08-21 •SC: N •SS: 1500 S: 27.8 SD: 21.5 M: 17.4 V: 9.6 C: 6.7 KD: 6.0 MP: 5.5 L: 4.4   •O: 1.1
-•PF: SKOP                            •FS: 2022-08-18 •FE: 2022-08-21 •SC: N •SS: 1106 S: 27.8 SD: 19.3 M: 17.5 C: 8.6 V: 8.5 L: 6.3 MP: 5.9 KD: 4.9   •O: 1.3
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-08-16 •FE: 2022-08-21 •SC: N •SS: 2222 S: 28.9 M: 19.9 SD: 18.7 V: 8.9 C: 6.8 KD: 6.4 MP: 4.8 L: 4.2   •O: 1.4
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-18 •FE: 2022-08-20 •SC: N •SS: 1610 S: 32.5 M: 17.3 SD: 16.8 V: 8.0 C: 6.1 KD: 5.8 L: 5.5 MP: 5.5   •O: 2.5
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-17 •FE: 2022-08-19 •SC: N •SS: 1723 S: 32.2 M: 17.9 SD: 16.9 V: 7.8 C: 6.0 KD: 6.0 L: 5.5 MP: 5.1   •O: 2.6
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-16 •FE: 2022-08-18 •SC: N •SS: 1681 S: 32.7 M: 17.6 SD: 16.1 V: 8.0 C: 6.1 KD: 6.0 L: 5.6 MP: 5.3   •O: 2.6
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-15 •FE: 2022-08-17 •SC: N •SS: 2109 S: 31.2 M: 18.2 SD: 17.1 V: 8.0 C: 6.0 L: 5.9 KD: 5.6 MP: 5.5   •O: 2.5
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-14 •FE: 2022-08-16 •SC: N •SS: 2025 S: 29.7 M: 19.2 SD: 17.5 V: 8.4 C: 6.3 KD: 5.9 L: 5.6 MP: 5.4   •O: 2.3
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-08-06 •FE: 2022-08-16 •SC: N •SS: 2209 S: 29.6 M: 19.9 SD: 18.4 C: 7.5 V: 7.4 KD: 5.8 MP: 5.2 L: 4.9   •O: 1.4
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-13 •FE: 2022-08-15 •SC: N •SS: 1974 S: 30.0 M: 19.5 SD: 17.6 V: 7.5 KD: 6.2 C: 5.9 MP: 5.6 L: 5.5   •O: 2.4
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-12 •FE: 2022-08-14 •SC: N •SS: 1931 S: 29.9 M: 19.2 SD: 16.9 V: 8.0 KD: 6.5 C: 5.7 MP: 5.6 L: 5.5   •O: 2.8
-•PF: Novus     •C: SVT               •FS: 2022-08-08 •FE: 2022-08-14 •SC: N •SS: 2067 S: 28.5 M: 19.6 SD: 18.8 V: 9.7 C: 6.0 L: 5.8 KD: 5.6 MP: 4.5   •O: 1.5
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-11 •FE: 2022-08-13 •SC: N •SS: 1929 S: 31.7 M: 18.6 SD: 17.4 V: 7.7 KD: 6.8 L: 5.5 C: 5.3 MP: 4.5   •O: 2.5
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-10 •FE: 2022-08-12 •SC: N •SS: 1919 S: 31.1 M: 19.2 SD: 17.3 V: 8.0 KD: 6.7 L: 5.6 C: 5.3 MP: 4.5   •O: 2.3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-08-09 •FE: 2022-08-11 •SC: N •SS: 1796 S: 31.2 M: 20.7 SD: 16.5 V: 7.6 KD: 6.1 L: 5.7 C: 5.3 MP: 4.6   •O: 2.4
-•PF: Novus     •C: SVT               •FS: 2022-08-01 •FE: 2022-08-07 •SC: N •SS: 1893 S: 30.6 M: 18.6 SD: 18.6 V: 7.2 C: 6.8 KD: 6.3 MP: 5.2 L: 5.1   •O: 1.6
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-07-24 •FE: 2022-08-02 •SC: N •SS: 2247 S: 28.7 M: 20.3 SD: 17.7 V: 7.7 C: 7.2 KD: 6.9 L: 5.7 MP: 4.8   •O: 1.0
-•PF: SKOP                            •FS: 2022-07-08 •FE: 2022-07-11 •SC: N •SS: 1009 S: 31.5 M: 18.5 SD: 16.6 V: 10.3 C: 6.2 L: 6.1 KD: 5.7 MP: 3.6  •O: 1.5
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-06-22 •FE: 2022-06-30 •SC: N •SS: 2125 S: 30.3 M: 21.0 SD: 16.3 V: 8.4 C: 7.1 KD: 6.1 MP: 4.9 L: 4.7   •O: 1.2
-•PF: Novus     •C: SVT               •FS: 2022-06-06 •FE: 2022-06-26 •SC: N •SS: 2838 S: 31.7 M: 19.6 SD: 17.4 V: 8.8 KD: 6.7 C: 5.4 L: 5.0 MP: 3.5   •O: 1.9
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-06-07 •FE: 2022-06-19 •SC: N •SS: 1635 S: 31 M: 20 SD: 19 V: 9 KD: 6 C: 5 L: 5 MP: 3                   •O: 2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-06-06 •FE: 2022-06-16 •SC: N •SS: 8996 S: 33.7 M: 19.3 SD: 17.4 V: 7.9 KD: 6.3 C: 6.0 L: 4.4 MP: 3.4   •O: 1.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-05-31 •FE: 2022-06-09 •SC: N •SS: 2125 S: 30.9 M: 22.1 SD: 16.9 C: 7.7 V: 7.6 KD: 5.7 L: 4.2 MP: 3.9   •O: 1.0
-•PF: Novus     •C: SVT               •FS: 2022-05-09 •FE: 2022-06-05 •SC: N •SS: 3804 S: 30.2 M: 21.5 SD: 18.0 V: 9.4 KD: 6.3 C: 5.9 L: 3.5 MP: 3.3   •O: 1.9
-•PF: SCB                             •FS: 2022-04-28 •FE: 2022-05-25 •SC: N •SS: 9226 S: 33.3 M: 21.2 SD: 17.0 V: 7.8 C: 6.7 KD: 5.2 L: 3.4 MP: 3.3   •O: 2.0
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-05-10 •FE: 2022-05-22 •SC: N •SS: 1569 S: 32 M: 22 SD: 18 V: 9 C: 5 KD: 5 L: 3 MP: 3                   •O: 3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-05-02 •FE: 2022-05-12 •SC: N •SS: 6890 S: 32.6 M: 20.8 SD: 18.1 V: 8.2 C: 6.3 KD: 5.6 L: 3.6 MP: 2.7   •O: 2.1
-•PF: Infostat                        •FS: 2022-05-04 •FE: 2022-05-10 •SC: N •SS: 1690 S: 27.7 M: 21.3 SD: 21.0 V: 8.2 KD: 6.0 C: 5.9 MP: 3.7 L: 3.5   •O: 2.7
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-04-26 •FE: 2022-05-04 •SC: N •SS: 2154 S: 31.2 M: 22.9 SD: 16.9 C: 7.9 V: 7.3 KD: 6.9 MP: 3.0 L: 2.9   •O: 1.5
-•PF: Novus     •C: SVT               •FS: 2022-04-04 •FE: 2022-05-01 •SC: N •SS: 3541 S: 31.8 M: 21.0 SD: 17.9 V: 9.0 C: 6.9 KD: 5.9 MP: 3.3 L: 2.5   •O: 1.7
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-04-12 •FE: 2022-04-26 •SC: N •SS: 1570 S: 30 M: 22 SD: 18 V: 9 C: 6 KD: 6 MP: 4 L: 3                   •O: 2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-04-11 •FE: 2022-04-21 •SC: N •SS: 7766 S: 33.0 M: 21.2 SD: 18.2 V: 8.7 C: 7.1 KD: 4.9 MP: 2.9 L: 2.4   •O: 1.6
-•PF: SKOP                            •FS: 2022-04-06 •FE: 2022-04-14 •SC: N •SS: 1005 S: 34.7 M: 20.2 SD: 15.6 V: 9.2 C: 7.4 KD: 5.8 L: 2.9 MP: 2.9   •O: 1.3
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-03-29 •FE: 2022-04-05 •SC: N •SS: 2199 S: 31.5 M: 22.9 SD: 17.0 V: 8.1 C: 8.0 KD: 5.4 MP: 3.5 L: 2.4   •O: 1.2
-•PF: Novus     •C: SVT               •FS: 2022-03-07 •FE: 2022-04-03 •SC: N •SS: 3983 S: 32.0 M: 21.5 SD: 18.7 V: 8.3 C: 6.8 KD: 5.7 MP: 3.3 L: 2.1   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-03-15 •FE: 2022-03-27 •SC: N •SS: 1568 S: 33 M: 22 SD: 19 V: 8 C: 7 KD: 6 MP: 3 L: 2                   •O: 0
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-03-07 •FE: 2022-03-17 •SC: N •SS: 6960 S: 32.8 M: 21.4 SD: 18.6 V: 8.6 C: 7.0 KD: 4.9 MP: 2.7 L: 2.4   •O: 1.5
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-03-01 •FE: 2022-03-09 •SC: N •SS: 2175 S: 32.4 M: 22.0 SD: 17.5 C: 7.5 V: 7.4 KD: 6.5 MP: 2.9 L: 2.2   •O: 1.6
-•PF: Novus     •C: SVT               •FS: 2022-01-31 •FE: 2022-02-27 •SC: N •SS: 2505 S: 32.0 M: 21.2 SD: 19.4 V: 8.9 C: 6.8 KD: 5.1 MP: 3.2 L: 2.1   •O: 1.4
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-02-08 •FE: 2022-02-20 •SC: N •SS: 1660 S: 29 M: 21 SD: 20 V: 10 C: 7 KD: 5 L: 3 MP: 3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-02-07 •FE: 2022-02-17 •SC: N •SS: 6103 S: 29.6 M: 20.9 SD: 19.3 V: 10.1 C: 6.9 KD: 5.3 MP: 3.6 L: 2.7  •O: 1.8
-•PF: SKOP                            •FS: 2022-02-11 •FE: 2022-02-14 •SC: N •SS: 1013 S: 31.4 M: 19.1 SD: 19.0 V: 11.8 C: 7.3 KD: 4.2 MP: 3.1 L: 2.7  •O: 1.4
-•PF: Demoskop  •C: Aftonbladet       •FS: 2022-02-01 •FE: 2022-02-08 •SC: N •SS: 2505 S: 28.2 M: 22.0 SD: 19.2 V: 10.0 C: 7.9 KD: 5.6 L: 3.2 MP: 2.8  •O: 1.2
-•PF: Novus     •C: SVT               •FS: 2022-01-03 •FE: 2022-01-30 •SC: N •SS: 3702 S: 29.3 M: 20.5 SD: 19.8 V: 9.8 C: 7.4 KD: 5.4 MP: 3.5 L: 2.7   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2022-01-11 •FE: 2022-01-24 •SC: N •SS: 1660 S: 31 M: 21 SD: 18 V: 10 C: 6 KD: 6 L: 4 MP: 3                  •O: 1
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2022-01-10 •FE: 2022-01-20 •SC: N •SS: 6692 S: 31.1 M: 20.9 SD: 19.2 V: 9.6 C: 7.0 KD: 4.4 MP: 3.0 L: 2.9   •O: 1.9
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-12-28 •FE: 2022-01-05 •SC: N •SS: 2440 S: 29.2 M: 21.8 SD: 17.8 V: 9.3 C: 8.3 KD: 5.4 L: 3.2 MP: 2.8   •O: 2.2
-•PF: Novus     •C: SVT               •FS: 2021-12-06 •FE: 2022-01-02 •SC: N •SS: 2017 S: 31.3 SD: 20.1 M: 18.7 V: 10.5 C: 6.7 KD: 5.6 MP: 3.4 L: 2.2  •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-12-07 •FE: 2021-12-20 •SC: N •SS: 1581 S: 29 M: 20 SD: 20 V: 10 C: 7 KD: 5 MP: 4 L: 3                  •O: 2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2021-12-06 •FE: 2021-12-16 •SC: N •SS: 6157 S: 31.1 M: 20.0 SD: 19.7 V: 9.7 C: 7.0 KD: 5.2 MP: 3.2 L: 2.8   •O: 1.3
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-11-30 •FE: 2021-12-08 •SC: N •SS: 2446 S: 29.1 M: 22.6 SD: 18.7 C: 8.5 V: 8.2 KD: 6.0 MP: 3.3 L: 2.0   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2021-11-08 •FE: 2021-12-05 •SC: N •SS: 4233 S: 29.3 M: 21.2 SD: 19.0 V: 10.1 C: 7.5 KD: 4.7 MP: 3.7 L: 2.9  •O: 1.6
-•PF: SCB                             •FS: 2021-10-28 •FE: 2021-11-25 •SC: N •SS: 9190 S: 29.1 M: 22.7 SD: 18.6 V: 9.2 C: 8.4 KD: 4.6 MP: 3.9 L: 2.5   •O: 1.0
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-11-09 •FE: 2021-11-22 •SC: N •SS: 1605 S: 25 M: 21 SD: 20 V: 11 C: 8 KD: 6 MP: 4 L: 3                  •O: 1
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2021-11-08 •FE: 2021-11-18 •SC: N •SS: 5710 S: 28.9 M: 21.0 SD: 20.3 V: 9.3 C: 8.1 KD: 4.6 MP: 3.6 L: 2.3   •O: 1.8
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-11-05 •FE: 2021-11-11 •SC: N •SS: 2359 S: 27.0 M: 23.6 SD: 18.7 C: 9.7 V: 8.1 KD: 5.3 MP: 3.4 L: 3.2   •O: 1.0
-•PF: Novus     •C: SVT               •FS: 2021-10-04 •FE: 2021-10-31 •SC: N •SS: 3660 S: 25.6 M: 22.9 SD: 19.1 V: 11.3 C: 8.5 MP: 4.8 KD: 4.1 L: 2.8  •O: 0.9
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-10-12 •FE: 2021-10-25 •SC: N •SS: 1572 S: 26 M: 20 SD: 20 V: 11 C: 8 MP: 5 KD: 4 L: 4
-•PF: SKOP                            •FS: 2021-10-15 •FE: 2021-10-17 •SC: N •SS: 1011 S: 24.3 M: 22.1 SD: 19.9 V: 11.5 C: 9.5 MP: 4.4 KD: 3.7 L: 3.1  •O: 1.5
-•PF: Sifo                            •FS: 2021-10-04 •FE: 2021-10-14 •SC: N •SS: 6152 S: 26.6 M: 21.9 SD: 19.9 V: 10.5 C: 8.0 KD: 5.0 MP: 3.7 L: 2.8  •O: 1.6
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-09-29 •FE: 2021-10-06 •SC: N •SS: 2417 S: 26.7 M: 22.2 SD: 20.9 C: 9.5 V: 8.6 KD: 5.5 MP: 3.0 L: 2.7   •O: 0.8
-•PF: Novus     •C: SVT               •FS: 2021-08-30 •FE: 2021-10-03 •SC: N •SS: 4922 S: 26.0 M: 22.6 SD: 19.4 V: 10.6 C: 8.8 KD: 4.6 MP: 4.0 L: 2.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-09-14 •FE: 2021-09-26 •SC: N •SS: 1533 S: 25 M: 22 SD: 21 V: 11 C: 8 KD: 4 MP: 4 L: 3
-•PF: Sifo                            •FS: 2021-09-06 •FE: 2021-09-16 •SC: N •SS: 6488 S: 26.1 M: 21.5 SD: 19.6 V: 10.6 C: 8.9 KD: 4.7 MP: 4.2 L: 3.0  •O: 1.4
-•PF: SKOP                            •FS: 2021-09-03 •FE: 2021-09-11 •SC: N •SS: 1030 S: 25.8 M: 21.6 SD: 18.5 V: 12.5 C: 9.6 KD: 5.0 MP: 3.4 L: 2.4  •O: 1.2
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-08-31 •FE: 2021-09-08 •SC: N •SS: 2199 S: 26.7 M: 22.1 SD: 20.7 C: 9.7 V: 8.2 KD: 5.6 MP: 3.5 L: 2.5   •O: 0.9
-•PF: Novus     •C: SVT               •FS: 2021-08-02 •FE: 2021-08-29 •SC: N •SS: 4765 S: 25.9 M: 22.0 SD: 19.6 V: 11.2 C: 8.9 KD: 4.5 MP: 4.4 L: 2.1  •O: 1.4
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-08-10 •FE: 2021-08-23 •SC: N •SS: 1547 S: 25 M: 21 SD: 20 V: 11 C: 8 MP: 5 KD: 4 L: 3                  •O: 2
-•PF: Sifo                            •FS: 2021-08-09 •FE: 2021-08-18 •SC: N •SS: 4972 S: 24.1 M: 21.8 SD: 20.5 V: 11.9 C: 8.6 KD: 4.9 MP: 4.2 L: 2.7  •O: 1.3
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-08-02 •FE: 2021-08-05 •SC: N •SS: 2403 S: 24.6 M: 23.2 SD: 19.9 V: 10.2 C: 10.1 KD: 5.4 MP: 3.5 L: 2.3 •O: 0.8
-•PF: Novus     •C: SVT               •FS: 2021-07-19 •FE: 2021-07-26 •SC: N •SS: 2480 S: 23.8 SD: 21.6 M: 21.0 V: 13.3 C: 8.9 KD: 4.5 MP: 3.8 L: 2.2
-•PF: SKOP                            •FS: 2021-07-19 •FE: 2021-07-23 •SC: N •SS: 1013 S: 27.2 M: 21.8 SD: 19.5 V: 12.0 C: 8.7 MP: 3.7 KD: 3.5 L: 2.9  •O: 0.8
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-06-29 •FE: 2021-07-07 •SC: N •SS: 3267 S: 25.2 M: 21.7 SD: 19.3 C: 10.4 V: 9.4 KD: 6.1 L: 3.5 MP: 3.5  •O: 0.9
-•PF: Demoskop  •C: Aftonbladet       •FS: 2021-06-23 •FE: 2021-06-28 •SC: N •SS: 2148 S: 23.4 M: 22.1 SD: 18.2 V: 11.3 C: 10.6 KD: 6.8 L: 3.4 MP: 3.3 •O: 0.9
-•PF: Novus     •C: SVT               •FS: 2021-06-21 •FE: 2021-06-27 •SC: N •SS: 2408 S: 25.5 M: 21.8 SD: 21.4 V: 11.5 C: 7.9 KD: 5.0 MP: 3.5 L: 2.5  •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-06-08 •FE: 2021-06-20 •SC: N •SS: 1547 S: 24 M: 22 SD: 19 V: 12 C: 10 KD: 6 MP: 3 L: 2
-•PF: Sifo                            •FS: 2021-06-07 •FE: 2021-06-17 •SC: N •SS: 6539 S: 25.8 M: 22.4 SD: 20.2 C: 9.9 V: 9.6 KD: 5.1 MP: 3.5 L: 2.3   •O: 1.2
-•PF: Novus     •C: SVT               •FS: 2021-05-03 •FE: 2021-06-06 •SC: N •SS: 4925 S: 26.1 M: 22.6 SD: 19.2 V: 9.6 C: 9.4 KD: 5.3 MP: 4.2 L: 2.3   •O: 1.3
-•PF: Demoskop                        •FS: 2021-05-26 •FE: 2021-06-02 •SC: N •SS: 2730 S: 24.2 M: 22.9 SD: 19.2 C: 10.7 V: 8.5 KD: 5.6 L: 3.6 MP: 3.5  •O: 2.0
-•PF: SCB                             •FS: 2021-04-28 •FE: 2021-05-27 •SC: N •SS: 9216 S: 28.2 M: 22.4 SD: 18.9 C: 9.5 V: 8.9 KD: 4.5 MP: 3.8 L: 2.5   •O: 1.4
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-05-11 •FE: 2021-05-23 •SC: N •SS: 1548 S: 26 M: 22 SD: 20 V: 10 C: 9 KD: 5 MP: 4 L: 3                  •O: 2
-•PF: Sifo                            •FS: 2021-05-03 •FE: 2021-05-13 •SC: N •SS: 8964 S: 26.9 M: 21.7 SD: 18.8 V: 9.6 C: 9.3 KD: 5.2 MP: 4.0 L: 2.9   •O: 1.6
-•PF: Demoskop                        •FS: 2021-04-28 •FE: 2021-05-05 •SC: N •SS: 2651 S: 25.4 M: 23.1 SD: 19.0 C: 11.8 V: 6.9 KD: 5.2 MP: 4.1 L: 3.2  •O: 1.3
-•PF: Novus     •C: SVT               •FS: 2021-04-05 •FE: 2021-05-02 •SC: N •SS: 3654 S: 27.5 M: 22.9 SD: 18.1 V: 9.5 C: 8.4 KD: 5.3 MP: 4.0 L: 2.9   •O: 1.1
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-04-13 •FE: 2021-04-25 •SC: N •SS: 2055 S: 26 M: 22 SD: 19 V: 10 C: 9 KD: 5 MP: 4 L: 3
-•PF: Sifo                            •FS: 2021-04-05 •FE: 2021-04-15 •SC: N •SS: 6796 S: 27.8 M: 21.3 SD: 18.9 V: 9.4 C: 8.9 KD: 4.8 MP: 4.3 L: 3.1   •O: 1.6
-•PF: Demoskop                        •FS: 2021-03-30 •FE: 2021-04-07 •SC: N •SS: 2651 S: 25.4 M: 22.8 SD: 19.2 C: 9.8 V: 8.4 KD: 5.2 L: 3.7 MP: 3.3   •O: 2.2
-•PF: Novus     •C: SVT               •FS: 2021-03-01 •FE: 2021-04-04 •SC: N •SS: 4989 S: 27.6 M: 22.6 SD: 18.7 V: 9.5 C: 8.4 MP: 4.5 KD: 4.2 L: 2.9   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-03-09 •FE: 2021-03-21 •SC: N •SS: 1540 S: 27 M: 22 SD: 20 V: 11 C: 9 KD: 4 MP: 4 L: 3
-•PF: Sifo                            •FS: 2021-03-01 •FE: 2021-03-11 •SC: N •SS: 7711 S: 27.2 M: 22.9 SD: 18.4 V: 9.7 C: 8.8 KD: 4.4 MP: 4.2 L: 2.9   •O: 1.5
-•PF: Demoskop                        •FS: 2021-02-26 •FE: 2021-03-03 •SC: N •SS: 2314 M: 24.5 S: 24.2 SD: 18.2 C: 9.9 V: 9.3 KD: 5.8 MP: 3.1 L: 2.7   •O: 2.2
-•PF: Novus     •C: SVT               •FS: 2021-02-01 •FE: 2021-02-28 •SC: N •SS: 3761 S: 27.0 M: 24.0 SD: 17.9 V: 9.5 C: 8.3 MP: 4.4 KD: 4.1 L: 3.3   •O: 1.5
-•PF: SKOP                            •FS: 2021-02-19 •FE: 2021-02-23 •SC: N •SS: 1000 S: 27.4 M: 24.5 SD: 15.5 V: 10.2 C: 10.0 KD: 4.6 MP: 4.0 L: 2.4 •O: 1.4
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-02-09 •FE: 2021-02-21 •SC: N           S: 27 M: 23 SD: 19 C: 9 V: 9 KD: 5 MP: 4 L: 3
-•PF: Sifo                            •FS: 2021-02-01 •FE: 2021-02-11 •SC: N •SS: 6704 S: 27.6 M: 23.5 SD: 18.8 V: 10.0 C: 8.1 KD: 4.3 MP: 3.6 L: 2.8
-•PF: Demoskop                        •FS: 2021-01-26 •FE: 2021-02-03 •SC: N •SS: 2184 S: 24.7 M: 23.2 SD: 18.3 C: 9.6 V: 9.4 KD: 6.5 MP: 3.5 L: 3.1   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2021-01-11 •FE: 2021-01-31 •SC: N •SS: 2887 S: 26.9 M: 23.1 SD: 18.1 V: 10.8 C: 8.5 KD: 4.7 MP: 4.1 L: 2.7
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2021-01-13 •FE: 2021-01-25 •SC: N •SS: 1531 S: 27 M: 22 SD: 19 V: 10 C: 8 KD: 5 MP: 4 L: 3
-•PF: Sifo                            •FS: 2021-01-11 •FE: 2021-01-21 •SC: N •SS: 6947 S: 27.6 M: 22.4 SD: 18.6 V: 10.0 C: 8.1 KD: 4.9 MP: 3.7 L: 3.2  •O: 1.6
-•PF: Demoskop                        •FS: 2020-12-29 •FE: 2021-01-11 •SC: N •SS: 2095 M: 23.2 S: 23.0 SD: 19.5 V: 9.9 C: 9.2 KD: 5.9 MP: 5.0 L: 2.3   •O: 2.1
-•PF: Novus     •C: SVT               •FS: 2020-12-07 •FE: 2021-01-10 •SC: N •SS: 2715 S: 28.5 M: 21.8 SD: 19.4 V: 9.5 C: 8.3 KD: 4.6 MP: 4.0 L: 2.6   •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-12-01 •FE: 2020-12-13 •SC: N •SS: 1531 S: 26 M: 23 SD: 20 V: 11 C: 7 KD: 5 MP: 5 L: 3
-•PF: Sifo                            •FS: 2020-11-30 •FE: 2020-12-10 •SC: N •SS: 7349 S: 27.8 M: 21.7 SD: 18.9 V: 10.3 C: 7.7 KD: 5.4 MP: 3.7 L: 3.0  •O: 1.6
-•PF: Novus     •C: SVT               •FS: 2020-11-09 •FE: 2020-12-06 •SC: N •SS: 3813 S: 28.0 M: 21.7 SD: 18.5 V: 9.7 C: 8.2 KD: 5.4 MP: 4.1 L: 2.7   •O: 1.7
-•PF: SKOP                            •FS: 2020-11-30 •FE: 2020-12-03 •SC: N •SS: 1004 S: 26.1 M: 21.8 SD: 18.2 V: 11.2 C: 8.5 KD: 6.5 MP: 4.0 L: 2.7  •O: 1.0
-•PF: Demoskop                        •FS: 2020-11-26 •FE: 2020-12-02 •SC: N •SS: 2278 S: 25.0 M: 23.2 SD: 19.6 C: 9.4 V: 9.3 KD: 5.7 MP: 3.6 L: 2.8   •O: 1.4
-•PF: SCB                             •FS: 2020-11-02 •FE: 2020-11-26 •SC: N •SS: 4692 S: 29.4 M: 22.1 SD: 17.6 V: 9.3 C: 7.6 KD: 5.4 MP: 4.2 L: 3.0   •O: 1.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-11-10 •FE: 2020-11-22 •SC: N           S: 26 M: 21 SD: 20 V: 11 C: 9 KD: 5 MP: 4 L: 3                  •O: 1
-•PF: Sifo                            •FS: 2020-11-02 •FE: 2020-11-11 •SC: N           S: 27.0 M: 20.8 SD: 19.9 V: 10.2 C: 7.6 KD: 5.7 MP: 4.2 L: 3.2  •O: 1.4
-•PF: Novus     •C: SVT               •FS: 2020-10-12 •FE: 2020-11-08 •SC: N •SS: 3783 S: 26.4 M: 22.0 SD: 19.4 V: 10.6 C: 8.6 KD: 5.0 MP: 3.9 L: 2.7  •O: 1.4
-•PF: Demoskop                        •FS: 2020-10-27 •FE: 2020-11-04 •SC: N •SS: 2200 S: 24.0 M: 22.4 SD: 19.9 V: 9.4 C: 9.2 KD: 6.9 MP: 3.4 L: 3.1   •O: 1.8
-•PF: SKOP                            •FS: 2020-10-23 •FE: 2020-10-26 •SC: N •SS: 1000 S: 26.0 M: 21.1 SD: 17.8 V: 12.1 C: 9.1 KD: 5.9 L: 3.3 MP: 3.1  •O: 1.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-10-13 •FE: 2020-10-25 •SC: N           S: 25 M: 21 SD: 20 V: 11 C: 9 KD: 6 MP: 5 L: 3
-•PF: Sifo                            •FS: 2020-10-05 •FE: 2020-10-15 •SC: N •SS: 7299 S: 26.4 M: 20.6 SD: 20.2 V: 10.0 C: 7.7 KD: 5.9 MP: 4.3 L: 3.2  •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2020-09-14 •FE: 2020-10-11 •SC: N •SS: 3878 S: 26.5 M: 20.7 SD: 19.2 V: 9.6 C: 8.4 KD: 5.7 MP: 5.2 L: 3.4   •O: 1.3
-•PF: Demoskop                        •FS: 2020-10-01 •FE: 2020-10-07 •SC: N •SS: 2722 S: 25.0 M: 21.1 SD: 19.9 C: 9.4 V: 9.2 KD: 6.7 MP: 3.5 L: 3.4   •O: 1.8
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-09-08 •FE: 2020-09-21 •SC: N •SS: 1521 S: 26 M: 20 SD: 20 V: 9 C: 8 KD: 7 L: 4 MP: 4
-•PF: Sifo                            •FS: 2020-09-07 •FE: 2020-09-17 •SC: N •SS: 5029 S: 27.5 M: 20.6 SD: 19.8 V: 8.9 C: 8.2 KD: 6.2 MP: 3.8 L: 3.5
-•PF: Novus     •C: SVT               •FS: 2020-08-24 •FE: 2020-09-13 •SC: N •SS: 3082 S: 27.0 M: 21.2 SD: 19.6 V: 9.4 C: 7.8 KD: 5.7 MP: 4.3 L: 3.2
-•PF: Demoskop                        •FS: 2020-08-25 •FE: 2020-09-01 •SC: N •SS: 2366 S: 26.1 M: 22.2 SD: 21.6 C: 9.2 V: 7.5 KD: 5.3 MP: 3.2 L: 3.1
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-08-11 •FE: 2020-08-23 •SC: N •SS: 1500 S: 27 SD: 21 M: 20 V: 10 C: 7 KD: 6 MP: 4 L: 3
-•PF: Novus     •C: SVT               •FS: 2020-08-03 •FE: 2020-08-23 •SC: N •SS: 3804 S: 28.3 M: 21.2 SD: 19.4 V: 9.3 C: 7.6 KD: 5.8 MP: 3.8 L: 2.9   •O: 1.7
-•PF: Sifo                            •FS: 2020-08-10 •FE: 2020-08-20 •SC: N •SS: 5640 S: 27.8 M: 20.3 SD: 19.7 V: 9.2 C: 7.8 KD: 6.4 L: 4.2 MP: 3.6   •O: 1.1
-•PF: Demoskop                        •FS: 2020-07-28 •FE: 2020-08-04 •SC: N •SS: 2705 S: 27.3 M: 21.6 SD: 20.5 C: 8.8 V: 6.8 KD: 5.6 MP: 3.4 L: 3.3   •O: 2.7
-•PF: SKOP                            •FS: 2020-07-23 •FE: 2020-07-28 •SC: N •SS: 1010 S: 28.2 M: 21.1 SD: 17.9 V: 10.4 C: 8.0 KD: 5.9 L: 3.7 MP: 3.4  •O: 1.3
-•PF: Demoskop                        •FS: 2020-06-30 •FE: 2020-07-07 •SC: N •SS: 2226 S: 28.5 M: 20.8 SD: 19.7 C: 8.4 V: 7.8 KD: 5.7 MP: 4.1 L: 3.2   •O: 1.9
-•PF: Novus     •C: SVT               •FS: 2020-05-25 •FE: 2020-06-21 •SC: N •SS: 3811 S: 30.6 M: 20.7 SD: 18.4 V: 9.4 C: 7.8 KD: 5.7 MP: 3.4 L: 3.0
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-06-12 •FE: 2020-06-15 •SC: N •SS: 1501 S: 31 SD: 20 M: 17 V: 9 C: 7 KD: 7 L: 4 MP: 3                   •O: 2
-•PF: Sifo                            •FS: 2020-06-01 •FE: 2020-06-11 •SC: N •SS: 7578 S: 30.0 M: 19.5 SD: 18.9 V: 9.6 C: 7.0 KD: 6.8 MP: 3.5 L: 3.4   •O: 1.3
-•PF: Demoskop                        •FS: 2020-05-26 •FE: 2020-06-03 •SC: N •SS: 2437 S: 27.8 M: 20.9 SD: 19.3 C: 9.7 V: 8.2 KD: 6.5 MP: 3.9 L: 2.7   •O: 1.0
-•PF: SKOP                            •FS: 2020-05-31 •FE: 2020-06-02 •SC: N •SS: 1006 S: 31.3 M: 20.3 SD: 17.0 V: 10.5 C: 6.6 KD: 5.8 MP: 3.7 L: 3.6  •O: 1.1
-•PF: SCB                             •FS: 2020-04-29 •FE: 2020-05-27 •SC: N •SS: 9208 S: 33.7 M: 20.1 SD: 17.1 V: 8.2 KD: 6.4 C: 6.0 MP: 4.1 L: 3.3   •O: 1.1
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-05-12 •FE: 2020-05-24 •SC: N •SS: 1530 S: 31 M: 20 SD: 20 V: 9 C: 7 KD: 6 MP: 4 L: 3                   •O: 1
-•PF: Novus     •C: SVT               •FS: 2020-04-27 •FE: 2020-05-24 •SC: N •SS: 3976 S: 31.5 M: 19.2 SD: 18.0 V: 9.4 C: 8.1 KD: 5.5 MP: 4.1 L: 3.0   •O: 1.2
-•PF: Sifo                            •FS: 2020-05-04 •FE: 2020-05-14 •SC: N •SS: 7310 S: 31.7 SD: 18.9 M: 18.6 V: 9.0 C: 7.2 KD: 6.1 MP: 3.9 L: 3.4   •O: 1.5
-•PF: SKOP                            •FS: 2020-04-30 •FE: 2020-05-08 •SC: N •SS: 1019 S: 32.6 M: 20.4 SD: 16.3 V: 9.7 C: 7.0 KD: 5.2 L: 4.4 MP: 2.6   •O: 1.8
-•PF: Demoskop                        •FS: 2020-04-28 •FE: 2020-05-05 •SC: N •SS: 2297 S: 30.1 M: 20.7 SD: 18.8 C: 10.0 V: 7.2 KD: 6.5 MP: 3.3 L: 2.7  •O: 0.7
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-04-14 •FE: 2020-04-26 •SC: N •SS: 1544 S: 29 SD: 21 M: 18 V: 9 C: 7 KD: 6 L: 4 MP: 4
-•PF: Novus     •C: SVT               •FS: 2020-03-30 •FE: 2020-04-19 •SC: N •SS: 3838 S: 30.4 SD: 19.7 M: 18.7 V: 9.5 C: 7.7 KD: 6.1 MP: 3.8 L: 2.8   •O: 1.3
-•PF: Sifo                            •FS: 2020-03-30 •FE: 2020-04-08 •SC: N •SS: 6886 S: 30.6 SD: 19.5 M: 19.2 V: 9.4 C: 6.9 KD: 5.9 L: 3.8 MP: 3.5   •O: 1.1
-•PF: Demoskop                        •FS: 2020-03-25 •FE: 2020-04-01 •SC: N •SS: 2453 S: 27.9 SD: 20.8 M: 19.2 C: 10.0 V: 7.7 KD: 6.7 MP: 4.0 L: 3.0  •O: 0.7
-•PF: Novus     •C: SVT               •FS: 2020-02-24 •FE: 2020-03-22 •SC: N •SS: 3737 S: 25.6 SD: 22.0 M: 18.0 V: 9.8 C: 8.1 KD: 6.5 MP: 4.5 L: 3.8   •O: 1.7
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-03-10 •FE: 2020-03-20 •SC: N •SS: 1566 S: 25 SD: 22 M: 19 V: 12 C: 7 KD: 6 L: 5 MP: 4
-•PF: Sifo                            •FS: 2020-03-02 •FE: 2020-03-12 •SC: N •SS: 7839 S: 23.8 SD: 22.2 M: 18.0 V: 11.2 C: 8.4 KD: 6.8 L: 4.1 MP: 4.0  •O: 1.6
-•PF: Demoskop                        •FS: 2020-02-25 •FE: 2020-03-03 •SC: N •SS: 2326 S: 22.6 SD: 22.1 M: 19.5 V: 10.4 C: 9.4 KD: 7.5 L: 4.1 MP: 3.1  •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-02-11 •FE: 2020-02-23 •SC: N •SS: 1535 SD: 23 S: 22 M: 18 V: 11 C: 8 KD: 8 MP: 5 L: 4                  •O: 1
-•PF: Novus     •C: SVT               •FS: 2020-01-27 •FE: 2020-02-16 •SC: N •SS: 3098 SD: 23.9 S: 23.2 M: 18.0 V: 10.9 C: 8.1 KD: 5.9 MP: 4.5 L: 3.9  •O: 1.6
-•PF: Sifo                            •FS: 2020-02-03 •FE: 2020-02-13 •SC: N •SS: 8328 S: 23.6 SD: 23.3 M: 17.5 V: 11.4 C: 8.1 KD: 6.1 L: 4.4 MP: 4.2  •O: 1.5
-•PF: Demoskop                        •FS: 2020-01-25 •FE: 2020-02-05 •SC: N •SS: 2148 S: 24.7 SD: 23.5 M: 18.9 V: 9.3 C: 8.9 KD: 6.3 MP: 3.8 L: 3.2   •O: 1.3
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2020-01-14 •FE: 2020-01-27 •SC: N •SS: 1528 SD: 24 S: 23 M: 17 V: 11 C: 9 KD: 7 L: 4 MP: 4                  •O: 2
-•PF: Novus     •C: SVT               •FS: 2020-01-07 •FE: 2020-01-26 •SC: N •SS: 4414 S: 24.2 SD: 22.6 M: 18.3 V: 10.4 C: 8.7 KD: 6.1 MP: 4.6 L: 3.5  •O: 1.6
-•PF: SKOP                            •FS: 2020-01-14 •FE: 2020-01-24 •SC: N •SS: 1009 SD: 23.3 S: 23.1 M: 17.4 V: 10.6 C: 9.6 KD: 6.7 MP: 4.1 L: 3.8  •O: 1.4
-•PF: Sifo                            •FS: 2020-01-06 •FE: 2020-01-16 •SC: N •SS: 7747 SD: 23.8 S: 23.5 M: 17.5 V: 10.2 C: 8.5 KD: 6.6 MP: 4.5 L: 3.9  •O: 1.5
-•PF: Demoskop                        •FS: 2019-12-30 •FE: 2020-01-07 •SC: N •SS: 2112 SD: 24.5 S: 23.4 M: 18.2 C: 9.5 V: 9.0 KD: 5.9 MP: 4.8 L: 3.1   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-12-03 •FE: 2019-12-15 •SC: N •SS: 1572 S: 25 SD: 24 M: 16 V: 10 C: 8 KD: 6 L: 5 MP: 5                  •O: 1
-•PF: Novus     •C: SVT               •FS: 2019-11-18 •FE: 2019-12-15 •SC: N •SS: 3994 SD: 24.0 S: 23.7 M: 17.9 V: 9.9 C: 8.3 KD: 6.2 MP: 5.0 L: 3.5   •O: 1.5
-•PF: Sifo                            •FS: 2019-12-02 •FE: 2019-12-12 •SC: N •SS: 8214 S: 24.6 SD: 24.4 M: 17.2 V: 9.7 C: 8.0 KD: 6.0 MP: 4.7 L: 4.0   •O: 1.3
-•PF: Demoskop                        •FS: 2019-11-26 •FE: 2019-12-04 •SC: N •SS: 2079 SD: 25.4 S: 24.3 M: 17.5 C: 9.6 V: 7.9 KD: 5.9 MP: 4.4 L: 3.9   •O: 1.1
-•PF: SCB                             •FS: 2019-10-28 •FE: 2019-11-26 •SC: N •SS: 4645 S: 26.3 SD: 22.6 M: 18.3 V: 8.1 C: 7.3 KD: 6.6 MP: 5.1 L: 4.1   •O: 1.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-11-11 •FE: 2019-11-24 •SC: N •SS: 1551 S: 25 SD: 25 M: 17 C: 8 KD: 8 V: 8 MP: 5 L: 3                   •O: 2
-•PF: Novus     •C: SVT               •FS: 2019-10-21 •FE: 2019-11-17 •SC: N •SS: 3619 S: 26.0 SD: 21.5 M: 18.3 V: 9.3 C: 7.8 KD: 7.1 MP: 4.8 L: 3.4
-•PF: Sifo                            •FS: 2019-11-04 •FE: 2019-11-14 •SC: N •SS: 8175 S: 24.4 SD: 23.0 M: 17.0 V: 9.7 C: 8.3 KD: 7.9 MP: 4.7 L: 3.6   •O: 1.6
-•PF: Demoskop                        •FS: 2019-11-04 •FE: 2019-11-13 •SC: N •SS: 2048 SD: 24.0 S: 22.2 M: 17.8 V: 9.8 C: 7.7 KD: 7.6 MP: 4.8 L: 3.9   •O: 2.2
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-10-08 •FE: 2019-10-21 •SC: N •SS: 1569 S: 24 SD: 23 M: 16 V: 10 C: 8 KD: 8 MP: 5 L: 4                  •O: 2
-•PF: Novus     •C: SVT               •FS: 2019-09-23 •FE: 2019-10-20 •SC: N •SS: 3745 S: 25.8 SD: 20.7 M: 19.5 C: 8.5 V: 8.4 KD: 7.0 MP: 5.0 L: 3.7   •O: 1.6
-•PF: Sifo                            •FS: 2019-10-07 •FE: 2019-10-17 •SC: N •SS: 7792 S: 24.9 SD: 20.5 M: 17.7 V: 9.2 C: 8.4 KD: 6.7 MP: 5.0 L: 3.9   •O: 1.5
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-10-08 •FE: 2019-10-14 •SC: N •SS: 2132 S: 24.7 SD: 22.6 M: 19.3 C: 10.1 V: 8.0 KD: 6.5 MP: 4.2 L: 3.2  •O: 1.4
-•PF: Demoskop                        •FS: 2019-09-24 •FE: 2019-10-01 •SC: N •SS: 1617 S: 23.1 SD: 22.9 M: 19.5 V: 8.6 C: 8.3 KD: 6.6 MP: 5.0 L: 3.9   •O: 2.1
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-09-20 •FE: 2019-09-25 •SC: N •SS: 2097 S: 23.9 SD: 22.2 M: 19.0 C: 9.9 V: 8.5 KD: 6.0 MP: 4.2 L: 3.5   •O: 2.4
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-09-10 •FE: 2019-09-23 •SC: N •SS: 1537 S: 26 M: 19 SD: 19 C: 9 V: 9 KD: 7 L: 5 MP: 5                   •O: 1
-•PF: Novus     •C: SVT               •FS: 2019-08-26 •FE: 2019-09-22 •SC: N •SS: 3716 S: 24.7 SD: 20.7 M: 20.4 V: 9.2 C: 8.0 KD: 6.8 MP: 5.0 L: 3.6   •O: 1.8
-•PF: Sifo                            •FS: 2019-09-02 •FE: 2019-09-12 •SC: N •SS: 8949 S: 25.8 SD: 20.2 M: 18.9 C: 8.6 V: 8.5 KD: 7.3 MP: 5.1 L: 4.2   •O: 1.5
-•PF: Demoskop                        •FS: 2019-08-27 •FE: 2019-09-03 •SC: N •SS: 1611 S: 24.0 SD: 21.4 M: 19.4 C: 8.4 V: 8.4 KD: 6.5 MP: 4.9 L: 4.6   •O: 1.8
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-08-22 •FE: 2019-08-28 •SC: N •SS: 2015 S: 25.5 SD: 21.0 M: 18.3 C: 9.4 V: 7.9 KD: 7.7 L: 4.2 MP: 4.2   •O: 1.9
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-08-13 •FE: 2019-08-25 •SC: N •SS: 1515 S: 26 SD: 19 M: 17 V: 10 C: 8 KD: 7 MP: 6 L: 5                  •O: 2
-•PF: Novus     •C: SVT               •FS: 2019-08-05 •FE: 2019-08-25 •SC: N •SS: 2660 S: 26.3 M: 18.5 SD: 18.4 C: 9.4 V: 9.0 KD: 7.2 MP: 5.6 L: 3.7   •O: 1.9
-•PF: Sifo                            •FS: 2019-08-06 •FE: 2019-08-15 •SC: N •SS: 6316 S: 26.8 M: 19.1 SD: 18.2 C: 8.8 V: 8.7 KD: 8.4 MP: 4.9 L: 3.8   •O: 1.4
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-08-01 •FE: 2019-08-08 •SC: N •SS: 2076 S: 25.6 SD: 19.7 M: 19.6 C: 10.3 V: 8.5 KD: 7.3 L: 3.6 MP: 3.6  •O: 1.7
-•PF: SKOP                            •FS: 2019-06-25 •FE: 2019-07-16 •SC: N •SS: 1048 S: 25.6 SD: 18.0 M: 17.0 C: 9.5 KD: 9.2 V: 8.9 L: 5.7 MP: 4.7   •O: 1.4
-•PF: Demoskop                        •FS: 2019-06-24 •FE: 2019-07-01 •SC: N •SS: 1608 S: 25.9 SD: 19.6 M: 17.6 C: 9.3 KD: 8.0 V: 7.9 MP: 5.3 L: 4.1   •O: 2.2
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-06-17 •FE: 2019-06-24 •SC: N •SS: 2076 S: 25.4 M: 19.7 SD: 19.4 C: 9.4 V: 8.3 KD: 7.0 MP: 5.0 L: 3.6   •O: 2.3
-•PF: Novus     •C: SVT               •FS: 2019-06-03 •FE: 2019-06-23 •SC: N •SS: 2746 S: 26.7 M: 18.8 SD: 16.7 C: 10.1 V: 9.0 KD: 7.7 MP: 5.9 L: 3.6  •O: 1.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-06-04 •FE: 2019-06-18 •SC: N •SS: 1630 S: 25 SD: 19 M: 17 V: 10 C: 9 KD: 8 L: 5 MP: 5                  •O: 2
-•PF: Sifo                            •FS: 2019-06-03 •FE: 2019-06-13 •SC: N •SS: 9261 S: 26.5 M: 18.4 SD: 18.1 KD: 9.5 C: 8.8 V: 8.6 MP: 4.9 L: 3.7   •O: 1.5
-•PF: Demoskop  •C: Expressen         •FS: 2019-05-27 •FE: 2019-06-03 •SC: N •SS: 1614 S: 27.1 SD: 19.9 M: 18.2 C: 8.9 V: 8.0 KD: 7.5 MP: 5.1 L: 3.8   •O: 1.6
-•PF: Novus     •C: SVT               •FS: 2019-05-06 •FE: 2019-06-02 •SC: N •SS: 3644 S: 25.9 M: 17.7 SD: 17.6 KD: 10.0 V: 9.0 C: 8.7 MP: 5.5 L: 4.1  •O: 1.5
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-05-21 •FE: 2019-05-28 •SC: N •SS: 2147 S: 26.1 SD: 18.4 M: 18.2 C: 10.1 KD: 9.0 V: 8.3 MP: 4.4 L: 3.0  •O: 2.4
-•PF: SCB                             •FS: 2019-04-29 •FE: 2019-05-28 •SC: N •SS: 9092 S: 27.6 SD: 17.1 M: 16.0 KD: 13.0 V: 8.7 C: 6.9 MP: 5.7 L: 3.7  •O: 1.3
-•PF: SKOP                            •FS: 2019-05-19 •FE: 2019-05-24 •SC: E •SS: 1938 S: 23.1 SD: 17.1 M: 16.0 KD: 10.3 MP: 9.4 C: 9.2 V: 7.4 L: 4.7  •O: 2.8
-•PF: Sifo                            •FS: 2019-05-20 •FE: 2019-05-23 •SC: E •SS: 2437 S: 23.1 SD: 18.9 M: 14.4 C: 10.3 MP: 10.0 KD: 9.0 V: 8.3 L: 4.0 •O: 2.1
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-05-16 •FE: 2019-05-23 •SC: E •SS: 3155 S: 23.9 SD: 16.9 M: 13.6 KD: 12.5 MP: 9.9 C: 8.5 V: 7.2 L: 4.5  •O: 3.0
-•PF: Novus     •C: SVT               •FS: 2019-05-06 •FE: 2019-05-22 •SC: E •SS: 2456 S: 23.5 SD: 16.2 M: 15.9 MP: 10.7 KD: 9.9 C: 8.6 V: 7.2 L: 5.2
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-05-06 •FE: 2019-05-21 •SC: N •SS: 2144 S: 26 SD: 17 M: 16 KD: 12 V: 10 C: 9 L: 4 MP: 4                 •O: 2
-•PF: SKOP                            •FS: 2019-05-19 •FE: 2019-05-20 •SC: E •SS: 1042 S: 23.5 SD: 17.2 M: 16.8 KD: 10.5 C: 9.6 MP: 9.4 V: 7.5 L: 3.8  •O: 1.9
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-05-10 •FE: 2019-05-16 •SC: E •SS: 2200 S: 23.0 SD: 18.8 M: 15.7 C: 9.5 MP: 9.3 KD: 9.1 V: 6.9 L: 3.4   •O: 4.3
-•PF: Sifo                            •FS: 2019-05-06 •FE: 2019-05-16 •SC: N •SS: 9626 S: 27.0 SD: 18.1 M: 15.9 KD: 12.0 V: 8.9 C: 8.2 MP: 4.5 L: 3.8  •O: 1.6
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-05-10 •FE: 2019-05-15 •SC: E •SS: 2867 S: 21.9 SD: 19.9 M: 13.5 KD: 11.2 MP: 9.6 V: 9.5 C: 7.6 L: 4.1  •O: 2.8
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-05-02 •FE: 2019-05-09 •SC: E •SS: 2383 S: 23.1 SD: 16.9 M: 15.5 KD: 12.4 MP: 11.6 C: 7.6 V: 7.4 L: 3.3 •O: 3.4
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-05-01 •FE: 2019-05-09 •SC: E •SS: 2218 S: 23.9 SD: 17.9 M: 16.9 MP: 9.6 KD: 8.8 C: 8.4 V: 6.9 L: 3.4   •O: 4.7
-•PF: Demoskop  •C: Expressen         •FS: 2019-04-29 •FE: 2019-05-07 •SC: N •SS: 1618 S: 26.6 SD: 19.2 M: 15.7 KD: 11.5 C: 9.1 V: 8.7 MP: 4.3 L: 3.1  •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2019-04-08 •FE: 2019-05-05 •SC: N •SS: 3404 S: 26.4 M: 18.0 SD: 17.8 KD: 10.7 C: 8.8 V: 8.8 MP: 4.6 L: 3.5  •O: 1.4
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-04-22 •FE: 2019-04-29 •SC: N •SS: 2111 S: 25.6 SD: 18.6 M: 15.7 KD: 11.4 V: 9.5 C: 9.3 L: 4.2 MP: 3.9  •O: 1.8
-•PF: Novus     •C: SVT               •FS: 2019-04-15 •FE: 2019-04-28 •SC: E •SS: 1792 S: 24.8 SD: 13.7 M: 12.6 V: 11.1 MP: 10.6 KD: 9.7 C: 7.4 L: 5.3 •O: 4.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-04-23 •FE: 2019-04-25 •SC: E •SS: 1834 S: 21.0 SD: 19.9 M: 16.5 KD: 10.7 MP: 10.0 V: 8.2 C: 6.3 L: 3.4 •O: 4.1
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-04-15 •FE: 2019-04-25 •SC: E •SS: 2068 S: 24.9 SD: 17.4 M: 15.9 C: 9.5 KD: 9.0 MP: 8.7 V: 7.6 L: 3.7   •O: 3.3
-•PF: Demoskop  •C: Expressen         •FS: 2019-04-12 •FE: 2019-04-24 •SC: E •SS: 1595 S: 23.4 SD: 19.3 M: 17.0 KD: 10.4 MP: 9.0 V: 7.9 C: 6.1 L: 3.3  •O: 3.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-04-09 •FE: 2019-04-22 •SC: E •SS: 1507 S: 23 SD: 17 M: 15 KD: 10 V: 10 MP: 9 C: 8 L: 6                 •O: 3
-&                                                                    •SC: N •SS: 1486 S: 27 SD: 17 M: 16 KD: 12 V: 10 C: 8 L: 4 MP: 4                 •O: 1
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-04-01 •FE: 2019-04-11 •SC: N •SS: 8278 S: 27.3 SD: 18.9 M: 16.0 KD: 12.2 V: 8.7 C: 7.5 MP: 4.6 L: 3.4  •O: 1.4
-•PF: Demoskop  •C: Expressen         •FS: 2019-03-26 •FE: 2019-04-03 •SC: N •SS: 1616 S: 25.4 SD: 18.0 M: 16.6 KD: 11.7 V: 9.6 C: 8.2 MP: 4.5 L: 3.9  •O: 2.1
-•PF: Novus     •C: SVT               •FS: 2019-03-04 •FE: 2019-03-31 •SC: N •SS: 3668 S: 27.2 SD: 18.1 M: 17.5 KD: 10.6 V: 9.7 C: 8.2 L: 3.7 MP: 3.5  •O: 1.5
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-03-23 •FE: 2019-03-28 •SC: N •SS: 2980 S: 26.5 SD: 18.2 M: 16.5 KD: 12.1 C: 9.1 V: 8.6 MP: 4.2 L: 3.3  •O: 1.4
-•PF: SKOP                            •FS: 2019-03-07 •FE: 2019-03-27 •SC: E •SS: 1510 S: 25.7 M: 17.7 SD: 15.1 KD: 9.3 MP: 9.2 C: 7.6 V: 7.6 L: 4.5   •O: 3.3
-&                                                                    •SC: N           S: 28.7 M: 18.0 SD: 16.5 KD: 10.1 C: 9.5 V: 8.8 L: 4.2 MP: 3.1  •O: 1.2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-03-19 •FE: 2019-03-25 •SC: E •SS: 2097 S: 25.2 SD: 17.3 M: 16.2 KD: 10.4 V: 8.6 MP: 8.1 C: 7.1 L: 4.0  •O: 3.0
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-03-12 •FE: 2019-03-25 •SC: N •SS: 1529 S: 27 SD: 19 M: 18 V: 10 KD: 9 C: 8 L: 4 MP: 4                  •O: 1
-•PF: Novus     •C: SVT               •FS: 2019-03-11 •FE: 2019-03-24 •SC: E •SS: 1842 S: 25.5 SD: 14.3 M: 13.7 V: 10.6 C: 9.2 MP: 9.2 KD: 8.9 L: 5.0  •O: 3.7
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-03-03 •FE: 2019-03-14 •SC: N •SS: 9059 S: 27.4 SD: 19.1 M: 17.5 V: 9.8 KD: 9.4 C: 8.3 MP: 3.8 L: 3.3   •O: 1.4
-•PF: Demoskop  •C: Expressen         •FS: 2019-02-26 •FE: 2019-03-05 •SC: N •SS: 1611 S: 25.8 SD: 19.4 M: 18.4 KD: 10.6 V: 9.3 C: 7.5 MP: 4.1 L: 3.0  •O: 1.9
-•PF: Novus     •C: SVT               •FS: 2019-02-04 •FE: 2019-03-03 •SC: N •SS: 3707 S: 28.2 SD: 19.3 M: 18.3 V: 9.1 KD: 8.6 C: 7.3 MP: 4.0 L: 3.5   •O: 1.7
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-02-20 •FE: 2019-02-25 •SC: E •SS: 1537 S: 27.5 SD: 18.0 M: 16.4 V: 10.0 KD: 8.6 MP: 6.4 C: 5.8 L: 3.8  •O: 3.6
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-02-07 •FE: 2019-02-20 •SC: N •SS: 1504 S: 28 SD: 19 M: 17 V: 10 KD: 9 C: 8 L: 4 MP: 4                  •O: 1
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-02-11 •FE: 2019-02-18 •SC: N •SS: 2137 S: 27.1 SD: 19.5 M: 17.7 C: 9.7 V: 9.2 KD: 9.0 MP: 3.4 L: 2.7   •O: 1.9
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-02-04 •FE: 2019-02-14 •SC: N •SS: 8186 S: 28.4 SD: 19.2 M: 17.2 V: 9.6 KD: 8.6 C: 7.7 MP: 4.3 L: 3.8   •O: 1.2
-•PF: Demoskop  •C: Expressen         •FS: 2019-01-29 •FE: 2019-02-05 •SC: N •SS: 1604 S: 27.9 M: 19.5 SD: 19.4 V: 9.6 C: 8.5 KD: 7.0 L: 3.3 MP: 3.2   •O: 1.6
-•PF: Novus     •C: SVT               •FS: 2019-01-14 •FE: 2019-02-03 •SC: N •SS: 3045 S: 29.0 SD: 21.2 M: 18.3 V: 9.1 C: 7.5 KD: 7.4 MP: 3.4 L: 2.7   •O: 1.4
-•PF: Inizio    •C: Aftonbladet       •FS: 2019-01-16 •FE: 2019-01-23 •SC: N •SS: 2089 S: 28.2 M: 19.0 SD: 18.4 V: 9.7 C: 8.3 KD: 8.3 MP: 3.8 L: 3.2   •O: 1.2
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2019-01-10 •FE: 2019-01-20 •SC: N •SS: 1589 S: 30 M: 18 SD: 18 C: 8 V: 8 KD: 7 L: 5 MP: 4                   •O: 2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2019-01-14 •FE: 2019-01-17 •SC: N •SS: 4317 S: 29.3 SD: 19.9 M: 19.5 V: 8.5 KD: 7.5 C: 6.9 MP: 3.9 L: 3.6   •O: 1.0
-•PF: SKOP                            •FS: 2019-01-03 •FE: 2019-01-17 •SC: N •SS: 1116 S: 30.2 M: 18.1 SD: 16.9 KD: 9.5 V: 8.9 C: 8.3 L: 4.0 MP: 3.1   •O: 1.0
-•PF: Novus     •C: SVT               •FS: 2019-01-02 •FE: 2019-01-13 •SC: N •SS: 2342 S: 31.8 SD: 19.2 M: 18.9 C: 7.6 V: 7.6 KD: 6.2 MP: 3.9 L: 3.4   •O: 1.4
-•PF: Demoskop  •C: Expressen         •FS: 2019-01-02 •FE: 2019-01-08 •SC: N •SS: 1614 S: 30.2 SD: 19.5 M: 17.1 V: 8.0 KD: 7.7 C: 6.9 L: 4.5 MP: 3.8   •O: 2.2
-•PF: Inizio    •C: Aftonbladet       •FS: 2018-12-19 •FE: 2018-12-26 •SC: N •SS: 2300 S: 29.8 SD: 18.8 M: 18.3 C: 8.4 KD: 8.2 V: 7.7 MP: 4.2 L: 3.2   •O: 1.5
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2018-12-05 •FE: 2018-12-16 •SC: N •SS: 1537 S: 32 M: 18 SD: 18 KD: 8 V: 8 C: 7 L: 4 MP: 4                   •O: 1
-•PF: Novus     •C: SVT               •FS: 2018-11-12 •FE: 2018-12-16 •SC: N •SS: 5414 S: 30.0 SD: 19.8 M: 18.3 C: 8.6 V: 7.7 KD: 6.5 MP: 4.0 L: 3.9   •O: 1.2
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2018-12-03 •FE: 2018-12-13 •SC: N •SS: 8658 S: 29.7 SD: 20.0 M: 19.0 C: 7.7 V: 7.7 KD: 6.6 MP: 4.2 L: 4.0   •O: 1.1
-•PF: Inizio    •C: Aftonbladet       •FS: 2018-12-04 •FE: 2018-12-12 •SC: N •SS: 2238 S: 29.4 SD: 19.4 M: 18.5 C: 9.0 KD: 7.7 V: 7.2 MP: 3.7 L: 3.3   •O: 1.9
-•PF: Demoskop  •C: Expressen         •FS: 2018-11-27 •FE: 2018-12-04 •SC: N •SS: 1616 S: 28.4 SD: 20.7 M: 18.9 C: 8.4 V: 8.0 KD: 5.8 L: 4.4 MP: 4.1   •O: 1.3
-•PF: SCB                             •FS: 2018-10-29 •FE: 2018-11-27 •SC: N •SS: 4721 S: 30.5 M: 19.2 SD: 18.3 C: 8.6 V: 8.4 KD: 5.3 L: 4.3 MP: 4.0   •O: 1.2
-•PF: Inizio    •C: Aftonbladet       •FS: 2018-11-14 •FE: 2018-11-19 •SC: N •SS: 2414 S: 29.3 M: 19.1 SD: 18.8 C: 9.2 V: 7.3 KD: 7.0 L: 3.9 MP: 3.5   •O: 1.8
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2018-11-08 •FE: 2018-11-19 •SC: N •SS: 1521 S: 28.3 SD: 20.0 M: 18.2 C: 10.1 V: 8.2 KD: 5.3 L: 4.5 MP: 4.1  •O: 1.3
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2018-11-05 •FE: 2018-11-15 •SC: N •SS: 9324 S: 29.0 SD: 19.3 M: 18.1 C: 9.0 V: 7.6 KD: 6.7 L: 4.9 MP: 4.1   •O: 1.4
-•PF: Novus     •C: SVT               •FS: 2018-10-15 •FE: 2018-11-11 •SC: N •SS: 5050 S: 29.8 M: 19.2 SD: 19.2 C: 8.9 V: 7.9 KD: 5.9 MP: 4.3 L: 3.7   •O: 1.1
-•PF: Demoskop  •C: Expressen         •FS: 2018-10-30 •FE: 2018-11-06 •SC: N •SS: 1616 S: 29.2 SD: 21.1 M: 18.3 C: 8.8 V: 7.8 KD: 4.9 MP: 4.2 L: 4.1   •O: 1.7
-•PF: Inizio    •C: Aftonbladet       •FS: 2018-10-26 •FE: 2018-11-06 •SC: N •SS: 2187 S: 29.4 SD: 18.9 M: 18.2 C: 9.8 V: 7.8 KD: 5.9 L: 4.0 MP: 3.8   •O: 2.1
-•PF: Ipsos     •C: Dagens Nyheter    •FS: 2018-10-16 •FE: 2018-10-24 •SC: N •SS: 1556 S: 28.6 M: 19.1 SD: 18.8 C: 9.2 V: 8.1 KD: 5.1 L: 5.0 MP: 4.8   •O: 1.4
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2018-10-08 •FE: 2018-10-18 •SC: N •SS: 8583 S: 29.4 M: 18.8 SD: 18.6 C: 9.1 V: 7.9 KD: 6.0 L: 4.9 MP: 4.1   •O: 1.3
-•PF: Inizio    •C: Aftonbladet       •FS: 2018-10-01 •FE: 2018-10-08 •SC: N •SS: 1763 S: 29.7 M: 19.4 SD: 17.9 C: 8.7 V: 7.3 KD: 6.3 L: 4.9 MP: 4.3   •O: 1.7
-•PF: Novus     •C: SVT               •FS: 2018-10-01 •FE: 2018-10-04 •SC: N •SS: 2200 S: 28.3 M: 19.7 SD: 18.8 C: 8.4 V: 8.4 KD: 6.0 L: 4.6 MP: 4.4   •O: 1.4
-•PF: Demoskop  •C: Expressen         •FS: 2018-09-25 •FE: 2018-10-02 •SC: N •SS: 1616 S: 30.6 M: 18.8 SD: 18.0 C: 8.7 V: 7.7 KD: 6.1 L: 4.8 MP: 3.5   •O: 1.8
-•PF: Sifo      •C: Svenska Dagbladet •FS: 2018-09-24 •FE: 2018-10-02 •SC: N •SS: 8108 S: 28.5 M: 19.2 SD: 18.3 C: 8.8 V: 7.8 KD: 6.4 L: 5.3 MP: 4.3   •O: 1.3
+•PF: Indikator •C: Sveriges Radio                    •FS: 2024-06-05 •FE: 2024-06-26 •SC: N •SS: 2098 S: 31.0 M: 19.2 SD: 18.6 V: 9.9 MP: 7.2 C: 5.3 KD: 3.7 L: 3.7   •O: 1.4
+•PF: Verian    •C: SVT                               •FS: 2024-06-03 •FE: 2024-06-16 •SC: N •SS: 3170 S: 32.7 M: 19.1 SD: 18.9 V: 8.5 MP: 5.6 C: 5.4 KD: 4.6 L: 3.3   •O: 2.1
+•PF: Demoskop  •C: Aftonbladet •C: Svenska Dagbladet •FS: 2024-06-02 •FE: 2024-06-11 •SC: N •SS: 2584 S: 33.0 SD: 21.3 M: 18.3 V: 9.1 MP: 5.8 C: 4.3 KD: 3.4 L: 2.6   •O: 2.1
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2024-05-23 •FE: 2024-06-01 •SC: E •SS: 3222 S: 25.2 SD: 18.6 M: 18.0 MP: 11.3 V: 10.0 C: 5.7 KD: 5.5 L: 3.1 •O: 2.7
+•PF: SCB                                             •FS: 2024-05-02 •FE: 2024-05-30 •SC: N •SS: 4400 S: 35.0 M: 19.8 SD: 19.5 V: 8.2 MP: 5.2 C: 4.5 L: 3.2 KD: 2.8   •O: 1.8
+•PF: Novus     •C: Göteborgs Posten                  •FS: 2024-05-02 •FE: 2024-05-29 •SC: E •SS: 2325 S: 29.4 SD: 19.1 M: 15.5 MP: 11.0 V: 10.0 L: 5.1 C: 4.7 KD: 3.8 •O: 1.3
+•PF: Verian    •C: SVT                               •FS: 2024-05-22 •FE: 2024-05-28 •SC: E •SS: 1000 S: 25.1 SD: 19.6 M: 17.2 MP: 10.6 V: 9.5 KD: 5.4 C: 4.9 L: 4.7  •O: 3.1
+•PF: Indikator •C: Sveriges Radio                    •FS: 2024-04-27 •FE: 2024-05-26 •SC: N •SS: 2431 S: 33.1 SD: 22.5 M: 18.3 V: 8.3 MP: 5.5 C: 4.1 KD: 3.2 L: 3.1   •O: 1.9
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2024-05-11 •FE: 2024-05-20 •SC: E •SS: 2944 S: 27.5 SD: 19.9 M: 18.5 MP: 9.8 V: 8.7 C: 4.6 KD: 3.9 L: 2.8   •O: 4.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2024-05-07 •FE: 2024-05-19 •SC: E •SS: 1646 S: 29.6 M: 19.1 SD: 17.8 MP: 10.8 V: 7.6 L: 4.7 KD: 3.9 C: 3.6  •O: 2.9
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2024-04-19 •FE: 2024-05-14 •SC: N •SS: 2455 S: 35.1 SD: 21.0 M: 19.3 V: 7.9 MP: 5.0 C: 4.2 KD: 3.6 L: 2.3   •O: 2.6
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2024-04-24 •FE: 2024-05-07 •SC: E •SS: 3970 S: 28.5 SD: 19.9 M: 17.3 MP: 9.2 V: 8.7 C: 4.6 KD: 4.4 L: 3.2   •O: 4.2
+•PF: Verian    •C: SVT                               •FS: 2024-04-22 •FE: 2024-05-05 •SC: N •SS: 3186 S: 34.3 SD: 20.2 M: 18.9 V: 7.8 MP: 5.1 C: 4.3 L: 3.6 KD: 3.5   •O: 2.3
+•PF: Verian    •C: SVT                               •FS: 2024-04-25 •FE: 2024-04-30 •SC: E •SS: 1900 S: 29.7 M: 18.3 SD: 17.2 MP: 9.5 V: 8.8 C: 4.5 KD: 4.2 L: 3.7   •O: 4.2
+•PF: Novus                                           •FS: 2024-04-01 •FE: 2024-04-28 •SC: E •SS: 2311 S: 31.1 SD: 18.8 M: 17.7 MP: 10.3 V: 8.5 L: 3.8 C: 3.6 KD: 3.5  •O: 2.6
+•PF: Indikator •C: Sveriges Radio                    •FS: 2024-03-28 •FE: 2024-04-22 •SC: E •SS: 6943 S: 32.3 M: 19.0 SD: 18.6 MP: 9.7 V: 8.1 C: 4.6 L: 3.3 KD: 2.3   •O: 2.1
+&                                                                                    •SC: N •SS: 2584 S: 33.6 SD: 20.9 M: 20.1 V: 8.7 MP: 5.1 C: 4.4 KD: 2.9 L: 2.7   •O: 1.8
+•PF: Novus                                           •FS: 2024-03-25 •FE: 2024-04-21 •SC: N •SS: 2584 S: 34.6 M: 20.5 SD: 19.6 V: 7.7 C: 5.0 MP: 4.9 L: 3.7 KD: 3.3   •O: 0.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2024-03-24 •FE: 2024-04-08 •SC: N •SS: 2433 S: 35.2 SD: 20.8 M: 20.2 V: 7.8 MP: 4.4 C: 4.0 KD: 3.2 L: 2.7   •O: 1.7
+•PF: Verian    •C: SVT                               •FS: 2024-03-25 •FE: 2024-04-07 •SC: N •SS: 3172 S: 34.7 M: 20.5 SD: 19.5 V: 7.7 MP: 4.5 C: 4.2 KD: 3.7 L: 3.4   •O: 1.7
+•PF: Novus                                           •FS: 2024-02-19 •FE: 2024-03-17 •SC: N •SS: 2230 S: 36.2 M: 19.5 SD: 19.1 V: 7.8 C: 4.6 MP: 4.6 KD: 3.8 L: 3.1   •O: 1.3
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2024-02-22 •FE: 2024-03-11 •SC: N •SS: 2413 S: 36.4 SD: 20.8 M: 19.9 V: 7.6 MP: 4.2 C: 3.3 KD: 3.2 L: 3.0
+•PF: Ipsos     •C: Euronews                          •FS: 2024-02-23 •FE: 2024-03-05 •SC: E •SS: 1003 S: 30.4 SD: 17.5 M: 16.4 V: 9.6 MP: 8.3 C: 7.0 L: 4.7 KD: 4.5   •O: 1.5
+•PF: Verian    •C: SVT                               •FS: 2024-02-19 •FE: 2024-03-03 •SC: N •SS: 3000 S: 33.8 SD: 20.7 M: 19.6 V: 8.4 C: 4.6 MP: 4.5 KD: 3.6 L: 2.9
+•PF: Novus                                           •FS: 2024-02-19 •FE: 2024-03-03 •SC: E •SS: 1098 S: 32.4 SD: 20.5 M: 18.1 MP: 8.0 V: 7.3 C: 4.6 KD: 4.2 L: 3.3
+•PF: Indikator •C: Sveriges Radio                    •FS: 2024-02-04 •FE: 2024-02-26 •SC: N •SS: 2413 S: 35.9 SD: 21.9 M: 18.8 V: 7.3 MP: 4.7 C: 3.8 KD: 3.2 L: 2.8
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2024-02-13 •FE: 2024-02-25 •SC: N           S: 35 SD: 21 M: 19 V: 8 C: 4 KD: 4 MP: 4 L: 3
+•PF: Novus     •C: Göteborgs Posten                  •FS: 2024-01-22 •FE: 2024-02-18 •SC: N •SS: 2324 S: 35.4 SD: 20.5 M: 18.7 V: 8.9 C: 4.8 MP: 3.8 L: 3.3 KD: 3.2
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2024-01-27 •FE: 2024-02-11 •SC: N •SS: 2473 S: 36.6 SD: 21.1 M: 18.6 V: 6.6 MP: 4.2 C: 4.0 KD: 3.3 L: 2.8
+•PF: Verian    •C: SVT                               •FS: 2024-01-22 •FE: 2024-02-04 •SC: N •SS: 3161 S: 35.7 SD: 21.4 M: 17.5 V: 7.8 MP: 4.5 C: 4.3 KD: 3.6 L: 3.4   •O: 1.8
+•PF: Indikator •C: Sveriges Radio                    •FS: 2024-01-05 •FE: 2024-01-29 •SC: N •SS: 2479 S: 36.6 SD: 21.1 M: 17.3 V: 8.2 C: 4.5 MP: 4.5 KD: 3.2 L: 3.1   •O: 1.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2024-01-16 •FE: 2024-01-28 •SC: N •SS: 1646 S: 34 SD: 21 M: 18 V: 9 C: 5 KD: 4 MP: 4 L: 3                   •O: 2
+•PF: SKOP                                            •FS: 2023-12-21 •FE: 2024-01-22 •SC: N •SS: 1014 S: 33.4 SD: 23.3 M: 18.6 V: 7.2 L: 5.0 C: 4.4 MP: 4.2 KD: 3.0   •O: 0.9
+•PF: Novus                                           •FS: 2023-12-22 •FE: 2024-01-21 •SC: N •SS: 2999 S: 35.4 SD: 21.1 M: 18.5 V: 7.8 C: 5.1 MP: 4.4 KD: 3.6 L: 3.1   •O: 1.0
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-12-22 •FE: 2024-01-08 •SC: N •SS: 2476 S: 37.7 SD: 21.9 M: 18.3 V: 7.1 C: 4.2 MP: 4.2 KD: 3.5 L: 2.1   •O: 1.0
+•PF: Verian    •C: SVT                               •FS: 2023-12-25 •FE: 2024-01-07 •SC: N •SS: 3176 S: 35.9 SD: 22.5 M: 17.2 V: 7.0 MP: 4.7 C: 4.0 KD: 3.8 L: 3.3   •O: 1.6
+•PF: Indikator •C: Sveriges Radio                    •FS: 2023-12-07 •FE: 2024-01-02 •SC: N •SS: 2468 S: 37.0 SD: 23.0 M: 17.5 V: 7.2 MP: 5.2 C: 3.4 L: 2.7 KD: 2.6   •O: 1.4
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-12-05 •FE: 2023-12-17 •SC: N •SS: 1705 S: 35 SD: 24 M: 15 V: 9 C: 5 MP: 4 KD: 3 L: 3                   •O: 2
+•PF: Verian    •C: SVT                               •FS: 2023-11-27 •FE: 2023-12-10 •SC: N •SS: 3179 S: 35.7 SD: 22.5 M: 17.0 V: 7.8 MP: 4.4 C: 4.3 KD: 3.6 L: 2.7   •O: 2.0
+•PF: Novus                                           •FS: 2023-11-13 •FE: 2023-12-10 •SC: N •SS: 2413 S: 37.2 SD: 20.6 M: 18.6 V: 7.9 MP: 4.6 C: 3.9 KD: 3.2 L: 2.9   •O: 1.1
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-11-18 •FE: 2023-12-04 •SC: N •SS: 2495 S: 36.6 SD: 22.9 M: 17.2 V: 7.4 C: 4.0 MP: 3.9 KD: 3.7 L: 2.8   •O: 1.5
+•PF: Indikator •C: Sveriges Radio                    •FS: 2023-11-03 •FE: 2023-11-27 •SC: N •SS: 2596 S: 38.3 SD: 22.6 M: 16.2 V: 7.3 MP: 4.3 C: 3.8 L: 3.2 KD: 2.7   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-11-13 •FE: 2023-11-26 •SC: N •SS: 1662 S: 36 SD: 21 M: 16 V: 8 MP: 5 C: 4 KD: 4 L: 3                   •O: 3
+•PF: Novus                                           •FS: 2023-10-16 •FE: 2023-11-12 •SC: N •SS: 2755 S: 37.8 SD: 22.1 M: 17.4 V: 7.7 C: 4.2 MP: 4.2 KD: 2.8 L: 2.7   •O: 1.1
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-10-22 •FE: 2023-11-05 •SC: N •SS: 2506 S: 36.2 M: 18.9 SD: 18.9 V: 7.3 C: 4.7 KD: 3.7 MP: 3.7 L: 2.3   •O: 2.1
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-10-16 •FE: 2023-10-30 •SC: N •SS: 1366 S: 35 SD: 21 M: 19 V: 9 MP: 5 C: 4 KD: 3 L: 2                   •O: 2
+•PF: Verian    •C: SVT                               •FS: 2023-10-16 •FE: 2023-10-29 •SC: N •SS: 3073 S: 37.6 SD: 21.2 M: 17.4 V: 7.3 MP: 4.7 C: 3.7 KD: 3.5 L: 3.0   •O: 1.6
+•PF: Indikator •C: Sveriges Radio                    •FS: 2023-10-03 •FE: 2023-10-25 •SC: N •SS: 2315 S: 37.9 SD: 22.0 M: 16.1 V: 8.1 MP: 4.8 C: 4.1 KD: 2.9 L: 2.3   •O: 1.8
+•PF: SKOP                                            •FS: 2023-10-09 •FE: 2023-10-22 •SC: N •SS: 1013 S: 35.2 SD: 20.6 M: 19.7 V: 7.0 C: 5.0 MP: 4.4 L: 3.7 KD: 3.2   •O: 1.4
+•PF: Novus     •C: Svenska Dagbladet                 •FS: 2023-09-18 •FE: 2023-10-15 •SC: N •SS: 2250 S: 37.8 SD: 20.7 M: 18.2 V: 7.4 C: 4.8 MP: 4.4 L: 2.7 KD: 2.6   •O: 1.4
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-09-23 •FE: 2023-10-07 •SC: N •SS: 2182 S: 36.5 SD: 19.6 M: 19.5 V: 7.2 C: 4.5 KD: 4.0 MP: 3.8 L: 2.4   •O: 2.5
+•PF: Sifo      •C: SVT                               •FS: 2023-09-18 •FE: 2023-10-01 •SC: N •SS: 3074 S: 37.4 SD: 20.2 M: 17.4 V: 8.1 MP: 4.6 C: 4.0 KD: 3.6 L: 3.0   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-09-12 •FE: 2023-09-24 •SC: N •SS: 1648 S: 36 SD: 20 M: 17 V: 8 C: 5 MP: 5 L: 4 KD: 3                   •O: 2
+•PF: Indikator •C: Sveriges Radio                    •FS: 2023-09-01 •FE: 2023-09-22 •SC: N •SS: 2265 S: 38.6 SD: 19.0 M: 18.4 V: 7.6 MP: 5.2 C: 4.0 L: 3.0 KD: 2.6   •O: 1.6
+•PF: Novus     •C: Svenska Dagbladet                 •FS: 2023-08-21 •FE: 2023-09-17 •SC: N •SS: 2907 S: 37.0 M: 19.1 SD: 18.2 V: 7.8 MP: 5.7 C: 3.9 KD: 3.7 L: 3.0   •O: 1.6
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-08-21 •FE: 2023-09-05 •SC: N •SS: 2462 S: 36.9 M: 20.8 SD: 19.0 V: 7.2 C: 4.3 KD: 3.7 MP: 3.1 L: 2.6   •O: 2.3
+•PF: Sifo      •C: SVT                               •FS: 2023-08-22 •FE: 2023-09-04 •SC: N •SS: 3078 S: 37.6 SD: 19.7 M: 19.0 V: 7.6 MP: 4.3 C: 3.9 KD: 3.1 L: 3.0   •O: 1.8
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-08-15 •FE: 2023-08-27 •SC: N •SS: 1643 S: 36 M: 19 SD: 18 V: 7 C: 6 MP: 5 KD: 4 L: 3                   •O: 2
+•PF: Novus     •C: Svenska Dagbladet                 •FS: 2023-08-01 •FE: 2023-08-20 •SC: N •SS: 3391 S: 38.4 M: 19.0 SD: 17.3 V: 7.8 MP: 4.8 C: 4.6 KD: 3.6 L: 3.3   •O: 1.2
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-07-15 •FE: 2023-08-02 •SC: N •SS: 2471 S: 34.5 M: 20.7 SD: 19.6 V: 7.7 C: 5.0 KD: 4.4 L: 3.2 MP: 2.6   •O: 2.3
+•PF: Sifo      •C: SVT                               •FS: 2023-07-17 •FE: 2023-07-30 •SC: N •SS: 3077 S: 38.0 M: 19.2 SD: 18.1 V: 7.6 MP: 4.8 C: 4.3 KD: 3.2 L: 3.2   •O: 1.7
+•PF: Novus     •C: Svenska Dagbladet                 •FS: 2023-06-26 •FE: 2023-07-16 •SC: N •SS: 2391 S: 37.0 M: 20.0 SD: 18.9 V: 7.2 C: 4.5 MP: 4.3 KD: 3.3 L: 2.8   •O: 2.0
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-06-13 •FE: 2023-06-25 •SC: N •SS: 2408 S: 34.1 M: 21.5 SD: 19.1 V: 8.7 C: 4.7 KD: 4.1 L: 3.0 MP: 2.8   •O: 2.0
+•PF: Novus     •C: Svenska Dagbladet                 •FS: 2023-05-29 •FE: 2023-06-21 •SC: N •SS: 3140 S: 36.6 M: 20.4 SD: 17.6 V: 7.8 C: 4.7 MP: 4.7 L: 3.6 KD: 3.3   •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-06-08 •FE: 2023-06-18 •SC: N •SS: 1500 S: 37 M: 19 SD: 17 V: 8 C: 5 KD: 4 L: 4 MP: 4                   •O: 2
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-05-25 •FE: 2023-06-07 •SC: N •SS: 2395 S: 34.5 M: 21.2 SD: 18.9 V: 8.1 C: 4.9 KD: 4.0 MP: 3.3 L: 3.2   •O: 1.9
+•PF: Sifo      •C: SVT                               •FS: 2023-05-22 •FE: 2023-06-04 •SC: N •SS: 3078 S: 36.1 M: 20.2 SD: 19.2 V: 7.8 C: 4.4 MP: 4.1 KD: 3.6 L: 3.5   •O: 1.1
+•PF: SCB                                             •FS: 2023-04-27 •FE: 2023-05-25 •SC: N •SS: 9261 S: 38.6 M: 19.1 SD: 18.0 V: 7.3 C: 4.2 MP: 4.1 KD: 3.7 L: 3.4   •O: 1.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-05-09 •FE: 2023-05-21 •SC: N •SS: 1676 S: 37 SD: 19 M: 18 V: 9 C: 5 KD: 4 MP: 4 L: 3                   •O: 3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2023-05-01 •FE: 2023-05-10 •SC: N •SS: 5385 S: 36.3 M: 20.0 SD: 18.3 V: 8.2 C: 4.3 MP: 4.3 KD: 4.0 L: 2.8   •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2023-04-13 •FE: 2023-04-30 •SC: N •SS: 3243 S: 38.4 M: 20.2 SD: 16.4 V: 7.5 MP: 4.7 C: 4.4 KD: 3.7 L: 3.2   •O: 1.5
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-04-14 •FE: 2023-04-24 •SC: N •SS: 2202 S: 35.3 M: 20.6 SD: 18.9 V: 8.0 C: 4.9 KD: 4.0 L: 3.3 MP: 3.1   •O: 1.9
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-04-11 •FE: 2023-04-23 •SC: N •SS: 1588 S: 36 M: 19 SD: 18 V: 9 C: 5 L: 4 MP: 4 KD: 3                   •O: 2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2023-04-03 •FE: 2023-04-13 •SC: N •SS: 3671 S: 36.9 M: 19.6 SD: 18.8 V: 7.1 MP: 4.5 C: 4.3 KD: 3.8 L: 3.3   •O: 1.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-03-24 •FE: 2023-04-03 •SC: N •SS: 2026 S: 35.3 M: 21.8 SD: 18.6 V: 7.9 C: 4.4 KD: 3.9 L: 3.5 MP: 2.9   •O: 1.4
+•PF: Novus     •C: SVT                               •FS: 2023-02-27 •FE: 2023-04-02 •SC: N •SS: 3514 S: 37.6 M: 19.9 SD: 17.5 V: 7.7 C: 4.6 MP: 4.3 L: 3.6 KD: 3.5   •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-03-14 •FE: 2023-03-26 •SC: N •SS: 1692 S: 37 M: 19 SD: 18 V: 8 C: 5 MP: 5 KD: 4 L: 3                   •O: 1
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2023-03-06 •FE: 2023-03-16 •SC: N •SS: 5222 S: 37.0 M: 19.4 SD: 18.6 V: 7.8 KD: 4.3 MP: 3.9 C: 3.8 L: 3.5   •O: 1.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-02-24 •FE: 2023-03-06 •SC: N •SS: 2135 S: 34.3 M: 21.7 SD: 19.0 V: 8.2 C: 4.4 KD: 4.4 L: 3.5 MP: 2.8   •O: 1.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-02-14 •FE: 2023-02-26 •SC: N •SS: 1692 S: 36 M: 20 SD: 19 V: 8 C: 5 KD: 4 MP: 4 L: 3                   •O: 1
+•PF: Novus     •C: SVT                               •FS: 2023-01-30 •FE: 2023-02-26 •SC: N •SS: 3370 S: 38.2 M: 20.2 SD: 17.3 V: 6.7 C: 4.9 MP: 4.4 KD: 3.6 L: 3.5   •O: 1.2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2023-02-06 •FE: 2023-02-16 •SC: N •SS: 6363 S: 36.5 M: 19.3 SD: 18.4 V: 7.5 C: 4.3 KD: 4.3 MP: 4.3 L: 3.5   •O: 1.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2023-01-27 •FE: 2023-02-06 •SC: N •SS: 2103 S: 34.0 M: 21.1 SD: 18.6 V: 7.9 C: 5.5 KD: 4.0 MP: 3.2 L: 3.1   •O: 2.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2023-01-17 •FE: 2023-01-29 •SC: N •SS: 1659 S: 37 M: 18 SD: 18 V: 8 C: 5 KD: 4 L: 4 MP: 4                   •O: 2
+•PF: Novus     •C: SVT                               •FS: 2023-01-02 •FE: 2023-01-29 •SC: N •SS: 3539 S: 37.1 M: 19.7 SD: 16.9 V: 7.4 C: 5.0 MP: 5.0 KD: 4.3 L: 3.0   •O: 1.6
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2023-01-09 •FE: 2023-01-19 •SC: N •SS: 3941 S: 36.1 SD: 19.0 M: 18.4 V: 7.8 C: 5.2 MP: 4.4 KD: 4.1 L: 3.3   •O: 1.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-12-31 •FE: 2023-01-09 •SC: N •SS: 2181 S: 32.7 M: 20.8 SD: 19.8 V: 8.8 C: 6.0 KD: 4.2 L: 3.4 MP: 2.4   •O: 1.9
+•PF: Novus     •C: SVT                               •FS: 2022-11-28 •FE: 2023-01-01 •SC: N •SS: 2923 S: 34.7 M: 19.6 SD: 18.4 V: 7.9 C: 5.4 KD: 4.3 MP: 4.3 L: 3.8   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-12-06 •FE: 2022-12-18 •SC: N •SS: 1601 S: 35 SD: 19 M: 18 V: 7 C: 6 KD: 5 MP: 5 L: 3                   •O: 2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-12-05 •FE: 2022-12-12 •SC: N •SS: 5378 S: 36.1 SD: 18.8 M: 18.2 V: 7.3 C: 5.9 MP: 4.4 KD: 4.3 L: 3.5   •O: 1.5
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-11-28 •FE: 2022-12-06 •SC: N •SS: 2176 S: 33.3 M: 20.5 SD: 17.6 V: 8.9 C: 6.1 KD: 4.8 L: 4.2 MP: 3.5   •O: 1.2
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-11-15 •FE: 2022-11-28 •SC: N •SS: 1631 S: 34 M: 19 SD: 19 V: 8 C: 6 MP: 5 KD: 4 L: 3                   •O: 2
+•PF: Novus     •C: SVT                               •FS: 2022-10-31 •FE: 2022-11-27 •SC: N •SS: 3682 S: 34.2 M: 19.7 SD: 18.9 V: 7.5 C: 6.1 KD: 4.5 MP: 4.0 L: 3.6   •O: 1.5
+•PF: SCB                                             •FS: 2022-10-27 •FE: 2022-11-24 •SC: N •SS: 9177 S: 34.6 M: 18.9 SD: 18.2 V: 7.6 C: 5.4 KD: 4.9 MP: 4.4 L: 4.1   •O: 1.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-11-07 •FE: 2022-11-17 •SC: N •SS: 4838 S: 33.4 M: 20.1 SD: 17.7 V: 8.2 C: 5.5 MP: 5.0 KD: 4.8 L: 3.6   •O: 1.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-10-23 •FE: 2022-11-01 •SC: N •SS: 2271 S: 31.2 M: 21.3 SD: 19.6 V: 8.8 C: 6.0 KD: 4.6 L: 4.0 MP: 3.2   •O: 1.3
+•PF: Novus     •C: SVT                               •FS: 2022-10-03 •FE: 2022-10-30 •SC: N •SS: 3514 S: 32.2 M: 20.2 SD: 19.4 V: 7.6 C: 5.9 KD: 4.7 MP: 4.5 L: 4.0   •O: 1.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-10-11 •FE: 2022-10-23 •SC: N •SS: 1594 S: 31 M: 21 SD: 21 C: 7 V: 7 KD: 5 L: 4 MP: 4                   •O: 0
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-10-03 •FE: 2022-10-13 •SC: N •SS: 6054 S: 31.8 SD: 19.8 M: 19.6 V: 7.4 C: 5.8 KD: 5.0 L: 4.5 MP: 4.5   •O: 1.6
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-09-26 •FE: 2022-10-04 •SC: N •SS: 2190 S: 31.6 M: 20.8 SD: 19.3 V: 8.1 C: 5.8 KD: 4.7 L: 4.7 MP: 3.8   •O: 1.2
+•PF: Novus     •C: SVT                               •FS: 2022-09-12 •FE: 2022-10-02 •SC: N •SS: 3072 S: 31.1 SD: 20.8 M: 19.6 V: 7.2 C: 5.7 MP: 5.0 KD: 4.9 L: 4.1   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-09-13 •FE: 2022-09-25 •SC: N •SS: 1668 S: 32 SD: 20 M: 19 C: 7 V: 7 KD: 5 L: 5 MP: 5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-09-06 •FE: 2022-09-09 •SC: N •SS: 1992 S: 28.8 SD: 21.0 M: 18.2 C: 8.0 V: 7.4 MP: 5.8 KD: 4.8 L: 4.2   •O: 1.8
+•PF: SKOP                                            •FS: 2022-09-06 •FE: 2022-09-09 •SC: N •SS: 1919 S: 28.6 SD: 19.3 M: 16.3 V: 8.0 C: 7.6 MP: 7.4 KD: 6.0 L: 6.0   •O: 0.9
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-09-01 •FE: 2022-09-09 •SC: N •SS: 2321 S: 29.5 SD: 20.5 M: 18.7 C: 7.9 V: 6.9 KD: 5.3 MP: 5.3 L: 4.9   •O: 0.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-09-06 •FE: 2022-09-08 •SC: N •SS: 2358 S: 29.0 SD: 20.7 M: 16.2 V: 7.9 C: 6.6 MP: 6.4 KD: 6.1 L: 6.0   •O: 1.0
+•PF: Novus     •C: SVT                               •FS: 2022-09-06 •FE: 2022-09-08 •SC: N •SS: 1500 S: 30.3 SD: 21.2 M: 17.1 V: 7.8 C: 7.1 KD: 5.9 L: 5.2 MP: 4.5   •O: 0.9
+•PF: SKOP                                            •FS: 2022-09-05 •FE: 2022-09-08 •SC: N •SS: 1622 S: 28.0 SD: 19.4 M: 15.2 V: 8.0 MP: 7.9 C: 7.2 KD: 7.2 L: 6.3   •O: 0.7
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-09-05 •FE: 2022-09-07 •SC: N •SS: 2414 S: 29.5 SD: 20.2 M: 17.1 V: 7.4 C: 7.0 MP: 6.2 KD: 6.1 L: 5.8   •O: 0.9
+•PF: Novus     •C: SVT                               •FS: 2022-09-05 •FE: 2022-09-07 •SC: N •SS: 1500 S: 29.0 SD: 21.0 M: 18.0 C: 7.5 V: 7.4 KD: 5.8 MP: 5.2 L: 5.1   •O: 1.8
+•PF: SKOP                                            •FS: 2022-09-04 •FE: 2022-09-07 •SC: N •SS: 1387 S: 26.4 SD: 19.8 M: 16.2 V: 8.6 MP: 7.9 KD: 6.9 L: 6.8 C: 6.5   •O: 1.0
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-09-04 •FE: 2022-09-06 •SC: N •SS: 2230 S: 30.1 SD: 21.0 M: 17.0 C: 7.1 V: 7.0 KD: 6.2 MP: 5.8 L: 5.0   •O: 0.7
+•PF: Novus     •C: SVT                               •FS: 2022-09-04 •FE: 2022-09-06 •SC: N •SS: 1500 S: 27.8 SD: 20.6 M: 17.3 C: 8.6 V: 8.0 KD: 5.9 MP: 5.7 L: 4.8   •O: 1.3
+•PF: SKOP                                            •FS: 2022-09-03 •FE: 2022-09-06 •SC: N •SS: 1406 S: 27.9 SD: 19.7 M: 17.7 V: 7.7 MP: 7.5 C: 7.0 KD: 6.3 L: 5.4   •O: 0.9
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-09-01 •FE: 2022-09-06 •SC: N •SS: 1730 S: 28.4 SD: 20.4 M: 18.2 V: 8.4 C: 7.6 KD: 6.2 MP: 5.3 L: 4.2   •O: 1.3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-09-03 •FE: 2022-09-05 •SC: N •SS: 1999 S: 30.0 SD: 20.0 M: 18.6 C: 7.7 V: 6.9 MP: 5.7 KD: 5.5 L: 4.7   •O: 0.9
+•PF: Novus     •C: SVT                               •FS: 2022-09-03 •FE: 2022-09-05 •SC: N •SS: 1500 S: 28.7 SD: 19.9 M: 17.9 C: 8.8 V: 7.5 KD: 6.1 MP: 5.6 L: 4.4   •O: 1.1
+•PF: SKOP                                            •FS: 2022-09-02 •FE: 2022-09-05 •SC: N •SS: 1122 S: 27.7 SD: 18.6 M: 18.1 MP: 8.1 V: 7.7 C: 7.4 KD: 6.0 L: 5.5   •O: 1.1
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-09-02 •FE: 2022-09-04 •SC: N •SS: 1942 S: 29.4 SD: 19.6 M: 17.6 C: 8.2 V: 7.5 KD: 6.2 L: 5.1 MP: 5.1   •O: 1.4
+•PF: Novus     •C: SVT                               •FS: 2022-09-02 •FE: 2022-09-04 •SC: N •SS: 1500 S: 28.9 SD: 20.0 M: 17.4 C: 8.8 V: 8.0 KD: 6.6 MP: 5.5 L: 4.2   •O: 0.6
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-08-31 •FE: 2022-09-04 •SC: N •SS: 2173 S: 29.2 SD: 20.5 M: 18.3 V: 8.3 C: 8.1 KD: 5.3 L: 5.3 MP: 4.3   •O: 0.7
+•PF: SKOP                                            •FS: 2022-08-01 •FE: 2022-09-04 •SC: N •SS: 1154 S: 30.0 SD: 18.8 M: 17.6 MP: 7.8 C: 7.5 V: 7.2 KD: 5.9 L: 4.8   •O: 0.5
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-09-01 •FE: 2022-09-03 •SC: N •SS: 1835 S: 28.5 SD: 19.4 M: 18.1 V: 7.7 C: 7.6 KD: 6.2 L: 5.9 MP: 4.8   •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2022-09-01 •FE: 2022-09-03 •SC: N •SS: 1500 S: 29.8 SD: 19.8 M: 18.1 V: 8.2 C: 7.5 KD: 6.8 MP: 4.8 L: 4.3   •O: 0.7
+•PF: SKOP                                            •FS: 2022-08-31 •FE: 2022-09-03 •SC: N •SS: 1161 S: 31.1 SD: 18.0 M: 16.6 C: 8.3 MP: 7.6 V: 7.3 KD: 5.4 L: 5.4   •O: 0.5
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-31 •FE: 2022-09-02 •SC: N •SS: 1889 S: 28.5 SD: 20.1 M: 17.3 C: 7.8 V: 7.4 KD: 6.6 L: 5.8 MP: 4.8   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2022-08-31 •FE: 2022-09-02 •SC: N •SS: 1500 S: 28.7 SD: 21.0 M: 17.6 V: 8.5 KD: 7.1 C: 7.0 MP: 5.9 L: 4.4   •O: 0.8
+•PF: SKOP                                            •FS: 2022-08-30 •FE: 2022-09-02 •SC: N •SS: 1228 S: 30.9 SD: 18.4 M: 16.2 C: 8.1 V: 8.1 MP: 6.6 L: 5.5 KD: 5.1   •O: 0.7
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-30 •FE: 2022-09-01 •SC: N •SS: 1706 S: 29.0 SD: 20.0 M: 16.8 V: 7.6 C: 7.5 KD: 6.3 L: 6.2 MP: 4.9   •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2022-08-30 •FE: 2022-09-01 •SC: N •SS: 1500 S: 26.5 SD: 20.9 M: 18.7 V: 8.8 KD: 7.1 C: 6.7 MP: 5.4 L: 5.1   •O: 0.8
+•PF: SKOP                                            •FS: 2022-08-29 •FE: 2022-09-01 •SC: N •SS: 1192 S: 30.4 SD: 18.4 M: 14.8 V: 8.8 C: 8.0 L: 7.4 MP: 5.7 KD: 5.6   •O: 0.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-29 •FE: 2022-08-31 •SC: N •SS: 1967 S: 29.7 SD: 20.6 M: 16.1 V: 8.0 C: 7.3 L: 6.2 KD: 5.7 MP: 4.8   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2022-08-29 •FE: 2022-08-31 •SC: N •SS: 1500 S: 26.6 SD: 20.0 M: 18.9 V: 8.4 KD: 7.2 C: 6.8 MP: 5.9 L: 5.3   •O: 0.9
+•PF: SKOP                                            •FS: 2022-08-28 •FE: 2022-08-31 •SC: N •SS: 1180 S: 28.7 SD: 18.8 M: 16.0 C: 8.3 V: 8.1 L: 6.7 KD: 6.1 MP: 5.8   •O: 1.6
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-28 •FE: 2022-08-30 •SC: N •SS: 2002 S: 31.1 SD: 19.7 M: 15.9 V: 8.2 L: 6.8 C: 6.4 KD: 5.7 MP: 4.7   •O: 1.6
+•PF: Novus     •C: SVT                               •FS: 2022-08-28 •FE: 2022-08-30 •SC: N •SS: 1500 S: 28.1 SD: 19.5 M: 18.3 C: 7.3 V: 7.3 KD: 6.6 MP: 5.9 L: 5.6   •O: 0.9
+•PF: SKOP                                            •FS: 2022-08-27 •FE: 2022-08-30 •SC: N •SS: 1194 S: 27.6 SD: 19.6 M: 18.3 V: 7.2 L: 7.0 C: 6.7 KD: 6.6 MP: 5.9   •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-08-26 •FE: 2022-08-30 •SC: N •SS: 1279 S: 28.3 SD: 22.2 M: 16.8 V: 8.7 C: 6.1 KD: 6.1 MP: 5.7 L: 4.8   •O: 1.3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-27 •FE: 2022-08-29 •SC: N •SS: 2002 S: 30.4 SD: 20.9 M: 16.4 V: 7.9 C: 6.6 L: 6.4 KD: 5.3 MP: 5.2   •O: 1.1
+•PF: Novus     •C: SVT                               •FS: 2022-08-27 •FE: 2022-08-29 •SC: N •SS: 1500 S: 29.8 SD: 20.9 M: 15.6 C: 7.7 V: 7.5 KD: 6.4 MP: 5.6 L: 5.2   •O: 1.3
+•PF: SKOP                                            •FS: 2022-08-26 •FE: 2022-08-29 •SC: N •SS: 1071 S: 26.9 SD: 18.8 M: 18.2 V: 8.7 C: 7.2 KD: 6.6 L: 6.5 MP: 5.9   •O: 1.6
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-08-21 •FE: 2022-08-29 •SC: N •SS: 2216 S: 29.6 SD: 20.6 M: 18.0 V: 7.8 C: 7.5 KD: 5.4 MP: 5.3 L: 4.6   •O: 1.2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-26 •FE: 2022-08-28 •SC: N •SS: 1932 S: 30.9 SD: 19.4 M: 18.0 V: 7.7 C: 6.4 L: 5.8 MP: 5.3 KD: 5.0   •O: 1.5
+•PF: Novus     •C: SVT                               •FS: 2022-08-26 •FE: 2022-08-28 •SC: N •SS: 1500 S: 30.3 SD: 20.6 M: 15.8 C: 8.0 V: 7.9 KD: 6.4 MP: 5.0 L: 4.5   •O: 1.5
+•PF: SKOP                                            •FS: 2022-08-24 •FE: 2022-08-28 •SC: N •SS: 1349 S: 27.2 SD: 18.6 M: 18.5 V: 8.7 C: 8.2 KD: 6.7 L: 6.1 MP: 5.3   •O: 0.7
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-25 •FE: 2022-08-27 •SC: N •SS: 1932 S: 31.2 SD: 19.5 M: 18.1 V: 7.1 C: 6.1 KD: 5.8 L: 5.4 MP: 5.2   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2022-08-25 •FE: 2022-08-27 •SC: N •SS: 1500 S: 30.2 SD: 21.1 M: 16.2 V: 8.5 C: 7.4 KD: 5.9 L: 4.5 MP: 4.4   •O: 1.7
+•PF: SKOP                                            •FS: 2022-08-23 •FE: 2022-08-27 •SC: N •SS: 1054 S: 28.5 M: 18.4 SD: 18.3 V: 8.6 C: 7.7 KD: 6.3 L: 6.3 MP: 5.2   •O: 0.6
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-24 •FE: 2022-08-26 •SC: N •SS: 1964 S: 31.8 SD: 19.4 M: 17.9 V: 6.8 KD: 5.9 C: 5.7 L: 5.4 MP: 5.3   •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2022-08-24 •FE: 2022-08-26 •SC: N •SS: 1500 S: 29.0 SD: 22.4 M: 17.4 V: 9.1 KD: 6.2 C: 5.4 L: 4.7 MP: 4.3   •O: 1.5
+•PF: SKOP                                            •FS: 2022-08-22 •FE: 2022-08-26 •SC: N •SS: 1355 S: 27.9 M: 18.7 SD: 18.6 V: 9.4 C: 7.9 L: 5.7 MP: 5.5 KD: 5.3   •O: 1.1
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-23 •FE: 2022-08-25 •SC: N •SS: 2197 S: 31.2 SD: 19.8 M: 17.5 V: 7.3 C: 5.8 KD: 5.8 MP: 5.7 L: 5.2   •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2022-08-23 •FE: 2022-08-25 •SC: N •SS: 1500 S: 27.9 SD: 22.8 M: 17.7 V: 8.4 KD: 6.1 C: 5.6 L: 5.5 MP: 4.8   •O: 1.1
+•PF: SKOP                                            •FS: 2022-08-21 •FE: 2022-08-25 •SC: N •SS: 1336 S: 28.5 SD: 18.6 M: 18.3 V: 9.3 C: 7.0 KD: 6.2 L: 6.1 MP: 4.9   •O: 1.2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-22 •FE: 2022-08-24 •SC: N •SS: 2461 S: 30.5 SD: 20.3 M: 18.3 V: 7.6 C: 5.7 KD: 5.6 MP: 5.3 L: 4.6   •O: 2.0
+•PF: Novus     •C: SVT                               •FS: 2022-08-22 •FE: 2022-08-24 •SC: N •SS: 1500 S: 27.5 SD: 22.4 M: 17.9 V: 8.5 C: 6.5 L: 6.0 KD: 5.5 MP: 4.7   •O: 1.0
+•PF: SKOP                                            •FS: 2022-08-20 •FE: 2022-08-24 •SC: N •SS: 1118 S: 28.0 SD: 18.8 M: 18.0 V: 9.6 KD: 6.3 L: 6.3 C: 6.1 MP: 5.5   •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-08-16 •FE: 2022-08-24 •SC: N •SS: 1630 S: 30.4 SD: 20.7 M: 16.6 V: 8.5 C: 6.9 KD: 5.5 MP: 5.0 L: 4.6   •O: 1.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-21 •FE: 2022-08-23 •SC: N •SS: 2194 S: 30.2 SD: 19.2 M: 18.6 V: 7.9 KD: 6.3 C: 6.0 L: 4.8 MP: 4.7   •O: 2.4
+•PF: Novus     •C: SVT                               •FS: 2022-08-21 •FE: 2022-08-23 •SC: N •SS: 1500 S: 28.2 SD: 22.0 M: 17.5 V: 8.5 C: 6.9 L: 6.1 KD: 5.1 MP: 4.8   •O: 0.9
+•PF: SKOP                                            •FS: 2022-08-19 •FE: 2022-08-23 •SC: N •SS: 1106 S: 28.9 M: 18.8 SD: 18.0 V: 8.1 L: 7.1 C: 6.6 MP: 5.8 KD: 4.9   •O: 1.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-20 •FE: 2022-08-22 •SC: N •SS: 2194 S: 30.2 SD: 19.0 M: 17.4 V: 7.2 KD: 6.7 C: 6.1 MP: 5.5 L: 5.4   •O: 2.5
+•PF: Novus     •C: SVT                               •FS: 2022-08-20 •FE: 2022-08-22 •SC: N •SS: 1500 S: 28.5 SD: 21.4 M: 17.4 V: 9.5 C: 7.2 KD: 5.2 L: 4.9 MP: 4.9   •O: 1.0
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-19 •FE: 2022-08-21 •SC: N •SS: 1925 S: 31.2 SD: 18.1 M: 17.7 V: 8.1 KD: 6.2 C: 5.8 L: 5.8 MP: 5.4   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2022-08-19 •FE: 2022-08-21 •SC: N •SS: 1500 S: 27.8 SD: 21.5 M: 17.4 V: 9.6 C: 6.7 KD: 6.0 MP: 5.5 L: 4.4   •O: 1.1
+•PF: SKOP                                            •FS: 2022-08-18 •FE: 2022-08-21 •SC: N •SS: 1106 S: 27.8 SD: 19.3 M: 17.5 C: 8.6 V: 8.5 L: 6.3 MP: 5.9 KD: 4.9   •O: 1.3
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-08-16 •FE: 2022-08-21 •SC: N •SS: 2222 S: 28.9 M: 19.9 SD: 18.7 V: 8.9 C: 6.8 KD: 6.4 MP: 4.8 L: 4.2   •O: 1.4
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-18 •FE: 2022-08-20 •SC: N •SS: 1610 S: 32.5 M: 17.3 SD: 16.8 V: 8.0 C: 6.1 KD: 5.8 L: 5.5 MP: 5.5   •O: 2.5
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-17 •FE: 2022-08-19 •SC: N •SS: 1723 S: 32.2 M: 17.9 SD: 16.9 V: 7.8 C: 6.0 KD: 6.0 L: 5.5 MP: 5.1   •O: 2.6
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-16 •FE: 2022-08-18 •SC: N •SS: 1681 S: 32.7 M: 17.6 SD: 16.1 V: 8.0 C: 6.1 KD: 6.0 L: 5.6 MP: 5.3   •O: 2.6
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-15 •FE: 2022-08-17 •SC: N •SS: 2109 S: 31.2 M: 18.2 SD: 17.1 V: 8.0 C: 6.0 L: 5.9 KD: 5.6 MP: 5.5   •O: 2.5
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-14 •FE: 2022-08-16 •SC: N •SS: 2025 S: 29.7 M: 19.2 SD: 17.5 V: 8.4 C: 6.3 KD: 5.9 L: 5.6 MP: 5.4   •O: 2.3
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-08-06 •FE: 2022-08-16 •SC: N •SS: 2209 S: 29.6 M: 19.9 SD: 18.4 C: 7.5 V: 7.4 KD: 5.8 MP: 5.2 L: 4.9   •O: 1.4
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-13 •FE: 2022-08-15 •SC: N •SS: 1974 S: 30.0 M: 19.5 SD: 17.6 V: 7.5 KD: 6.2 C: 5.9 MP: 5.6 L: 5.5   •O: 2.4
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-12 •FE: 2022-08-14 •SC: N •SS: 1931 S: 29.9 M: 19.2 SD: 16.9 V: 8.0 KD: 6.5 C: 5.7 MP: 5.6 L: 5.5   •O: 2.8
+•PF: Novus     •C: SVT                               •FS: 2022-08-08 •FE: 2022-08-14 •SC: N •SS: 2067 S: 28.5 M: 19.6 SD: 18.8 V: 9.7 C: 6.0 L: 5.8 KD: 5.6 MP: 4.5   •O: 1.5
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-11 •FE: 2022-08-13 •SC: N •SS: 1929 S: 31.7 M: 18.6 SD: 17.4 V: 7.7 KD: 6.8 L: 5.5 C: 5.3 MP: 4.5   •O: 2.5
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-10 •FE: 2022-08-12 •SC: N •SS: 1919 S: 31.1 M: 19.2 SD: 17.3 V: 8.0 KD: 6.7 L: 5.6 C: 5.3 MP: 4.5   •O: 2.3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-08-09 •FE: 2022-08-11 •SC: N •SS: 1796 S: 31.2 M: 20.7 SD: 16.5 V: 7.6 KD: 6.1 L: 5.7 C: 5.3 MP: 4.6   •O: 2.4
+•PF: Novus     •C: SVT                               •FS: 2022-08-01 •FE: 2022-08-07 •SC: N •SS: 1893 S: 30.6 M: 18.6 SD: 18.6 V: 7.2 C: 6.8 KD: 6.3 MP: 5.2 L: 5.1   •O: 1.6
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-07-24 •FE: 2022-08-02 •SC: N •SS: 2247 S: 28.7 M: 20.3 SD: 17.7 V: 7.7 C: 7.2 KD: 6.9 L: 5.7 MP: 4.8   •O: 1.0
+•PF: SKOP                                            •FS: 2022-07-08 •FE: 2022-07-11 •SC: N •SS: 1009 S: 31.5 M: 18.5 SD: 16.6 V: 10.3 C: 6.2 L: 6.1 KD: 5.7 MP: 3.6  •O: 1.5
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-06-22 •FE: 2022-06-30 •SC: N •SS: 2125 S: 30.3 M: 21.0 SD: 16.3 V: 8.4 C: 7.1 KD: 6.1 MP: 4.9 L: 4.7   •O: 1.2
+•PF: Novus     •C: SVT                               •FS: 2022-06-06 •FE: 2022-06-26 •SC: N •SS: 2838 S: 31.7 M: 19.6 SD: 17.4 V: 8.8 KD: 6.7 C: 5.4 L: 5.0 MP: 3.5   •O: 1.9
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-06-07 •FE: 2022-06-19 •SC: N •SS: 1635 S: 31 M: 20 SD: 19 V: 9 KD: 6 C: 5 L: 5 MP: 3                   •O: 2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-06-06 •FE: 2022-06-16 •SC: N •SS: 8996 S: 33.7 M: 19.3 SD: 17.4 V: 7.9 KD: 6.3 C: 6.0 L: 4.4 MP: 3.4   •O: 1.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-05-31 •FE: 2022-06-09 •SC: N •SS: 2125 S: 30.9 M: 22.1 SD: 16.9 C: 7.7 V: 7.6 KD: 5.7 L: 4.2 MP: 3.9   •O: 1.0
+•PF: Novus     •C: SVT                               •FS: 2022-05-09 •FE: 2022-06-05 •SC: N •SS: 3804 S: 30.2 M: 21.5 SD: 18.0 V: 9.4 KD: 6.3 C: 5.9 L: 3.5 MP: 3.3   •O: 1.9
+•PF: SCB                                             •FS: 2022-04-28 •FE: 2022-05-25 •SC: N •SS: 9226 S: 33.3 M: 21.2 SD: 17.0 V: 7.8 C: 6.7 KD: 5.2 L: 3.4 MP: 3.3   •O: 2.0
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-05-10 •FE: 2022-05-22 •SC: N •SS: 1569 S: 32 M: 22 SD: 18 V: 9 C: 5 KD: 5 L: 3 MP: 3                   •O: 3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-05-02 •FE: 2022-05-12 •SC: N •SS: 6890 S: 32.6 M: 20.8 SD: 18.1 V: 8.2 C: 6.3 KD: 5.6 L: 3.6 MP: 2.7   •O: 2.1
+•PF: Infostat                                        •FS: 2022-05-04 •FE: 2022-05-10 •SC: N •SS: 1690 S: 27.7 M: 21.3 SD: 21.0 V: 8.2 KD: 6.0 C: 5.9 MP: 3.7 L: 3.5   •O: 2.7
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-04-26 •FE: 2022-05-04 •SC: N •SS: 2154 S: 31.2 M: 22.9 SD: 16.9 C: 7.9 V: 7.3 KD: 6.9 MP: 3.0 L: 2.9   •O: 1.5
+•PF: Novus     •C: SVT                               •FS: 2022-04-04 •FE: 2022-05-01 •SC: N •SS: 3541 S: 31.8 M: 21.0 SD: 17.9 V: 9.0 C: 6.9 KD: 5.9 MP: 3.3 L: 2.5   •O: 1.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-04-12 •FE: 2022-04-26 •SC: N •SS: 1570 S: 30 M: 22 SD: 18 V: 9 C: 6 KD: 6 MP: 4 L: 3                   •O: 2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-04-11 •FE: 2022-04-21 •SC: N •SS: 7766 S: 33.0 M: 21.2 SD: 18.2 V: 8.7 C: 7.1 KD: 4.9 MP: 2.9 L: 2.4   •O: 1.6
+•PF: SKOP                                            •FS: 2022-04-06 •FE: 2022-04-14 •SC: N •SS: 1005 S: 34.7 M: 20.2 SD: 15.6 V: 9.2 C: 7.4 KD: 5.8 L: 2.9 MP: 2.9   •O: 1.3
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-03-29 •FE: 2022-04-05 •SC: N •SS: 2199 S: 31.5 M: 22.9 SD: 17.0 V: 8.1 C: 8.0 KD: 5.4 MP: 3.5 L: 2.4   •O: 1.2
+•PF: Novus     •C: SVT                               •FS: 2022-03-07 •FE: 2022-04-03 •SC: N •SS: 3983 S: 32.0 M: 21.5 SD: 18.7 V: 8.3 C: 6.8 KD: 5.7 MP: 3.3 L: 2.1   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-03-15 •FE: 2022-03-27 •SC: N •SS: 1568 S: 33 M: 22 SD: 19 V: 8 C: 7 KD: 6 MP: 3 L: 2                   •O: 0
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-03-07 •FE: 2022-03-17 •SC: N •SS: 6960 S: 32.8 M: 21.4 SD: 18.6 V: 8.6 C: 7.0 KD: 4.9 MP: 2.7 L: 2.4   •O: 1.5
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-03-01 •FE: 2022-03-09 •SC: N •SS: 2175 S: 32.4 M: 22.0 SD: 17.5 C: 7.5 V: 7.4 KD: 6.5 MP: 2.9 L: 2.2   •O: 1.6
+•PF: Novus     •C: SVT                               •FS: 2022-01-31 •FE: 2022-02-27 •SC: N •SS: 2505 S: 32.0 M: 21.2 SD: 19.4 V: 8.9 C: 6.8 KD: 5.1 MP: 3.2 L: 2.1   •O: 1.4
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-02-08 •FE: 2022-02-20 •SC: N •SS: 1660 S: 29 M: 21 SD: 20 V: 10 C: 7 KD: 5 L: 3 MP: 3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-02-07 •FE: 2022-02-17 •SC: N •SS: 6103 S: 29.6 M: 20.9 SD: 19.3 V: 10.1 C: 6.9 KD: 5.3 MP: 3.6 L: 2.7  •O: 1.8
+•PF: SKOP                                            •FS: 2022-02-11 •FE: 2022-02-14 •SC: N •SS: 1013 S: 31.4 M: 19.1 SD: 19.0 V: 11.8 C: 7.3 KD: 4.2 MP: 3.1 L: 2.7  •O: 1.4
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2022-02-01 •FE: 2022-02-08 •SC: N •SS: 2505 S: 28.2 M: 22.0 SD: 19.2 V: 10.0 C: 7.9 KD: 5.6 L: 3.2 MP: 2.8  •O: 1.2
+•PF: Novus     •C: SVT                               •FS: 2022-01-03 •FE: 2022-01-30 •SC: N •SS: 3702 S: 29.3 M: 20.5 SD: 19.8 V: 9.8 C: 7.4 KD: 5.4 MP: 3.5 L: 2.7   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2022-01-11 •FE: 2022-01-24 •SC: N •SS: 1660 S: 31 M: 21 SD: 18 V: 10 C: 6 KD: 6 L: 4 MP: 3                  •O: 1
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2022-01-10 •FE: 2022-01-20 •SC: N •SS: 6692 S: 31.1 M: 20.9 SD: 19.2 V: 9.6 C: 7.0 KD: 4.4 MP: 3.0 L: 2.9   •O: 1.9
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-12-28 •FE: 2022-01-05 •SC: N •SS: 2440 S: 29.2 M: 21.8 SD: 17.8 V: 9.3 C: 8.3 KD: 5.4 L: 3.2 MP: 2.8   •O: 2.2
+•PF: Novus     •C: SVT                               •FS: 2021-12-06 •FE: 2022-01-02 •SC: N •SS: 2017 S: 31.3 SD: 20.1 M: 18.7 V: 10.5 C: 6.7 KD: 5.6 MP: 3.4 L: 2.2  •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-12-07 •FE: 2021-12-20 •SC: N •SS: 1581 S: 29 M: 20 SD: 20 V: 10 C: 7 KD: 5 MP: 4 L: 3                  •O: 2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2021-12-06 •FE: 2021-12-16 •SC: N •SS: 6157 S: 31.1 M: 20.0 SD: 19.7 V: 9.7 C: 7.0 KD: 5.2 MP: 3.2 L: 2.8   •O: 1.3
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-11-30 •FE: 2021-12-08 •SC: N •SS: 2446 S: 29.1 M: 22.6 SD: 18.7 C: 8.5 V: 8.2 KD: 6.0 MP: 3.3 L: 2.0   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2021-11-08 •FE: 2021-12-05 •SC: N •SS: 4233 S: 29.3 M: 21.2 SD: 19.0 V: 10.1 C: 7.5 KD: 4.7 MP: 3.7 L: 2.9  •O: 1.6
+•PF: SCB                                             •FS: 2021-10-28 •FE: 2021-11-25 •SC: N •SS: 9190 S: 29.1 M: 22.7 SD: 18.6 V: 9.2 C: 8.4 KD: 4.6 MP: 3.9 L: 2.5   •O: 1.0
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-11-09 •FE: 2021-11-22 •SC: N •SS: 1605 S: 25 M: 21 SD: 20 V: 11 C: 8 KD: 6 MP: 4 L: 3                  •O: 1
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2021-11-08 •FE: 2021-11-18 •SC: N •SS: 5710 S: 28.9 M: 21.0 SD: 20.3 V: 9.3 C: 8.1 KD: 4.6 MP: 3.6 L: 2.3   •O: 1.8
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-11-05 •FE: 2021-11-11 •SC: N •SS: 2359 S: 27.0 M: 23.6 SD: 18.7 C: 9.7 V: 8.1 KD: 5.3 MP: 3.4 L: 3.2   •O: 1.0
+•PF: Novus     •C: SVT                               •FS: 2021-10-04 •FE: 2021-10-31 •SC: N •SS: 3660 S: 25.6 M: 22.9 SD: 19.1 V: 11.3 C: 8.5 MP: 4.8 KD: 4.1 L: 2.8  •O: 0.9
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-10-12 •FE: 2021-10-25 •SC: N •SS: 1572 S: 26 M: 20 SD: 20 V: 11 C: 8 MP: 5 KD: 4 L: 4
+•PF: SKOP                                            •FS: 2021-10-15 •FE: 2021-10-17 •SC: N •SS: 1011 S: 24.3 M: 22.1 SD: 19.9 V: 11.5 C: 9.5 MP: 4.4 KD: 3.7 L: 3.1  •O: 1.5
+•PF: Sifo                                            •FS: 2021-10-04 •FE: 2021-10-14 •SC: N •SS: 6152 S: 26.6 M: 21.9 SD: 19.9 V: 10.5 C: 8.0 KD: 5.0 MP: 3.7 L: 2.8  •O: 1.6
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-09-29 •FE: 2021-10-06 •SC: N •SS: 2417 S: 26.7 M: 22.2 SD: 20.9 C: 9.5 V: 8.6 KD: 5.5 MP: 3.0 L: 2.7   •O: 0.8
+•PF: Novus     •C: SVT                               •FS: 2021-08-30 •FE: 2021-10-03 •SC: N •SS: 4922 S: 26.0 M: 22.6 SD: 19.4 V: 10.6 C: 8.8 KD: 4.6 MP: 4.0 L: 2.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-09-14 •FE: 2021-09-26 •SC: N •SS: 1533 S: 25 M: 22 SD: 21 V: 11 C: 8 KD: 4 MP: 4 L: 3
+•PF: Sifo                                            •FS: 2021-09-06 •FE: 2021-09-16 •SC: N •SS: 6488 S: 26.1 M: 21.5 SD: 19.6 V: 10.6 C: 8.9 KD: 4.7 MP: 4.2 L: 3.0  •O: 1.4
+•PF: SKOP                                            •FS: 2021-09-03 •FE: 2021-09-11 •SC: N •SS: 1030 S: 25.8 M: 21.6 SD: 18.5 V: 12.5 C: 9.6 KD: 5.0 MP: 3.4 L: 2.4  •O: 1.2
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-08-31 •FE: 2021-09-08 •SC: N •SS: 2199 S: 26.7 M: 22.1 SD: 20.7 C: 9.7 V: 8.2 KD: 5.6 MP: 3.5 L: 2.5   •O: 0.9
+•PF: Novus     •C: SVT                               •FS: 2021-08-02 •FE: 2021-08-29 •SC: N •SS: 4765 S: 25.9 M: 22.0 SD: 19.6 V: 11.2 C: 8.9 KD: 4.5 MP: 4.4 L: 2.1  •O: 1.4
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-08-10 •FE: 2021-08-23 •SC: N •SS: 1547 S: 25 M: 21 SD: 20 V: 11 C: 8 MP: 5 KD: 4 L: 3                  •O: 2
+•PF: Sifo                                            •FS: 2021-08-09 •FE: 2021-08-18 •SC: N •SS: 4972 S: 24.1 M: 21.8 SD: 20.5 V: 11.9 C: 8.6 KD: 4.9 MP: 4.2 L: 2.7  •O: 1.3
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-08-02 •FE: 2021-08-05 •SC: N •SS: 2403 S: 24.6 M: 23.2 SD: 19.9 V: 10.2 C: 10.1 KD: 5.4 MP: 3.5 L: 2.3 •O: 0.8
+•PF: Novus     •C: SVT                               •FS: 2021-07-19 •FE: 2021-07-26 •SC: N •SS: 2480 S: 23.8 SD: 21.6 M: 21.0 V: 13.3 C: 8.9 KD: 4.5 MP: 3.8 L: 2.2
+•PF: SKOP                                            •FS: 2021-07-19 •FE: 2021-07-23 •SC: N •SS: 1013 S: 27.2 M: 21.8 SD: 19.5 V: 12.0 C: 8.7 MP: 3.7 KD: 3.5 L: 2.9  •O: 0.8
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-06-29 •FE: 2021-07-07 •SC: N •SS: 3267 S: 25.2 M: 21.7 SD: 19.3 C: 10.4 V: 9.4 KD: 6.1 L: 3.5 MP: 3.5  •O: 0.9
+•PF: Demoskop  •C: Aftonbladet                       •FS: 2021-06-23 •FE: 2021-06-28 •SC: N •SS: 2148 S: 23.4 M: 22.1 SD: 18.2 V: 11.3 C: 10.6 KD: 6.8 L: 3.4 MP: 3.3 •O: 0.9
+•PF: Novus     •C: SVT                               •FS: 2021-06-21 •FE: 2021-06-27 •SC: N •SS: 2408 S: 25.5 M: 21.8 SD: 21.4 V: 11.5 C: 7.9 KD: 5.0 MP: 3.5 L: 2.5  •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-06-08 •FE: 2021-06-20 •SC: N •SS: 1547 S: 24 M: 22 SD: 19 V: 12 C: 10 KD: 6 MP: 3 L: 2
+•PF: Sifo                                            •FS: 2021-06-07 •FE: 2021-06-17 •SC: N •SS: 6539 S: 25.8 M: 22.4 SD: 20.2 C: 9.9 V: 9.6 KD: 5.1 MP: 3.5 L: 2.3   •O: 1.2
+•PF: Novus     •C: SVT                               •FS: 2021-05-03 •FE: 2021-06-06 •SC: N •SS: 4925 S: 26.1 M: 22.6 SD: 19.2 V: 9.6 C: 9.4 KD: 5.3 MP: 4.2 L: 2.3   •O: 1.3
+•PF: Demoskop                                        •FS: 2021-05-26 •FE: 2021-06-02 •SC: N •SS: 2730 S: 24.2 M: 22.9 SD: 19.2 C: 10.7 V: 8.5 KD: 5.6 L: 3.6 MP: 3.5  •O: 2.0
+•PF: SCB                                             •FS: 2021-04-28 •FE: 2021-05-27 •SC: N •SS: 9216 S: 28.2 M: 22.4 SD: 18.9 C: 9.5 V: 8.9 KD: 4.5 MP: 3.8 L: 2.5   •O: 1.4
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-05-11 •FE: 2021-05-23 •SC: N •SS: 1548 S: 26 M: 22 SD: 20 V: 10 C: 9 KD: 5 MP: 4 L: 3                  •O: 2
+•PF: Sifo                                            •FS: 2021-05-03 •FE: 2021-05-13 •SC: N •SS: 8964 S: 26.9 M: 21.7 SD: 18.8 V: 9.6 C: 9.3 KD: 5.2 MP: 4.0 L: 2.9   •O: 1.6
+•PF: Demoskop                                        •FS: 2021-04-28 •FE: 2021-05-05 •SC: N •SS: 2651 S: 25.4 M: 23.1 SD: 19.0 C: 11.8 V: 6.9 KD: 5.2 MP: 4.1 L: 3.2  •O: 1.3
+•PF: Novus     •C: SVT                               •FS: 2021-04-05 •FE: 2021-05-02 •SC: N •SS: 3654 S: 27.5 M: 22.9 SD: 18.1 V: 9.5 C: 8.4 KD: 5.3 MP: 4.0 L: 2.9   •O: 1.1
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-04-13 •FE: 2021-04-25 •SC: N •SS: 2055 S: 26 M: 22 SD: 19 V: 10 C: 9 KD: 5 MP: 4 L: 3
+•PF: Sifo                                            •FS: 2021-04-05 •FE: 2021-04-15 •SC: N •SS: 6796 S: 27.8 M: 21.3 SD: 18.9 V: 9.4 C: 8.9 KD: 4.8 MP: 4.3 L: 3.1   •O: 1.6
+•PF: Demoskop                                        •FS: 2021-03-30 •FE: 2021-04-07 •SC: N •SS: 2651 S: 25.4 M: 22.8 SD: 19.2 C: 9.8 V: 8.4 KD: 5.2 L: 3.7 MP: 3.3   •O: 2.2
+•PF: Novus     •C: SVT                               •FS: 2021-03-01 •FE: 2021-04-04 •SC: N •SS: 4989 S: 27.6 M: 22.6 SD: 18.7 V: 9.5 C: 8.4 MP: 4.5 KD: 4.2 L: 2.9   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-03-09 •FE: 2021-03-21 •SC: N •SS: 1540 S: 27 M: 22 SD: 20 V: 11 C: 9 KD: 4 MP: 4 L: 3
+•PF: Sifo                                            •FS: 2021-03-01 •FE: 2021-03-11 •SC: N •SS: 7711 S: 27.2 M: 22.9 SD: 18.4 V: 9.7 C: 8.8 KD: 4.4 MP: 4.2 L: 2.9   •O: 1.5
+•PF: Demoskop                                        •FS: 2021-02-26 •FE: 2021-03-03 •SC: N •SS: 2314 M: 24.5 S: 24.2 SD: 18.2 C: 9.9 V: 9.3 KD: 5.8 MP: 3.1 L: 2.7   •O: 2.2
+•PF: Novus     •C: SVT                               •FS: 2021-02-01 •FE: 2021-02-28 •SC: N •SS: 3761 S: 27.0 M: 24.0 SD: 17.9 V: 9.5 C: 8.3 MP: 4.4 KD: 4.1 L: 3.3   •O: 1.5
+•PF: SKOP                                            •FS: 2021-02-19 •FE: 2021-02-23 •SC: N •SS: 1000 S: 27.4 M: 24.5 SD: 15.5 V: 10.2 C: 10.0 KD: 4.6 MP: 4.0 L: 2.4 •O: 1.4
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-02-09 •FE: 2021-02-21 •SC: N           S: 27 M: 23 SD: 19 C: 9 V: 9 KD: 5 MP: 4 L: 3
+•PF: Sifo                                            •FS: 2021-02-01 •FE: 2021-02-11 •SC: N •SS: 6704 S: 27.6 M: 23.5 SD: 18.8 V: 10.0 C: 8.1 KD: 4.3 MP: 3.6 L: 2.8
+•PF: Demoskop                                        •FS: 2021-01-26 •FE: 2021-02-03 •SC: N •SS: 2184 S: 24.7 M: 23.2 SD: 18.3 C: 9.6 V: 9.4 KD: 6.5 MP: 3.5 L: 3.1   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2021-01-11 •FE: 2021-01-31 •SC: N •SS: 2887 S: 26.9 M: 23.1 SD: 18.1 V: 10.8 C: 8.5 KD: 4.7 MP: 4.1 L: 2.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2021-01-13 •FE: 2021-01-25 •SC: N •SS: 1531 S: 27 M: 22 SD: 19 V: 10 C: 8 KD: 5 MP: 4 L: 3
+•PF: Sifo                                            •FS: 2021-01-11 •FE: 2021-01-21 •SC: N •SS: 6947 S: 27.6 M: 22.4 SD: 18.6 V: 10.0 C: 8.1 KD: 4.9 MP: 3.7 L: 3.2  •O: 1.6
+•PF: Demoskop                                        •FS: 2020-12-29 •FE: 2021-01-11 •SC: N •SS: 2095 M: 23.2 S: 23.0 SD: 19.5 V: 9.9 C: 9.2 KD: 5.9 MP: 5.0 L: 2.3   •O: 2.1
+•PF: Novus     •C: SVT                               •FS: 2020-12-07 •FE: 2021-01-10 •SC: N •SS: 2715 S: 28.5 M: 21.8 SD: 19.4 V: 9.5 C: 8.3 KD: 4.6 MP: 4.0 L: 2.6   •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-12-01 •FE: 2020-12-13 •SC: N •SS: 1531 S: 26 M: 23 SD: 20 V: 11 C: 7 KD: 5 MP: 5 L: 3
+•PF: Sifo                                            •FS: 2020-11-30 •FE: 2020-12-10 •SC: N •SS: 7349 S: 27.8 M: 21.7 SD: 18.9 V: 10.3 C: 7.7 KD: 5.4 MP: 3.7 L: 3.0  •O: 1.6
+•PF: Novus     •C: SVT                               •FS: 2020-11-09 •FE: 2020-12-06 •SC: N •SS: 3813 S: 28.0 M: 21.7 SD: 18.5 V: 9.7 C: 8.2 KD: 5.4 MP: 4.1 L: 2.7   •O: 1.7
+•PF: SKOP                                            •FS: 2020-11-30 •FE: 2020-12-03 •SC: N •SS: 1004 S: 26.1 M: 21.8 SD: 18.2 V: 11.2 C: 8.5 KD: 6.5 MP: 4.0 L: 2.7  •O: 1.0
+•PF: Demoskop                                        •FS: 2020-11-26 •FE: 2020-12-02 •SC: N •SS: 2278 S: 25.0 M: 23.2 SD: 19.6 C: 9.4 V: 9.3 KD: 5.7 MP: 3.6 L: 2.8   •O: 1.4
+•PF: SCB                                             •FS: 2020-11-02 •FE: 2020-11-26 •SC: N •SS: 4692 S: 29.4 M: 22.1 SD: 17.6 V: 9.3 C: 7.6 KD: 5.4 MP: 4.2 L: 3.0   •O: 1.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-11-10 •FE: 2020-11-22 •SC: N           S: 26 M: 21 SD: 20 V: 11 C: 9 KD: 5 MP: 4 L: 3                  •O: 1
+•PF: Sifo                                            •FS: 2020-11-02 •FE: 2020-11-11 •SC: N           S: 27.0 M: 20.8 SD: 19.9 V: 10.2 C: 7.6 KD: 5.7 MP: 4.2 L: 3.2  •O: 1.4
+•PF: Novus     •C: SVT                               •FS: 2020-10-12 •FE: 2020-11-08 •SC: N •SS: 3783 S: 26.4 M: 22.0 SD: 19.4 V: 10.6 C: 8.6 KD: 5.0 MP: 3.9 L: 2.7  •O: 1.4
+•PF: Demoskop                                        •FS: 2020-10-27 •FE: 2020-11-04 •SC: N •SS: 2200 S: 24.0 M: 22.4 SD: 19.9 V: 9.4 C: 9.2 KD: 6.9 MP: 3.4 L: 3.1   •O: 1.8
+•PF: SKOP                                            •FS: 2020-10-23 •FE: 2020-10-26 •SC: N •SS: 1000 S: 26.0 M: 21.1 SD: 17.8 V: 12.1 C: 9.1 KD: 5.9 L: 3.3 MP: 3.1  •O: 1.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-10-13 •FE: 2020-10-25 •SC: N           S: 25 M: 21 SD: 20 V: 11 C: 9 KD: 6 MP: 5 L: 3
+•PF: Sifo                                            •FS: 2020-10-05 •FE: 2020-10-15 •SC: N •SS: 7299 S: 26.4 M: 20.6 SD: 20.2 V: 10.0 C: 7.7 KD: 5.9 MP: 4.3 L: 3.2  •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2020-09-14 •FE: 2020-10-11 •SC: N •SS: 3878 S: 26.5 M: 20.7 SD: 19.2 V: 9.6 C: 8.4 KD: 5.7 MP: 5.2 L: 3.4   •O: 1.3
+•PF: Demoskop                                        •FS: 2020-10-01 •FE: 2020-10-07 •SC: N •SS: 2722 S: 25.0 M: 21.1 SD: 19.9 C: 9.4 V: 9.2 KD: 6.7 MP: 3.5 L: 3.4   •O: 1.8
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-09-08 •FE: 2020-09-21 •SC: N •SS: 1521 S: 26 M: 20 SD: 20 V: 9 C: 8 KD: 7 L: 4 MP: 4
+•PF: Sifo                                            •FS: 2020-09-07 •FE: 2020-09-17 •SC: N •SS: 5029 S: 27.5 M: 20.6 SD: 19.8 V: 8.9 C: 8.2 KD: 6.2 MP: 3.8 L: 3.5
+•PF: Novus     •C: SVT                               •FS: 2020-08-24 •FE: 2020-09-13 •SC: N •SS: 3082 S: 27.0 M: 21.2 SD: 19.6 V: 9.4 C: 7.8 KD: 5.7 MP: 4.3 L: 3.2
+•PF: Demoskop                                        •FS: 2020-08-25 •FE: 2020-09-01 •SC: N •SS: 2366 S: 26.1 M: 22.2 SD: 21.6 C: 9.2 V: 7.5 KD: 5.3 MP: 3.2 L: 3.1
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-08-11 •FE: 2020-08-23 •SC: N •SS: 1500 S: 27 SD: 21 M: 20 V: 10 C: 7 KD: 6 MP: 4 L: 3
+•PF: Novus     •C: SVT                               •FS: 2020-08-03 •FE: 2020-08-23 •SC: N •SS: 3804 S: 28.3 M: 21.2 SD: 19.4 V: 9.3 C: 7.6 KD: 5.8 MP: 3.8 L: 2.9   •O: 1.7
+•PF: Sifo                                            •FS: 2020-08-10 •FE: 2020-08-20 •SC: N •SS: 5640 S: 27.8 M: 20.3 SD: 19.7 V: 9.2 C: 7.8 KD: 6.4 L: 4.2 MP: 3.6   •O: 1.1
+•PF: Demoskop                                        •FS: 2020-07-28 •FE: 2020-08-04 •SC: N •SS: 2705 S: 27.3 M: 21.6 SD: 20.5 C: 8.8 V: 6.8 KD: 5.6 MP: 3.4 L: 3.3   •O: 2.7
+•PF: SKOP                                            •FS: 2020-07-23 •FE: 2020-07-28 •SC: N •SS: 1010 S: 28.2 M: 21.1 SD: 17.9 V: 10.4 C: 8.0 KD: 5.9 L: 3.7 MP: 3.4  •O: 1.3
+•PF: Demoskop                                        •FS: 2020-06-30 •FE: 2020-07-07 •SC: N •SS: 2226 S: 28.5 M: 20.8 SD: 19.7 C: 8.4 V: 7.8 KD: 5.7 MP: 4.1 L: 3.2   •O: 1.9
+•PF: Novus     •C: SVT                               •FS: 2020-05-25 •FE: 2020-06-21 •SC: N •SS: 3811 S: 30.6 M: 20.7 SD: 18.4 V: 9.4 C: 7.8 KD: 5.7 MP: 3.4 L: 3.0
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-06-12 •FE: 2020-06-15 •SC: N •SS: 1501 S: 31 SD: 20 M: 17 V: 9 C: 7 KD: 7 L: 4 MP: 3                   •O: 2
+•PF: Sifo                                            •FS: 2020-06-01 •FE: 2020-06-11 •SC: N •SS: 7578 S: 30.0 M: 19.5 SD: 18.9 V: 9.6 C: 7.0 KD: 6.8 MP: 3.5 L: 3.4   •O: 1.3
+•PF: Demoskop                                        •FS: 2020-05-26 •FE: 2020-06-03 •SC: N •SS: 2437 S: 27.8 M: 20.9 SD: 19.3 C: 9.7 V: 8.2 KD: 6.5 MP: 3.9 L: 2.7   •O: 1.0
+•PF: SKOP                                            •FS: 2020-05-31 •FE: 2020-06-02 •SC: N •SS: 1006 S: 31.3 M: 20.3 SD: 17.0 V: 10.5 C: 6.6 KD: 5.8 MP: 3.7 L: 3.6  •O: 1.1
+•PF: SCB                                             •FS: 2020-04-29 •FE: 2020-05-27 •SC: N •SS: 9208 S: 33.7 M: 20.1 SD: 17.1 V: 8.2 KD: 6.4 C: 6.0 MP: 4.1 L: 3.3   •O: 1.1
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-05-12 •FE: 2020-05-24 •SC: N •SS: 1530 S: 31 M: 20 SD: 20 V: 9 C: 7 KD: 6 MP: 4 L: 3                   •O: 1
+•PF: Novus     •C: SVT                               •FS: 2020-04-27 •FE: 2020-05-24 •SC: N •SS: 3976 S: 31.5 M: 19.2 SD: 18.0 V: 9.4 C: 8.1 KD: 5.5 MP: 4.1 L: 3.0   •O: 1.2
+•PF: Sifo                                            •FS: 2020-05-04 •FE: 2020-05-14 •SC: N •SS: 7310 S: 31.7 SD: 18.9 M: 18.6 V: 9.0 C: 7.2 KD: 6.1 MP: 3.9 L: 3.4   •O: 1.5
+•PF: SKOP                                            •FS: 2020-04-30 •FE: 2020-05-08 •SC: N •SS: 1019 S: 32.6 M: 20.4 SD: 16.3 V: 9.7 C: 7.0 KD: 5.2 L: 4.4 MP: 2.6   •O: 1.8
+•PF: Demoskop                                        •FS: 2020-04-28 •FE: 2020-05-05 •SC: N •SS: 2297 S: 30.1 M: 20.7 SD: 18.8 C: 10.0 V: 7.2 KD: 6.5 MP: 3.3 L: 2.7  •O: 0.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-04-14 •FE: 2020-04-26 •SC: N •SS: 1544 S: 29 SD: 21 M: 18 V: 9 C: 7 KD: 6 L: 4 MP: 4
+•PF: Novus     •C: SVT                               •FS: 2020-03-30 •FE: 2020-04-19 •SC: N •SS: 3838 S: 30.4 SD: 19.7 M: 18.7 V: 9.5 C: 7.7 KD: 6.1 MP: 3.8 L: 2.8   •O: 1.3
+•PF: Sifo                                            •FS: 2020-03-30 •FE: 2020-04-08 •SC: N •SS: 6886 S: 30.6 SD: 19.5 M: 19.2 V: 9.4 C: 6.9 KD: 5.9 L: 3.8 MP: 3.5   •O: 1.1
+•PF: Demoskop                                        •FS: 2020-03-25 •FE: 2020-04-01 •SC: N •SS: 2453 S: 27.9 SD: 20.8 M: 19.2 C: 10.0 V: 7.7 KD: 6.7 MP: 4.0 L: 3.0  •O: 0.7
+•PF: Novus     •C: SVT                               •FS: 2020-02-24 •FE: 2020-03-22 •SC: N •SS: 3737 S: 25.6 SD: 22.0 M: 18.0 V: 9.8 C: 8.1 KD: 6.5 MP: 4.5 L: 3.8   •O: 1.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-03-10 •FE: 2020-03-20 •SC: N •SS: 1566 S: 25 SD: 22 M: 19 V: 12 C: 7 KD: 6 L: 5 MP: 4
+•PF: Sifo                                            •FS: 2020-03-02 •FE: 2020-03-12 •SC: N •SS: 7839 S: 23.8 SD: 22.2 M: 18.0 V: 11.2 C: 8.4 KD: 6.8 L: 4.1 MP: 4.0  •O: 1.6
+•PF: Demoskop                                        •FS: 2020-02-25 •FE: 2020-03-03 •SC: N •SS: 2326 S: 22.6 SD: 22.1 M: 19.5 V: 10.4 C: 9.4 KD: 7.5 L: 4.1 MP: 3.1  •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-02-11 •FE: 2020-02-23 •SC: N •SS: 1535 SD: 23 S: 22 M: 18 V: 11 C: 8 KD: 8 MP: 5 L: 4                  •O: 1
+•PF: Novus     •C: SVT                               •FS: 2020-01-27 •FE: 2020-02-16 •SC: N •SS: 3098 SD: 23.9 S: 23.2 M: 18.0 V: 10.9 C: 8.1 KD: 5.9 MP: 4.5 L: 3.9  •O: 1.6
+•PF: Sifo                                            •FS: 2020-02-03 •FE: 2020-02-13 •SC: N •SS: 8328 S: 23.6 SD: 23.3 M: 17.5 V: 11.4 C: 8.1 KD: 6.1 L: 4.4 MP: 4.2  •O: 1.5
+•PF: Demoskop                                        •FS: 2020-01-25 •FE: 2020-02-05 •SC: N •SS: 2148 S: 24.7 SD: 23.5 M: 18.9 V: 9.3 C: 8.9 KD: 6.3 MP: 3.8 L: 3.2   •O: 1.3
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2020-01-14 •FE: 2020-01-27 •SC: N •SS: 1528 SD: 24 S: 23 M: 17 V: 11 C: 9 KD: 7 L: 4 MP: 4                  •O: 2
+•PF: Novus     •C: SVT                               •FS: 2020-01-07 •FE: 2020-01-26 •SC: N •SS: 4414 S: 24.2 SD: 22.6 M: 18.3 V: 10.4 C: 8.7 KD: 6.1 MP: 4.6 L: 3.5  •O: 1.6
+•PF: SKOP                                            •FS: 2020-01-14 •FE: 2020-01-24 •SC: N •SS: 1009 SD: 23.3 S: 23.1 M: 17.4 V: 10.6 C: 9.6 KD: 6.7 MP: 4.1 L: 3.8  •O: 1.4
+•PF: Sifo                                            •FS: 2020-01-06 •FE: 2020-01-16 •SC: N •SS: 7747 SD: 23.8 S: 23.5 M: 17.5 V: 10.2 C: 8.5 KD: 6.6 MP: 4.5 L: 3.9  •O: 1.5
+•PF: Demoskop                                        •FS: 2019-12-30 •FE: 2020-01-07 •SC: N •SS: 2112 SD: 24.5 S: 23.4 M: 18.2 C: 9.5 V: 9.0 KD: 5.9 MP: 4.8 L: 3.1   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-12-03 •FE: 2019-12-15 •SC: N •SS: 1572 S: 25 SD: 24 M: 16 V: 10 C: 8 KD: 6 L: 5 MP: 5                  •O: 1
+•PF: Novus     •C: SVT                               •FS: 2019-11-18 •FE: 2019-12-15 •SC: N •SS: 3994 SD: 24.0 S: 23.7 M: 17.9 V: 9.9 C: 8.3 KD: 6.2 MP: 5.0 L: 3.5   •O: 1.5
+•PF: Sifo                                            •FS: 2019-12-02 •FE: 2019-12-12 •SC: N •SS: 8214 S: 24.6 SD: 24.4 M: 17.2 V: 9.7 C: 8.0 KD: 6.0 MP: 4.7 L: 4.0   •O: 1.3
+•PF: Demoskop                                        •FS: 2019-11-26 •FE: 2019-12-04 •SC: N •SS: 2079 SD: 25.4 S: 24.3 M: 17.5 C: 9.6 V: 7.9 KD: 5.9 MP: 4.4 L: 3.9   •O: 1.1
+•PF: SCB                                             •FS: 2019-10-28 •FE: 2019-11-26 •SC: N •SS: 4645 S: 26.3 SD: 22.6 M: 18.3 V: 8.1 C: 7.3 KD: 6.6 MP: 5.1 L: 4.1   •O: 1.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-11-11 •FE: 2019-11-24 •SC: N •SS: 1551 S: 25 SD: 25 M: 17 C: 8 KD: 8 V: 8 MP: 5 L: 3                   •O: 2
+•PF: Novus     •C: SVT                               •FS: 2019-10-21 •FE: 2019-11-17 •SC: N •SS: 3619 S: 26.0 SD: 21.5 M: 18.3 V: 9.3 C: 7.8 KD: 7.1 MP: 4.8 L: 3.4
+•PF: Sifo                                            •FS: 2019-11-04 •FE: 2019-11-14 •SC: N •SS: 8175 S: 24.4 SD: 23.0 M: 17.0 V: 9.7 C: 8.3 KD: 7.9 MP: 4.7 L: 3.6   •O: 1.6
+•PF: Demoskop                                        •FS: 2019-11-04 •FE: 2019-11-13 •SC: N •SS: 2048 SD: 24.0 S: 22.2 M: 17.8 V: 9.8 C: 7.7 KD: 7.6 MP: 4.8 L: 3.9   •O: 2.2
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-10-08 •FE: 2019-10-21 •SC: N •SS: 1569 S: 24 SD: 23 M: 16 V: 10 C: 8 KD: 8 MP: 5 L: 4                  •O: 2
+•PF: Novus     •C: SVT                               •FS: 2019-09-23 •FE: 2019-10-20 •SC: N •SS: 3745 S: 25.8 SD: 20.7 M: 19.5 C: 8.5 V: 8.4 KD: 7.0 MP: 5.0 L: 3.7   •O: 1.6
+•PF: Sifo                                            •FS: 2019-10-07 •FE: 2019-10-17 •SC: N •SS: 7792 S: 24.9 SD: 20.5 M: 17.7 V: 9.2 C: 8.4 KD: 6.7 MP: 5.0 L: 3.9   •O: 1.5
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-10-08 •FE: 2019-10-14 •SC: N •SS: 2132 S: 24.7 SD: 22.6 M: 19.3 C: 10.1 V: 8.0 KD: 6.5 MP: 4.2 L: 3.2  •O: 1.4
+•PF: Demoskop                                        •FS: 2019-09-24 •FE: 2019-10-01 •SC: N •SS: 1617 S: 23.1 SD: 22.9 M: 19.5 V: 8.6 C: 8.3 KD: 6.6 MP: 5.0 L: 3.9   •O: 2.1
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-09-20 •FE: 2019-09-25 •SC: N •SS: 2097 S: 23.9 SD: 22.2 M: 19.0 C: 9.9 V: 8.5 KD: 6.0 MP: 4.2 L: 3.5   •O: 2.4
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-09-10 •FE: 2019-09-23 •SC: N •SS: 1537 S: 26 M: 19 SD: 19 C: 9 V: 9 KD: 7 L: 5 MP: 5                   •O: 1
+•PF: Novus     •C: SVT                               •FS: 2019-08-26 •FE: 2019-09-22 •SC: N •SS: 3716 S: 24.7 SD: 20.7 M: 20.4 V: 9.2 C: 8.0 KD: 6.8 MP: 5.0 L: 3.6   •O: 1.8
+•PF: Sifo                                            •FS: 2019-09-02 •FE: 2019-09-12 •SC: N •SS: 8949 S: 25.8 SD: 20.2 M: 18.9 C: 8.6 V: 8.5 KD: 7.3 MP: 5.1 L: 4.2   •O: 1.5
+•PF: Demoskop                                        •FS: 2019-08-27 •FE: 2019-09-03 •SC: N •SS: 1611 S: 24.0 SD: 21.4 M: 19.4 C: 8.4 V: 8.4 KD: 6.5 MP: 4.9 L: 4.6   •O: 1.8
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-08-22 •FE: 2019-08-28 •SC: N •SS: 2015 S: 25.5 SD: 21.0 M: 18.3 C: 9.4 V: 7.9 KD: 7.7 L: 4.2 MP: 4.2   •O: 1.9
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-08-13 •FE: 2019-08-25 •SC: N •SS: 1515 S: 26 SD: 19 M: 17 V: 10 C: 8 KD: 7 MP: 6 L: 5                  •O: 2
+•PF: Novus     •C: SVT                               •FS: 2019-08-05 •FE: 2019-08-25 •SC: N •SS: 2660 S: 26.3 M: 18.5 SD: 18.4 C: 9.4 V: 9.0 KD: 7.2 MP: 5.6 L: 3.7   •O: 1.9
+•PF: Sifo                                            •FS: 2019-08-06 •FE: 2019-08-15 •SC: N •SS: 6316 S: 26.8 M: 19.1 SD: 18.2 C: 8.8 V: 8.7 KD: 8.4 MP: 4.9 L: 3.8   •O: 1.4
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-08-01 •FE: 2019-08-08 •SC: N •SS: 2076 S: 25.6 SD: 19.7 M: 19.6 C: 10.3 V: 8.5 KD: 7.3 L: 3.6 MP: 3.6  •O: 1.7
+•PF: SKOP                                            •FS: 2019-06-25 •FE: 2019-07-16 •SC: N •SS: 1048 S: 25.6 SD: 18.0 M: 17.0 C: 9.5 KD: 9.2 V: 8.9 L: 5.7 MP: 4.7   •O: 1.4
+•PF: Demoskop                                        •FS: 2019-06-24 •FE: 2019-07-01 •SC: N •SS: 1608 S: 25.9 SD: 19.6 M: 17.6 C: 9.3 KD: 8.0 V: 7.9 MP: 5.3 L: 4.1   •O: 2.2
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-06-17 •FE: 2019-06-24 •SC: N •SS: 2076 S: 25.4 M: 19.7 SD: 19.4 C: 9.4 V: 8.3 KD: 7.0 MP: 5.0 L: 3.6   •O: 2.3
+•PF: Novus     •C: SVT                               •FS: 2019-06-03 •FE: 2019-06-23 •SC: N •SS: 2746 S: 26.7 M: 18.8 SD: 16.7 C: 10.1 V: 9.0 KD: 7.7 MP: 5.9 L: 3.6  •O: 1.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-06-04 •FE: 2019-06-18 •SC: N •SS: 1630 S: 25 SD: 19 M: 17 V: 10 C: 9 KD: 8 L: 5 MP: 5                  •O: 2
+•PF: Sifo                                            •FS: 2019-06-03 •FE: 2019-06-13 •SC: N •SS: 9261 S: 26.5 M: 18.4 SD: 18.1 KD: 9.5 C: 8.8 V: 8.6 MP: 4.9 L: 3.7   •O: 1.5
+•PF: Demoskop  •C: Expressen                         •FS: 2019-05-27 •FE: 2019-06-03 •SC: N •SS: 1614 S: 27.1 SD: 19.9 M: 18.2 C: 8.9 V: 8.0 KD: 7.5 MP: 5.1 L: 3.8   •O: 1.6
+•PF: Novus     •C: SVT                               •FS: 2019-05-06 •FE: 2019-06-02 •SC: N •SS: 3644 S: 25.9 M: 17.7 SD: 17.6 KD: 10.0 V: 9.0 C: 8.7 MP: 5.5 L: 4.1  •O: 1.5
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-05-21 •FE: 2019-05-28 •SC: N •SS: 2147 S: 26.1 SD: 18.4 M: 18.2 C: 10.1 KD: 9.0 V: 8.3 MP: 4.4 L: 3.0  •O: 2.4
+•PF: SCB                                             •FS: 2019-04-29 •FE: 2019-05-28 •SC: N •SS: 9092 S: 27.6 SD: 17.1 M: 16.0 KD: 13.0 V: 8.7 C: 6.9 MP: 5.7 L: 3.7  •O: 1.3
+•PF: SKOP                                            •FS: 2019-05-19 •FE: 2019-05-24 •SC: E •SS: 1938 S: 23.1 SD: 17.1 M: 16.0 KD: 10.3 MP: 9.4 C: 9.2 V: 7.4 L: 4.7  •O: 2.8
+•PF: Sifo                                            •FS: 2019-05-20 •FE: 2019-05-23 •SC: E •SS: 2437 S: 23.1 SD: 18.9 M: 14.4 C: 10.3 MP: 10.0 KD: 9.0 V: 8.3 L: 4.0 •O: 2.1
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-05-16 •FE: 2019-05-23 •SC: E •SS: 3155 S: 23.9 SD: 16.9 M: 13.6 KD: 12.5 MP: 9.9 C: 8.5 V: 7.2 L: 4.5  •O: 3.0
+•PF: Novus     •C: SVT                               •FS: 2019-05-06 •FE: 2019-05-22 •SC: E •SS: 2456 S: 23.5 SD: 16.2 M: 15.9 MP: 10.7 KD: 9.9 C: 8.6 V: 7.2 L: 5.2
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-05-06 •FE: 2019-05-21 •SC: N •SS: 2144 S: 26 SD: 17 M: 16 KD: 12 V: 10 C: 9 L: 4 MP: 4                 •O: 2
+•PF: SKOP                                            •FS: 2019-05-19 •FE: 2019-05-20 •SC: E •SS: 1042 S: 23.5 SD: 17.2 M: 16.8 KD: 10.5 C: 9.6 MP: 9.4 V: 7.5 L: 3.8  •O: 1.9
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-05-10 •FE: 2019-05-16 •SC: E •SS: 2200 S: 23.0 SD: 18.8 M: 15.7 C: 9.5 MP: 9.3 KD: 9.1 V: 6.9 L: 3.4   •O: 4.3
+•PF: Sifo                                            •FS: 2019-05-06 •FE: 2019-05-16 •SC: N •SS: 9626 S: 27.0 SD: 18.1 M: 15.9 KD: 12.0 V: 8.9 C: 8.2 MP: 4.5 L: 3.8  •O: 1.6
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-05-10 •FE: 2019-05-15 •SC: E •SS: 2867 S: 21.9 SD: 19.9 M: 13.5 KD: 11.2 MP: 9.6 V: 9.5 C: 7.6 L: 4.1  •O: 2.8
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-05-02 •FE: 2019-05-09 •SC: E •SS: 2383 S: 23.1 SD: 16.9 M: 15.5 KD: 12.4 MP: 11.6 C: 7.6 V: 7.4 L: 3.3 •O: 3.4
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-05-01 •FE: 2019-05-09 •SC: E •SS: 2218 S: 23.9 SD: 17.9 M: 16.9 MP: 9.6 KD: 8.8 C: 8.4 V: 6.9 L: 3.4   •O: 4.7
+•PF: Demoskop  •C: Expressen                         •FS: 2019-04-29 •FE: 2019-05-07 •SC: N •SS: 1618 S: 26.6 SD: 19.2 M: 15.7 KD: 11.5 C: 9.1 V: 8.7 MP: 4.3 L: 3.1  •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2019-04-08 •FE: 2019-05-05 •SC: N •SS: 3404 S: 26.4 M: 18.0 SD: 17.8 KD: 10.7 C: 8.8 V: 8.8 MP: 4.6 L: 3.5  •O: 1.4
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-04-22 •FE: 2019-04-29 •SC: N •SS: 2111 S: 25.6 SD: 18.6 M: 15.7 KD: 11.4 V: 9.5 C: 9.3 L: 4.2 MP: 3.9  •O: 1.8
+•PF: Novus     •C: SVT                               •FS: 2019-04-15 •FE: 2019-04-28 •SC: E •SS: 1792 S: 24.8 SD: 13.7 M: 12.6 V: 11.1 MP: 10.6 KD: 9.7 C: 7.4 L: 5.3 •O: 4.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-04-23 •FE: 2019-04-25 •SC: E •SS: 1834 S: 21.0 SD: 19.9 M: 16.5 KD: 10.7 MP: 10.0 V: 8.2 C: 6.3 L: 3.4 •O: 4.1
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-04-15 •FE: 2019-04-25 •SC: E •SS: 2068 S: 24.9 SD: 17.4 M: 15.9 C: 9.5 KD: 9.0 MP: 8.7 V: 7.6 L: 3.7   •O: 3.3
+•PF: Demoskop  •C: Expressen                         •FS: 2019-04-12 •FE: 2019-04-24 •SC: E •SS: 1595 S: 23.4 SD: 19.3 M: 17.0 KD: 10.4 MP: 9.0 V: 7.9 C: 6.1 L: 3.3  •O: 3.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-04-09 •FE: 2019-04-22 •SC: E •SS: 1507 S: 23 SD: 17 M: 15 KD: 10 V: 10 MP: 9 C: 8 L: 6                 •O: 3
+&                                                                                    •SC: N •SS: 1486 S: 27 SD: 17 M: 16 KD: 12 V: 10 C: 8 L: 4 MP: 4                 •O: 1
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-04-01 •FE: 2019-04-11 •SC: N •SS: 8278 S: 27.3 SD: 18.9 M: 16.0 KD: 12.2 V: 8.7 C: 7.5 MP: 4.6 L: 3.4  •O: 1.4
+•PF: Demoskop  •C: Expressen                         •FS: 2019-03-26 •FE: 2019-04-03 •SC: N •SS: 1616 S: 25.4 SD: 18.0 M: 16.6 KD: 11.7 V: 9.6 C: 8.2 MP: 4.5 L: 3.9  •O: 2.1
+•PF: Novus     •C: SVT                               •FS: 2019-03-04 •FE: 2019-03-31 •SC: N •SS: 3668 S: 27.2 SD: 18.1 M: 17.5 KD: 10.6 V: 9.7 C: 8.2 L: 3.7 MP: 3.5  •O: 1.5
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-03-23 •FE: 2019-03-28 •SC: N •SS: 2980 S: 26.5 SD: 18.2 M: 16.5 KD: 12.1 C: 9.1 V: 8.6 MP: 4.2 L: 3.3  •O: 1.4
+•PF: SKOP                                            •FS: 2019-03-07 •FE: 2019-03-27 •SC: E •SS: 1510 S: 25.7 M: 17.7 SD: 15.1 KD: 9.3 MP: 9.2 C: 7.6 V: 7.6 L: 4.5   •O: 3.3
+&                                                                                    •SC: N           S: 28.7 M: 18.0 SD: 16.5 KD: 10.1 C: 9.5 V: 8.8 L: 4.2 MP: 3.1  •O: 1.2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-03-19 •FE: 2019-03-25 •SC: E •SS: 2097 S: 25.2 SD: 17.3 M: 16.2 KD: 10.4 V: 8.6 MP: 8.1 C: 7.1 L: 4.0  •O: 3.0
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-03-12 •FE: 2019-03-25 •SC: N •SS: 1529 S: 27 SD: 19 M: 18 V: 10 KD: 9 C: 8 L: 4 MP: 4                  •O: 1
+•PF: Novus     •C: SVT                               •FS: 2019-03-11 •FE: 2019-03-24 •SC: E •SS: 1842 S: 25.5 SD: 14.3 M: 13.7 V: 10.6 C: 9.2 MP: 9.2 KD: 8.9 L: 5.0  •O: 3.7
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-03-03 •FE: 2019-03-14 •SC: N •SS: 9059 S: 27.4 SD: 19.1 M: 17.5 V: 9.8 KD: 9.4 C: 8.3 MP: 3.8 L: 3.3   •O: 1.4
+•PF: Demoskop  •C: Expressen                         •FS: 2019-02-26 •FE: 2019-03-05 •SC: N •SS: 1611 S: 25.8 SD: 19.4 M: 18.4 KD: 10.6 V: 9.3 C: 7.5 MP: 4.1 L: 3.0  •O: 1.9
+•PF: Novus     •C: SVT                               •FS: 2019-02-04 •FE: 2019-03-03 •SC: N •SS: 3707 S: 28.2 SD: 19.3 M: 18.3 V: 9.1 KD: 8.6 C: 7.3 MP: 4.0 L: 3.5   •O: 1.7
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-02-20 •FE: 2019-02-25 •SC: E •SS: 1537 S: 27.5 SD: 18.0 M: 16.4 V: 10.0 KD: 8.6 MP: 6.4 C: 5.8 L: 3.8  •O: 3.6
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-02-07 •FE: 2019-02-20 •SC: N •SS: 1504 S: 28 SD: 19 M: 17 V: 10 KD: 9 C: 8 L: 4 MP: 4                  •O: 1
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-02-11 •FE: 2019-02-18 •SC: N •SS: 2137 S: 27.1 SD: 19.5 M: 17.7 C: 9.7 V: 9.2 KD: 9.0 MP: 3.4 L: 2.7   •O: 1.9
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-02-04 •FE: 2019-02-14 •SC: N •SS: 8186 S: 28.4 SD: 19.2 M: 17.2 V: 9.6 KD: 8.6 C: 7.7 MP: 4.3 L: 3.8   •O: 1.2
+•PF: Demoskop  •C: Expressen                         •FS: 2019-01-29 •FE: 2019-02-05 •SC: N •SS: 1604 S: 27.9 M: 19.5 SD: 19.4 V: 9.6 C: 8.5 KD: 7.0 L: 3.3 MP: 3.2   •O: 1.6
+•PF: Novus     •C: SVT                               •FS: 2019-01-14 •FE: 2019-02-03 •SC: N •SS: 3045 S: 29.0 SD: 21.2 M: 18.3 V: 9.1 C: 7.5 KD: 7.4 MP: 3.4 L: 2.7   •O: 1.4
+•PF: Inizio    •C: Aftonbladet                       •FS: 2019-01-16 •FE: 2019-01-23 •SC: N •SS: 2089 S: 28.2 M: 19.0 SD: 18.4 V: 9.7 C: 8.3 KD: 8.3 MP: 3.8 L: 3.2   •O: 1.2
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2019-01-10 •FE: 2019-01-20 •SC: N •SS: 1589 S: 30 M: 18 SD: 18 C: 8 V: 8 KD: 7 L: 5 MP: 4                   •O: 2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2019-01-14 •FE: 2019-01-17 •SC: N •SS: 4317 S: 29.3 SD: 19.9 M: 19.5 V: 8.5 KD: 7.5 C: 6.9 MP: 3.9 L: 3.6   •O: 1.0
+•PF: SKOP                                            •FS: 2019-01-03 •FE: 2019-01-17 •SC: N •SS: 1116 S: 30.2 M: 18.1 SD: 16.9 KD: 9.5 V: 8.9 C: 8.3 L: 4.0 MP: 3.1   •O: 1.0
+•PF: Novus     •C: SVT                               •FS: 2019-01-02 •FE: 2019-01-13 •SC: N •SS: 2342 S: 31.8 SD: 19.2 M: 18.9 C: 7.6 V: 7.6 KD: 6.2 MP: 3.9 L: 3.4   •O: 1.4
+•PF: Demoskop  •C: Expressen                         •FS: 2019-01-02 •FE: 2019-01-08 •SC: N •SS: 1614 S: 30.2 SD: 19.5 M: 17.1 V: 8.0 KD: 7.7 C: 6.9 L: 4.5 MP: 3.8   •O: 2.2
+•PF: Inizio    •C: Aftonbladet                       •FS: 2018-12-19 •FE: 2018-12-26 •SC: N •SS: 2300 S: 29.8 SD: 18.8 M: 18.3 C: 8.4 KD: 8.2 V: 7.7 MP: 4.2 L: 3.2   •O: 1.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2018-12-05 •FE: 2018-12-16 •SC: N •SS: 1537 S: 32 M: 18 SD: 18 KD: 8 V: 8 C: 7 L: 4 MP: 4                   •O: 1
+•PF: Novus     •C: SVT                               •FS: 2018-11-12 •FE: 2018-12-16 •SC: N •SS: 5414 S: 30.0 SD: 19.8 M: 18.3 C: 8.6 V: 7.7 KD: 6.5 MP: 4.0 L: 3.9   •O: 1.2
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2018-12-03 •FE: 2018-12-13 •SC: N •SS: 8658 S: 29.7 SD: 20.0 M: 19.0 C: 7.7 V: 7.7 KD: 6.6 MP: 4.2 L: 4.0   •O: 1.1
+•PF: Inizio    •C: Aftonbladet                       •FS: 2018-12-04 •FE: 2018-12-12 •SC: N •SS: 2238 S: 29.4 SD: 19.4 M: 18.5 C: 9.0 KD: 7.7 V: 7.2 MP: 3.7 L: 3.3   •O: 1.9
+•PF: Demoskop  •C: Expressen                         •FS: 2018-11-27 •FE: 2018-12-04 •SC: N •SS: 1616 S: 28.4 SD: 20.7 M: 18.9 C: 8.4 V: 8.0 KD: 5.8 L: 4.4 MP: 4.1   •O: 1.3
+•PF: SCB                                             •FS: 2018-10-29 •FE: 2018-11-27 •SC: N •SS: 4721 S: 30.5 M: 19.2 SD: 18.3 C: 8.6 V: 8.4 KD: 5.3 L: 4.3 MP: 4.0   •O: 1.2
+•PF: Inizio    •C: Aftonbladet                       •FS: 2018-11-14 •FE: 2018-11-19 •SC: N •SS: 2414 S: 29.3 M: 19.1 SD: 18.8 C: 9.2 V: 7.3 KD: 7.0 L: 3.9 MP: 3.5   •O: 1.8
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2018-11-08 •FE: 2018-11-19 •SC: N •SS: 1521 S: 28.3 SD: 20.0 M: 18.2 C: 10.1 V: 8.2 KD: 5.3 L: 4.5 MP: 4.1  •O: 1.3
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2018-11-05 •FE: 2018-11-15 •SC: N •SS: 9324 S: 29.0 SD: 19.3 M: 18.1 C: 9.0 V: 7.6 KD: 6.7 L: 4.9 MP: 4.1   •O: 1.4
+•PF: Novus     •C: SVT                               •FS: 2018-10-15 •FE: 2018-11-11 •SC: N •SS: 5050 S: 29.8 M: 19.2 SD: 19.2 C: 8.9 V: 7.9 KD: 5.9 MP: 4.3 L: 3.7   •O: 1.1
+•PF: Demoskop  •C: Expressen                         •FS: 2018-10-30 •FE: 2018-11-06 •SC: N •SS: 1616 S: 29.2 SD: 21.1 M: 18.3 C: 8.8 V: 7.8 KD: 4.9 MP: 4.2 L: 4.1   •O: 1.7
+•PF: Inizio    •C: Aftonbladet                       •FS: 2018-10-26 •FE: 2018-11-06 •SC: N •SS: 2187 S: 29.4 SD: 18.9 M: 18.2 C: 9.8 V: 7.8 KD: 5.9 L: 4.0 MP: 3.8   •O: 2.1
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2018-10-16 •FE: 2018-10-24 •SC: N •SS: 1556 S: 28.6 M: 19.1 SD: 18.8 C: 9.2 V: 8.1 KD: 5.1 L: 5.0 MP: 4.8   •O: 1.4
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2018-10-08 •FE: 2018-10-18 •SC: N •SS: 8583 S: 29.4 M: 18.8 SD: 18.6 C: 9.1 V: 7.9 KD: 6.0 L: 4.9 MP: 4.1   •O: 1.3
+•PF: Inizio    •C: Aftonbladet                       •FS: 2018-10-01 •FE: 2018-10-08 •SC: N •SS: 1763 S: 29.7 M: 19.4 SD: 17.9 C: 8.7 V: 7.3 KD: 6.3 L: 4.9 MP: 4.3   •O: 1.7
+•PF: Novus     •C: SVT                               •FS: 2018-10-01 •FE: 2018-10-04 •SC: N •SS: 2200 S: 28.3 M: 19.7 SD: 18.8 C: 8.4 V: 8.4 KD: 6.0 L: 4.6 MP: 4.4   •O: 1.4
+•PF: Demoskop  •C: Expressen                         •FS: 2018-09-25 •FE: 2018-10-02 •SC: N •SS: 1616 S: 30.6 M: 18.8 SD: 18.0 C: 8.7 V: 7.7 KD: 6.1 L: 4.8 MP: 3.5   •O: 1.8
+•PF: Sifo      •C: Svenska Dagbladet                 •FS: 2018-09-24 •FE: 2018-10-02 •SC: N •SS: 8108 S: 28.5 M: 19.2 SD: 18.3 C: 8.8 V: 7.8 KD: 6.4 L: 5.3 MP: 4.3   •O: 1.3
 
 C:  SE004 •A: C  •EN: Centre Party                    •SV: Centerpartiet
 KD: SE006 •A: KD •EN: Christian Democrats             •SV: Kristdemokraterna
