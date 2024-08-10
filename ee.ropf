@@ -1,3 +1,4 @@
+•PF: Turu-uuringute AS                                      •FS: 2024-08-01 •FE: 2024-08-09                 •SC: N •SS: 893               I: 25 SDE: 17 R: 16 EK: 12 EKRE: 11 P: 6 E200: 3 ERK: 3 KOOS: 3 EER: 2 EÜVP: 0              •O: 3
 •PF: Norstat           •C: MTÜ Ühiskonnauuringute Instituut •FS: 2024-07-23 •FE: 2024-08-04                 •SC: N •SS: 1000              I: 29.7 SDE: 18.2 R: 16.6 EKRE: 13.0 EK: 11.3 P: 5.3 E200: 3.2 EER: 0.9                     •O: 1.8
 •PF: Norstat           •C: MTÜ Ühiskonnauuringute Instituut •FS: 2024-07-22 •FE: 2024-07-29                 •SC: N •SS: 1000              I: 29.4 SDE: 17.8 R: 15.2 EKRE: 15.0 EK: 13.0 P: 4.5 E200: 2.7 EER: 0.9                     •O: 1.5
 •PF: Norstat           •C: MTÜ Ühiskonnauuringute Instituut •FS: 2024-07-15 •FE: 2024-07-22                 •SC: N •SS: 1000              I: 30.2 SDE: 17.0 R: 15.6 EK: 13.6 EKRE: 12.6 P: 4.5 E200: 2.6 EER: 1.6                     •O: 2.3
@@ -459,16 +460,17 @@
 •PF: Turu-uuringute AS •C: ERR                              •FS: 2018-01-15 •FE: 2018-01-29                 •SC: N •SS: 1003              EK: 27 R: 26 EKRE: 12 SDE: 11 I: 5 EER: 4 EVA: 4                                            •O: 11
 •PF: Kantar Emor       •C: BNS •C: Postimees                •FS: 2018-01-18 •FE: 2018-01-25                 •SC: N •SS: 1107              R: 34.2 EK: 20.5 EKRE: 18.4 SDE: 11.0 EVA: 5.4 EER: 4.5 I: 4.5                              •O: 1.5
 
-E200: EE008 •A: E200 •EN: Estonia 200                            •ET: Eesti 200
-EER:  EE007 •A: EER  •EN: Estonian Greens                        •ET: Erakond Eestimaa Rohelised
-EK:   EE002 •A: EK   •EN: Estonian Centre Party                  •ET: Eesti Keskerakond
-EKRE: EE003 •A: EKRE •EN: Conservative People’s Party of Estonia •ET: Eesti Konservatiivne Rahvaerakond
-EVA:  EE005 •A: EVA  •EN: Estonian Free Party                    •ET: Eesti Vabaerakond
-EÜVP: EE012 •A: EÜVP •EN: Estonian United Left Party             •ET: Eestimaa Ühendatud Vasakpartei    •RU: Объединённая левая партия Эстонии
-I:    EE006 •A: I    •EN: Fatherland                             •ET: Isamaa
-KALJ: EE009 •A: KALJ                                             •ET: Raimond Kaljulaid
-KOOS: EE013 •A: Koos •EN: Together                               •ET: Koos                              •RU: Вместе
-P:    EE011 •A: P    •EN: The Right-wingers                      •ET: Parempoolsed
-R:    EE001 •A: R    •EN: Estonian Reform Party                  •ET: Eesti Reformierakond
-SDE:  EE004 •A: SDE  •EN: Social Democratic Party                •ET: Sotsiaaldemokraatlik Erakond
-TULE: EE010 •A: TULE •EN: Estonian Party for the Future          •ET: Eesti Tulevikuerakond
+E200: EE008 •A: E200 •EN: Estonia 200                             •ET: Eesti 200
+EER:  EE007 •A: EER  •EN: Estonian Greens                         •ET: Erakond Eestimaa Rohelised
+EK:   EE002 •A: EK   •EN: Estonian Centre Party                   •ET: Eesti Keskerakond
+EKRE: EE003 •A: EKRE •EN: Conservative People’s Party of Estonia  •ET: Eesti Konservatiivne Rahvaerakond
+ERK:  EE014 •A: ERK  •EN: Estonian Nationalists and Conservatives •ET: Eesti Rahvuslased ja Konservatiivid
+EVA:  EE005 •A: EVA  •EN: Estonian Free Party                     •ET: Eesti Vabaerakond
+EÜVP: EE012 •A: EÜVP •EN: Estonian United Left Party              •ET: Eestimaa Ühendatud Vasakpartei      •RU: Объединённая левая партия Эстонии
+I:    EE006 •A: I    •EN: Fatherland                              •ET: Isamaa
+KALJ: EE009 •A: KALJ                                              •ET: Raimond Kaljulaid
+KOOS: EE013 •A: Koos •EN: Together                                •ET: Koos                                •RU: Вместе
+P:    EE011 •A: P    •EN: The Right-wingers                       •ET: Parempoolsed
+R:    EE001 •A: R    •EN: Estonian Reform Party                   •ET: Eesti Reformierakond
+SDE:  EE004 •A: SDE  •EN: Social Democratic Party                 •ET: Sotsiaaldemokraatlik Erakond
+TULE: EE010 •A: TULE •EN: Estonian Party for the Future           •ET: Eesti Tulevikuerakond
