@@ -1,15 +1,21 @@
-•PF: Market •C: ÖSTERREICH •FS: 2024-08-05 •FE: 2024-08-06 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 23 SPÖ: 22 NEOS: 10 GRÜNE: 8 BIER: 5 KPÖ: 2 •O: 3
-•PF: Market •C: Der Standard •FS: 2024-07-08 •FE: 2024-07-11 •SC: N •SS: 815 FPÖ: 27 ÖVP: 22 SPÖ: 22 NEOS: 11 GRÜNE: 9 BIER: 5 KPÖ: 3 •O: 1
-•PF: Market •C: ÖSTERREICH •FS: 2024-07-08 •FE: 2024-07-10 •SC: N •SS: 2000 FPÖ: 28 ÖVP: 22 SPÖ: 21 NEOS: 11 GRÜNE: 9 BIER: 5 KPÖ: 3 •O: 1
-•PF: Market •FS: 2024-07-01 •FE: 2024-07-02 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 24 SPÖ: 21 NEOS: 11 GRÜNE: 9 BIER: 4 KPÖ: 2 •O: 2
-•PF: OGM •C: KURIER •FS: 2024-06-24 •FE: 2024-06-26 •SC: N •SS: 1023 FPÖ: 27 ÖVP: 24 SPÖ: 21 GRÜNE: 11 NEOS: 8 BIER: 5 KPÖ: 3 •O: 1
-•PF: Market •C: ÖSTERREICH •FS: 2024-06-24 •FE: 2024-06-25 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 24 SPÖ: 21 GRÜNE: 10 NEOS: 9 BIER: 5 KPÖ: 2 •O: 2
-•PF: Unique Research •C: profil •FS: 2024-06-12 •FE: 2024-06-19 •SC: N •SS: 1008 FPÖ: 27 ÖVP: 23 SPÖ: 21 NEOS: 10 GRÜNE: 9 BIER: 7 KPÖ: 2 •O: 1
-•PF: Market •C: ÖSTERREICH •FS: 2024-06-10 •FE: 2024-06-19 •SC: N •SS: 2000 FPÖ: 25 ÖVP: 23 SPÖ: 22 GRÜNE: 10 NEOS: 10 BIER: 6 KPÖ: 3 •O: 1
-•PF: Unique Research  •C: Heute  •FS: 2024-06-10 •FE: 2024-06-13 •SC: N •SS: 800 FPÖ: 28 ÖVP: 23 SPÖ: 21 GRÜNE: 10 NEOS: 8 BIER: 7 KPÖ: 2 •O: 1
-•PF: OGM  •C: Servus TV •FS: 2024-06-10 •FE: 2024-06-11 •SC: N •SS: 1245 FPÖ: 27 SPÖ: 24 ÖVP: 23 GRÜNE: 9 NEOS: 8 BIER: 5 KPÖ: 3 •O: 1
-•PF: Market   •C: ÖSTERREICH   •FS: 2024-06-10 •FE: 2024-06-11 •SC: N •SS: 2000 FPÖ: 26 SPÖ: 24 ÖVP: 22 NEOS: 10 GRÜNE: 8 BIER: 6 KPÖ: 3 •O: 1
-•PF: INSA      •C: eXXpress     •FS: 2024-06-03 •FE: 2024-06-05 •SC: N •SS: 1000 FPÖ: 32 SPÖ: 21 ÖVP: 20 GRÜNE: 8 NEOS: 8 BIER: 6 KPÖ: 3 •O: 0
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-08-05 •FE: 2024-08-06 •SC: N •SS: 2000  FPÖ: 27  SPÖ: 22  ÖVP: 23  GRÜNE: 8  NEOS: 10  KPÖ: 2  BIER: 5  •O: 3  
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-07-22 •FE: 2024-07-30 •SC: N •SS: 2000  FPÖ: 27  SPÖ: 22  ÖVP: 23  GRÜNE: 8  NEOS: 10  KPÖ: 3  BIER: 5  •O: 2  
+•PF: IFDD                                    •C:                                            •FS: 2024-07-25 •FE: 2024-07-26 •SC: N •SS: 1100  FPÖ: 26  SPÖ: 23  ÖVP: 25  GRÜNE: 9  NEOS: 9   KPÖ: 3  BIER: 5  •O: 0  
+•PF: Market/Lazarsfeld                       •C:                                            •FS: 2024-07-15 •FE: 2024-07-24 •SC: N •SS: 2000  FPÖ: 27  SPÖ: 23  ÖVP: 24  GRÜNE: 8  NEOS: 10  KPÖ: 3  BIER: 5  •O: 0  
+•PF: Spectra                                 •C:                                            •FS: 2024-07-12 •FE: 2024-07-21 •SC: N •SS: 1000  FPÖ: 27  SPÖ: 22  ÖVP: 22  GRÜNE: 9  NEOS: 9   KPÖ: 4  BIER: 6  •O: 1  
+•PF: Unique Research                         •C:                                            •FS: 2024-07-08 •FE: 2024-07-12 •SC: N •SS: 1000  FPÖ: 28  SPÖ: 20  ÖVP: 23  GRÜNE: 9  NEOS: 9   KPÖ: 4  BIER: 6  •O: 1  
+•PF: Market                                  •C:                                            •FS: 2024-07-08 •FE: 2024-07-11 •SC: N •SS: 815   FPÖ: 27  SPÖ: 22  ÖVP: 22  GRÜNE: 9  NEOS: 11  KPÖ: 3  BIER: 5  •O: 1  
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-07-08 •FE: 2024-07-10 •SC: N •SS: 2000  FPÖ: 28  SPÖ: 21  ÖVP: 22  GRÜNE: 9  NEOS: 11  KPÖ: 3  BIER: 5  •O: 1  
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-07-01 •FE: 2024-07-02 •SC: N •SS: 2000  FPÖ: 27  SPÖ: 21  ÖVP: 24  GRÜNE: 9  NEOS: 11  KPÖ: 2  BIER: 4  •O: 2  
+•PF: OGM                                     •C:                                            •FS: 2024-06-24 •FE: 2024-06-26 •SC: N •SS: 1023  FPÖ: 27  SPÖ: 21  ÖVP: 24  GRÜNE: 11 NEOS: 8   KPÖ: 3  BIER: 5  •O: 1  
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-06-24 •FE: 2024-06-25 •SC: N •SS: 2000  FPÖ: 27  SPÖ: 21  ÖVP: 24  GRÜNE: 10 NEOS: 9   KPÖ: 2  BIER: 5  •O: 2  
+•PF: Unique Research                         •C:                                            •FS: 2024-06-12 •FE: 2024-06-19 •SC: N •SS: 1008  FPÖ: 27  SPÖ: 21  ÖVP: 23  GRÜNE: 9  NEOS: 10  KPÖ: 2  BIER: 7  •O: 1  
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-06-10 •FE: 2024-06-19 •SC: N •SS: 2000  FPÖ: 25  SPÖ: 22  ÖVP: 23  GRÜNE: 10 NEOS: 10  KPÖ: 3  BIER: 6  •O: 1  
+•PF: Unique Research                         •C:                                            •FS: 2024-06-10 •FE: 2024-06-13 •SC: N •SS: 800   FPÖ: 28  SPÖ: 21  ÖVP: 23  GRÜNE: 10 NEOS: 8   KPÖ: 2  BIER: 7  •O: 1  
+•PF: OGM                                     •C:                                            •FS: 2024-06-10 •FE: 2024-06-11 •SC: N •SS: 1245  FPÖ: 27  SPÖ: 24  ÖVP: 23  GRÜNE: 9  NEOS: 8   KPÖ: 3  BIER: 5  •O: 1  
+•PF: Market-Lazarsfeld                       •C:                                            •FS: 2024-06-10 •FE: 2024-06-11 •SC: N •SS: 2000  FPÖ: 26  SPÖ: 24  ÖVP: 22  GRÜNE: 8  NEOS: 10  KPÖ: 3  BIER: 6  •O: 1  
+•PF: INSA                                    •C:                                            •FS: 2024-06-03 •FE: 2024-06-05 •SC: N •SS: 1000  FPÖ: 32  SPÖ: 21  ÖVP: 20  GRÜNE: 8  NEOS: 8   KPÖ: 3  BIER: 6  •O: 0  
+
 •PF: Market                           •C: ÖSTERREICH                   •FS: 2024-06-03 •FE: 2024-06-04                 •SC: E •SS: 2000 FPÖ: 28.5 SPÖ: 23.5 ÖVP: 20.5 NEOS: 13.5 GRÜNE: 9         KPÖ: 3 DNA: 2
 &                                                                                                                      •SC: N •SS: 2000 FPÖ: 26 ÖVP: 20 SPÖ: 24 GRÜNE:  8 NEOS: 11 BIER: 6  KPÖ: 3 •O: 2
 •PF: Market                           •C: ÖSTERREICH                   •FS: 2024-05-24 •FE: 2024-05-28                 •SC: E •SS: 2000 FPÖ: 28 SPÖ: 23 ÖVP: 22 NEOS: 15 GRÜNE: 9         KPÖ: 2 DNA: 1
