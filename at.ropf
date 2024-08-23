@@ -1,7 +1,7 @@
-•PF: OGM •C: Servus TV •FS: 2024-08 •FE: 2024-08 •SC: N FPÖ: 27 ÖVP: 23 SPÖ: 21 GRÜNE: 9 NEOS: 9 BIER: 6 KPÖ: 3 •O: 2
-•PF: Market •C: ÖSTERREIC •FS: 2024-08-19 •FE: 2024-08-20 •SC: N •SS: 2000 FPÖ: 29 ÖVP: 22 SPÖ: 21 NEOS: 11 GRÜNE: 7 BIER: 5 KPÖ: 2 •O: 3
+•PF: OGM •C: Servus TV •FS: 2024-08 •FE: 2024-08 •SC: N FPÖ: 27 ÖVP: 23 SPÖ: 21 GRÜNE: 9 NEOS: 9 BIER: 6 KPÖ: 3 LMP: 1 KEINE: 1 •O: 0
+•PF: Market •C: ÖSTERREIC •FS: 2024-08-19 •FE: 2024-08-20 •SC: N •SS: 2000 FPÖ: 29 ÖVP: 22 SPÖ: 21 NEOS: 11 GRÜNE: 7 BIER: 5 KPÖ: 2 LMP: 1 KEINE: 1 •O: 1
 •PF: INSA                             •C: eXXpress                                                    •FS: 2024-08-05 •FE: 2024-08-07                 •SC: N •SS: 1000 FPÖ: 31 SPÖ: 21 ÖVP: 19 GRÜNE: 9 NEOS: 8 BIER: 7 KPÖ: 2          •O: 3
-•PF: Market                           •C: ÖSTERREICH                                                  •FS: 2024-08-05 •FE: 2024-08-06                 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 23 SPÖ: 22 NEOS: 10 GRÜNE: 8 BIER: 5 KPÖ: 2 LMP: 1  •O: 2
+•PF: Market                           •C: ÖSTERREICH                                                  •FS: 2024-08-05 •FE: 2024-08-06                 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 23 SPÖ: 22 NEOS: 10 GRÜNE: 8 BIER: 5 KPÖ: 2 LMP: 1 KEINE: 1 •O: 1
 •PF: Market                           •C: ÖSTERREICH                                                  •FS: 2024-07-22 •FE: 2024-07-30                 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 23 SPÖ: 22 NEOS: 10 GRÜNE: 8 BIER: 5 KPÖ: 3 LMP: 1  •O: 1
 •PF: IFDD                             •C: Radio Content Austria                                       •FS: 2024-07-25 •FE: 2024-07-26                 •SC: N •SS: 1100 FPÖ: 26 ÖVP: 25 SPÖ: 23 GRÜNE: 9 NEOS: 9 BIER: 5 KPÖ: 3          •O: 0
 •PF: Market                           •C: ÖSTERREICH                                                  •FS: 2024-07-15 •FE: 2024-07-24                 •SC: N •SS: 2000 FPÖ: 27 ÖVP: 24 SPÖ: 23 NEOS: 10 GRÜNE: 8 BIER: 5 KPÖ: 3         •O: 0
@@ -429,6 +429,7 @@ GILT:  AT007 •A: G!LT  •DE: Meine Stimme Gilt!                              
 GRÜNE: AT005 •A: GRÜNE •DE: Die Grünen – Die Grüne Alternative                 •EN: The Greens – The Green Alternative
 HC:    AT008 •A: HC    •DE: Team HC Strache – Allianz für Österreich           •EN: Team HC Strache – Alliance for Austria
 JETZT: AT006 •A: JETZT •DE: JETZT – Liste Pilz                                 •EN: NOW – List Pilz
+KEINE: AT014 •A: KEINE •DE: Wandel                                             •EN: Change
 KPÖ:   AT010 •A: KPÖ   •DE: Kommunistische Partei Österreichs                  •EN: Communist Party of Austria
 LMP:   AT013 •A: LMP   •DE: Liste Madeleine Petrovic                           •EN: Madeleine Petrovic List
 MFG:   AT009 •A: MFG   •DE: MFG – Österreich Menschen – Freiheit – Grundrechte •EN: MFG – Austria People – Freedom – Fundamental Rights
