@@ -1,5 +1,6 @@
 •PF: OpinionWay                                              •FS: 2024-09-18 •FE: 2024-09-18 •SC: P1 •SS: 1009 LEPEN: 35 PHILIPPE: 26 GLUCKSMANN: 14 MÉLENCHON: 10 WAUQUIEZ: 5 ZEMMOUR: 5 ROUSSEL: 4 ROUSSEAU: 1
 •PF: Ifop–Fiducial      •C: Sud Radio                        •FS: 2024-09-06 •FE: 2024-09-09 •SC: P1 •SS: 1090 LEPEN: 34 ATTAL: 22 MÉLENCHON: 10 WAUQUIEZ: 8 TONDELIER: 6 FAURE: 5 ROUSSEL: 5 ZEMMOUR: 3 DUPONTAIGNAN: 2.5 LASSALLE: 2.5 POUTOU: 2 ARTHAUD: 1
+•PF: OpinionWay                                              •FS: 2023-04-12 •FE: 2023-04-13 •SC: P1 •SS: 1038 PHILIPPE: 32 BARDELLA: 23 MÉLENCHON: 17 ZEMMOUR: 9 WAUQUIEZ: 7 FAURE: 6 POUTOU: 3 ROUSSEAU: 2 ARTHAUD: 1
 •PF: Harris Interactive •C: Challenges                       •FS: 2023-04-06 •FE: 2023-04-07 •SC: P1 •SS: 1320 LEPEN: 30 PHILIPPE: 24 MÉLENCHON: 16 ZEMMOUR: 7 CAZENEUVE: 5 WAUQUIEZ: 5 JADOT: 4 ROUSSEL: 4 DUPONTAIGNAN: 2 ARTHAUD: 1 POUTOU: 1
 &                                                                                                              LEPEN: 32 MÉLENCHON: 18 LEMAIRE: 16 CAZENEUVE: 7 ZEMMOUR: 7 JADOT: 5 ROUSSEL: 5 WAUQUIEZ: 5 DUPONTAIGNAN: 2 ARTHAUD: 1 POUTOU: 1
 &                                                                                                              LEPEN: 33 MÉLENCHON: 19 DARMANIN: 10 CAZENEUVE: 8 ZEMMOUR: 8 WAUQUIEZ: 7 JADOT: 5 ROUSSEL: 5 DUPONTAIGNAN: 2 ARTHAUD: 1 POUTOU: 1
@@ -12,6 +13,7 @@
 
 ARTHAUD:      FR915 •A: ARTHAUD      •FR: Nathalie Arthaud
 ATTAL:        FR813 •A: ATTAL        •FR: Gabriel Attal
+BARDELLA:     FR919 •A: BARDELLA     •FR: Jordan Bardella
 BAYROU:       FR906 •A: BAYROU       •FR: François Bayrou
 CAZENEUVE:    FR916 •A: CAZENEUVE    •FR: Bernard Cazeneuve
 DARMANIN:     FR905 •A: DARMANIN     •FR: Gérald Darmanin
@@ -26,7 +28,7 @@ LEPEN:        FR901 •A: LEPEN        •FR: Marine Le Pen
 MÉLENCHON:    FR903 •A: MÉLENCHON    •FR: Jean-Luc Mélenchon
 PHILIPPE:     FR902 •A: PHILIPPE     •FR: Édouard Philippe
 POUTOU:       FR913 •A: POUTOU       •FR: Philippe Poutou
-ROUSSEAU:     FR804 •A: ROUSSEAU     •FR: Sandrine Rousseau
+ROUSSEAU:     FR920 •A: ROUSSEAU     •FR: Sandrine Rousseau
 ROUSSEL:      FR909 •A: ROUSSEL      •FR: Fabien Roussel
 TONDELIER:    FR914 •A: TONDELIER    •FR: Marine Tondelier
 WAUQUIEZ:     FR907 •A: WAUQUIEZ     •FR: Laurent Wauquiez
