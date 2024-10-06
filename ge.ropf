@@ -1,3 +1,5 @@
+•PF: Edison Research                  •C: Formula TV               •FS: 2024-09-01 •FE: 2024-09-15 •SC: N •SS: 1200           GD: 32.3 UNITY: 20.0 CFC: 10.9 FORGEORGIA: 10.5 SG: 9.3 GIRCHI: 6.0 SLP: 5.1 APG: 3.6 CHVEN: 1.5                                                                       •O: 0.8
+•PF: Edison Research                  •C: Formula TV               •FS: 2024-08-11 •FE: 2024-09-08 •SC: N •SS: 1000           GD: 34.0 UNITY: 19.2 FORGEORGIA: 10.6 SG: 9.8 CFC: 9.1 GIRCHI: 5.9 SLP: 5.1 APG: 3.0 CHVEN: 2.1                                                                        •O: 1.2
 •PF: GORBI                            •C: Imedi TV                 •FS: 2024-07-24 •FE: 2024-08-04 •SC: N •SS: 1700           GD: 59.3 UNITY: 13.1 SG: 5.8 CFC: 5.5 FORGEORGIA: 4.8 APG+CMAI: 3 EG: 2.2 GIRCHI: 2.1                                                                                  •O: 4.2
 •PF: Edison Research                  •C: Formula TV               •FS: 2024-07-11 •FE: 2024-07-24 •SC: N •SS: 1000           GD: 32.4 UNITY: 17.3 SG: 12.8 FORGEORGIA: 11.2 CFC: 9.9 GIRCHI: 5.2 SLP: 3.3 APG: 2.6 CITIZENS: 2.2 EG: 1.9                                                            •O: 1.2
 •PF: ISSA                             •C: Civil Society Foundation •FS: 2024-06-01 •FE: 2024-06-30 •SC: N •SS: 2000           GD: 34.4 UNITY: 16.9 AHALI: 12.4 LELO: 8.0 FORGEORGIA: 6.9 DROA+GIRCHIMF: 5.1 EG: 4.4 FTP: 2.3 APG: 2.1 GIRCHI: 1.9 SLP: 1.8 CITIZENS: 1.6 CMAI: 0.9 PP: 0.8           •O: 0.3
@@ -60,6 +62,8 @@
 •PF: CRRC Georgia                     •C: NDI                      •FS: 2013-06-12 •FE: 2013-06-26 •SC: N •SS: 2338           GD: 52 UNM: 10                                                                                                                                                         •O: 6   •N: 38
 •PF: CRRC Georgia                     •C: NDI                      •FS: 2013-03-13 •FE: 2013-03-27 •SC: N •SS: 3103           GD: 60 UNM: 10                                                                                                                                                         •O: 4   •N: 26
 •PF: CRRC Georgia                     •C: NDI                      •FS: 2012-11-14 •FE: 2012-11-25 •SC: N •SS: 1947           GD: 63 UNM: 10 CDM: 3                                                                                                                                                  •O: 1   •N: 23
+•PF: Forsa                            •C: YPA/DF                   •FS: 2012-09-20 •FE: 2012-09-26 •SC: N                     GD: 65 UNM: 25                                                                                                                                                         •O: 10   
+•PF: Forsa                            •C: YPA/DF                   •FS: 2012-08-17 •FE: 2012-08-30 •SC: N                     GD: 49 UNM: 43 CDM: 6                                                                                                                                                  •O: 2   
 •PF: CRRC Georgia                     •C: NDI                      •FS: 2012-07-31 •FE: 2012-08-12 •SC: N •SS: 2038           UNM: 37 GD: 12 CDM: 3                                                                                                                                                  •O: 2   •N: 46
 •PF: CRRC Georgia                     •C: NDI                      •FS: 2012-06-04 •FE: 2012-06-22 •SC: N •SS: 6299 •EX: 25.0 UNM: 36 GD: 18 CDM: 3                                                                                                                                                  •O: 1   •N: 42
 
@@ -67,6 +71,7 @@ AHALI:      GE019 •A: Ahali       •EN: Ahali                                
 APG:        GE003 •A: APG         •EN: Alliance of Patriots of Georgia      •KA: საქართველოს პატრიოტთა ალიანსი
 CDM:        GE023 •A: CDM         •EN: Christian-Democratic Movement        •KA: ქრისტიანულ-დემოკრატიული მოძრაობა
 CFC:        GE021 •A: CFC         •EN: Coalition for Change                 •KA: კოალიციამ ცვლილებებისთვის
+CHVEN   :   GE024 •A: Chven       •EN: Chven                                •KA: ჩვენ
 CITIZENS:   GE009 •A: Citizens    •EN: Citizens                             •KA: მოქალაქეები
 CMAI:       GE016 •A: CM/AI       •EN: Conservative Movement/Alt Info       •KA: კონსერვატიული მოძრაობა/ალტ-ინფო
 DM:         GE007 •A: DM          •EN: Development Movement                 •KA: შენების მოძრაობა
@@ -88,6 +93,6 @@ UNITY:      GE018 •A: Unity       •EN: Unity - to save Georgia              
 UNM:        GE002 •A: UNM         •EN: United National Movement             •KA: ერთიანი ნაციონალური მოძრაობა
 
 ‡ Named alliances:
-‡ USG = UNM + SB
-‡ SG = LELO + FTP
+‡ USG = UNM + SB + EG
+‡ SG = LELO + FTP + CITIZENS
 ‡ CFC = AHALI + GIRCHIMF + DROA
