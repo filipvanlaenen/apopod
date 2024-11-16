@@ -1,8 +1,8 @@
-•PF: INSCOP              •C: Libertatea                                •FS: 2024-11-07 •FE: 2024-11-12 •SC: N •SS: 1100  PSD: 31.1 PNL: 16.2 USR: 12.7 FD: 1.1 SOSRO: 5.9 UDMR: 4.5 REPER: 2.6 PER: 1.2 SENS: 1 DREPT: 1.2 AUR: 20.7
-•PF: CURS                                                              •FS: 2024-10-30 •FE: 2024-11-05 •SC: N •SS: 1067  PSD: 32 PNL: 20 AUR: 15 USR: 12 RMDSZ: 5 SOSRO: 6 FD: 3 PNCR: 4
-•PF: BCS                 •C: Newsweek                                  •FS: 2024-10-24 •FE: 2024-10-28 •SC: N •SS: 1150  PSD: 31 PNL: 22.5 USR: 16.5 FD: 3.1 S.O.S.RO: 2.6 UDMR: 6.5 REPER: 0.9 AUR: 17.6
-•PF: INSCOP              •C: Libertatea                                •FS: 2024-10-11 •FE: 2024-10-18 •SC: N •SS: 1100  PSD: 30.2 PNL: 13.2 USR: 12.7 FD: 0.6 S.O.S.RO: 8.1 UDMR: 3.7 REPER: 2.5 PER: 2.1 AUR: 21.4
-•PF: CURS                                                              •FS: 2024-10-11 •FE: 2024-10-16 •SC: N •SS: 1006  PSD: 31 PNL: 20 AUR: 18 USR: 15 RMDSZ: 3 SOSRO: 7 FD: 3
+•PF: INSCOP              •C: Libertatea                                •FS: 2024-11-07 •FE: 2024-11-12 •SC: N •SS: 1100  PSD: 31.1 AUR: 20.7 PNL: 16.2 USR: 12.7 SOSRO: 5.9 RMDSZ: 4.5 REPER: 2.6 DREPT: 1.2 PER: 1.2 FD: 1.1 SENS: 1
+•PF: CURS                                                              •FS: 2024-10-30 •FE: 2024-11-05 •SC: N •SS: 1067  PSD: 32 PNL: 20 AUR: 15 USR: 12 SOSRO: 6 RMDSZ: 5 PNCR: 4 FD: 3
+•PF: BCS                 •C: Newsweek                                  •FS: 2024-10-24 •FE: 2024-10-28 •SC: N •SS: 1150  PSD: 31 PNL: 22.5 AUR: 17.6 USR: 16.5 RMDSZ: 6.5 FD: 3.1 SOSRO: 2.6 REPER: 0.9
+•PF: INSCOP              •C: Libertatea                                •FS: 2024-10-11 •FE: 2024-10-18 •SC: N •SS: 1100  PSD: 30.2 AUR: 21.4 PNL: 13.2 USR: 12.7 SOSRO: 8.1 RMDSZ: 3.7 REPER: 2.5 PER: 2.1 FD: 0.6
+•PF: CURS                                                              •FS: 2024-10-11 •FE: 2024-10-16 •SC: N •SS: 1006  PSD: 31 PNL: 20 AUR: 18 USR: 15 SOSRO: 7 FD: 3 RMDSZ: 3
 •PF: INSCOP              •C: Institutul pentru Libertate și Democrație •FS: 2024-09-11 •FE: 2024-09-16 •SC: N •SS: 1002  PSD: 30.1 USR: 17.1 AUR: 14.7 PNL: 14.3 SOSRO: 8.9 RMDSZ: 5.0 REPER: 1.9 PRO: 1.4 FD: 0.9 PMP: 0.8 PER: 0.7 PUSL: 0.3
 •PF: CURS                                                              •FS: 2024-08-13 •FE: 2024-08-27 •SC: N •SS: 1067  PSD: 33 PNL: 23 AUR: 14 USR: 11 RMDSZ: 5 SOSRO: 5 PMP: 4
 •PF: INSCOP              •C: News.ro                                   •FS: 2024-06-19 •FE: 2024-06-27 •SC: N •SS: 1100  PSD: 29.4 PNL: 18.9 AUR: 14.7 USR: 12.2 SOSRO: 6.1 RMDSZ: 4.6 REPER: 3.6 PER: 2.2 PV: 1.9 PUSL: 1.5 PRO: 1.1          •O: 3.8
@@ -206,14 +206,13 @@ ALDE:    RO004 •A: ALDE     •EN: Alliance of Liberals and Democrats         
 APP:     RO014 •A: APP      •EN: Alliance for the Homeland                                                             •RO: Alianța pentru Patrie
 AUR:     RO010 •A: AUR      •EN: Alliance for the Union of Romanians                                                   •RO: Alianța pentru Unirea Românilor
 BSR:     RO022 •A: BSR      •EN: Romanian Sovereigntist Bloc                                                           •RO: Blocul Suveranist Român
-PNCR:    RO023 •A: PNCR     •EN: Romanian National Conservative Party                                                  •RO: Partidul Național Conservator Român
-SENS:    RO024 •A: SENS     •EN: Health, Education, Nature, Sustainability                                             •RO: Sănătate, Educație, Natură, Sustenabilitate
-DREPT:   RO025 •A: DREPT    •EN: Justice and Respect in Europe For All                                                 •RO: Dreptate și Respect în Europa Pentru Toți
 CNR:     RO021 •A: CNR      •EN: National Coalition for Romania                                                        •RO: Coaliția Națională pentru România
+DREPT:   RO025 •A: DREPT    •EN: Justice and Respect in Europe For All                                                 •RO: Dreptate și Respect în Europa Pentru Toți
 FD:      RO015 •A: FD       •EN: Force of the Right                                                                    •RO: Forța Dreptei
 PER:     RO013 •A: PER      •EN: Romanian Ecologist Party                                                              •RO: Partidul Ecologist Român
 PLUS:    RO007 •A: PLUS     •EN: Party of Liberty, Unity and Solidarity                                                •RO: Partidul Libertate, Unitate și Solidaritate
 PMP:     RO006 •A: PMP      •EN: People’s Movement Party                                                               •RO: Partidul Mișcarea Populară
+PNCR:    RO023 •A: PNCR     •EN: Romanian National Conservative Party                                                  •RO: Partidul Național Conservator Român
 PNL:     RO003 •A: PNL      •EN: National Liberal Party                                                                •RO: Partidul Național Liberal
 PRO:     RO008 •A: PRO      •EN: PRO Romania                                                                           •RO: PRO România
 PSD:     RO001 •A: PSD      •EN: Social Democratic Party                                                               •RO: Partidul Social Democrat
@@ -221,6 +220,7 @@ PUSL:    RO011 •A: PUSL     •EN: Social Liberal Humanist Party              
 PV:      RO018 •A: PV       •EN: Green Party - The Greens                                                              •RO: Partidul Verde
 REPER:   RO016 •A: REPER    •EN: Renewing Romania’s European Project                                                   •RO: Reînnoim Proiectul European al României
 RMDSZ:   RO005 •A: RMDSZ    •EN: Democratic Alliance of Hungarians in Romania •HU: Romániai Magyar Demokrata Szövetség •RO: Uniunea Democrată Maghiară din România
+SENS:    RO024 •A: SENS     •EN: Health, Education, Nature, Sustainability                                             •RO: Sănătate, Educație, Natură, Sustenabilitate
 SOSRO:   RO017 •A: SOSRO    •EN: S.O.S. Romania Party                                                                  •RO: Partidul S.O.S. România
 USR:     RO012 •A: USR      •EN: Save Romania Union                                                                    •RO: Uniunea Salvați România
 USR16:   RO002 •A: USR(16)  •EN: Save Romania Union (2016–2021)                                                        •RO: Uniunea Salvați România (2016–2021)
