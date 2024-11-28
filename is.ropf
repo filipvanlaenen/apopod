@@ -1,5 +1,10 @@
-•PF: Maskína                                                 •FS: 2024-10-22      •FE: 2024-10-28    •SC: N     •SS: 1708                                 D: 13.9 B: 6.9  V: 3.8 S: 22.2 F: 9.3 P: 4.5  C: 16.2 M: 15.9 J: 4.0 L: 1.6   •O: 1.7                                                
-•PF: Prósent                                                 •FS: 2024-10-18      •FE: 2024-10-24    •SC: N     •SS: 2500       •EX: 50.0                 D: 13.3 B: 5.8  V: 2.4 S: 24.2 F: 11.4 P: 5.8  C: 15.0 M: 16.1 J: 4.3 L: 1.1
+•PF: Maskína                                                 •FS: 2024-11-08      •FE: 2024-11-13    •SC: N     •SS: 1406                                 D: 13.4 B: 7.3  V: 3.4 S: 20.1 F: 9.2  P: 5.1  C: 19.9 M: 12.6 J: 6.3 L: 2.1 Y: 0.6
+•PF: Prósent                                                 •FS: 2024-11-01      •FE: 2024-11-07    •SC: N     •SS: 2400       •EX: 50.0                 D: 12.3 B: 5.8  V: 2.6 S: 21.6 F: 11.5 P: 5.7  C: 17.1 M: 15.1 J: 6.7 L: 1.4 Y: 0.2
+•PF: Maskína                                                 •FS: 2024-11-01      •FE: 2024-11-06    •SC: N     •SS: 1406                                 D: 13.3 B: 7.5  V: 3.2 S: 20.9 F: 8.9  P: 4.8  C: 19.4 M: 14.9 J: 4.5 L: 1.7 Y: 0.8
+•PF: Gallup                                                  •FS: 2024-10-30      •FE: 2024-10-31    •SC: N     •SS: 12125      •EX: 52.5                 D: 17.3 B: 6.5  V: 4.1 S: 23.8 F: 7.8  P: 5.4  C: 13.5 M: 16.5 J: 4.5 L: 0.6 Y: 0.0
+•PF: Prósent                                                 •FS: 2024-10-25      •FE: 2024-10-31    •SC: N     •SS: 2400                                 D: 14.1 B: 5.8  V: 2.6 S: 22.3 F: 11.2 P: 4.9  C: 18.5 M: 14.4 J: 4.0 L: 1.5 Y: 0.4 •O: 0.5                                                
+•PF: Maskína                                                 •FS: 2024-10-22      •FE: 2024-10-28    •SC: N     •SS: 1708                                 D: 13.9 B: 6.9  V: 3.8 S: 22.2 F: 9.3 P: 4.5  C: 16.2 M: 15.9 J: 4.0 L: 1.6 Y: 0.9   •O: 0.9                                                
+•PF: Prósent                                                 •FS: 2024-10-18      •FE: 2024-10-24    •SC: N     •SS: 2500       •EX: 50.0                 D: 13.3 B: 5.8  V: 2.4 S: 24.2 F: 11.4 P: 5.8  C: 15.0 M: 16.1 J: 4.3 L: 1.1 Y: 0.4
 •PF: Prósent                                                                      •PD: 2024-10-18    •SC: N                                               D: 15.6 B: 6.2  V: 2.2 S: 24.8 F: 10.8 P: 6.1  C: 14.1 M: 15.1 J: 4.2
 •PF: Maskína                                                 •FS: 2024-10-13      •FE: 2024-10-18    •SC: N                                               D: 14.1 B:  8   V: 5.1 S: 21.9 F: 7.3 P: 5.2  C: 13.4 M: 17.7 J: 5.2 L: 2.1                         
 •PF: Prósent                                                 •FS: 2024-09-18      •FE: 2024-10-03    •SC: N     •SS: 2150       •EX: 49.2                 D: 12   B: 5    V: 3   S: 26   F: 11  P: 9    C: 11   M: 18   J: 4
@@ -214,3 +219,4 @@ M: IS004 •A: M •EN: Centre Party               •IS: Miðflokkurinn
 P: IS005 •A: P •EN: Pirate Party               •IS: Píratar
 S: IS002 •A: S •EN: Social Democratic Alliance •IS: Samfylkingin - jafnaðarflokkur Íslands
 V: IS003 •A: V •EN: Left-Green Movement        •IS: Vinstrihreyfingin – grænt framboð
+Y: IS011 •A: Y •EN: Responsible Future         •IS: Ábyrg framtíð
