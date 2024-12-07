@@ -41,13 +41,20 @@
 •PF: Institute of Race Relations                                 •FS: 2018-08-22 •FE: 2018-09-04 •SC: N •SS: 978          ANC: 52 DA: 23 EFF: 13 IFP: 3 ACDP: 2 VFPLUS: 1                                             •N: 2
 •PF: Ipsos                                                       •FS: 2018-04-20 •FE: 2018-06-07 •SC: N •SS: 3738         ANC: 60 DA: 13 EFF: 7                                                              •O: 2    •N: 18
 •PF: Ipsos                                                       •FS: 2017-05    •FE: 2017-05    •SC: N •SS: 3471         ANC: 47 DA: 21 EFF: 5                                                              •O: 3    •N: 24
+•PF: Ipsos                       •C: Sunday Times                •FS: 2014-04-23 •FE: 2014-04-23 •SC: N •SS: 500          ANC: 63.9 DA: 23.7 EFF: 4.7 COPE: 3.4 IFP: 0.8 ACDP: 0.3 AGANGSA: 0.3              •O: 2.9
+•PF: Ipsos                       •C: Sunday Times                •FS: 2014-03-21 •FE: 2014-04-04 •SC: N •SS: 2219         ANC: 65.5 DA: 23.1 EFF: 4.0 IFP: 2.8 COPE: 1.3 ACDP: 0.8 AGANGSA: 0.0              •O: 2.5
+•PF: Ipsos                       •C: Pulse of the People         •FS: 2014-02-20 •FE: 2014-03-28 •SC: N •SS: 3730         ANC: 63.4 DA: 22.9 EFF: 4.7 IFP: 1.9 COPE: 1.2 ACDP: 0.9                                    •N: 7.4
+•PF: Ipsos                       •C: Sunday Times                •FS: 2014-02-20 •FE: 2014-03-11 •SC: N •SS: 2222         ANC: 61.0 DA: 20.5 EFF: 3.4                                                                 •N: 7.4
+•PF: Ipsos                       •C: Pulse of the People         •FS: 2013-10    •FE: 2013-11    •SC: N •SS: 3564         ANC: 53 DA: 18 EFF: 4 ACDP: 1 AGANGSA: 1 COPE: 1 IFP: 1                            •O: 2    •N: 19
 
 ACDP:     ZA007 •A: ACDP                                 •EN: African Christian Democratic Party
 ACTIONSA: ZA006 •A: ActionSA                             •EN: ActionSA
+AGANGSA:  ZA011 •A: Agang SA                             •EN: Build South Africa                 •TN: Agang South Africa
 ANC:      ZA001 •A: ANC                                  •EN: African National Congress
+COPE:     ZA010 •A: COPE                                 •EN: Congress of the People
 DA:       ZA002 •A: DA       •AF: Demokratiese Alliansie •EN: Democratic Alliance
 EFF:      ZA003 •A: EFF                                  •EN: Economic Freedom Fighters
-IFP:      ZA004 •A: IFP                                  •EN: Inkatha Freedom Party              •ZU: IQembu leNkatha yeNkululeko
-MK:       ZA008 •A: MK                                   •EN: Spear of the Nation                •ZU: uMkhonto weSizwe
+IFP:      ZA004 •A: IFP                                  •EN: Inkatha Freedom Party                                      •ZU: IQembu leNkatha yeNkululeko
+MK:       ZA008 •A: MK                                   •EN: Spear of the Nation                                        •ZU: uMkhonto weSizwe
 PA:       ZA009 •A: PA                                   •EN: Patriotic Alliance
 VFPLUS:   ZA005 •A: VF Plus  •AF: Vryheidsfront Plus     •EN: Freedom Front Plus
