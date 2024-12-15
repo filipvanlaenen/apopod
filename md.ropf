@@ -1,3 +1,7 @@
+•PF: IRI                                  •FS: 2024-05-23      •FE: 2024-06-13    •SC: N     •SS: 1225 PAS: 44.0 BCS: 24.0 ȘORB: 12.0   PN: 5.3 PPDA: 1.3 CUB: <1.3 PDA: 1.3                    PDCM: 6.7 MAN: 4.0   
+•PF: iData                                •FS: 2024-05-22      •FE: 2024-05-27    •SC: N     •SS: 1022 PAS: 38.2 BCS: 23.2 VICTORIE: 20.4   PN: 3.4 ÎMPREUNĂ: 4.9 PSDE: 2.8                    PDCM: 4.2 MAN: 1.8   •O: 1.0
+•PF: IMAS                                 •FS: 2024-05-02      •FE: 2024-05-19    •SC: N     •SS: 1088 PAS: 42.5 BCS: 28.2 VICTORIE: 14.7   PN: 4.4 ÎMPREUNĂ: 1.0 PSDE: 1.0 PDA: 1.5           PDCM: 3.2 MAN: 1.9
+•PF: iData                                •FS: 2024-04-22      •FE: 2024-04-26    •SC: N     •SS: 1006 PAS: 37.8 BCS: 24.2 PȘ: 19.1         PN: 4.5 ÎMPREUNĂ: 3.6 PSDE: 2.8                    PDCM: 4.7 MAN: 1.6   •O: 1.6
 •PF: Watchdog & CBS-Axa                   •FS: 2024-04-06      •FE: 2024-04-13    •SC: N     •SS: 1008 PAS: 41.6 BCS: 29.4 PȘ: 8.5 PR: 3.2 PN: 4.2 ÎMPREUNĂ: 3.5 PSDE: 3.2                    PDCM: 2.0 MAN: 2.5   •O: 2.0
 •PF: iData                                •FS: 2024-03-18      •FE: 2024-03-24    •SC: N     •SS: 1131 PAS: 36.3 BCS: 27.6           PN: 4.7 PPDA: 1.9                                        PDCM: 3.3 MAN: 1.6 PR: 2.7 PȘ: 18.8 •O: 3.1
 •PF: IMAS •C: Independent News            •FS: 2024-02-09      •FE: 2024-02-27    •SC: N     •SS: 1091 PAS: 38.4 BCS: 28.7           PN: 4.6 PPDA: 1.6  PSDE: 0.8 PDA: 1.5 CUB: 0.5           PDCM: 4.0 MAN: 2.2 PR: 1.0 PȘ: 14.5 
@@ -73,14 +77,18 @@ PDCM: MD009 •A: PDCM •EN: Party of Development and Consolidation of Moldova 
 PN:   MD004 •A: PN   •EN: Our Party                                         •RO: Partidul Nostru
 PPDA: MD005 •A: PPDA •EN: Dignity and Truth Platform Political Party        •RO: Partidul Politic „Platforma Demnitate și Adevăr”
 PR:   MD012 •A: PR   •EN: Revival Party                                     •RO: „Renaștere”
-PȘ:   MD013 •A: ȘOR  •EN: Chance. Duties. Realization.                      •RO: Șansă, Obligații, Realizări                      •RU: Шанс. Обязанности. Реализация.
+PȘ:   MD013 •A: Șansă  •EN: Chance Party                     •RO: Partidul Politic „Șansă”
 PSDE: MD006 •A: PSDE •EN: European Social Democratic Party                  •RO: Partidul Social Democrat European
 PUN:  MD010 •A: PUN  •EN: National Unity Party                              •RO: Partidul Unității Naționale
-ȘOR:  MD003 •A: ȘOR  •EN: ȘOR Party                                         •RO: Partidul „ȘOR”
+ȘOR:  MD003 •A: ȘOR (1998)  •EN: ȘOR Party                                         •RO: Partidul „ȘOR”
 PS: MD014 •A: PS •RO: Partidul Schimbării •EN: Party of Change
 CUB: MD015 •A: CUB •RO: Coaliția pentru Unitate și Bunăstare •EN:  Coalition for Unity and Prosperity
 ÎMPREUNĂ: MD016  •A: Împreună •RO: Împreună •EN: Together
+VICTORIE: MD017 •A: Victorie •EN: Victory •RO: Victorie •RU: Победа
+ȘORB:   MD018 •A: ȘOR  •EN: Chance. Duties. Realization.                      •RO: Șansă, Obligații, Realizări                      •RU: Шанс. Обязанности. Реализация.
 
 ‡ Named alliances:
 ‡ BCS = PSRM + PCRM
 ‡ Împreună = Platforma DA (PDA), Coaliția pentru Unitate și Bunăstare (CUB), Partidul Schimbării (PS) și Liga Orașelor și Comunelor (LOC)
+‡ ȘOR = ȘOR (1998) + Șansă + FASM
+‡ Victorie = Șansă + PR
