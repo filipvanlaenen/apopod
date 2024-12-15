@@ -1,4 +1,4 @@
-•PF: IRI                                                         •FS: 2024-05-23 •FE: 2024-06-13 •SC: N •SS: 1225 PAS: 44.0 BCS: 24.0 ȘOR: 12.0 PDCM: 6.7 PN: 5.3 MAN: 4.0 PDA: 1.3 PPDA: 1.3 CUB: <1.3
+•PF: IRI                                                         •FS: 2024-05-23 •FE: 2024-06-13 •SC: N •SS: 1225 PAS: 44.0 BCS: 24.0 ȘOR: 12.0 PDCM: 6.7 PN: 5.3 MAN: 4.0 PDA: 1.3 PLDM: 1.3 PPDA: 1.3 CUB: <1.3                      •O: 2.7
 •PF: iData                                                       •FS: 2024-05-22 •FE: 2024-05-27 •SC: N •SS: 1022 PAS: 38.2 BCS: 23.2 VICTORIE: 20.4 ÎMPREUNĂ: 4.9 PDCM: 4.2 PN: 3.4 PSDE: 2.8 MAN: 1.8                                •O: 1.0
 •PF: IMAS                                                        •FS: 2024-05-02 •FE: 2024-05-19 •SC: N •SS: 1088 PAS: 42.5 BCS: 28.2 VICTORIE: 14.7 PN: 4.4 PDCM: 3.2 MAN: 1.9 PDA: 1.5 PSDE: 1.0 ÎMPREUNĂ: 1.0
 •PF: iData                                                       •FS: 2024-04-22 •FE: 2024-04-26 •SC: N •SS: 1006 PAS: 37.8 BCS: 24.2 ȘANSĂ: 19.1 PDCM: 4.7 PN: 4.5 ÎMPREUNĂ: 3.6 PSDE: 2.8 MAN: 1.6                                   •O: 1.6
@@ -75,6 +75,7 @@ MAN:      MD011 •A: MAN        •EN: National Alternative Movement           
 PAS:      MD001 •A: PAS        •EN: Party of Action and Solidarity                    •RO: Partidul Acțiune și Solidaritate
 PDA:      MD007 •A: PDA        •EN: Democracy at Home Party                           •RO: Partidul Democrația Acasă
 PDCM:     MD009 •A: PDCM       •EN: Party of Development and Consolidation of Moldova •RO: Partidul Dezvoltării și Consolidării Moldovei
+PLDM:     MD019 •A: PLDM       •EN: Liberal Democratic Party of Moldova               •RO: Partidul Liberal Democrat din Moldova
 PN:       MD004 •A: PN         •EN: Our Party                                         •RO: Partidul Nostru
 PPDA:     MD005 •A: PPDA       •EN: Dignity and Truth Platform Political Party        •RO: Partidul Politic „Platforma Demnitate și Adevăr”
 PR:       MD012 •A: PR         •EN: Revival Party                                     •RO: „Renaștere”
