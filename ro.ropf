@@ -1,3 +1,5 @@
+•PF: Atlas Intel         •C: HotNews                                   •FS: 2024-11-26 •FE: 2024-11-28 •SC: N •SS: 2116  PSD: 21.4 PNL: 13.4   AUR: 22.4   USR: 17.5   RMDSZ: 5.5   FD: 2.5   SOSRO: 4.6   REPER: 1.5 POT: 4.6  SENS: 2.5 DREPT: 0.9 PNCR: 0.1 PER: 0
+•PF: CIRA                •C: Newsweek                                  •FS: 2024-11-09 •FE: 2024-11-13 •SC: N •SS: 1040  PSD: 31 PNL: 20   AUR: 16   USR: 12   RMDSZ: 5   FD: 2   SOSRO: 5   REPER: 1  DREPT: 3 SENS: 1
 •PF: INSCOP              •C: Libertatea                                •FS: 2024-11-07 •FE: 2024-11-12 •SC: N •SS: 1100  PSD: 31.1 AUR: 20.7 PNL: 16.2 USR: 12.7 SOSRO: 5.9 RMDSZ: 4.5 REPER: 2.6 DREPT: 1.2 PER: 1.2 FD: 1.1 SENS: 1
 •PF: CURS                                                              •FS: 2024-10-30 •FE: 2024-11-05 •SC: N •SS: 1067  PSD: 32 PNL: 20 AUR: 15 USR: 12 SOSRO: 6 RMDSZ: 5 PNCR: 4 FD: 3
 •PF: BCS                 •C: Newsweek                                  •FS: 2024-10-24 •FE: 2024-10-28 •SC: N •SS: 1150  PSD: 31 PNL: 22.5 AUR: 17.6 USR: 16.5 RMDSZ: 6.5 FD: 3.1 SOSRO: 2.6 REPER: 0.9
@@ -225,6 +227,7 @@ SOSRO:   RO017 •A: SOSRO    •EN: S.O.S. Romania Party                       
 USR:     RO012 •A: USR      •EN: Save Romania Union                                                                    •RO: Uniunea Salvați România
 USR16:   RO002 •A: USR(16)  •EN: Save Romania Union (2016–2021)                                                        •RO: Uniunea Salvați România (2016–2021)
 USRPLUS: RO009 •A: USR PLUS •EN: USR PLUS                                                                              •RO: USR PLUS
+POT:     RO026 •A: POT      •EN: Party of Young People •RO: Partidul Oamenilor Tineri
 
 ‡ Named alliances:
 ‡ USRPLUS = USR16 + PLUS
