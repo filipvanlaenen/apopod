@@ -1,3 +1,15 @@
+•PF: Freshwater Strategy                    •FS: 2024-12-13 •FE: 2024-12-15 •SC: N  •SS: 1046  LP+NP: 40 ALP: 30 GRN: 14                          •O: 16
+&                                                                           •SC: N2            LP+NP: 51 ALP: 49
+•PF: Essential                              •FS: 2024-12-11 •FE: 2024-12-15 •SC: N  •SS: 1123  LP+NP: 35 ALP: 30 GRN: 13 ONP: 6 UAP: 1            •O: 11   •N: 5
+&                                                                           •SC: N2            LP+NP: 48 ALP: 47
+•PF: Roy Morgan                             •FS: 2024-12-09 •FE: 2024-12-15 •SC: N  •SS: 1672  LP+NP: 41 ALP: 27.5 GRN: 12.5 ONP: 5               •O: 14
+&                                                                           •SC: N2            LP+NP: 52 ALP: 48
+•PF: Resolve Strategic                      •FS: 2024-12-04 •FE: 2024-12-08 •SC: N  •SS: 1604  LP+NP: 38 ALP: 27 GRN: 12 ONP: 7                   •O: 16
+&                                                                           •SC: N2            LP+NP: 51 ALP: 49
+•PF: Roy Morgan                             •FS: 2024-12-02 •FE: 2024-12-08 •SC: N  •SS: 1653  LP+NP: 38 ALP: 28 GRN: 13 ONP: 6.5                 •O: 14.5
+&                                                                           •SC: N2            LP+NP: 52 ALP: 48
+•PF: Newspoll                               •FS: 2024-12-02 •FE: 2024-12-06 •SC: N  •SS: 1258  LP+NP: 39 ALP: 33 GRN: 11 ONP: 7                   •O: 10
+&                                                                           •SC: N2            ALP: 50 LP+NP: 50
 •PF: Essential                              •FS: 2024-11-27 •FE: 2024-12-01 •SC: N  •SS: 1123  LP+NP: 35 ALP: 32 GRN: 11 ONP: 8 UAP: 1            •O: 9    •N: 5
 &                                                                           •SC: N2            LP+NP: 48 ALP: 47
 •PF: Roy Morgan                             •FS: 2024-11-25 •FE: 2024-12-01 •SC: N  •SS: 1666  LP+NP: 38.5 ALP: 30 GRN: 12.5 ONP: 6.5             •O: 12.5
@@ -697,7 +709,7 @@
 &                                                                           •SC: N2            ALP: 51 LP+NP: 49
 •PF: Newspoll-YouGov                        •FS: 2020-02-19 •FE: 2020-02-22 •SC: N  •SS: 1513  LP+NP: 38 ALP: 34 GRN: 13 ONP: 4                   •O: 11
 &                                                                           •SC: N2            ALP: 51 LP+NP: 49
-•PF: ANU                                    •FS: 2020-01-20 •FE: 2020-02-03 •SC: N  •SS: 3249  LP+NP: 34.8 ALP: 33.4 GRN: 14.7                    •O: 10.5
+•PF: ANU                                    •FS: 2020-01-20 •FE: 2020-02-03 •SC: N  •SS: 3249  LP+NP: 34.8 ALP: 33.4 GRN: 14.7                    •O: 10.5 •N: 4.9 •VS: 98.3
 •PF: Newspoll-YouGov                        •FS: 2020-01-29 •FE: 2020-02-01 •SC: N  •SS: 1510  LP+NP: 38 ALP: 35 GRN: 13 ONP: 4                   •O: 10
 &                                                                           •SC: N2            ALP: 52 LP+NP: 48
 •PF: Newspoll-YouGov                        •FS: 2020-01-08 •FE: 2020-01-11 •SC: N  •SS: 1505  LP+NP: 40 ALP: 36 GRN: 12 ONP: 4                   •O: 8
@@ -1440,7 +1452,7 @@
 &                                                                           •SC: N2            ALP: 53 LP+NP: 47
 •PF: Newspoll                               •FS: 2014-11-29 •FE: 2014-11-30 •SC: N             ALP: 37 LP+NP: 37 GRN: 13                          •O: 13
 &                                                                           •SC: N2            ALP: 54 LP+NP: 46
-•PF: Morgan                                 •FS: 2014-11-22 •FE: 2014-11-30 •SC: N             ALP: 37.5 LP+NP: 37 GRN: 12                        •O: 11.5
+•PF: Morgan                                 •FS: 2014-11-22 •FE: 2014-11-30 •SC: N             ALP: 37.5 LP+NP: 37 GRN: 12                        •O: 11.5         •VS: 98.0
 &                                                                           •SC: N2            ALP: 53.5 LP+NP: 46.5
 •PF: Essential                              •FS: 2014-11-25 •FE: 2014-11-25 •SC: N             LP+NP: 40 ALP: 39 GRN: 10                          •O: 11
 &                                                                           •SC: N2            ALP: 52 LP+NP: 48
@@ -1566,7 +1578,7 @@
 &                                                                           •SC: N2            ALP: 51 LP+NP: 49
 •PF: Morgan                                 •FS: 2014-01-28 •FE: 2014-01-28 •SC: N             LP+NP: 39.5 ALP: 37 GRN: 11.5                      •O: 12
 &                                                                           •SC: N2            ALP: 53 LP+NP: 47
-•PF: ReachTEL                               •FS: 2014-01-23 •FE: 2014-01-23 •SC: N             ALP: 40.6 LP+NP: 39.8 GRN: 9.1                     •O: 9.1
+•PF: ReachTEL                               •FS: 2014-01-23 •FE: 2014-01-23 •SC: N             ALP: 40.6 LP+NP: 39.8 GRN: 9.1                     •O: 9.1          •VS: 98.6
 &                                                                           •SC: N2            ALP: 53 LP+NP: 47
 •PF: Essential                              •FS: 2014-01-17 •FE: 2014-01-20 •SC: N             LP+NP: 43 ALP: 37 GRN: 9                           •O: 11
 &                                                                           •SC: N2            LP+NP: 51 ALP: 49
@@ -1600,7 +1612,7 @@
 &                                                                           •SC: N2            LP+NP: 53 ALP: 47
 •PF: Morgan                                 •FS: 2013-09-04 •FE: 2013-09-06 •SC: N             LP+NP: 45 ALP: 31.5 GRN: 9.5                       •O: 14
 &                                                                           •SC: N2            LP+NP: 54.5 ALP: 44.5
-•PF: ReachTEL                               •FS: 2013-09-05 •FE: 2013-09-05 •SC: N             LP+NP: 43.5 ALP: 33.7 GRN: 10.2                    •O: 12.7        •VS: 100.1
+•PF: ReachTEL                               •FS: 2013-09-05 •FE: 2013-09-05 •SC: N             LP+NP: 43.5 ALP: 33.7 GRN: 10.2                    •O: 12.7         •VS: 100.1
 &                                                                           •SC: N2            LP+NP: 53 ALP: 47
 •PF: Nielsen                                •FS: 2013-09-04 •FE: 2013-09-05 •SC: N             LP+NP: 46 ALP: 33 GRN: 11                          •O: 10
 &                                                                           •SC: N2            LP+NP: 54 ALP: 46
@@ -1652,7 +1664,7 @@
 &                                                                           •SC: N2            LP+NP: 51.5 ALP: 48.5
 •PF: Newspoll                               •FS: 2013-08-09 •FE: 2013-08-11 •SC: N             LP+NP: 46 ALP: 35 GRN: 11                          •O: 8
 &                                                                           •SC: N2            LP+NP: 52 ALP: 48
-•PF: ReachTEL                               •FS: 2013-08-10 •FE: 2013-08-10 •SC: N             LP+NP: 46.9 ALP: 36.9 GRN: 8.9                     •O: 7.4         •VS: 100.1
+•PF: ReachTEL                               •FS: 2013-08-10 •FE: 2013-08-10 •SC: N             LP+NP: 46.9 ALP: 36.9 GRN: 8.9                     •O: 7.4          •VS: 100.1
 &                                                                           •SC: N2            LP+NP: 53 ALP: 47
 •PF: Galaxy                                 •FS: 2013-08-07 •FE: 2013-08-09 •SC: N             LP+NP: 45 ALP: 38 GRN: 10                          •O: 7
 &                                                                           •SC: N2            LP+NP: 51 ALP: 49
@@ -1752,10 +1764,10 @@
 &                                                                           •SC: N2            LP+NP: 56 ALP: 44
 •PF: Essential                              •FS: 2013-05-02 •FE: 2013-05-05 •SC: N             LP+NP: 48 ALP: 33 GRN: 9                           •O: 10
 &                                                                           •SC: N2            LP+NP: 56 ALP: 44
-•PF: ReachTEL                               •FS: 2013-05-02 •FE: 2013-05-02 •SC: N             LP+NP: 49.8 ALP: 31.3 GRN: 10.2                    •O: 8.8
-&                                                                           •SC: N2            LP+NP: 57 ALP: 43
 •PF: ReachTEL                               •FS: 2013-05-02 •FE: 2013-05-02 •SC: N             LP+NP: 48.5 ALP: 29.3 GRN: 10.2                    •O: 11.9
 &                                                                           •SC: N2            LP+NP: 58 ALP: 42
+•PF: ReachTEL                               •FS: 2013-05-02 •FE: 2013-05-02 •SC: N             LP+NP: 49.8 ALP: 31.3 GRN: 10.2                    •O: 8.8
+&                                                                           •SC: N2            LP+NP: 57 ALP: 43
 •PF: Morgan                                 •FS: 2013-04-26 •FE: 2013-04-28 •SC: N             LP+NP: 48 ALP: 30.5 GRN: 11                        •O: 10.5
 &                                                                           •SC: N2            LP+NP: 56.5 ALP: 43.5
 •PF: Essential                              •FS: 2013-04-25 •FE: 2013-04-28 •SC: N             LP+NP: 48 ALP: 34 GRN: 9                           •O: 9
@@ -2028,7 +2040,7 @@
 &                                                                           •SC: N2            LP+NP: 55 ALP: 45
 •PF: Essential                              •FS: 2012-04-04 •FE: 2012-04-09 •SC: N             LP+NP: 50 ALP: 31 GRN: 11                          •O: 9
 &                                                                           •SC: N2            LP+NP: 57 ALP: 43
-•PF: Morgan                                 •FS: 2012-03-31 •FE: 2012-04-01 •SC: N             LP+NP: 45.5 ALP: 32 GRN: 13                        •O: 10.5        •VS: 101
+•PF: Morgan                                 •FS: 2012-03-31 •FE: 2012-04-01 •SC: N             LP+NP: 45.5 ALP: 32 GRN: 13                        •O: 10.5         •VS: 101
 &                                                                           •SC: N2            LP+NP: 53.5 ALP: 46.5
 •PF: Essential                              •FS: 2012-03-28 •FE: 2012-04-01 •SC: N             LP+NP: 48 ALP: 33 GRN: 11                          •O: 8
 &                                                                           •SC: N2            LP+NP: 55 ALP: 45
@@ -2078,7 +2090,7 @@
 &                                                                           •SC: N2            LP+NP: 54 ALP: 46
 •PF: Nielsen                                •FS: 2012-02-02 •FE: 2012-02-04 •SC: N             LP+NP: 45 ALP: 33 GRN: 13                          •O: 9
 &                                                                           •SC: N2            LP+NP: 53 ALP: 47
-•PF: Morgan                                 •FS: 2012-01-28 •FE: 2012-01-29 •SC: N             LP+NP: 41.5 ALP: 39.5 GRN: 9.5                     •O: 6.5
+•PF: Morgan                                 •FS: 2012-01-28 •FE: 2012-01-29 •SC: N             LP+NP: 41.5 ALP: 39.5 GRN: 9.5                     •O: 6.5          •VS: 97.0
 &                                                                           •SC: N2            ALP: 51 LP+NP: 49
 •PF: Newspoll                               •FS: 2012-01-27 •FE: 2012-01-29 •SC: N             LP+NP: 45 ALP: 30 GRN: 12                          •O: 13
 &                                                                           •SC: N2            LP+NP: 54 ALP: 46
@@ -2210,7 +2222,7 @@
 &                                                                           •SC: N2            LP+NP: 53 ALP: 47
 •PF: Essential                              •FS: 2011-07-13 •FE: 2011-07-17 •SC: N             LP+NP: 49 ALP: 31 GRN: 11                          •O: 9
 &                                                                           •SC: N2            LP+NP: 56 ALP: 44
-•PF: Nielsen                                •FS: 2011-07-14 •FE: 2011-07-16 •SC: N             LP+NP: 51 ALP: 26 GRN: 11                          •O: 15          •VS: 103
+•PF: Nielsen                                •FS: 2011-07-14 •FE: 2011-07-16 •SC: N             LP+NP: 51 ALP: 26 GRN: 11                          •O: 15           •VS: 103
 &                                                                           •SC: N2            LP+NP: 61 ALP: 39
 •PF: Morgan                                 •FS: 2011-07-13 •FE: 2011-07-14 •SC: N             LP+NP: 52.5 ALP: 27.5 GRN: 10.5                    •O: 9.5
 &                                                                           •SC: N2            LP+NP: 60 ALP: 40
@@ -2410,7 +2422,7 @@
 &                                                                           •SC: N2            ALP: 50 LP+NP: 50
 •PF: Morgan                                 •FS: 2010-10-02 •FE: 2010-10-03 •SC: N             ALP: 44 LP+NP: 38.5 GRN: 12                        •O: 5.5
 &                                                                           •SC: N2            ALP: 55.5 LP+NP: 44.5
-•PF: Essential                              •FS: 2010-09-30 •FE: 2010-10-01 •SC: N             LP+NP: 44 ALP: 42 GRN: 8                           •O: 8           •VS: 102
+•PF: Essential                              •FS: 2010-09-30 •FE: 2010-10-01 •SC: N             LP+NP: 44 ALP: 42 GRN: 8                           •O: 8            •VS: 102
 &                                                                           •SC: N2            ALP: 51 LP+NP: 49
 •PF: Essential                              •FS: 2010-09-21 •FE: 2010-09-26 •SC: N             LP+NP: 43 ALP: 42 GRN: 9                           •O: 6
 &                                                                           •SC: N2            ALP: 51 LP+NP: 49
