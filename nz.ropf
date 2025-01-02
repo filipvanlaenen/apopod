@@ -58,8 +58,8 @@
 •PF: Verian                   •C: 1News              •FS: 2023-08-12 •FE: 2023-08-16                 •SC: N •SS: 1002  NAT: 37 LAB: 29 ACT: 13 GRN: 12 NZFIRST: 3.7 TPM: 2.6 TOP: 0.6 NCP: 0.3
 •PF: Curia                    •C: Taxpayers’ Union   •FS: 2023-08-03 •FE: 2023-08-08                 •SC: N •SS: 1000  NAT: 34.9 LAB: 27.1 ACT: 13.0 GRN: 12.0 NZFIRST: 5.8 TPM: 2.5 TOP: 1.0 NCP: 0.6
 •PF: Talbot Mills                                    •FS: 2023-07-31 •FE: 2023-08-07                 •SC: N •SS: 1012  NAT: 35 LAB: 32 ACT: 11 GRN: 10 NZFIRST: 4.4 TPM: 3.1 TOP: 1.8
-•PF: Essential                                       •FS: 2023-08-02 •FE: 2023-08-06                 •SC: N •SS: 1163  NAT: 36.9 LAB: 31.0 ACT: 12.4 GRN: 9.7 NZFIRST: 5.6 TPM: 2.7
 •PF: Essential                •C: The Guardian       •FS: 2023-08-02 •FE: 2023-08-06                 •SC: N •SS: 1163  NAT: 34.5 LAB: 29 ACT: 11.6 GRN: 8.5 NZFIRST: 5.3 TPM: 2.5
+•PF: Essential                                       •FS: 2023-08-02 •FE: 2023-08-06                 •SC: N •SS: 1163  NAT: 36.9 LAB: 31.0 ACT: 12.4 GRN: 9.7 NZFIRST: 5.6 TPM: 2.7
 •PF: Reid Research            •C: Newshub            •FS: 2023-07-26 •FE: 2023-07-31                 •SC: N            NAT: 36.6 LAB: 32.3 ACT: 12.1 GRN: 9.6 NZFIRST: 4.1 TPM: 2.7 TOP: 1.5 NCP: 0.7
 •PF: Roy Morgan                                      •FS: 2023-07    •FE: 2023-07                    •SC: N •SS: 937   NAT: 33.5 LAB: 26 ACT: 14 GRN: 9 TPM: 6 NZFIRST: 5 TOP: 4
 •PF: Verian                   •C: 1News              •FS: 2023-07-08 •FE: 2023-07-12                 •SC: N •SS: 1000  NAT: 35 LAB: 33 ACT: 12 GRN: 10 NZFIRST: 3.1 TPM: 2.8 TOP: 1.7 NCP: 0.4
@@ -196,7 +196,7 @@
 •PF: Reid Research            •C: Newshub            •FS: 2018-05-17 •FE: 2018-05-24                 •SC: N •SS: 1000  NAT: 45.1 LAB: 42.6 GRN: 5.7 NZFIRST: 2.4 TOP: 1.6 NCP: 1.1 TPM: 0.9 ACT: 0.2
 •PF: Colmar Brunton           •C: 1News              •FS: 2018-05-19 •FE: 2018-05-23                 •SC: N •SS: 1007  NAT: 45 LAB: 43 GRN: 5 NZFIRST: 4.2 TPM: 0.9 ACT: 0.7 TOP: 0.5 NCP: 0.2
 •PF: Colmar Brunton           •C: 1News              •FS: 2018-04-07 •FE: 2018-04-11                 •SC: N •SS: 1007  NAT: 44 LAB: 43 GRN: 6 NZFIRST: 5 TPM: 1.2 TOP: 0.4 ACT: 0.3 NCP: 0.2
-•PF: Colmar Brunton           •C: 1News              •FS: 2018-02-10 •FE: 2018-02-14                 •SC: N •SS: 1007  LAB: 48 NAT: 43 GRN: 5 NZFIRST: 2.6 TPM: 0.7 TOP: 0.6 ACT: 0.5 NCP: 0.1
+•PF: Colmar Brunton           •C: 1News              •FS: 2018-02-10 •FE: 2018-02-14                 •SC: N •SS: 1007  LAB: 48 NAT: 43 GRN: 5 NZFIRST: 2.6 TPM: 0.7 TOP: 0.6 ACT: 0.5 NCP: 0.1                                             •VS: 100.5
 •PF: Reid Research            •C: Newshub            •FS: 2018-01-18 •FE: 2018-01-28                 •SC: N •SS: 1000  NAT: 44.5 LAB: 42.3 GRN: 6 NZFIRST: 3.8 TOP: 1.4 TPM: 0.8 NCP: 0.3 ACT: 0.2
 •PF: Roy Morgan Research                             •FS: 2018-01-02 •FE: 2018-01-28                 •SC: N •SS: 1000  LAB: 42.5 NAT: 39 GRN: 9 NZFIRST: 6 TOP: 1.5 TPM: 1 ACT: 0.5
 •PF: Roy Morgan Research                             •FS: 2017-11-27 •FE: 2017-12-10                 •SC: N            NAT: 40.5 LAB: 37 GRN: 10 NZFIRST: 8 ACT: 0.5
@@ -230,7 +230,7 @@
 •PF: Colmar Brunton           •C: 1News              •FS: 2017-03-18 •FE: 2017-03-22                 •SC: N            NAT: 46 LAB: 30 GRN: 11 NZFIRST: 8 TPM: 4 ACT: 0.4 TOP: 0.4 CON: 0.3 MANA: 0.2
 •PF: Reid Research            •C: Newshub            •FS: 2017-03-10 •FE: 2017-03-19                 •SC: N            NAT: 47.1 LAB: 30.8 GRN: 11.2 NZFIRST: 7.6 TOP: 0.8 TPM: 0.7 ACT: 0.4 CON: 0.4 UNF: 0.4 MANA: 0.0
 •PF: Roy Morgan Research                             •FS: 2017-02-27 •FE: 2017-03-12                 •SC: N            NAT: 43.5 LAB: 29.5 GRN: 14.5 NZFIRST: 7.5 TPM: 2.0 ACT: 0.5 CON: 0.5 MANA: 0.5 UNF: 0.5
-•PF: Colmar Brunton           •C: 1News              •FS: 2017-02-11 •FE: 2017-02-15                 •SC: N            NAT: 46 LAB: 30 GRN: 11 NZFIRST: 11 ACT: 0.8 MANA: 0.8 TPM: 0.7 UNF: 0.3 CON: 0.2 TOP: 0.0
+•PF: Colmar Brunton           •C: 1News              •FS: 2017-02-11 •FE: 2017-02-15                 •SC: N            NAT: 46 LAB: 30 GRN: 11 NZFIRST: 11 ACT: 0.8 MANA: 0.8 TPM: 0.7 UNF: 0.3 CON: 0.2 TOP: 0.0                          •VS: 100.8
 •PF: Roy Morgan Research                             •FS: 2017-01-30 •FE: 2017-02-12                 •SC: N            NAT: 48.0 LAB: 26.0 GRN: 13.0 NZFIRST: 8.0 TPM: 2.0 ACT: 1.0 CON: 0.0 MANA: 0.0 UNF: 0.0
 •PF: Roy Morgan Research                             •FS: 2017-01-03 •FE: 2017-01-16                 •SC: N            NAT: 46.0 LAB: 27.0 GRN: 12.5 NZFIRST: 9.0 TPM: 2.0 ACT: 0.5 CON: 0.5 UNF: 0.5 MANA: 0.0
 •PF: Roy Morgan Research                             •FS: 2016-11-28 •FE: 2016-12-11                 •SC: N            NAT: 45.0 LAB: 28.5 GRN: 14.5 NZFIRST: 7.5 TPM: 1.0 ACT: 0.5 CON: 0.5 MANA: 0.5 UNF: 0.5
@@ -677,7 +677,7 @@
 •PF: TNS                      •C: 3 News             •FS: 2006-06-29 •FE: 2006-07-05                 •SC: N            LAB: 46 NAT: 39 GRN: 6 NZFIRST: 3.8 TPM: 1.3 UNF: 1.1 ACT: 0.8 PROG: 0.4
 •PF: Kantar Public            •C: 1News              •FS: 2006-05-22 •FE: 2006-05-25                 •SC: N            NAT: 47 LAB: 38 GRN: 5 NZFIRST: 4 TPM: 3 UNF: 1.4 ACT: 1.1 PROG: 0.1
 •PF: TNS                      •C: 3 News             •FS: 2006-05-04 •FE: 2006-05-10                 •SC: N            LAB: 42 NAT: 41 GRN: 6 NZFIRST: 3.8 TPM: 2.2 UNF: 1.9 ACT: 1.8 PROG: 0.2
-•PF: Digipoll                 •C: New Zealand Herald •FS: 2006-04-10 •FE: 2006-04-10                 •SC: N            NAT: 44.6 LAB: 43.4 GRN: 5.2 NZFIRST: 3.9 TPM: 2.1 UNF: 1.5 ACT: 1.1
+•PF: Digipoll                 •C: New Zealand Herald •FS: 2006-04-10 •FE: 2006-04-10                 •SC: N            LAB: 43.4 NAT: 42.2 GRN: 5.2 NZFIRST: 3.9 TPM: 2.1 UNF: 1.5 ACT: 1.1
 •PF: TNS                      •C: 3 News             •FS: 2006-03-23 •FE: 2006-03-29                 •SC: N            LAB: 43 NAT: 40 GRN: 6 NZFIRST: 4.3 TPM: 3 UNF: 1.9 ACT: 1.1 PROG: 0.2
 •PF: Kantar Public            •C: 1News              •FS: 2006-02-19 •FE: 2006-02-19                 •SC: N            NAT: 45 LAB: 42 GRN: 6 NZFIRST: 4 TPM: 2 ACT: 1 UNF: 1
 •PF: TNS                      •C: 3 News             •FS: 2006-01-26 •FE: 2006-02-02                 •SC: N            LAB: 44 NAT: 38 GRN: 7 NZFIRST: 3.4 TPM: 1.7 UNF: 1.5 ACT: 1.2 PROG: 0.5
