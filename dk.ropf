@@ -1,5 +1,7 @@
-•PF: Epinion                •C: DR                           •FS: 2025-01-15 •FE: 2025-01-22 •SC: N •SS: 1635  A: 19.7 F: 15.8 I: 11.6 Æ: 11.5 V: 8.6 C: 6.8 Ø: 6.8 O: 4.9 M: 4.4 B: 4.1 Å: 2.4
-•PF: Voxmeter                                                •FS: 2025-01-13 •FE: 2025-01-19 •SC: N •SS: 1014  A: 19.1 F: 16.0 I: 13.1 Æ: 10.5 V: 9.2 Ø: 7.2 C: 6.6 B: 5.3 O: 5.1 M: 3.5 Å: 2.0                             •O: 2.4
+•PF: Voxmeter                                                •FS: 2025-01-27 •FE: 2025-02-02 •SC: N •SS: 1010  A: 20.4 F: 14.9 I: 12.3 Æ: 10.0 V: 9.5 C: 7.8 Ø: 7.2 O: 4.5 B: 4.3 M: 3.7 H: 2.2 Å: 1.5                      •O: 1.7
+•PF: Voxmeter                                                •FS: 2025-01-20 •FE: 2025-01-26 •SC: N •SS: 1001  A: 20.4 F: 15.1 I: 11.8 Æ: 11.7 V: 10.1 C: 7.0 Ø: 7.0 B: 4.5 O: 4.1 M: 3.2 Å: 1.7 H: 1.2                     •O: 2.2
+•PF: Epinion                •C: DR                           •FS: 2025-01-15 •FE: 2025-01-22 •SC: N •SS: 1635  A: 19.7 F: 15.8 I: 11.6 Æ: 11.5 V: 8.6 C: 6.8 Ø: 6.8 O: 4.9 M: 4.4 B: 4.1 Å: 2.4 H: 1.8
+•PF: Voxmeter                                                •FS: 2025-01-13 •FE: 2025-01-19 •SC: N •SS: 1014  A: 19.1 F: 16.0 I: 13.1 Æ: 10.5 V: 9.2 Ø: 7.2 C: 6.6 B: 5.3 O: 5.1 M: 3.5 Å: 2.0 H: 1.0                      •O: 1.4
 •PF: Voxmeter                                                •FS: 2025-01-06 •FE: 2025-01-12 •SC: N •SS: 1039  A: 19.2 F: 17.3 I: 12.1 Æ: 11.1 V: 10.5 C: 6.6 Ø: 6.3 B: 4.8 O: 4.2 M: 3.5 Å: 1.6                            •O: 2.8
 •PF: Voxmeter                                                •FS: 2024-12-16 •FE: 2024-12-23 •SC: N •SS: 1002  A: 20.0 F: 15.9 I: 13.2 Æ: 10.3 V: 9.5 Ø: 7.0 C: 5.5 O: 4.9 B: 4.0 M: 3.9 Å: 1.9                             •O: 3.9
 •PF: Voxmeter                                                •FS: 2024-12-09 •FE: 2024-12-15 •SC: N •SS: 1032  A: 20.4 F: 16.1 I: 12.2 Æ: 10.5 V: 10.3 Ø: 7.6 C: 6.2 B: 5.0 O: 4.0 M: 3.4 Å: 2.4                            •O: 1.9
@@ -528,6 +530,7 @@ D: DK011 •A: D •DA: Nye Borgerlige                               •EN: New 
 E: DK012 •A: E •DA: Borgerlisten                                 •EN: The Citizen List
 F: DK008 •A: F •DA: Socialistisk Folkeparti                      •EN: Green Left
 G: DK014 •A: G •DA: Veganerpartiet                               •EN: Vegan Party
+H: DK018 •A: H •DA: Borgernes Parti                              •EN: Citizens’ Party
 I: DK006 •A: I •DA: Liberal Alliance                             •EN: Liberal Alliance
 K: DK010 •A: K •DA: Kristendemokraterne                          •EN: Christian Democrats
 M: DK015 •A: M •DA: Moderaterne                                  •EN: Moderates
