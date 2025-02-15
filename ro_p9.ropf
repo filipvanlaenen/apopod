@@ -1,9 +1,7 @@
-•PF: Sociopol   •C: RomaniaTV   •FS: 2025-01-27 •FE: 2025-01-30 •SC: P1 •SS: 1003 GEORGESCU: 47 PONTA: 16 ANTONESCU: 10 DAN: 10 LASCONI: 8 SIMION: 4 ȘOȘOACĂ: 4
-•PF: CURS                       •FS: 2025-01-21 •FE: 2025-01-25 •SC: P1 •SS: 1100 GEORGESCU: 37 DAN: 21 ANTONESCU: 18 LASCONI: 7 ȘOȘOACĂ: 4
-•PF: Avangarde                  •FS: 2025-01-10 •FE: 2025-01-16 •SC: P1 •SS: 1354 GEORGESCU: 38 ANTONESCU: 25 DAN: 17 SIMION: 6 LASCONI: 6 ȘOȘOACĂ: 5
-•PF: Sociopol   •C: RomaniaTV   •FS: 2025-01-10 •FE: 2025-01-15 •SC: P1 •SS: 1001 GEORGESCU: 47 PONTA: 16 ANTONESCU: 10 DAN: 10 LASCONI: 8 SIMION: 4 ȘOȘOACĂ: 4
-
-
+•PF: Sociopol   •C: RomaniaTV         •FS: 2025-01-27 •FE: 2025-01-30 •SC: P1 •SS: 1003 GEORGESCU: 47 PONTA: 16 ANTONESCU: 10 DAN: 10 LASCONI: 8 SIMION: 4 ȘOȘOACĂ: 4
+•PF: CURS                             •FS: 2025-01-21 •FE: 2025-01-25 •SC: P1 •SS: 1100 GEORGESCU: 37 DAN: 21 ANTONESCU: 18 LASCONI: 7 ȘOȘOACĂ: 4
+•PF: Avangarde                        •FS: 2025-01-10 •FE: 2025-01-16 •SC: P1 •SS: 1354 GEORGESCU: 38 ANTONESCU: 25 DAN: 17 LASCONI: 6 SIMION: 6 ȘOȘOACĂ: 5
+•PF: Sociopol   •C: RomaniaTV         •FS: 2025-01-10 •FE: 2025-01-15 •SC: P1 •SS: 1001 GEORGESCU: 47 PONTA: 16 ANTONESCU: 10 DAN: 10 LASCONI: 8 SIMION: 4 ȘOȘOACĂ: 4
 •PF: Verified   •C: USR               •FS: 2024-11-08 •FE: 2024-11-14 •SC: P1 •SS: 968  CIOLACU: 26.3 SIMION: 18.8 LASCONI: 17.1 GEOANĂ: 8.1 CIUCĂ: 7.3 DIACONESCU: 6.8 GEORGESCU: 4.9 KELEMEN: 4.7 BIRCHALL: 1.1 ORBAN: 1.1 PĂCURARU: 0.8 TERHEȘ: 0.3 POPESCU: 0.2 PREDOIU: 0.2
 •PF: AtlasIntel                       •FS: 2024-11-09 •FE: 2024-11-12 •SC: P1 •SS: 3035 CIOLACU: 25.4 LASCONI: 14.2 SIMION: 14.2 CIUCĂ: 10.2 GEOANĂ: 9.1 DIACONESCU: 5.3 KELEMEN: 4.3 TERHEȘ: 3.4 BIRCHALL: 2.9 POPESCU: 1.1 PĂCURARU: 1.1 ORBAN: 0.7 PREDOIU: 0.5
 •PF: INSCOP                           •FS: 2024-11-07 •FE: 2024-11-12 •SC: P1 •SS: 1100 CIOLACU: 25.3 SIMION: 19.1 LASCONI: 14.3 GEOANĂ: 13.3 CIUCĂ: 9.1 PREDOIU: 5.4 DIACONESCU: 4.6 KELEMEN: 4.1 TERHEȘ: 2.1 ORBAN: 1 BIRCHALL: 0.8 PĂCURARU: 0.6
@@ -31,10 +29,12 @@
 •PF: INSCOP                           •FS: 2023-09-15 •FE: 2023-09-22 •SC: P1 •SS: 1550 GEOANĂ: 25 CIOLACU: 21 SIMION: 19 CIUCĂ: 13 ȘOȘOACĂ: 8 DRULĂ: 5 CIOLOȘ: 3 KELEMEN: 2
 •PF: Sociopol                         •FS: 2023-09-08 •FE: 2023-09-19 •SC: P1 •SS: 1004 CIOLACU: 29 SIMION: 29 CIUCĂ: 14 DRULĂ: 8 CIOLOȘ: 7 KELEMEN: 5 ORBAN: 3 TOMAC: 3
 
+ANTONESCU:  RO921 •A: Antonescu  •RO: Crin Antonescu
 BIRCHALL:   RO915 •A: Birchall   •RO: Ana Birchall
 CIOLACU:    RO901 •A: Ciolacu    •RO: Marcel Ciolacu
 CIOLOȘ:     RO905 •A: Cioloș     •RO: Dacian Cioloș
 CIUCĂ:      RO903 •A: Ciucă      •RO: Nicolae Ciucă
+DAN:        RO922 •A: Dan        •RO: Nicușor Dan
 DIACONESCU: RO913 •A: Diaconescu •RO: Cristian Diaconescu
 DRULĂ:      RO904 •A: Drulă      •RO: Cătălin Drulă
 GEOANĂ:     RO909 •A: Geoană     •RO: Mircea Geoană
@@ -43,6 +43,7 @@ KELEMEN:    RO906 •A: Kelemen    •RO: Hunor Kelemen
 KÖVESI:     RO911 •A: Kövesi     •RO: Laura Codruța Kövesi
 LASCONI:    RO912 •A: Lasconi    •RO: Elena Lasconi
 ORBAN:      RO907 •A: Orban      •RO: Ludovic Orban
+PONTA:      RO920 •A: Ponta      •RO: Victor Ponta
 POPESCU:    RO918 •A: Popescu    •RO: Sebastian Popescu
 PREDOIU:    RO916 •A: Predoiu    •RO: Silviu Predoiu
 PĂCURARU:   RO917 •A: Păcuraru   •RO: Alexandra Păcuraru
@@ -50,7 +51,3 @@ SIMION:     RO902 •A: Simion     •RO: George Simion
 TERHEȘ:     RO914 •A: Terheș     •RO: Cristian Terheș
 TOMAC:      RO908 •A: Tomac      •RO: Eugen Tomac
 ȘOȘOACĂ:    RO910 •A: Șoșoacă    •RO: Diana Șoșoacă
-
-ANTONESCU:  RO921 •A: Antonescu  •RO: Crin Antonescu
-DAN:        RO922 •A: Dan        •RO: Nicușor Dan
-PONTA:      RO920 •A: Ponta      •RO: Victor Ponta
