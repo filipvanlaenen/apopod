@@ -1,3 +1,5 @@
+•PF: FlashData                        •FS: 2025-02-14 •FE: 2025-02-16 •SC: P1 •SS: 7500 GEORGESCU: 37 DAN: 21 ANTONESCU: 17 LASCONI: 9 PONTA: 5 ȘOȘOACĂ: 3 BIRCHALL: 1 FUNERIU: 1 SIMA: 1 ȘANDRU: 1
+•PF: Sociopol   •C: RomaniaTV         •FS: 2025-02-10 •FE: 2025-02-14 •SC: P1 •SS: 1001 GEORGESCU: 45 PONTA: 16 ANTONESCU: 10 DAN: 10 LASCONI: 10 SIMION: 6 ȘOȘOACĂ: 2
 •PF: Sociopol   •C: RomaniaTV         •FS: 2025-01-27 •FE: 2025-01-30 •SC: P1 •SS: 1003 GEORGESCU: 47 PONTA: 16 ANTONESCU: 10 DAN: 10 LASCONI: 8 SIMION: 4 ȘOȘOACĂ: 4
 •PF: CURS                             •FS: 2025-01-21 •FE: 2025-01-25 •SC: P1 •SS: 1100 GEORGESCU: 37 DAN: 21 ANTONESCU: 18 LASCONI: 7 ȘOȘOACĂ: 4
 •PF: Avangarde                        •FS: 2025-01-10 •FE: 2025-01-16 •SC: P1 •SS: 1354 GEORGESCU: 38 ANTONESCU: 25 DAN: 17 LASCONI: 6 SIMION: 6 ȘOȘOACĂ: 5
@@ -37,6 +39,7 @@ CIUCĂ:      RO903 •A: Ciucă      •RO: Nicolae Ciucă
 DAN:        RO922 •A: Dan        •RO: Nicușor Dan
 DIACONESCU: RO913 •A: Diaconescu •RO: Cristian Diaconescu
 DRULĂ:      RO904 •A: Drulă      •RO: Cătălin Drulă
+FUNERIU:    RO923 •A: Funeriu    •RO: Daniel Funeriu
 GEOANĂ:     RO909 •A: Geoană     •RO: Mircea Geoană
 GEORGESCU:  RO919 •A: Georgescu  •RO: Călin Georgescu
 KELEMEN:    RO906 •A: Kelemen    •RO: Hunor Kelemen
@@ -47,7 +50,9 @@ PONTA:      RO920 •A: Ponta      •RO: Victor Ponta
 POPESCU:    RO918 •A: Popescu    •RO: Sebastian Popescu
 PREDOIU:    RO916 •A: Predoiu    •RO: Silviu Predoiu
 PĂCURARU:   RO917 •A: Păcuraru   •RO: Alexandra Păcuraru
+SIMA:       RO924 •A: Sima       •RO: Horia Sima
 SIMION:     RO902 •A: Simion     •RO: George Simion
 TERHEȘ:     RO914 •A: Terheș     •RO: Cristian Terheș
 TOMAC:      RO908 •A: Tomac      •RO: Eugen Tomac
+ȘANDRU:     RO925 •A: Șandru     •RO: Lavinia Șandru
 ȘOȘOACĂ:    RO910 •A: Șoșoacă    •RO: Diana Șoșoacă
